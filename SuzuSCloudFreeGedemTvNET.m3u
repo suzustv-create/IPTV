@@ -1734,7 +1734,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65
 http://45.5.117.99:8000/play/a0iy/index.m3u8
 #EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="https://iptvx.one/picons/axn-spin-pl.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",AXN Spin
 http://5.57.74.130:8000/play/a03i/index.m3u8
-#EXTINF:-1 group-title="CHILDREN'S" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Axterix
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Axterix
 http://filmtvgroup.hopto.org/AxteriX/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjEwMDgwNzMsImV4cCI6MTc2MTA5NDQ3Mywic3ViIjoiQWRtaW4ifQ.q63jEFty3Ry19ORUfTNUPhkvCSFnFBk9mHhXIwaxgLQ
 #EXTINF:-1 group-title="Азербайджан | Azərbaycan" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Ayaz TV
 http://janya-ayaztv.vgcdn.net/ptnr-Vintera/title-Ayaz_TV/v1/vglive-sk-934820/AyazTV_2500k.m3u8
@@ -3992,11 +3992,11 @@ http://193.25.8.59:8000/box
 https://epiconvh.akamaized.net/live/filamchi/master.m3u8
 #EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="../Channel/Logo/FilmBox Arthouse.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",FILM TV GROUP
 http://filmtvgroup.hopto.org/FILM_TV_GROUP/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjEwMDgwNzMsImV4cCI6MTc2MTA5NDQ3Mywic3ViIjoiQWRtaW4ifQ.q63jEFty3Ry19ORUfTNUPhkvCSFnFBk9mHhXIwaxgLQ
-#EXTINF:-1 group-title="CHILDREN'S" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",FILM TV GROUP МультКазки
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",FILM TV GROUP МультКазки
 http://filmtvgroup.hopto.org/FILM_TV_GROUP_multkazkI/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjEwMDgwNzMsImV4cCI6MTc2MTA5NDQ3Mywic3ViIjoiQWRtaW4ifQ.q63jEFty3Ry19ORUfTNUPhkvCSFnFBk9mHhXIwaxgLQ
 #EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",FILM TV Кінозал
 http://filmtvgroup.hopto.org/FILMTVKinozaL/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjEwMDgwNzMsImV4cCI6MTc2MTA5NDQ3Mywic3ViIjoiQWRtaW4ifQ.q63jEFty3Ry19ORUfTNUPhkvCSFnFBk9mHhXIwaxgLQ
-#EXTINF:-1 group-title="CHILDREN'S" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",FILM TV Леді Баг & Щенячий патруль.
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",FILM TV Леді Баг & Щенячий патруль.
 http://filmtvgroup.hopto.org/ledsbag_schenaychiy_patruL/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjEwMDgwNzMsImV4cCI6MTc2MTA5NDQ3Mywic3ViIjoiQWRtaW4ifQ.q63jEFty3Ry19ORUfTNUPhkvCSFnFBk9mHhXIwaxgLQ
 #EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="../Channel/Logo/FilmBox Arthouse.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Film UA Drama
 http://88.99.215.227/FilmUADrama/index.m3u8
@@ -6352,8 +6352,6 @@ http://live1.trkcrimea.ru/1tvcrimea.m3u8
 http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_OTT_TAGILTV_URAL_TAG/variant.m3u8
 #EXTINF:-1 group-title="Информационные" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",like Gecko) Chrome/111.0.0.0 Sa
 https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R06_OTT_STH_KRDAR_RBC-GEL/variant.m3u8
-#EXTINF:-1 group-title="АСАРТА (🇷🇺🇷🇺🇷🇺)" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",like Gecko) Chrome/111.0.0.0 Sa
-https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R02_RENTV_SCH/variant.m3u8
 #EXTINF:-1 group-title="🧿 Региональные 🌐 ⚑" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",like Gecko) Chrome/111.0.0.0 Sa
 https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_OTT_STH_KRDAR_ROSSIA1_SCH/variant.m3u8
 #EXTINF:-1 group-title="🦎 С сайтов" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",like Gecko) Chrome/111.0.0.0 Sa
@@ -6596,7 +6594,7 @@ https://bl.rutube.ru/livestream/fcafa0d358df671e4f7c61ca54c79bea/index.m3u8?s=ZO
 https://bl.rutube.ru/livestream/ff5c11c9a51750f5d33427762abc315c/index.m3u8?s=qcs5hZppa3h-mLWUDnIW-w&e=2067169969&scheme=https
 #EXTINF:-1 group-title="Германия | Germany 🇩🇪" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://bl.rutube.ru/livestream/c9e26bf5c003fd8d477200065ca1a05f/index.m3u8?s=XSPHG2-o4sviIDnU72oDXg&e=2070450957&scheme=https
-#EXTINF:-1 group-title="CHILDREN'S" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://bl.rutube.ru/livestream/392b4686b770bae2da6bf5ac4574add5/index.m3u8?s=eWofWDwQI_B0AFGkcDgoqg&e=2069025308&scheme=https
 #EXTINF:-1 group-title="🦎 С сайтов" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://bl.rutube.ru/livestream/392b4686b770bae2da6bf5ac4574add5/index.m3u8?s=fehh_Vf7AVpfe3DzA4bIhw&e=2070450929&scheme=https
@@ -6622,7 +6620,7 @@ https://bl.rutube.ru/livestream/47fdffd6ab82bbab0a19039d7018839f/index.m3u8?s=RD
 http://kinowalk.hopto.org/dimpon_live
 #EXTINF:-1 group-title="🎧 Музыка ᴴᴰ 🔊🎶" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://bl.rutube.ru/livestream/64ab8f32ecf1e2f582110165bf55b60a/index.m3u8?s=8ZH7t9auo-s0BXDcGtGJ7g&e=2070450934&scheme=https
-#EXTINF:-1 group-title="CHILDREN'S" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://bl.rutube.ru/livestream/2d7fa51716500fba52586d594201777f/index.m3u8?s=SX5H4EtGQqmze7puOSM-bg&e=2070450933&scheme=https
 #EXTINF:-1 group-title="🦎 С сайтов" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/kinolampa_live
@@ -6710,8 +6708,6 @@ https://bl.rutube.ru/livestream/ce34005d3db841e15eecb7e31749adf6/index.m3u8?s=NJ
 https://bl.rutube.ru/livestream/406973c72e9d0449feef05ef7811ad01/index.m3u8?s=nzWYbyLaFbEOV1ssSSfh-g&e=2069025311&scheme=https
 #EXTINF:-1 group-title="Хобби и увлечения" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://bl.rutube.ru/livestream/406973c72e9d0449feef05ef7811ad01/index.m3u8?s=e3gd8zlogu4ybvafQost4g&e=2070450932&scheme=https
-#EXTINF:-1 group-title="АСАРТА (🇷🇺🇷🇺🇷🇺)" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://bl.rutube.ru/livestream/5ab908fccfac5bb43ef2b1e4182256b0/index.m3u8?s=PUksdhi6mqiW_gJYKrYgVw&e=2070450945&scheme=https
 #EXTINF:-1 group-title="Информационные" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://bl.rutube.ru/livestream/eda2da42eea89951e4135141a30915f7/index.m3u8?s=JKTXgnBL20bwrVwe2onFAQ&e=2070450961&scheme=https
 #EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
@@ -6742,8 +6738,6 @@ https://bl.rutube.ru/livestream/b04fc212802bbf7ec94768c029e54aa9/index.m3u8?s=vu
 https://bl.rutube.ru/livestream/23afd7debed1cfc7a8efa0827c24d836/index.m3u8?s=ZFSWN3CBdEtNMf8LHMrfTQ&e=2070450948&scheme=https
 #EXTINF:-1 group-title="KINO ZAL" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://bl.rutube.ru/livestream/067561b5754d0b7844762fa92939716b/index.m3u8?s=sLqk4kGwWVkO4Cz0ltVD1w&e=2070450945&scheme=https
-#EXTINF:-1 group-title="АСАРТА (🇷🇺🇷🇺🇷🇺)" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://bl.rutube.ru/livestream/afef67d151b5a607dee1ef0aa299a52c/index.m3u8?s=6cY_2EWmT7YSzhVU-q_3Bw&e=2070450949&scheme=https
 #EXTINF:-1 group-title="🦎 С сайтов" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://bl.rutube.ru/livestream/43269ba8fb179e298b1e497f557e8d2d/index.m3u8?s=vJkXUVJKQYX9GQq6t8eD7w&e=2070450948&scheme=https
 #EXTINF:-1 group-title="🧿 Региональные 🌐 ⚑" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
@@ -6756,16 +6750,12 @@ https://bl.rutube.ru/livestream/ca70d39eba2e8771358bbcb4bfbad860/index.m3u8?s=1n
 https://bl.rutube.ru/livestream/1839496ed8242ed47f5c540e25d4ba3f/index.m3u8?s=htqz1valhLraunIeXWUeEw&e=2070450952&scheme=https
 #EXTINF:-1 group-title="🎧 Музыка ᴴᴰ 🔊🎶" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://bl.rutube.ru/livestream/d1dff14680d4c84e27908983375f7e89/index.m3u8?s=-JPXx3cQfEvCL2j3x_zA-w&e=2070450961&scheme=https
-#EXTINF:-1 group-title="АСАРТА (🇷🇺🇷🇺🇷🇺)" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://bl.rutube.ru/livestream/df6fe73494a26f74da51573fd97b9baa/index.m3u8?s=NNDTrPUJ2SBJfxQXGleClA&e=2070450960&scheme=https
 #EXTINF:-1 group-title="🧿 Региональные 🌐 ⚑" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://bl.rutube.ru/livestream/37d722b7752cd193a3f94d71cc9d60f5/index.m3u8?s=xutUH0sTzrvjHGZ9JaV2SQ&e=2070450944&scheme=https
 #EXTINF:-1 group-title="KINO ZAL" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://bl.rutube.ru/livestream/333f94ef9af118c0ac51006243053e07/index.m3u8?s=LdYDn6IXzIPNM-W3VJKIYA&e=2070450952&scheme=https
 #EXTINF:-1 group-title="Общественные orig" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?s=hpW7zeCOtr55dzOgo97zGg&e=2070450927&scheme=https
-#EXTINF:-1 group-title="АСАРТА (🇷🇺🇷🇺🇷🇺)" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://bl.rutube.ru/livestream/faa934385b83f9e8a92f5484defae5fa/index.m3u8?s=Ll2fhMHb9zUQBujLWsEorg&e=2070450956&scheme=https
 #EXTINF:-1 group-title="Общественные orig" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://bl.rutube.ru/livestream/39c5bfe012402990e6402eded8bdc761/index.m3u8?s=boOe0Gj0p-TXxVtRBsWh5g&e=2070450934&scheme=https
 #EXTINF:-1 group-title="🦎 С сайтов" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
@@ -6788,8 +6778,6 @@ https://bl.rutube.ru/livestream/3fd26103b82508289ef7b7f60c77d9c8/index.m3u8?s=AG
 https://bl.rutube.ru/livestream/9f87a9a0cecbe773be6fddcbd93585ac/index.m3u8?s=RaUzHGmivjOleHixCqsfJQ&e=2070450928&scheme=https
 #EXTINF:-1 group-title="😄 Детские" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://bl.rutube.ru/livestream/9ad2099eed71b4a0e577292c3bfd0708/index.m3u8?s=6G-uvxrUlTvNec6EpBf6Lg&e=2070450957&scheme=https
-#EXTINF:-1 group-title="АСАРТА (🇷🇺🇷🇺🇷🇺)" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://bl.rutube.ru/livestream/75957f55ed1e9b4e0ec00f8dd9594fcc/index.m3u8?s=qS-9qqL053m8RxQDAsqemQ&e=2070450943&scheme=https
 #EXTINF:-1 group-title="🧿 Региональные 🌐 ⚑" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://bl.rutube.ru/livestream/fcafa0d358df671e4f7c61ca54c79bea/index.m3u8?s=0dnIrF1eXqACcaUQZeP7Gw&e=2070450943&scheme=https
 #EXTINF:-1 group-title="🧿 Региональные 🌐 ⚑" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
@@ -6806,8 +6794,6 @@ https://bl.rutube.ru/livestream/e07fffc5eb21f98a5ade09e825d7095a/index.m3u8?s=Xq
 https://bl.rutube.ru/livestream/1932f750f00f3a742a1d90c62d0076ad/index.m3u8?s=GQqZUZ46oJqriNy587jzjw&e=2070450950&scheme=https
 #EXTINF:-1 group-title="😄 Детские" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://bl.rutube.ru/livestream/2dba20a8405e57935827cb5721c2b759/index.m3u8?s=OqIJa1BZDmt_vS2cMgvkPQ&e=2070450958&scheme=https
-#EXTINF:-1 group-title="АСАРТА (🇷🇺🇷🇺🇷🇺)" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://bl.rutube.ru/livestream/2bbfa9ebf9d79ade480d7281fcef1008/index.m3u8?s=ezS6GL4mROxJLtKv8AE4OQ&e=2070450957&scheme=https
 #EXTINF:-1 group-title="🦎 С сайтов" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?s=l5pohwXF4qpoFIUMQQHCGQ&e=2070450930&scheme=https
 #EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
@@ -6820,8 +6806,6 @@ https://bl.rutube.ru/livestream/7bf12d9c050f9a7ef3728db5730432ae/index.m3u8?s=_z
 https://bl.rutube.ru/livestream/7bf12d9c050f9a7ef3728db5730432ae/index.m3u8?s=KlsMxrtTzrB_P4GNDOnI5g&e=2070450929&scheme=https
 #EXTINF:-1 group-title="🧿 Региональные 🌐 ⚑" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://bl.rutube.ru/livestream/740503607d216b5d467694a1e8fb39a8/index.m3u8?s=76MPEyHb5rbxP12-HNy92Q&e=2070450949&scheme=https
-#EXTINF:-1 group-title="АСАРТА (🇷🇺🇷🇺🇷🇺)" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=MhsjbZgMAWdyBTt-2cMl1g&e=2070450927&scheme=https
 #EXTINF:-1 group-title="🦎 С сайтов" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://bl.rutube.ru/livestream/5a294ae1ed12c44c7053301fb5fa9ba0/index.m3u8?s=-X5Rh94xllAtqOIhQCRpWg&e=2070450960&scheme=https
 #EXTINF:-1 group-title="🦎 С сайтов" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
@@ -6830,8 +6814,6 @@ https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=v7
 https://bl.rutube.ru/livestream/91815da4edb167b5bd617bae490e57da/index.m3u8?s=TYK-j6DF9Or5jfplNV8Zqw&e=2070450953&scheme=https
 #EXTINF:-1 group-title="KINO ZAL" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?s=k6kW8fat516l0J_TEQ8U8A&e=2069025310&scheme=https
-#EXTINF:-1 group-title="АСАРТА (🇷🇺🇷🇺🇷🇺)" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?s=JN4PuvEHxqOyc0gaIKbZ2A&e=2070450930&scheme=https
 #EXTINF:-1 group-title="🧿 Региональные 🌐 ⚑" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://bl.rutube.ru/livestream/601ca3d760de90391c18772e43d5190e/index.m3u8?s=rWHG6OEcgpvyA0s5WVPokQ&e=2070450953&scheme=https
 #EXTINF:-1 group-title="🧿 Региональные 🌐 ⚑" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
