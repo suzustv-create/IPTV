@@ -1,0 +1,1136 @@
+#EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",.Black
+http://176.118.197.125/Black/index.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",.SCI-FI
+http://176.118.197.125/SCI-FI/index.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",.SCI-FI
+http://86.57.209.210/Sci-Fi/index.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",18+ Anita Dark Forever
+https://video1.tizam.cc/films/anita_dark_navsegda.mp4
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",18+ Schone Bescherung
+https://video1.tizam.cc/films/Schone-Bescherung.mp4
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",18+ Torn
+https://video1.tizam.cc/vk/Torn-Rus.mp4
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",18+ Грязные люди на работе
+https://video1.tizam.cc/films/DirtyMenAtWork.mp4
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",18+ грязные_девушки
+https://video1.tizam.cc/files/2492463/filthy_girls.mp4
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",18+ Кульминация Апокалипсиса
+https://video1.tizam.cc/films/Apocalypse-Climax1.mp4
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",18+ Путь Рокко к любви
+https://video1.tizam.cc/vk/Roccos-Way-To-Love.mp4
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",18+ Роковая Орхидея 1 RUS
+https://video1.tizam.cc/old_films/Fatal-Orchid-RUS.mp4
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",18+ Роковая Орхидея 2 RUS
+https://video1.tizam.cc/old_films/Fatal-Orchid-2-RUS.mp4
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",18+ Роскошный 2
+https://video1.tizam.cc/old_films/Luxurious2.mp4
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",18+ Роскошный 4
+https://video1.tizam.cc/old_films/Luxurious4.mp4
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",18+ Роскошный 5
+https://video1.tizam.cc/old_films/Luxurious5.mp4
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",18+Private 41
+https://video1.tizam.cc/films/PrivateMovies41FuckyNewYear.mp4
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://iptvx.one/picons/43-tuapse.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_43-tuapse" $ExtFilter="SuzuS TV2",43 канал (Туапсе)
+http://sochinskayatrk.ru/hdtv/hls/43K_HD/playlist.m3u8
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch01059.png?1751020432" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Action Prime HD
+https://iptv.prosto.tv/id1059/video.m3u8?secret=9mmgp99s&21yo=0
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Adult IPTV Asian (18+)
+http://live.redtraffic.xyz/asian.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Adult IPTV Blonde (18+)
+http://live.redtraffic.xyz/blonde.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Adult IPTV Brunette (18+)
+http://live.redtraffic.xyz/brunette.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Adult IPTV Compilation
+http://cdn.adultiptv.net/compilation.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Adult IPTV Compilation (18+)
+http://live.redtraffic.xyz/compilation.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Adult IPTV Gay (18+)
+http://live.redtraffic.xyz/gay.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Adult IPTV Livecams (18+)
+http://live.redtraffic.xyz/livecams.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Adult IPTV Pornstar
+http://cdn.adultiptv.net/pornstar.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Adult IPTV POV
+http://cdn.adultiptv.net/pov.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Adult IPTV Rough (18+)
+http://live.redtraffic.xyz/rough.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="https://m3u.admuspeh.my/icon/Adult%20TV%20(18+).png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Adult TV Anal HD
+http://live.adultiptv.net/anal.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="https://m3u.admuspeh.my/icon/Adult%20TV%20(18+).png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Adult TV Asian HD
+http://live.adultiptv.net/asian.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="https://m3u.admuspeh.my/icon/Adult%20TV%20(18+).png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Adult TV Big Ass HD
+http://live.adultiptv.net/bigass.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="https://m3u.admuspeh.my/icon/Adult%20TV%20(18+).png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Adult TV Big Dick HD
+http://live.adultiptv.net/bigdick.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="https://m3u.admuspeh.my/icon/Adult%20TV%20(18+).png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Adult TV Big Tits HD
+http://live.adultiptv.net/bigtits.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="https://m3u.admuspeh.my/icon/Adult%20TV%20(18+).png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Adult TV Blonde HD
+http://live.adultiptv.net/blonde.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="https://m3u.admuspeh.my/icon/Adult%20TV%20(18+).png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Adult TV Blowjob HD
+http://live.adultiptv.net/blowjob.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="https://m3u.admuspeh.my/icon/Adult%20TV%20(18+).png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Adult TV Brunette HD
+http://live.adultiptv.net/brunette.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="https://m3u.admuspeh.my/icon/Adult%20TV%20(18+).png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Adult TV Compilation HD
+http://live.adultiptv.net/compilation.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="https://m3u.admuspeh.my/icon/Adult%20TV%20(18+).png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Adult TV Cuckold HD
+http://live.adultiptv.net/cuckold.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="https://m3u.admuspeh.my/icon/Adult%20TV%20(18+).png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Adult TV Fetish HD
+http://live.adultiptv.net/fetish.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="https://m3u.admuspeh.my/icon/Adult%20TV%20(18+).png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Adult TV Gangbang HD
+http://live.adultiptv.net/gangbang.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="https://m3u.admuspeh.my/icon/Adult%20TV%20(18+).png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Adult TV Gay HD
+http://live.adultiptv.net/gay.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="https://m3u.admuspeh.my/icon/Adult%20TV%20(18+).png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Adult TV Hardcore HD
+http://live.adultiptv.net/hardcore.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="https://m3u.admuspeh.my/icon/Adult%20TV%20(18+).png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Adult TV Interracial HD
+http://live.adultiptv.net/interracial.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="https://m3u.admuspeh.my/icon/Adult%20TV%20(18+).png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Adult TV Latina HD
+http://live.adultiptv.net/latina.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="https://m3u.admuspeh.my/icon/Adult%20TV%20(18+).png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Adult TV Lesbian HD
+http://live.adultiptv.net/lesbian.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="https://m3u.admuspeh.my/icon/Adult%20TV%20(18+).png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Adult TV MILF HD
+http://live.adultiptv.net/milf.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="https://m3u.admuspeh.my/icon/Adult%20TV%20(18+).png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Adult TV Pornstar HD
+http://live.adultiptv.net/pornstar.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="https://m3u.admuspeh.my/icon/Adult%20TV%20(18+).png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Adult TV POV HD
+http://live.adultiptv.net/pov.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="https://m3u.admuspeh.my/icon/Adult%20TV%20(18+).png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Adult TV Rough HD
+http://live.adultiptv.net/rough.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="https://m3u.admuspeh.my/icon/Adult%20TV%20(18+).png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Adult TV Russian HD
+http://live.adultiptv.net/russian.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="https://m3u.admuspeh.my/icon/Adult%20TV%20(18+).png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Adult TV Teen HD
+http://live.adultiptv.net/teen.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="https://m3u.admuspeh.my/icon/Adult%20TV%20(18+).png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Adult TV Threesome HD
+http://cdn.adultiptv.net/threesome.m3u8?telegramm=yossotv
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="https://m3u.admuspeh.my/icon/Adult%20TV%20(18+).png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Adult TVThreesome HD
+http://live.adultiptv.net/threesome.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",AdultIPTV.net Anal
+http://cdn.adultiptv.net/anal.m3u8?telegramm=yossotv
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",AdultIPTV.net Asian
+http://cdn.adultiptv.net/asian.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",AdultIPTV.net Big Ass
+http://cdn.adultiptv.net/bigass.m3u8?telegramm=yossotv
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",AdultIPTV.net Big Dick
+http://cdn.adultiptv.net/bigdick.m3u8?telegramm=yossotv
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",AdultIPTV.net Big Tits
+http://cdn.adultiptv.net/bigtits.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",AdultIPTV.net Big Tits
+http://cdn.adultiptv.net/bigtits.m3u8?telegramm=yossotv
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",AdultIPTV.net Blonde
+http://cdn.adultiptv.net/blonde.m3u8?telegramm=yossotv
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",AdultIPTV.net Blowjob
+http://cdn.adultiptv.net/blowjob.m3u8?telegramm=yossotv
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",AdultIPTV.net Brunette
+http://cdn.adultiptv.net/brunette.m3u8?telegramm=yossotv
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",AdultIPTV.net Compilation
+http://cdn.adultiptv.net/compilation.m3u8?telegramm=yossotv
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",AdultIPTV.net Cuckold
+http://cdn.adultiptv.net/cuckold.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",AdultIPTV.net Cuckold
+http://cdn.adultiptv.net/cuckold.m3u8?telegramm=yossotv
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",AdultIPTV.net Fetish
+http://cdn.adultiptv.net/fetish.m3u8?telegramm=yossotv
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",AdultIPTV.net Gangbang
+http://cdn.adultiptv.net/gangbang.m3u8?telegramm=yossotv
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",AdultIPTV.net Gay
+http://cdn.adultiptv.net/gay.m3u8?telegramm=yossotv
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",AdultIPTV.net Hardcore
+http://cdn.adultiptv.net/hardcore.m3u8?telegramm=yossotv
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",AdultIPTV.net Interracial
+http://cdn.adultiptv.net/interracial.m3u8?telegramm=yossotv
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",AdultIPTV.net Latina
+http://cdn.adultiptv.net/latina.m3u8?telegramm=yossotv
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",AdultIPTV.net Lesbian
+http://cdn.adultiptv.net/lesbian.m3u8?telegramm=yossotv
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",AdultIPTV.net Live Cams
+http://cdn.adultiptv.net/livecams.m3u8?telegramm=yossotv
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",AdultIPTV.net MILF
+http://cdn.adultiptv.net/milf.m3u8?telegramm=yossotv
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",AdultIPTV.net Pornstar
+http://cdn.adultiptv.net/pornstar.m3u8?telegramm=yossotv
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",AdultIPTV.net POV
+http://cdn.adultiptv.net/pov.m3u8?telegramm=yossotv
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",AdultIPTV.net Rough
+http://cdn.adultiptv.net/rough.m3u8?telegramm=yossotv
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",AdultIPTV.net Russian
+http://cdn.adultiptv.net/russian.m3u8?telegramm=yossotv
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",AdultIPTV.net Teen
+http://cdn.adultiptv.net/teen.m3u8?telegramm=yossotv
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",AdultIPTV.net Woman
+http://live.redtraffic.net/woman.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="../Channel/Logo/Amedia Hit.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Amedia 1
+http://tinyurl.com/TvZaTak37/Amedia_1/video.m3u8?token=freeportal&token=deooleg
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="../Channel/Logo/Amedia Hit.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Amedia 1
+http://hls127.freeott.top:8080/Amedia_1/mono.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="../Channel/Logo/Amedia Hit.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Amedia 1
+http://hls127.freeott.top:8080/Amedia_1/video.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="../Channel/Logo/Amedia Hit.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Amedia 2
+http://tinyurl.com/TvZaTak37/Amedia_2_HD/video.m3u8?token=freeportal&token=deooleg
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="../Channel/Logo/Amedia Hit.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Amedia 2
+http://hls127.freeott.top:8080/Amedia_2_HD/video.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="http://i123.fastpic.org/big/2024/0716/50/20497257390becd38ff0f6f5e282c550.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Anal
+http://cdn.adultiptv.net/anal.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Anal Website
+http://live.redtraffic.xyz/anal.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://epg.one/img2/2394.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",ATV CineMan
+http://timeshift.arpinet.am/255/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="http://epg.one/img2/2394.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",ATV CineMan
+http://185.57.68.33:80/255/index.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="../Channel/Logo/Babes TV.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Babes TV
+http://212.102.38.45/live/test_basbes_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",BangU
+http://169.150.223.25/BangU/index.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",BCU Kinorating
+http://hls127.freeott.top:8080/BCUKinoratingHD/video.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",BCU Stars HD
+http://hls127.freeott.top:8080/BCUStarsHD/video.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="http://i123.fastpic.org/big/2024/0716/50/20497257390becd38ff0f6f5e282c550.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Big Ass
+http://cdn.adultiptv.net/bigass.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Big Ass (18+)
+http://live.redtraffic.xyz/bigass.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="http://i123.fastpic.org/big/2024/0716/50/20497257390becd38ff0f6f5e282c550.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Big Dick
+http://cdn.adultiptv.net/bigdick.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Big Dick (18+)
+http://live.redtraffic.xyz/bigdick.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="http://i123.fastpic.org/big/2024/0716/50/20497257390becd38ff0f6f5e282c550.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Big Tits
+http://live.redtraffic.xyz/bigtits.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="http://i123.fastpic.org/big/2024/0716/50/20497257390becd38ff0f6f5e282c550.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Blonde
+http://cdn.adultiptv.net/blonde.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="http://i123.fastpic.org/big/2024/0716/50/20497257390becd38ff0f6f5e282c550.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Blowjob
+http://cdn.adultiptv.net/blowjob.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="http://epg.it999.ru/img/3149.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Blowjob Red TV
+http://live.redtraffic.xyz/blowjob.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="../Channel/Logo/Bollywood HD.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Bollywood HD
+http://176.118.197.101/Bollywood_HD/index.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="../Channel/Logo/Bolt HD.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",BOLT
+http://tinyurl.com/TvZaTak37/Bolt/video.m3u8?token=freeportal&token=deooleg
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="../Channel/Logo/Bolt HD.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Bolt
+http://hls127.freeott.top:8080/Bolt/mono.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="../Channel/Logo/Bolt HD.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Bolt
+http://hls127.freeott.top:8080/Bolt/video.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://play.wisp.cat/logos/2609.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",BOX Anime HD
+http://tinyurl.com/TvZaTak37/box_anime_hd/video.m3u8?token=freeportal&token=deooleg
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="../Channel/Logo/Music Box Gold.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",BOX Metall HD
+http://tinyurl.com/TvZaTak37/BOX_Metall_HD/video.m3u8?token=freeportal&token=deooleg
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="../Channel/Logo/Brazzers TV Europe.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Brazzers
+http://212.102.38.45/live/test_brazzers_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="http://epg.it999.ru/img/3152.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Brunette Adult TV
+http://cdn.adultiptv.net/brunette.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://1lot.tv/ch/6508.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Cine+ Legend
+http://193.27.209.122/cine_plus_legend/index.m3u8?|User-Agent=http-user-agent=Mozilla/5.0 iPhone; CPU iPhone OS 18_6 like Mac OS X AppleWebKit/605.1.15 KHTML, like Gecko CriOS/139.0.7258.76 Mobile/15E148 Safari/604.1
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://iptvx.one/picons/cine-plus-ledend.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_cine-plus-ledend" $ExtFilter="SuzuS TV2",Cine+ Legend HD
+http://193.27.209.122/cine_plus_legend/index.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://iptvx.one/picons/cinema-ru.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_cinema-ru" $ExtFilter="SuzuS TV2",CINEMA
+http://185.46.48.18:80/cinema/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="../Channel/Logo/Cinema.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Cinema
+http://185.46.16.239:8000/Cinema
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="../Channel/Logo/Cinema.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Cinema
+http://176.118.197.101/Cinema/index.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="../Channel/Logo/Cinema.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Cinema
+http://catchup.videoline.ru/cinema/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://iptvx.one/picons/cinema-ru.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",CINEMA HD
+http://catchup.videoline.ru/cinema/index.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://1lot.tv/ch/6483.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Cineman [AM]
+http://185.57.68.33:80/255/playlist.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Clarity4K Anime
+http://hls127.freeott.top:8080/Clarity4K_Anime/mono.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Clarity4K Asia
+http://hls127.freeott.top:8080/Clarity4K_Asia/mono.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Clarity4K Gamefilm
+http://hls127.freeott.top:8080/Clarity4K_Gamefilm/mono.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Clarity4K Netflix
+http://hls127.freeott.top:8080/Clarity4K_Netflix/mono.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Clarity4K Ukrainian music
+http://tinyurl.com/TvZaTak37/Clarity4K_Ukrainian_music/video.m3u8?token=freeportal&token=deooleg
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Clarity4k Единоборства
+http://hls127.freeott.top:8080/Clarity4K_Edinoborstva/mono.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Clarity4k Концерт
+http://hls127.freeott.top:8080/Clarity4K_Concert/mono.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Clarity4K Космомир
+http://hls127.freeott.top:8080/Clarity4K_Kosmomir/mono.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Clarity4K Ужасы
+http://hls127.freeott.top:8080/Clarity4K_Uzhasi/mono.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Clarity4K Фантастика
+http://hls127.freeott.top:8080/Clarity4K_Fantastic/mono.m3u8
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00946.png?1739284772" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Classic Movies&Cartoons HD
+https://iptv.prosto.tv/id946/video.m3u8?secret=9mmgp99s&21yo=0
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",CPS Action
+http://hls127.freeott.top:8080/CPS_Action/video.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",CPS Anime
+http://hls127.freeott.top:8080/CPS_Anime/video.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",CPS Cartoon
+http://hls127.freeott.top:8080/CPS_Cartoon/video.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",CPS Comedy
+http://hls127.freeott.top:8080/CPS_Comedy/video.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",CPS Drama
+http://hls127.freeott.top:8080/CPS_Drama/video.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",CPS Fiction
+http://hls127.freeott.top:8080/CPS_Fiction/video.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",CPS Fresh
+http://hls127.freeott.top:8080/CPS_Fresh/video.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",CPS Fresh UA
+http://tinyurl.com/TvZaTak37/CPS_Fresh_UA/video.m3u8?token=freeportal&token=deooleg
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",CPS Fresh UA HD
+http://hls127.freeott.top:8080/CPS_Fresh_UA/video.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",CPS Investigation
+http://hls127.freeott.top:8080/CPS_Investigation/video.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",CPS Jackie Chan
+http://hls127.freeott.top:8080/CPS_Jackie_Chan/video.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",CPS Mix
+http://hls127.freeott.top:8080/CPS_Mix/video.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="http://i123.fastpic.org/big/2024/0716/50/20497257390becd38ff0f6f5e282c550.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Cuckold
+http://live.redtraffic.xyz/cuckold.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Desire
+http://212.102.38.45/live/test_desire_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="https://iptvx.one/picons/dorcel.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",DORCEL
+http://77.46.130.252:99/dorcel
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Dorcel HD
+http://79.127.207.193:80/DorcelHD/playlist.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Dorcel TV
+http://212.102.38.45/live/test_dorcel_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",DorcelHD
+http://169.150.223.25/DorcelHD/index.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://static.goodgame.ru/files/avatars/av_avatar_elf.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",DTR Zona 1
+https://kino-stream.online/hls/DTRZONA1.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="../Channel/Logo/Erox HD.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Erox
+http://212.102.38.45/live/test_erox_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="../Channel/Logo/Erox HD.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Eroxxx
+http://212.102.38.45/live/test_eroxxx_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="../Channel/Logo/Extreme sports.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Extasy 4K
+http://212.102.38.45/live/test_extasy_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="http://i123.fastpic.org/big/2024/0716/50/20497257390becd38ff0f6f5e282c550.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Fetish
+http://cdn.adultiptv.net/fetish.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Fetish HD
+http://live.redtraffic.xyz/fetish.m3u8
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="http://filmtvgroup.site/uploads/channel/FILMTVASTERIX.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",FILM TV Axterix
+http://filmtvgroup.hopto.org/AxteriX/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjA5MDI4OTEsImV4cCI6MTc2MDk4OTI5MSwic3ViIjoiR29nYTUyIn0.3oXnvNRwUsgnlci4MnuyGsdh30Ycz1hnA5_vXZf86DI
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="http://filmtvgroup.site/uploads/channel/FILMTVASTERIX.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",FILM TV Axterix
+http://filmtvgroup.hopto.org/FILM_TV_GROUP/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjE2Nzk5NDgsImV4cCI6MTc2MTc2NjM0OCwic3ViIjoiR29nYTUyIn0.HLb1Irvim3SNDV7vhT4Sdt8PxxRIBHzHJhtSYuhKZDk
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://filmtvgroup.site/uploads/logo.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",FILM TV Axterix
+http://filmtv.zapto.org/FILM_TV_GROUP/video.m3u8?token=Ijb9BSWre2eLJ3
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://filmtvgroup.site/uploads/logo.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",FILM TV Axterix
+http://filmtvgroup.hopto.org/AxteriX/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjEwMDgwNzMsImV4cCI6MTc2MTA5NDQ3Mywic3ViIjoiQWRtaW4ifQ.q63jEFty3Ry19ORUfTNUPhkvCSFnFBk9mHhXIwaxgLQ
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="http://filmtvgroup.site/uploads/channel/FILMTVASTERIX.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",FILM TV Axterix
+http://filmtvgroup.hopto.org/AxteriX/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjE2Nzk5NDgsImV4cCI6MTc2MTc2NjM0OCwic3ViIjoiR29nYTUyIn0.HLb1Irvim3SNDV7vhT4Sdt8PxxRIBHzHJhtSYuhKZDk
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://filmtvgroup.site/uploads/logo.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",FILM TV DJUA
+http://filmtvgroup.hopto.org/DJUa/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjEwMDgwNzMsImV4cCI6MTc2MTA5NDQ3Mywic3ViIjoiQWRtaW4ifQ.q63jEFty3Ry19ORUfTNUPhkvCSFnFBk9mHhXIwaxgLQ
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://filmtvgroup.site/uploads/logo.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",FILM TV GROUP Axterix
+http://filmtvgroup.hopto.org/FILM_TV_GROUP/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjEwMDgwNzMsImV4cCI6MTc2MTA5NDQ3Mywic3ViIjoiQWRtaW4ifQ.q63jEFty3Ry19ORUfTNUPhkvCSFnFBk9mHhXIwaxgLQ
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://filmtvgroup.site/uploads/logo.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",FILM TV GROUP КИНО
+http://filmtvgroup.hopto.org/novosilkiTB/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjEwMDgwNzMsImV4cCI6MTc2MTA5NDQ3Mywic3ViIjoiQWRtaW4ifQ.q63jEFty3Ry19ORUfTNUPhkvCSFnFBk9mHhXIwaxgLQ
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://filmtvgroup.site/uploads/logo.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",FILM TV GROUP МультКазки
+http://filmtvgroup.hopto.org/FILM_TV_GROUP_multkazkI/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjEwMDgwNzMsImV4cCI6MTc2MTA5NDQ3Mywic3ViIjoiQWRtaW4ifQ.q63jEFty3Ry19ORUfTNUPhkvCSFnFBk9mHhXIwaxgLQ
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://filmtvgroup.site/uploads/logo.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",FILM TV MUSIC
+http://filmtvgroup.hopto.org/FILMtvMUSIC/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjEwMDgwNzMsImV4cCI6MTc2MTA5NDQ3Mywic3ViIjoiQWRtaW4ifQ.q63jEFty3Ry19ORUfTNUPhkvCSFnFBk9mHhXIwaxgLQ
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://filmtvgroup.site/uploads/logo.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",FILM TV RETRO WAVE UA TV
+http://filmtvgroup.hopto.org/RETROWAVEUAtv/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjEwMDgwNzMsImV4cCI6MTc2MTA5NDQ3Mywic3ViIjoiQWRtaW4ifQ.q63jEFty3Ry19ORUfTNUPhkvCSFnFBk9mHhXIwaxgLQ
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://filmtvgroup.site/uploads/logo.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",FILM TV TRANCE IS STAR RADIO
+http://filmtvgroup.hopto.org/RadiO/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjEwMDgwNzMsImV4cCI6MTc2MTA5NDQ3Mywic3ViIjoiQWRtaW4ifQ.q63jEFty3Ry19ORUfTNUPhkvCSFnFBk9mHhXIwaxgLQ
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="http://filmtvgroup.site/uploads/channel/K1.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",FILM TV Кінозал
+http://filmtvgroup.hopto.org/FILMTVKinozaL/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjA5MDI4OTEsImV4cCI6MTc2MDk4OTI5MSwic3ViIjoiR29nYTUyIn0.3oXnvNRwUsgnlci4MnuyGsdh30Ycz1hnA5_vXZf86DI
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="http://filmtvgroup.site/uploads/channel/K1.png" tvg-id="2e37631a9a61c0050b977e406f55cd9d_http://filmtvgroup.site/uploads/epg.xml.gz" $ExtFilter="SuzuS TV2",FILM TV Кінозал
+http://filmtvgroup.hopto.org/FILMTVKinozaL/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjE2Nzk5NDgsImV4cCI6MTc2MTc2NjM0OCwic3ViIjoiR29nYTUyIn0.HLb1Irvim3SNDV7vhT4Sdt8PxxRIBHzHJhtSYuhKZDk
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://filmtvgroup.site/uploads/logo.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",FILM TV Кінозал
+http://filmtvgroup.hopto.org/FILMTVKinozaL/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjEwMDgwNzMsImV4cCI6MTc2MTA5NDQ3Mywic3ViIjoiQWRtaW4ifQ.q63jEFty3Ry19ORUfTNUPhkvCSFnFBk9mHhXIwaxgLQ
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="http://filmtvgroup.site/uploads/channel/ledibag&pawpotrol.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",FILM TV Леді Баг & Щенячий патруль
+http://filmtvgroup.hopto.org/ledsbag_schenaychiy_patruL/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjA5MDI4OTEsImV4cCI6MTc2MDk4OTI5MSwic3ViIjoiR29nYTUyIn0.3oXnvNRwUsgnlci4MnuyGsdh30Ycz1hnA5_vXZf86DI
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="http://filmtvgroup.site/uploads/channel/ledibag&pawpotrol.png" tvg-id="2e37631a9a61c0050b977e406f55cd9d_http://filmtvgroup.site/uploads/epg.xml.gz" $ExtFilter="SuzuS TV2",FILM TV Леді Баг & Щенячий патруль
+http://filmtvgroup.hopto.org/ledsbag_schenaychiy_patruL/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjE2Nzk5NDgsImV4cCI6MTc2MTc2NjM0OCwic3ViIjoiR29nYTUyIn0.HLb1Irvim3SNDV7vhT4Sdt8PxxRIBHzHJhtSYuhKZDk
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://filmtvgroup.site/uploads/logo.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",FILM TV Леді Баг & Щенячий патруль.
+http://filmtvgroup.hopto.org/ledsbag_schenaychiy_patruL/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjEwMDgwNzMsImV4cCI6MTc2MTA5NDQ3Mywic3ViIjoiQWRtaW4ifQ.q63jEFty3Ry19ORUfTNUPhkvCSFnFBk9mHhXIwaxgLQ
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="http://filmtvgroup.site/uploads/channel/multkazky.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",FILM TV Мульт-серіали
+http://filmtvgroup.hopto.org/FILM_TV_GROUP_multkazkI/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjA5MDI4OTEsImV4cCI6MTc2MDk4OTI5MSwic3ViIjoiR29nYTUyIn0.3oXnvNRwUsgnlci4MnuyGsdh30Ycz1hnA5_vXZf86DI
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="http://filmtvgroup.site/uploads/channel/multkazky.png" tvg-id="2e37631a9a61c0050b977e406f55cd9d_http://filmtvgroup.site/uploads/epg.xml.gz" $ExtFilter="SuzuS TV2",FILM TV Мульт-серіали
+http://filmtvgroup.hopto.org/FILM_TV_GROUP_multkazkI/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjE2Nzk5NDgsImV4cCI6MTc2MTc2NjM0OCwic3ViIjoiR29nYTUyIn0.HLb1Irvim3SNDV7vhT4Sdt8PxxRIBHzHJhtSYuhKZDk
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="http://filmtvgroup.site/uploads/channel/novosilkylogo2024best.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",FILM TV Новосілки ТБ
+http://filmtvgroup.hopto.org/novosilkiTB/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjA5MDI4OTEsImV4cCI6MTc2MDk4OTI5MSwic3ViIjoiR29nYTUyIn0.3oXnvNRwUsgnlci4MnuyGsdh30Ycz1hnA5_vXZf86DI
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="http://filmtvgroup.site/uploads/channel/novosilkylogo2024best.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",FILM TV Новосілки ТБ
+http://filmtvgroup.hopto.org/novosilkiTB/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjE2Nzk5NDgsImV4cCI6MTc2MTc2NjM0OCwic3ViIjoiR29nYTUyIn0.HLb1Irvim3SNDV7vhT4Sdt8PxxRIBHzHJhtSYuhKZDk
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="../Channel/Logo/FilmBox Arthouse.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Film UA Drama
+http://88.99.215.227/FilmUADrama/index.m3u8
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00284.png?1715758154" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",FlixSnip HD
+https://iptv.prosto.tv/id284/video.m3u8?secret=9mmgp99s&21yo=0
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="../Channel/Logo/Fox Life HD.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Fox Life HD
+http://188.237.47.212:6008
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",FrenchLover
+http://169.150.223.25/FrenchLover/index.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",FX Life
+http://tinyurl.com/TvZaTak37/foxlife_sd_tv/video.m3u8?token=freeportal&token=deooleg
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="http://epg.it999.ru/img/3183.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Gangbang Adult TV
+http://cdn.adultiptv.net/gangbang.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Gangbang Website
+http://live.redtraffic.xyz/gangbang.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="http://epg.it999.ru/img/3184.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Gay Adult TV
+http://cdn.adultiptv.net/gay.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Hard Core
+http://live.redtraffic.xyz/hardcore.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="http://i123.fastpic.org/big/2024/0716/50/20497257390becd38ff0f6f5e282c550.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Hardcore
+http://cdn.adultiptv.net/hardcore.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://img.catcast.tv/logos/3a88436baae7495719cbc69c6f020f52.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",HGTN
+https://v2.catcast.tv/content/34251/index.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="../Channel/Logo/Blue Hustler.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Hustler HD
+http://79.127.207.193:80/Hustler/playlist.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="../Channel/Logo/Blue Hustler.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Hustler HD
+http://169.150.223.25/Hustler/index.m3u8
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",ICTV серіали
+http://cdnua03.hls.tv/476/hls/215247e3abee81b8339d3dc62acc6921/4896/stream.m3u8
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00865.png?1716881658" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",ICTV серіали HD
+https://iptv.prosto.tv/id865/video.m3u8?secret=9mmgp99s&21yo=0
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="http://i123.fastpic.org/big/2024/0716/50/20497257390becd38ff0f6f5e282c550.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Interracial
+http://cdn.adultiptv.net/interracial.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="http://epg.it999.ru/img/3193.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Interracial Red TV
+http://live.redtraffic.xyz/interracial.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://i124.fastpic.org/big/2025/0331/c1/f39de4e6992ba6d1b57cd064921a43c1.png" tvg-id="f736135dfb80936a523d63c9a10f2613_IPTVPLAY ВЕДЬМАК" $ExtFilter="SuzuS TV2",IPTVPLAY ВЕДЬМАК
+http://5.188.158.65:4040/IPTVPLAYVEDMAK.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://img.catcast.tv/uploads/21102022/logos/39161-6352c0c04b9bd.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",IPTVPLAY Великая Отечественная HD
+http://5.188.158.65:4040/IPTVPLAYVOV.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://i124.fastpic.org/big/2025/0331/af/5fc8449eef075c1ac3e44cd3af1bcfaf.png" tvg-id="f736135dfb80936a523d63c9a10f2613_IPTVPLAY ДЕСЯТОЕ КОРОЛЕВСТВО" $ExtFilter="SuzuS TV2",IPTVPLAY ДЕСЯТОЕ КОРОЛЕВСТВО
+http://5.188.158.65:4040/IPTVPLAY10KOROLEVSTVO.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://i123.fastpic.org/big/2024/0826/ee/6d269a3701fd505b42ad593a52cd9eee.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",IPTVPLAY ИНТЕРНЫ
+http://5.188.158.65:4040/IPTVPLAYINTERNY.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://i124.fastpic.org/big/2025/0331/d2/e5f1757464664ac96703393b95dff9d2.png" tvg-id="f736135dfb80936a523d63c9a10f2613_IPTVPLAY МультСказки" $ExtFilter="SuzuS TV2",IPTVPLAY МультСказки HD
+http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://i124.fastpic.org/big/2025/0331/3d/26621b89b1f6365733d3b5021b259f3d.png" tvg-id="f736135dfb80936a523d63c9a10f2613_IPTVPLAY ПАМЯТЬ" $ExtFilter="SuzuS TV2",IPTVPLAY ПАМЯТЬ
+http://5.188.158.65:4040/IPTVPLAYPAMYAT.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://i124.fastpic.org/big/2025/0331/3d/2ff96b10804c50a986a4e57a5c571f3d.png" tvg-id="f736135dfb80936a523d63c9a10f2613_IPTVPLAY УЖАСТИК" $ExtFilter="SuzuS TV2",IPTVPLAY УЖАСТИК
+http://5.188.158.65:4040/IPTVPLAYUZHASTIK.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://i124.fastpic.org/big/2025/0331/c2/eb38990c55ea051e02c8815ab7fd58c2.png" tvg-id="f736135dfb80936a523d63c9a10f2613_IPTVPLAY ФАНТАСТИКА" $ExtFilter="SuzuS TV2",IPTVPLAY ФАНТАСТИКА
+http://5.188.158.65:4040/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="../Channel/Logo/Kino 24.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Kino 24
+http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://i.imgur.com/Ppk20Sj.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Kino 24
+https://sirius.greenhosting.ru/Kino24Ru/video.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://static.goodgame.ru/files/avatars/av_avatar_elf.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Kino TV
+http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://i.imgur.com/iu3SbGG.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",KinoMix FHD
+https://usb.bozztv.com/kinomix24/playlist.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="../Channel/Logo/Kino 24.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Kinosweet
+http://193.27.209.122/kinosweet/index.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="../Channel/Logo/Kino 24.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",kinosweet HD
+http://193.27.209.122/kinosweet/index.m3u8?|User-Agent=http-user-agent=Mozilla/5.0 iPhone; CPU iPhone OS 18_6 like Mac OS X AppleWebKit/605.1.15 KHTML, like Gecko CriOS/139.0.7258.76 Mobile/15E148 Safari/604.1
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="../Channel/Logo/Kino 24.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Kinowood
+http://193.27.209.122/kinowood/index.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="../Channel/Logo/Kino 24.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",kinowood HD
+http://193.27.209.122/kinowood/index.m3u8?|User-Agent=http-user-agent=Mozilla/5.0 iPhone; CPU iPhone OS 18_6 like Mac OS X AppleWebKit/605.1.15 KHTML, like Gecko CriOS/139.0.7258.76 Mobile/15E148 Safari/604.1
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://i.imgur.com/FOhNoZe.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",LEGION TV FHD
+https://kino-stream.online/hls/vhdvtv.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="http://i123.fastpic.org/big/2024/0716/50/20497257390becd38ff0f6f5e282c550.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Lesbian
+http://cdn.adultiptv.net/lesbian.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="http://epg.it999.ru/img/3197.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Lesbian HD
+http://live.redtraffic.xyz/lesbian.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="http://i123.fastpic.org/big/2024/0716/50/20497257390becd38ff0f6f5e282c550.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Live Cams
+http://cdn.adultiptv.net/livecams.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Madam Fox Russian HD
+http://live.redtraffic.xyz/russian.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="http://i123.fastpic.org/big/2024/0716/50/20497257390becd38ff0f6f5e282c550.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",MILF
+http://cdn.adultiptv.net/milf.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Milf HD
+http://live.redtraffic.xyz/milf.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",MM Скорость
+http://hls127.freeott.top:8080/minimax-skorost-m4f/video.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",MM Скорость HD
+http://tinyurl.com/TvZaTak37/minimax-skorost-m4f/manifest.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://i.imgur.com/LctanF8.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Music AFN
+https://tgn2.bozztv.com/tintv/tintv2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="https://suzukantv.at.ua/LOGO/MyCamTV_Teen_Girls.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",MyCamTV Anal
+http://live.mycamtv.com/anal.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="https://suzukantv.at.ua/LOGO/MyCamTV_Teen_Girls.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",MyCamTV Big Ass Girls
+http://live.mycamtv.com/bigass.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="https://suzukantv.at.ua/LOGO/MyCamTV_Teen_Girls.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",MyCamTV Big Tits Girls (18+)
+http://live.mycamtv.com/bigtits.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="https://suzukantv.at.ua/LOGO/MyCamTV_Teen_Girls.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",MyCamTV Blonde Girls
+http://live.mycamtv.com/blonde.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="https://suzukantv.at.ua/LOGO/MyCamTV_Teen_Girls.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",MyCamTV Blowjob
+http://live.mycamtv.com/blowjob.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="https://suzukantv.at.ua/LOGO/MyCamTV_Teen_Girls.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",MyCamTV Brunette Girls
+http://live.mycamtv.com/brunette.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="https://suzukantv.at.ua/LOGO/MyCamTV_Teen_Girls.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",MyCamTV Ebony Girls
+http://live.mycamtv.com/ebony.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="https://suzukantv.at.ua/LOGO/MyCamTV_Teen_Girls.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",MyCamTV Girls Squirt
+http://live.mycamtv.com/squirt.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="https://suzukantv.at.ua/LOGO/MyCamTV_Teen_Girls.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",MyCamTV Latina Girls
+http://live.mycamtv.com/latina.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="https://suzukantv.at.ua/LOGO/MyCamTV_Teen_Girls.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",MyCamTV Live Cams
+http://live.adultiptv.net/livecams.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="https://suzukantv.at.ua/LOGO/MyCamTV_Teen_Girls.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",MyCamTV Medium Girls
+http://live.mycamtv.com/medium.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="https://suzukantv.at.ua/LOGO/MyCamTV_Teen_Girls.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",MyCamTV MILF
+http://live.mycamtv.com/milf.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="https://suzukantv.at.ua/LOGO/MyCamTV_Teen_Girls.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",MyCamTV Skinny Girls
+http://live.mycamtv.com/skinny.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="https://suzukantv.at.ua/LOGO/MyCamTV_Teen_Girls.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",MyCamTV Stream
+http://live.mycamtv.com/tits.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="https://suzukantv.at.ua/LOGO/MyCamTV_Teen_Girls.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",MyCamTV Teen Girls
+http://live.mycamtv.com/teen.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="https://suzukantv.at.ua/LOGO/MyCamTV_Teen_Girls.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",MyCamTV White Girls
+http://live.mycamtv.com/white.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="https://suzukantv.at.ua/LOGO/MyCamTV_Teen_Girls.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",MyCamTV Young Girls
+http://live.mycamtv.com/young.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",MyTV
+http://hls127.freeott.top:8080/MyTV/mono.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",MyTV 2
+http://hls127.freeott.top:8080/MyTV2/mono.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",MyTV 3
+http://hls127.freeott.top:8080/MyTV3/mono.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",MYTV HIT
+http://tinyurl.com/TvZaTak37/MyTV_Hit/video.m3u8?token=freeportal&token=a1ecd668e05f5ce07c81130c9d7fb362
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",NOW series
+http://cdnua03.hls.tv/476/hls/215247e3abee81b8339d3dc62acc6921/4845/stream.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://i.ibb.co/jZ6WhFkT/image-16.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",OVAA TV
+http://vod.tuva.ru/ovaa/index.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",penthouse1
+http://185.98.209.11:81/penthouse1/index.m3u8?token=test
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",penthouse2
+http://185.98.209.11:81/penthouse2/index.m3u8?token=test
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://i.ibb.co/Kx885Mby/image-9.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Phoenix TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://karapuztv.catcast.tv/content/33418/index.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Pink Erotic 1
+http://79.127.207.193:80/PinkErotic1/playlist.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Pink Erotic 2
+http://79.127.207.193:80/PinkErotic2/playlist.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Pink Erotic 3
+http://79.127.207.193:80/PinkErotic3/playlist.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Pink Erotic 4
+http://79.127.207.193:80/PinkErotic4/playlist.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Pink Erotic 5
+http://79.127.207.193:80/PinkErotic5/playlist.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Pink Erotic 6
+http://79.127.207.193:80/PinkErotic6/playlist.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Pink Erotic 7
+http://79.127.207.193:80/PinkErotic7/playlist.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Pink Erotic 8
+http://79.127.207.193:80/PinkErotic8/playlist.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",PinkErotic1
+http://169.150.223.25/PinkErotic1/index.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",PinkErotic2
+http://169.150.223.25/PinkErotic2/index.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",PinkErotic3
+http://169.150.223.25/PinkErotic3/index.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",PinkErotic4
+http://169.150.223.25/PinkErotic4/index.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",PinkErotic5
+http://169.150.223.25/PinkErotic5/index.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",PinkErotic6
+http://169.150.223.25/PinkErotic6/index.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",PinkErotic7
+http://169.150.223.25/PinkErotic7/index.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",PinkErotic8
+http://169.150.223.25/PinkErotic8/index.m3u8
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="https://suzustv.clan.su/Logo/play-x.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Play-x  Music Classic
+https://rpn3.bozztv.com/dvrfl07/ushba63/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="https://suzustv.clan.su/Logo/play-x.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Play-x  Music Hot
+https://rpn3.bozztv.com/dvrfl07/ushba-monj/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://suzustv.clan.su/Logo/play-x.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Play-x Anime
+http://foxkids-online.ru/hls/test_240p264kbs/index.m3u8
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Play-x Beast Games HD
+https://rpn3.bozztv.com/dvrfl07/ushba31/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="https://suzustv.clan.su/Logo/play-x.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Play-x Black Cinema
+https://rpn3.bozztv.com/dvrfl07/ushba-films-i/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="https://suzustv.clan.su/Logo/play-x.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Play-x Cinema 90-х
+https://rpn3.bozztv.com/dvrfl07/ushba-films-w/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="https://suzustv.clan.su/Logo/play-x.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Play-x Cinema Sport
+https://rpn3.bozztv.com/dvrfl07/ushba-films-uv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="https://suzustv.clan.su/Logo/play-x.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Play-x Cinema Teens
+https://rpn3.bozztv.com/dvrfl07/ushba64/index.m3u8
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="https://suzustv.clan.su/Logo/play-x.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Play-x Cinema Woman
+https://rpn3.bozztv.com/dvrfl07/ushba-films-f/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="https://suzustv.clan.su/Logo/play-x.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Play-x ClubHouse HD
+https://rpn3.bozztv.com/dvrfl07/ushba-mafia/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="https://suzustv.clan.su/Logo/play-x.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Play-x DIFFERENT
+https://rpn3.bozztv.com/dvrfl07/ushba60/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="https://suzustv.clan.su/Logo/play-x.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Play-x Docu
+https://rpn3.bozztv.com/dvrfl07/ushba38/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="https://suzustv.clan.su/Logo/play-x.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Play-x Docu EE
+https://rpn3.bozztv.com/dvrfl07/ushba16/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="https://suzustv.clan.su/Logo/play-x.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Play-x Docu GE
+https://rpn3.bozztv.com/dvrfl07/ushba-rfilrms-p/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="https://suzustv.clan.su/Logo/play-x.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Play-x Docu Motor
+https://rpn3.bozztv.com/dvrfl07/ushba-rvisionmotor/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="https://suzustv.clan.su/Logo/play-x.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Play-x Fashion
+https://rpn3.bozztv.com/dvrfl07/ushba-m6/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="https://suzustv.clan.su/Logo/play-x.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Play-x HBO
+https://rpn3.bozztv.com/dvrfl07/ushba-films-e/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="https://suzustv.clan.su/Logo/play-x.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Play-x Japan Music
+https://d3kmrn2mstrnk5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7ppcp3lxg7oer/f4acc9ba_daae_4ed0_b836_32126cead919/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=US39000038W
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="https://suzustv.clan.su/Logo/play-x.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Play-x Joke
+https://rpn3.bozztv.com/dvrfl07/ushba11/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="https://suzustv.clan.su/Logo/play-x.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Play-x Kpop Play TV
+https://rpn3.bozztv.com/dvrfl07/ushba-m4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="https://suzustv.clan.su/Logo/play-x.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Play-x Kylie Muzic
+https://rpn3.bozztv.com/dvrfl07/ushba-t3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="https://suzustv.clan.su/Logo/play-x.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Play-x Lost
+https://rpn3.bozztv.com/dvrfl07/ushba56/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="https://suzustv.clan.su/Logo/play-x.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Play-x Music Mode
+https://rpn3.bozztv.com/dvrfl07/ushba-t2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="https://suzustv.clan.su/Logo/play-x.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Play-x Prank
+https://rpn3.bozztv.com/dvrfl07/ushba20/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="https://suzustv.clan.su/Logo/play-x.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Play-x Star Media Docu
+https://rpn3.bozztv.com/dvrfl07/ushba4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="https://suzustv.clan.su/Logo/play-x.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Play-x Ангелы и демоны
+https://rpn3.bozztv.com/dvrfl07/ushba-films-g/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="https://suzustv.clan.su/Logo/play-x.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Play-x Арменфильм
+https://rpn3.bozztv.com/dvrfl07/ushba26/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="https://suzustv.clan.su/Logo/play-x.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Play-x Беларусьфильм
+https://rpn3.bozztv.com/dvrfl07/ushba-rfilrms-e/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="https://suzustv.clan.su/Logo/play-x.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Play-x Вирусы и эпидемии
+https://rpn3.bozztv.com/dvrfl07/ushba-films-o/index.m3u8
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="https://suzustv.clan.su/Logo/play-x.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Play-x Драмы
+https://rpn3.bozztv.com/dvrfl07/ushba5/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="https://suzustv.clan.su/Logo/play-x.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Play-x Жизнь в 90-е
+https://rpn3.bozztv.com/dvrfl07/ushba-rfilrms-0/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="https://suzustv.clan.su/Logo/play-x.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Play-x Киборг
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+https://rpn3.bozztv.com/dvrfl07/ushba-films-qr/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="http://1lot.tv/ch/10956.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Play-X Кинозал 1 HD
+https://rpn3.bozztv.com/dvrfl07/ushba-rfilrms-g/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="http://1lot.tv/ch/10965.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Play-X Кинозал 10 HD
+https://rpn3.bozztv.com/dvrfl07/ushba-films-h/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="http://1lot.tv/ch/10966.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Play-X Кинозал 11 HD
+https://rpn3.bozztv.com/dvrfl07/ushba-films-j/index.m3u8
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="http://1lot.tv/ch/10967.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Play-X Кинозал 12 HD
+https://rpn3.bozztv.com/dvrfl07/ushba-films-m/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="http://1lot.tv/ch/10968.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Play-X Кинозал 13 HD
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+https://rpn3.bozztv.com/dvrfl07/ushba-films-w/index.m3u8
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="http://1lot.tv/ch/10969.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Play-X Кинозал 14 HD
+https://rpn3.bozztv.com/dvrfl07/ushba-films-n/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="http://1lot.tv/ch/10970.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Play-X Кинозал 15 HD
+https://rpn3.bozztv.com/dvrfl07/ushba-rfilrms-i/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="http://1lot.tv/ch/10971.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Play-X Кинозал 16 HD
+https://rpn3.bozztv.com/dvrfl07/ushba-films-b/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="http://1lot.tv/ch/10972.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Play-X Кинозал 17 HD
+https://rpn3.bozztv.com/dvrfl07/ushba-films-s/index.m3u8
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="http://1lot.tv/ch/10973.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Play-X Кинозал 18 HD
+https://rpn3.bozztv.com/dvrfl07/ushba-rvisionmovies/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="http://1lot.tv/ch/10974.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Play-X Кинозал 19 HD
+https://rpn3.bozztv.com/dvrfl07/ushba-films-c/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="http://1lot.tv/ch/10957.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Play-X Кинозал 2 HD
+https://rpn3.bozztv.com/dvrfl07/ushba-films-t/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="http://1lot.tv/ch/10976.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Play-X Кинозал 21 HD
+https://rpn3.bozztv.com/dvrfl07/ushba-films-d/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="http://1lot.tv/ch/10977.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Play-X Кинозал 22 HD
+https://rpn3.bozztv.com/dvrfl07/ushba-films-p/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="http://1lot.tv/ch/10959.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Play-X Кинозал 4 HD
+https://rpn3.bozztv.com/dvrfl07/ushba-rfilrms-v/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="http://1lot.tv/ch/10962.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Play-X Кинозал 7 HD
+https://rpn3.bozztv.com/dvrfl07/ushba65/index.m3u8
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="https://suzustv.clan.su/Logo/play-x.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Play-x Криминал
+https://rpn3.bozztv.com/dvrfl07/ushba28/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="https://suzustv.clan.su/Logo/play-x.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Play-x Криминальная Россия
+https://rpn3.bozztv.com/dvrfl07/ushba29/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="https://suzustv.clan.su/Logo/play-x.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Play-x Меломан
+https://rpn3.bozztv.com/dvrfl07/ushba-t4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="https://suzustv.clan.su/Logo/play-x.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Play-x Мистер Бин
+https://rpn3.bozztv.com/dvrfl07/ushba45/index.m3u8
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="https://suzustv.clan.su/Logo/play-x.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Play-x Мосфильм 1
+https://rpn3.bozztv.com/dvrfl07/ushba-rfilrms-b/index.m3u8
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="https://suzustv.clan.su/Logo/play-x.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Play-x Не сильный пол!
+https://rpn3.bozztv.com/dvrfl07/ushba-rfilrms-a/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="https://suzustv.clan.su/Logo/play-x.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Play-x Одеська Кіностудія 1
+https://rpn3.bozztv.com/dvrfl07/ushba-rvisionclassic/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="https://suzustv.clan.su/Logo/play-x.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Play-x Одеська Кіностудія 3
+https://rpn3.bozztv.com/dvrfl07/ushba-rvisionkinopanorama/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="https://suzustv.clan.su/Logo/play-x.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Play-x Пограничный HD
+https://rpn3.bozztv.com/dvrfl07/ushba-rfilrms-d/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="https://suzustv.clan.su/Logo/play-x.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Play-x Польские фильмы в Советском прокате
+https://rpn3.bozztv.com/dvrfl07/ushba-rfilrms-z/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="https://suzustv.clan.su/Logo/play-x.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Play-x Семейный
+https://rpn3.bozztv.com/dvrfl07/ushba65/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="https://suzustv.clan.su/Logo/play-x.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Play-x Советские фильмы про деревню
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+https://rpn3.bozztv.com/dvrfl07/ushba24/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="https://suzustv.clan.su/Logo/play-x.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Play-x Советский Дубляж
+https://rpn3.bozztv.com/dvrfl07/ushba-films-s/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="https://suzustv.clan.su/Logo/play-x.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Play-x Старый добрый фильм
+https://rpn3.bozztv.com/dvrfl07/ushba32/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="https://suzustv.clan.su/Logo/play-x.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Play-x Триллер
+https://rpn3.bozztv.com/dvrfl07/ushba-films-a/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="https://suzustv.clan.su/Logo/play-x.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Play-x Хроники московского быта
+https://rpn3.bozztv.com/dvrfl07/ushba3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="https://suzustv.clan.su/Logo/play-x.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Play-x Шоу Бенни Хилла
+https://rpn3.bozztv.com/dvrfl07/ushba62/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="https://suzustv.clan.su/Logo/play-x.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Play-xl Music
+https://rpn3.bozztv.com/dvrfl07/ushba-t1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="../Channel/Logo/Playboy TV.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Playboy TV
+http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Porn Classic
+http://200.194.238.229:8383/live/pornclassic/playlist.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="http://epg.it999.ru/img/3212.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Pornstar Red TV
+http://live.redtraffic.xyz/pornstar.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="http://epg.it999.ru/img/3213.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",POV Adult TV
+http://live.redtraffic.xyz/pov.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",PRIVATE
+http://77.46.130.252:99/private
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Private HD
+http://169.150.223.25/Private/index.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Private TV
+http://79.127.207.193:80/Private/playlist.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://i.ibb.co/3ycBZqx3/image-14.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",PRO100 TV
+http://sirius.greenhosting.ru/Pro100tvRu/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Red Lips 18+
+http://tinyurl.com/TvZaTak37/Red_Lips/manifest.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="https://i.ibb.co/mXsbRw6/redtraffic-1.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",RedTraffic Big Ass HD
+http://live.redtraffic.xyz/bigass.m3u8?fluxuslust.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="https://images.vfl.ru/ii/1617354685/93084ac4/33916324.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",RedTraffic Big Ass HD 18+
+http://live.redtraffic.xyz/bigass.m3u8?user-4pda-denms-ru-v1-a1
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="https://i.ibb.co/4MZvV06/redtraffic-2.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",RedTraffic Big Dick HD
+http://live.redtraffic.xyz/bigdick.m3u8?fluxuslust.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="https://images.vfl.ru/ii/1617354685/93084ac4/33916324.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",RedTraffic Big Dick HD 18+
+http://live.redtraffic.xyz/bigdick.m3u8?user-4pda-denms-ru-v1-a1
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="https://i.ibb.co/mFHLXr0/redtraffic-3.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",RedTraffic Big Tits HD
+http://live.redtraffic.xyz/bigtits.m3u8?fluxuslust.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="https://images.vfl.ru/ii/1617354685/93084ac4/33916324.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",RedTraffic Big Tits HD 18+
+http://live.redtraffic.xyz/bigtits.m3u8?user-4pda-denms-ru-v1-a1
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="https://i.ibb.co/SJW3q6b/redtraffic-4.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",RedTraffic Blowjob HD
+http://live.redtraffic.xyz/blowjob.m3u8?fluxuslust.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="https://images.vfl.ru/ii/1617354685/93084ac4/33916324.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",RedTraffic Blowjob HD 18+
+http://live.redtraffic.xyz/blowjob.m3u8?user-4pda-denms-ru-v1-a1
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="https://i.ibb.co/tM30GgZ/redtraffic-5.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",RedTraffic Cuckold HD
+http://live.redtraffic.xyz/cuckold.m3u8?fluxuslust.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="https://images.vfl.ru/ii/1617354685/93084ac4/33916324.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",RedTraffic Cuckold HD 18+
+http://live.redtraffic.xyz/cuckold.m3u8?user-4pda-denms-ru-v1-a1
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="https://i.ibb.co/fMBHkf3/redtraffic-6.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",RedTraffic Fetish HD
+http://live.redtraffic.xyz/fetish.m3u8?fluxuslust.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="https://images.vfl.ru/ii/1617354685/93084ac4/33916324.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",RedTraffic Fetish HD 18+
+http://live.redtraffic.xyz/fetish.m3u8?user-4pda-denms-ru-v1-a1
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="https://i.ibb.co/YBhBdmZ/redtraffic-7.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",RedTraffic Hardcore HD
+http://live.redtraffic.xyz/hardcore.m3u8?fluxuslust.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="https://images.vfl.ru/ii/1617354685/93084ac4/33916324.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",RedTraffic Hardcore HD 18+
+http://live.redtraffic.xyz/hardcore.m3u8?user-4pda-denms-ru-v1-a1
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="https://i.ibb.co/cr6JT3y/redtraffic-8.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",RedTraffic Interracial HD
+http://live.redtraffic.xyz/interracial.m3u8?fluxuslust.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="https://images.vfl.ru/ii/1617354685/93084ac4/33916324.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",RedTraffic Interracial HD 18+
+http://live.redtraffic.xyz/interracial.m3u8?user-4pda-denms-ru-v1-a1
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="https://i.ibb.co/tqvMpfk/redtraffic-9.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",RedTraffic Latina HD
+http://live.redtraffic.xyz/latina.m3u8?fluxuslust.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="https://images.vfl.ru/ii/1617354685/93084ac4/33916324.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",RedTraffic Latina HD 18+
+http://live.redtraffic.xyz/latina.m3u8?user-4pda-denms-ru-v1-a1
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="https://i.ibb.co/7NHc8rZ/redtraffic-10.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",RedTraffic Lesbian HD
+http://live.redtraffic.xyz/lesbian.m3u8?fluxuslust.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="https://images.vfl.ru/ii/1617354685/93084ac4/33916324.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",RedTraffic Lesbian HD 18+
+http://live.redtraffic.xyz/lesbian.m3u8?user-4pda-denms-ru-v1-a1
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="https://images.vfl.ru/ii/1617354685/93084ac4/33916324.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",RedTraffic MILF HD 18+
+http://live.redtraffic.xyz/milf.m3u8?user-4pda-denms-ru-v1-a1
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="https://i.ibb.co/g6NV6yP/redtraffic-11.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",RedTraffic Milf HD 720
+http://live.redtraffic.xyz/milf.m3u8?fluxuslust.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="https://i.ibb.co/d2YtbXz/redtraffic-12.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",RedTraffic Pornstar HD
+http://live.redtraffic.xyz/pornstar.m3u8?fluxuslust.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="https://images.vfl.ru/ii/1617354685/93084ac4/33916324.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",RedTraffic Pornstar HD 18+
+http://live.redtraffic.xyz/pornstar.m3u8?user-4pda-denms-ru-v1-a1
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="https://i.ibb.co/S6HQpRk/redtraffic-13.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",RedTraffic POV HD
+http://live.redtraffic.xyz/pov.m3u8?fluxuslust.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="https://images.vfl.ru/ii/1617354685/93084ac4/33916324.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",RedTraffic POV HD 18+
+http://live.redtraffic.xyz/pov.m3u8?user-4pda-denms-ru-v1-a1
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="https://i.ibb.co/42pqrPd/redtraffic-14.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",RedTraffic Russian HD
+http://live.redtraffic.xyz/russian.m3u8?fluxuslust.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="https://images.vfl.ru/ii/1617354685/93084ac4/33916324.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",RedTraffic Russian HD
+http://live.redtraffic.xyz/russian.m3u8?telegramm=yossotv
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="https://images.vfl.ru/ii/1617354685/93084ac4/33916324.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",RedTraffic Russian HD 18+
+http://live.redtraffic.xyz/russian.m3u8?user-4pda-denms-ru-v1-a1
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="https://images.vfl.ru/ii/1617354685/93084ac4/33916324.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",RedTraffic Teen HD
+http://live.redtraffic.xyz/teen.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="https://i.ibb.co/6FYJ7Sw/redtraffic-15.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",RedTraffic Teen HD
+http://live.redtraffic.xyz/teen.m3u8?fluxuslust.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="https://images.vfl.ru/ii/1617354685/93084ac4/33916324.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",RedTraffic Teen HD 18+
+http://live.redtraffic.xyz/teen.m3u8?user-4pda-denms-ru-v1-a1
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="https://i.ibb.co/R4LT8Yf/redtraffic-16.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",RedTraffic Threesome HD
+http://live.redtraffic.xyz/threesome.m3u8?fluxuslust.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="https://images.vfl.ru/ii/1617354685/93084ac4/33916324.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",RedTraffic Threesome HD 18+
+http://live.redtraffic.xyz/threesome.m3u8?user-4pda-denms-ru-v1-a1
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="../Channel/Logo/Food network HD.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",RK TV
+http://212.102.38.45/live/test_realitykings_sd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://1lot.tv/ch/9654.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Romance HD
+http://tinyurl.com/TvZaTak39/d2d116b4c408c405f2494b46113e187c?token=128762f0bd32e94a005ad2b25d51fbd5&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="http://i123.fastpic.org/big/2024/0716/50/20497257390becd38ff0f6f5e282c550.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Rough
+http://cdn.adultiptv.net/rough.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="http://i123.fastpic.org/big/2024/0716/50/20497257390becd38ff0f6f5e282c550.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Russian
+http://cdn.adultiptv.net/russian.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://suzustv.clan.su/Logo/SCRIPACH_TV.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",SCRIPACH TV
+https://live.kinescopecdn.net/preview/e8001cbb-fccd-452e-bb42-681288793be1/701487a9-a5dc-4ac2-a986-bc319d472f8c/1080p/media.m3u8
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="https://suzustv.clan.su/Logo/WUNc721.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",SCRIPACH TV
+https://live20.bozztv.com/akamaissh101/ssh101/scripachmovie/playlist.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://i.ibb.co/HV9Mmb4/image-8.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",SeleCaoTV
+https://kino-stream.online/hls/selecaotv-film.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://i.ibb.co/HV9Mmb4/image-8.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",SeleCaoTV
+https://live20.bozztv.com/akamaissh101/ssh101/kucunucum9ym9y/playlist.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://i.ibb.co/HV9Mmb4/image-8.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",SeleCaoTV 2
+https://kino-stream.online/hls/selecaotv-serial.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://i.ibb.co/HV9Mmb4/image-8.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",SeleCaoTV 2
+https://live20.bozztv.com/akamaissh101/ssh101/esperanza/chunks.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://epg.one/img/6241.png" tvg-id="cc668781276fd092727c0507369cc752_6241" $ExtFilter="SuzuS TV2",Start Air HD
+https://livetv.mylifeisgood.net.ru/channels/strwc.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://epg.one/img/6240.png" tvg-id="cc668781276fd092727c0507369cc752_6240" $ExtFilter="SuzuS TV2",Start World HD
+https://livetv.mylifeisgood.net.ru/channels/strvf.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="http://i123.fastpic.org/big/2024/0716/50/20497257390becd38ff0f6f5e282c550.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Teen
+http://cdn.adultiptv.net/teen.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="http://i123.fastpic.org/big/2024/0716/50/20497257390becd38ff0f6f5e282c550.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Threesome
+http://cdn.adultiptv.net/threesome.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="http://epg.it999.ru/img/3226.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Threesome Red TV
+http://live.redtraffic.xyz/threesome.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://suzustv.clan.su/Logo/TV_1_KG_FHD.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",TV 1 KG HD
+http://212.2.225.30:1935/live/site.stream/playlist.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="../Channel/Logo/TV1000.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",TV1000
+http://176.118.197.125/viju-TV1000/index.m3u8
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="https://img.catcast.tv/uploads/17102025/banners/49702-68f21e2ea83d1.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",TVBoom
+https://kb.catcast.tv/content/49702/index.m3u8
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="http://epg.one/img/6261.png" tvg-id="cc668781276fd092727c0507369cc752_6261" $ExtFilter="SuzuS TV2",Tviksel Детское кино International
+https://v2.catcast.tv/content/38720/index.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://epg.one/img/6258.png" tvg-id="cc668781276fd092727c0507369cc752_6258" $ExtFilter="SuzuS TV2",Tviksel Кино 1 International
+http://213.172.73.132:8081/nimble_live/kino_1_int/playlist.m3u8
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="http://epg.one/img/6258.png" tvg-id="cc668781276fd092727c0507369cc752_6258" $ExtFilter="SuzuS TV2",Tviksel Кино 1 International
+https://kino-1.catcast.tv/content/38617/index.m3u8
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="http://epg.one/img2/6322.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Tviksel Кино 18+ International
+https://v2.catcast.tv/content/40381/index.m3u8
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="http://i115.fastpic.org/big/2021/0927/ca/82311b0ff394749dd8fc9916fd7b83ca.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Tviksel Музыка Кино International
+https://kino-1.catcast.tv/content/37739/index.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",VB VHS Classic
+https://rpn3.bozztv.com/dvrfl07/ushba-rvision/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://1lot.tv/ch/6822.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",VHS
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+https://rpn3.bozztv.com/dvrfl07/ushba-films-yz/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://epg.one/img/7944.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Viasat Kino Action HD
+http://tinyurl.com/TvZaTak41/687edb0b4918db4ed5a6f313e527f513?token=128762f0bd32e94a005ad2b25d51fbd5&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://logo.vivamax.pro/logo/viasastkinocomedy.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_vip-comedy-cee" $ExtFilter="SuzuS TV2",Viasat Kino Comedy
+http://ukr.ukrainske.tv/493/keytvainua/video.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://iptvx.one/picons/vip-comedy-cee.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_vip-comedy-cee" $ExtFilter="SuzuS TV2",VIASAT Kino Comedy HD
+http://ukr2.ukrainske.tv/493/video.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://epg.one/img/8880.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Viasat Kino HD
+http://tinyurl.com/TvZaTak40/74be03caf45786acbbecd5e0a7789a0d?token=128762f0bd32e94a005ad2b25d51fbd5&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://i.imgur.com/oIQNddV.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",viju+ Megahit
+http://tinyurl.com/TvZaTak37/ViP_Megahit/video.m3u8?token=freeportal&token=deooleg
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="../Channel/Logo/vip comedy.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",VIP Comedy HD
+https://stream2.somon.tv/vipcomedy/index.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="../Channel/Logo/vip megahit.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",VIP Megahit HD
+https://stream2.somon.tv/vipmegahit/index.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="../Channel/Logo/VIP Serial.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",VIP Serial HD
+https://stream2.somon.tv/vipserial/index.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",XY MAX
+http://79.124.21.250:8199/play/DiemaSport/index.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://i.ibb.co/kggBNFF4/image-46.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Балабол
+https://cdn-dvr.ntv.ru/Balabol/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://suzustv.clan.su/Logo/brovari_kno_tv.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Бровари Кно TV
+https://live20.bozztv.com/giatv/giatv-88882com/88882com/chunks.m3u8
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00721.png?1701340367" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Вещдок HD+
+http://cdnua03.hls.tv/476/hls/215247e3abee81b8339d3dc62acc6921/4869/stream.m3u8
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="http://play.wisp.cat/logos/81.png" $ExtFilter="SuzuS TV2",Вещдок+ HD
+https://iptv.prosto.tv/id721/video.m3u8?secret=9mmgp99s&21yo=0
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="http://epg.one/img2/6005.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Видеокассета VHS
+https://live20.bozztv.com/akamaissh101/ssh101/livevhs90e/chunks.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://i.ibb.co/RKk8ncX/image-34.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Видеокассета VHS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://live21.bozztv.com/akamaissh101/ssh101/livevhs90e/chunks.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://img.catcast.tv/uploads/09072020/logos/38720-5f06c9ff9fbbd.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Детское кино International
+https://autopilot.catcast.tv/content/38720/index.m3u8?token=02da8342f0e725b15124c4ccc9d5e8ef
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="../Channel/Logo/Дом кино.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Дом кино
+http://tinyurl.com/TvZaTak37/Dom_Kino_tv/manifest.m3u8
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="../Channel/Logo/Дорама.png" $ExtFilter="SuzuS TV2",Дорама HD
+https://iptv.prosto.tv/id596/video.m3u8?secret=9mmgp99s&21yo=0
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="../Channel/Logo/Еврокино.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Еврокино
+http://185.46.16.239:8000/Yevrokino
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="../Channel/Logo/Еврокино.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Еврокино
+http://vod.tuva.ru/eurokino/index.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="../Channel/Logo/Еврокино.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Еврокино
+http://176.118.197.101/Evrokino/index.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="../Channel/Logo/Мосфильм Золотая коллекция.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Золотая коллекция
+http://hls127.freeott.top:8080/Mosfilm/video.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="../Channel/Logo/Иллюзион+.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Иллюзион+
+http://185.46.16.239:8000/Illyuzion+
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="../Channel/Logo/Иллюзион+.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Иллюзион+
+http://176.118.197.101/Illuzion+/index.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="../Channel/Logo/Индийское кино.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Индия
+http://hls127.freeott.top:8080/Zee_Russia/video.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="../Channel/Logo/Инфо24 HD (Шадринск).png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Инфоканал
+https://s72169.cdn.ngenix.net/hls/CH_VSETVHD/variant.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://img.catcast.tv/uploads/25062020/logos/38617-5ef3d12196e3e.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Кино 1 International
+https://kino-1.catcast.tv/content/38617/index.m3u8?token=0ee1b810cb70fabf816a92c7fbac144a
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="../Channel/Logo/Дом кино премиум HD.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Кино без границ
+http://185.57.68.33:8091/237/playlist.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="../Channel/Logo/Кино ТВ HD.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Кино и жизнь
+https://fl1003.bozztv.com/ushba-films-l/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="../Channel/Logo/Kino 24.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Кино ТВ
+http://vod.tuva.ru/kinotv/index.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://iptvx.one/picons/kino-tv.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_kino-tv" $ExtFilter="SuzuS TV2",Кино ТВ
+https://vod.tuva.ru/kinotv/index.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://iptvx.one/picons/kino-tv.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_kino-tv" $ExtFilter="SuzuS TV2",Кино ТВ
+http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="../Channel/Logo/Кино ТВ.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Кино ТВ
+http://185.46.16.239:8000/Kino_TV
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://epg.one/img2/8796.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",КИНОДРОМ
+https://fl1001.bozztv.com/ushba-films-c/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://epg.one/img2/8796.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",КИНОДРОМ
+https://fl1001.bozztv.com/ushba-films-d/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://epg.one/img2/8796.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",КИНОДРОМ
+https://fl1001.bozztv.com/ushba-films-e/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://epg.one/img2/8796.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",КИНОДРОМ
+https://fl1001.bozztv.com/ushba-films-f/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://epg.one/img2/8796.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",КИНОДРОМ
+https://fl1001.bozztv.com/ushba-films-g/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://epg.one/img2/8796.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",КИНОДРОМ
+https://fl1001.bozztv.com/ushba-films-h/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://epg.one/img2/8796.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",КИНОДРОМ
+https://fl1001.bozztv.com/ushba-films-i/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://epg.one/img2/8796.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",КИНОДРОМ
+https://fl1001.bozztv.com/ushba-films-j/index.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://epg.one/img2/8796.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",КИНОДРОМ
+https://fl1001.bozztv.com/ushba-films-m/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://epg.one/img2/8796.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",КИНОДРОМ
+https://fl1001.bozztv.com/ushba-films-n/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://epg.one/img2/8796.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",КИНОДРОМ
+https://fl1001.bozztv.com/ushba-films-o/index.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://epg.one/img2/8796.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",КИНОДРОМ
+https://fl1001.bozztv.com/ushba-films-p/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://epg.one/img2/8796.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",КИНОДРОМ
+https://fl1001.bozztv.com/ushba-films-qr/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://epg.one/img2/8796.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",КИНОДРОМ
+https://fl1001.bozztv.com/ushba-films-s/index.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://epg.one/img2/8796.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",КИНОДРОМ
+https://fl1001.bozztv.com/ushba-films-t/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://epg.one/img2/8796.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",КИНОДРОМ
+https://fl1001.bozztv.com/ushba-films-uv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://epg.one/img2/8796.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",КИНОДРОМ
+https://fl1001.bozztv.com/ushba-films-w/index.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://epg.one/img2/8796.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",КИНОДРОМ
+https://fl1001.bozztv.com/ushba-films-yz/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://epg.one/img2/8796.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",КИНОДРОМ
+https://fl1001.bozztv.com/ushba-rfilrms-0/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://epg.one/img2/8796.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",КИНОДРОМ
+https://fl1001.bozztv.com/ushba-rfilrms-a/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://epg.one/img2/8796.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",КИНОДРОМ
+https://fl1001.bozztv.com/ushba-rfilrms-b/index.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://epg.one/img2/8796.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",КИНОДРОМ
+https://fl1001.bozztv.com/ushba-rfilrms-d/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://epg.one/img2/8796.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",КИНОДРОМ
+https://fl1001.bozztv.com/ushba-rfilrms-e/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://epg.one/img2/8796.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",КИНОДРОМ
+https://fl1001.bozztv.com/ushba-rfilrms-g/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://epg.one/img2/8796.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",КИНОДРОМ
+https://fl1001.bozztv.com/ushba-rfilrms-i/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://epg.one/img2/8796.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",КИНОДРОМ
+https://fl1001.bozztv.com/ushba-rfilrms-v/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://epg.one/img2/8796.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",КИНОДРОМ
+https://fl1001.bozztv.com/ushba-rfilrms-z/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://epg.one/img2/8796.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",КИНОДРОМ
+https://fl1001.bozztv.com/ushba-rvisionclassic/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://epg.one/img2/8796.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",КИНОДРОМ
+https://fl1001.bozztv.com/ushba-rvisionmovies/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://epg.one/img2/8796.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",КИНОДРОМ
+https://fl1001.bozztv.com/ushba24/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://epg.one/img2/8796.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",КИНОДРОМ
+https://fl1001.bozztv.com/ushba26/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://epg.one/img2/8796.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",КИНОДРОМ
+https://fl1001.bozztv.com/ushba64/index.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://epg.one/img2/8796.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",КИНОДРОМ
+https://fl1001.bozztv.com/ushba65/index.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://epg.one/img2/8796.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",КИНОДРОМ
+https://fl1001.bozztv.com/ushba-films-b/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://epg.one/img2/8796.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",КИНОДРОМ
+http://4je2oiwp.klaipedalt.org/iptv/U5MT6SA5XYW4GS5FHQCYDAD4/6001/index.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://www.giniko.com/logos/190x110/1578.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Кинозал
+http://185.57.68.33/237/mpegts
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://www.giniko.com/logos/190x110/1576.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Кинозал Cinemator
+https://fl1003.bozztv.com/ushba-films-p/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://suzustv.clan.su/Logo/photo_2025-11-04_22-49-31.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Кинозал Cyber tv
+https://live20.bozztv.com/akamaissh101/ssh101/cybertv/chunks.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://img.catcast.tv/uploads/26012021/logos/39749-600fef81376fc.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Кинозал FilmOFF
+https://stream.ushba.tv/akamaiushba/ushba65/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://img.catcast.tv/uploads/26012021/logos/39749-600fef81376fc.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Кинозал FilmON
+https://stream.ushba.tv/akamaiushba/ushba64/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://img.catcast.tv/uploads/04092021/logos/40672-61329195ca44d.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Кинозал LAV-KINO
+https://fl1004.bozztv.com/ushba32/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://www.giniko.com/logos/190x110/1657.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Кинозал LentaKino
+https://fl1001.bozztv.com/ushba-films-w/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://img.catcast.tv/uploads/13052022/logos/41660-627e5adaa9772.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Кинозал Logovo Films
+https://stream.ushba.tv/akamaiushba/ushba-films-a/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://suzustv.clan.su/Logo/929e536b0ad861b672bf4de8d4ca3586.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Кинозал MB TV
+https://dvrfl07.bozztv.com/ushba-films-yz/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://www.giniko.com/logos/190x110/1600.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Кинозал Popcorn Theatre
+https://stream.ushba.tv/akamaiushba/ushba-films-uv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://www.giniko.com/logos/190x110/1654.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Кинозал SSAFilm
+https://fl1003.bozztv.com/ushba-films-c/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://suzustv.clan.su/Logo/929e536b0ad861b672bf4de8d4ca3586.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Кинозал Жизнь Глазова
+http://yellow.garant.tv/glazov24/stream.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://img.catcast.tv/logos/1d545e850f06eafd2f85526e1913c07e.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Кинозал Кинорейс
+https://stream.ushba.tv/akamaiushba/ushba32/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://epg.one/img2/4694.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Кинозал! Интерны ТВ
+http://tinyurl.com/TvZaTak37/Kinozal_Intern_HD/manifest.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://1lot.tv/ch/6827.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Кинозал! Универ
+http://tinyurl.com/TvZaTak37/Kinozal_univer/manifest.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="../Channel/Logo/Кинокомедия.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Кинокомедия
+http://185.46.16.239:8000/Fox_HD
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="../Channel/Logo/Кинокомедия.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Кинокомедия
+http://176.118.197.101/Kinokomediya/index.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="../Channel/Logo/Киномикс.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Киномикс
+http://185.46.16.239:8000/Fox_Life_HD
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="../Channel/Logo/Киномикс.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Киномикс
+http://176.118.197.101/Kinomix/index.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="../Channel/Logo/Кинопоказ HD.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Кинопоказ
+http://tinyurl.com/TvZaTak37/Kinopokaz_HD/video.m3u8?token=freeportal&token=deooleg
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="../Channel/Logo/Кинопоказ HD.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Кинопоказ
+http://176.118.197.101/Kinopokaz/index.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="../Channel/Logo/Кинопоказ HD.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",КИНОПОКАЗ
+http://hls127.freeott.top:8080/Kinopokaz_HD/video.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="../Channel/Logo/Кинопоказ HD.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Кинопоказ HD
+http://hls127.freeott.top:8080/Kinopokaz_HD/mono.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="../Channel/Logo/Киносерия.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Киносерия
+http://tinyurl.com/TvZaTak37/Kinoseriya_HD/video.m3u8?token=freeportal&token=deooleg
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="../Channel/Logo/Киносерия.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Киносерия
+http://176.118.197.101/Kinoseria/index.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="../Channel/Logo/Киносерия.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",КИНОСЕРИЯ
+http://hls127.freeott.top:8080/Kinoseriya_HD/video.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://iptvx.one/picons/krasnaya-linia.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_krasnaya-linia" $ExtFilter="SuzuS TV2",Красная Линия
+https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00954.png?1740152333" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Кріпосна HD
+https://iptv.prosto.tv/id954/video.m3u8?secret=9mmgp99s&21yo=0
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Кіно та серіали+ HD
+http://cdnua03.hls.tv/476/hls/215247e3abee81b8339d3dc62acc6921/4867/stream.m3u8
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00720.png?1701340339" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Кіно та серіали+ HD
+https://iptv.prosto.tv/id720/video.m3u8?secret=9mmgp99s&21yo=0
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="../Channel/Logo/Наше любимое кино.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Любимое кино
+http://176.118.197.101/LubimoeKino/index.m3u8
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00919.png?1731567189" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Мелодрами HD
+https://iptv.prosto.tv/id919/video.m3u8?secret=9mmgp99s&21yo=0
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="../Channel/Logo/Мосфильм. Золотая коллекция.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Мосфильм. Золотая коллекция
+http://tinyurl.com/TvZaTak37/Mosfilm/video.m3u8?token=freeportal&token=deooleg
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="../Channel/Logo/Мосфильм. Золотая коллекция.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Мосфильм. Золотая коллекция
+http://hls127.freeott.top:8080/Mosfilm/mono.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="../Channel/Logo/Мультимания.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Мультимания
+http://sirius.greenhosting.ru/MultimaniaRu/video.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="../Channel/Logo/Наш кинопоказ.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Наш Киномир
+http://tinyurl.com/TvZaTak37/Nash_kinomir/mpegts?token=freeportal&token=ac8bfe09dbc1806372df3db29d651660
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="../Channel/Logo/Наш кинопоказ.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Наш Киномир
+http://hls127.freeott.top:8080/Nash_kinomir/video.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="../Channel/Logo/Наше ТВ.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Наше HD
+http://tinyurl.com/TvZaTak37/Nashe_HD/video.m3u8?token=freeportal&token=90aec2ed80f02cb9a95a899555997d0d
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="../Channel/Logo/Наше новое кино.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",НАШЕ НОВОЕ КИНО
+http://185.46.16.239:8000/Nickelodeon
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="../Channel/Logo/Наше новое кино.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Наше новое кино HD
+http://tinyurl.com/TvZaTak37/Nashe_Novoe_Kino_HD/video.m3u8?token=freeportal&token=1f3bbff14fb295b19d264ff7d63af35a
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://i.ibb.co/Mxv7fjsN/image-32.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Невский
+https://cdn-dvr.ntv.ru/Nevskiy/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="../Channel/Logo/НСТ.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",НСТ
+http://tinyurl.com/TvZaTak37/HCTV/video.m3u8?token=freeportal&token=deooleg
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="../Channel/Logo/НСТ.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",НСТ
+http://vod.tuva.ru/nst/index.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="../Channel/Logo/НСТ.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",НСТ
+http://hls127.freeott.top:8080/HCTV/mono.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="../Channel/Logo/НСТ.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",НСТ
+http://hls127.freeott.top:8080/HCTV/video.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://iptvx.one/picons/ntv-serial.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_ntv-serial" $ExtFilter="SuzuS TV2",НТВ Сериал
+https://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://iptvx.one/picons/ntv-serial.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_ntv-serial" $ExtFilter="SuzuS TV2",НТВ Сериал
+https://cdn.ntv.ru/th_serial/playlist.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://iptvx.one/picons/ntv-xit.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_ntv-xit" $ExtFilter="SuzuS TV2",НТВ Хит
+https://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://iptvx.one/picons/ntv-xit.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_ntv-xit" $ExtFilter="SuzuS TV2",НТВ Хит
+#EXTVLCOPT:http-user-agent=SmartTV
+http://cdn.ntv.ru/th_hit/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00855.png?1715757639" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Опер за викликом+ HD
+https://iptv.prosto.tv/id855/video.m3u8?secret=9mmgp99s&21yo=0
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://i.ibb.co/7tSd2XYf/image-31.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Первый Отдел
+https://cdn-dvr.ntv.ru/Perviy_otdel/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00952.png?1740151819" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Пес HD
+https://iptv.prosto.tv/id952/video.m3u8?secret=9mmgp99s&21yo=0
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://1lot.tv/ch/0121.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Премиальное HD
+http://tinyurl.com/TvZaTak41/c8df26fdcbfe7cbef51e6f50b09e35cf?token=128762f0bd32e94a005ad2b25d51fbd5&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="../Channel/Logo/Про любовь.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Про любовь
+http://tinyurl.com/TvZaTak37/ProLubovHD/video.m3u8?token=freeportal&token=deooleg
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="../Channel/Logo/Про любовь.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Про любовь
+http://hls127.freeott.top:8080/ProLubovHD/mono.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="../Channel/Logo/Про любовь.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Про Любовь HD
+http://hls127.freeott.top:8080/ProLubovHD/video.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://i.ibb.co/HpNJPkGR/image-47.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Пять минут тишины
+https://cdn-dvr.ntv.ru/5_minut_tishiny/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://i.ibb.co/nsjTTHm2/image-44.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Пёс
+https://cdn-dvr.ntv.ru/Pes/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="../Channel/Logo/Ретро ТВ.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Ретро
+http://176.118.197.101/Retro/index.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="../Channel/Logo/Родное кино.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Родное кино
+http://176.118.197.101/RodnoeKino/index.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые ♀ | ♂🍓Premium ♥💑💘💥" tvg-logo="../Channel/Logo/Русская ночь.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Русская ночь 18+
+http://tinyurl.com/TvZaTak37/Russkaya_Noch/manifest.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="../Channel/Logo/Русский иллюзион.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Русский иллюзион
+http://185.46.16.239:8000/Russkiy_Illyuzion
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="../Channel/Logo/Русский роман.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Русский роман
+http://185.46.16.239:8000/Russkiy_roman
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="../Channel/Logo/Русский роман.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Русский Роман
+http://vod.tuva.ru/rusroman/index.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://i.ibb.co/GQy7zrL6/image-24.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Сити Эдем - АвтоГид
+https://cityeden.catcast.tv/content/47515/index.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://i.ibb.co/hnbLNtF/image-21.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Сити Эдем - Бирма Play
+https://cityeden.catcast.tv/content/34100/index.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://i.ibb.co/S7nxTYbg/image-9.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Сити Эдем - КиноАрт
+https://cityeden.catcast.tv/content/38398/index.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://i.ibb.co/nq5vyFrh/image-11.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Сити Эдем - КиноДетектив
+https://cityeden.catcast.tv/content/41327/index.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://i.ibb.co/CKnJRBd0/image-12.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Сити Эдем - КиноДок
+https://cityeden.catcast.tv/content/38354/index.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://i.ibb.co/GQKpsxmC/image-14.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Сити Эдем - КиноДрама
+https://cityeden.catcast.tv/content/45269/index.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://i.ibb.co/qMrRd04Y/image-15.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Сити Эдем - КиноКлассика
+https://cityeden.catcast.tv/content/34185/index.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://i.ibb.co/KxqVmt9B/image-17.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Сити Эдем - КиноМистика
+https://cityeden.catcast.tv/content/40783/index.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://i.ibb.co/XxFPCHT6/image-18.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Сити Эдем - КиноФантастика
+https://cityeden.catcast.tv/content/45268/index.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://i.ibb.co/Zp0rStg2/image-19.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Сити Эдем - КиноЭкшен
+https://cityeden.catcast.tv/content/41333/index.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://i.ibb.co/SDGvD0bh/image-22.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Сити Эдем - Классическая Музыка
+https://cityeden.catcast.tv/content/47400/index.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://i.ibb.co/8D2Pnhd1/image-23.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Сити Эдем - Сиртаки ТВ
+https://cityeden.catcast.tv/content/46421/index.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://i.ibb.co/ynB5bFXQ/image-45.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Скорая помощь
+https://cdn-dvr.ntv.ru/Skoraja_pomosh/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://i.ibb.co/nMsMD0Q4/image-34.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Следствие вели...
+https://cdn-dvr.ntv.ru/sledstvie/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://i122.fastpic.org/big/2023/0603/9b/c9b9f8b6914f6c1456c356ccff97589b.png" tvg-id="f736135dfb80936a523d63c9a10f2613_Смотрим HD" $ExtFilter="SuzuS TV2",Смотрим
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://suzustv.clan.su/Logo/wo37spz.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Смотрим
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://i121.fastpic.org/big/2023/0110/46/4c20b6b7c8b6bc277120cad791ad1b46.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Смотрим Кино и сериалы HD
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v3a1/mono.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://suzustv.clan.su/Logo/u3lIkS8.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Союзмультфильм
+http://194.26.229.213/souzmultfilm/index.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://i.ibb.co/qZJGKb4/image-15.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",СССР Мульты
+https://live21.bozztv.com/giatvplayout7/ushba80/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://iptvx.one/picons/strk.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_strk" $ExtFilter="SuzuS TV2",СТРК HD
+http://sochinskayatrk.ru/hdtv/hls/CTPK_HD/playlist.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://iptvx.one/picons/strk.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_strk" $ExtFilter="SuzuS TV2",СТРК HD
+http://sochinskayatrk.ru/hdtv/hls/CTPK_400/playlist.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="../Channel/Logo/СТС Love.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",СТС Love
+http://tinyurl.com/TvZaTak37/CTC-LOVE/manifest.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="../Channel/Logo/Супер.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Супергерои
+http://86.57.209.210/Malish/index.m3u8
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Сімейні мелодрами+
+http://cdnua03.hls.tv/476/hls/215247e3abee81b8339d3dc62acc6921/4892/stream.m3u8
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" $ExtFilter="SuzuS TV2",Сімейні мелодрами+
+https://iptv.prosto.tv/id858/video.m3u8?secret=9mmgp99s&21yo=0
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://iptvx.one/picons/tvoyo-tv-hd.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_tvoyo-tv-hd" $ExtFilter="SuzuS TV2",Твоё ТВ HD
+http://tvoetv.space:8080/tvoetv/index.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://iptvx.one/picons/tvoyo-tv-hd.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_tvoyo-tv-hd" $ExtFilter="SuzuS TV2",Твоё ТВ HD
+https://tvoetv.space/tvoetv/video.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://i122.fastpic.org/big/2023/0805/8d/2a254e4e6a494c311f0a4536688e948d.png" tvg-id="f736135dfb80936a523d63c9a10f2613_ТВОЕ ТВ HD ЮМОР" $ExtFilter="SuzuS TV2",Твоё ТВ HD Юмор
+http://tvoetv.space:8080/tvoetv_humor/index.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://i122.fastpic.org/big/2023/0805/8d/2a254e4e6a494c311f0a4536688e948d.png" tvg-id="f736135dfb80936a523d63c9a10f2613_ТВОЕ ТВ HD ЮМОР" $ExtFilter="SuzuS TV2",Твоё ТВ HD Юмор
+http://tvoetv.space:8080/tvoetv_humor/video.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://catcast.tv/assets/no-logo.svg" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Телеканал Анди
+https://v2.catcast.tv/content/34114/index.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://catcast.tv/assets/no-logo.svg" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Телеканал Андийцы
+https://autopilot.catcast.tv/content/34114/index.m3u8
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00323.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",ТрейлерON
+https://iptv.prosto.tv/id323/video.m3u8?secret=9mmgp99s&21yo=0
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://i.ibb.co/CpYZFf54/image-38.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Ты супер !
+https://cdn-dvr.ntv.ru/Super/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" $ExtFilter="SuzuS TV2",УНІАН Серіал HD
+https://iptv.prosto.tv/id22/video.m3u8?secret=9mmgp99s&21yo=0
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="../Channel/Logo/Феникс плюс кино.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Феникс+Кино
+http://86.57.209.210/Fenix/index.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="../Channel/Logo/Хит HD.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Хит HD
+http://hls127.freeott.top:8080/XitHD/video.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://suzustv.clan.su/Logo/ExL2z8V.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Чип и Дейл
+http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://i.ibb.co/pBZQdVdM/image-30.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",Шеф
+https://cdn-dvr.ntv.ru/Shef/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://i.ibb.co/XfGVQMmB/image-4.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="SuzuS TV2",ԼԱՅՄ GOLD TV
+https://v2.catcast.tv/content/40546/index.m3u8
