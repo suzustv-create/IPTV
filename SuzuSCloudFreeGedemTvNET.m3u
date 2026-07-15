@@ -3983,7 +3983,7 @@ http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6946/index.m3u8
 http://s1putrso.otttv.pw/iptv/2EA55L4SUE4RH4/6946/index.m3u8
 #EXTINF:-1 group-title="Румыния | Romania" tvg-logo="http://epg.it999.ru/img/3688.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="UFLTV",ALFA OMEGA TV RO
 http://u2tp5zor.megatv.fun/iptv/AY99TNY7TTNU4N/6946/index.m3u8
-#EXTINF:-1 group-title="Poland 🇵🇱" tvg-id="simpleTVFakeEpgId" $ExtFilter="UFLTV",Alfa TVP
+#EXTINF:-1 group-title="Польша-(Пшекы) | Poland 🇵🇱" tvg-id="simpleTVFakeEpgId" $ExtFilter="UFLTV",Alfa TVP
 http://91.246.72.88:8000/play/a01t/index.m3u8
 #EXTINF:-1 group-title="International 🧙" tvg-logo="https://i.imgur.com/W6jg8iM.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="UFLTV",Alföld TV (1080p)
 https://cloudfront41.lexanetwork.com:1344/relay01/livestream006.sdp/playlist.m3u8
@@ -4287,7 +4287,7 @@ https://tdameritrade-vizio.amagi.tv/playlist.m3u8
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
 #EXTINF:-1 group-title="United States Gondom | AngloSaxons 🇬🇧" tvg-id="simpleTVFakeEpgId" $ExtFilter="UFLTV",AMGTV
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/chunklist.m3u8
-#EXTINF:-1 group-title="KINO+📺" tvg-id="simpleTVFakeEpgId" $ExtFilter="UFLTV",Amidia Hit HD
+#EXTINF:-1 group-title="Movies" tvg-id="simpleTVFakeEpgId" $ExtFilter="UFLTV",Amidia Hit HD
 http://194.152.35.17/amedia-hit/index.m3u8
 #EXTINF:-1 group-title="СТРАНЫ" tvg-logo="../Channel/Logo/Star Family HD.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="UFLTV",AMItv CA
 http://prokazov.ottolok.net/iptv/GEUL7CCKBHLXYN69ZHGZ3H5R/6533/index.m3u8
@@ -4481,7 +4481,7 @@ http://u2tp5zor.megatv.fun/iptv/AY99TNY7TTNU4N/7003/index.m3u8
 http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/7003/index.m3u8
 #EXTINF:-1 group-title="moldovenească" tvg-id="simpleTVFakeEpgId" $ExtFilter="UFLTV",Antena 3 HD RO
 http://s1putrso.otttv.pw/iptv/2EA55L4SUE4RH4/7003/index.m3u8
-#EXTINF:-1 group-title="Poland 🇵🇱" tvg-logo="../Channel/Logo/Shant news.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="UFLTV",ANTENA HD
+#EXTINF:-1 group-title="Польша-(Пшекы) | Poland 🇵🇱" tvg-logo="../Channel/Logo/Shant news.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="UFLTV",ANTENA HD
 http://91.246.72.88:8000/play/a005/index.m3u8
 #EXTINF:-1 group-title="Испания | Spain 🇪🇸 🇵🇹" tvg-id="simpleTVFakeEpgId" $ExtFilter="UFLTV",Antena Seis TV
 http://video1.azulstream.com:8080/antenaseistv/index.m3u8
@@ -7811,7 +7811,7 @@ http://s1putrso.otttv.pw/iptv/2EA55L4SUE4RH4/6432/index.m3u8
 http://194.26.229.213/chdtv_rock/index.m3u8
 #EXTINF:-1 group-title="🎧 Музыка 🔊🎶🎵🎸🎷" tvg-logo="https://i.ibb.co/Dfc5YFTK/image-2025-08-29-T172345-459.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="UFLTV",CHD TV RU ROCK
 http://194.26.229.213/chdtv_ru_rock/index.m3u8
-#EXTINF:-1 group-title="KINO+📺" tvg-logo="../Channel/Logo/Deutsche Welle.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="UFLTV",Che TV
+#EXTINF:-1 group-title="Movies" tvg-logo="../Channel/Logo/Deutsche Welle.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="UFLTV",Che TV
 http://194.152.35.17/che/index.m3u8
 #EXTINF:-1 group-title="РАЗВЛЕЧЕНИЕ" tvg-logo="../Channel/Logo/Deutsche Welle.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="UFLTV",Che!
 http://31148.rafail1982.uz/Che/index.m3u8
@@ -7909,7 +7909,7 @@ http://kewsiy0q.rostelekom.xyz/iptv/AQ6XNYBP9ZMSPN/5051/index.m3u8
 http://83.217.12.157:81/udp/239.1.1.97:1234
 #EXTINF:-1 group-title="Каналы 📡" tvg-logo="https://naggdd.github.io/iptv/logos/cinema.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_cinema-ru" $ExtFilter="UFLTV",Cinema
 http://stream-msk-06.ott.tricolor.tv/dtv/id423_MSKSG-PVR-1--Cinema/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc2MTY1NTM0MywiaHdpZCI6IjI4YzUzMGRkNTE5NmIwZjQ0ZjkyY2ZhN2RhODVkZDU2ZDE2ZTQ4YjRhZjU2MTA5NTk1YmExNmZkMjYyYzRmNTAiLCJsYXN0X3JlcV9kYXRlIjoxNzYxMDUwNTQzLCJzZXNzaW9uX2lkIjoiNTA2OTkxMzhmYzc4MTQ4N2U4MGNiMjkzNzQwOWM5M2QiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.ALDGjcG6WclyHhPxNmEKmRBz8ttTYCQ4XIW_AnWNhcM
-#EXTINF:-1 group-title="KINO+📺" tvg-logo="../Channel/Logo/Cinema.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_cinema-ru" $ExtFilter="UFLTV",Cinema
+#EXTINF:-1 group-title="Movies" tvg-logo="../Channel/Logo/Cinema.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_cinema-ru" $ExtFilter="UFLTV",Cinema
 http://194.152.35.17/cinema/index.m3u8
 #EXTINF:-1 group-title="moldovenească" tvg-logo="../Channel/Logo/Star Cinema HD.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="UFLTV",CINEMA 1 HD MD
 http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/19445/index.m3u8
@@ -10235,7 +10235,7 @@ https://live.artidijitalmedya.com/artidijital_estv/estv/playlist.m3u8
 http://eqatmiyg.megogo.xyz/iptv/VEXVELA6Z7PXH6/19172/index.m3u8
 #EXTINF:-1 group-title="🎧 Музыка 🔊🎶🎵🎸🎷" tvg-logo="http://i115.fastpic.org/big/2021/0923/78/6f3e7ab92878bd020fa862dc6c2c7578.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="UFLTV",Eska Rock TV PL
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8?user-4pda-denms-ru-v1-a1
-#EXTINF:-1 group-title="Poland 🇵🇱" tvg-logo="https://iptvx.one/picons/eskatv.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_eskatv" $ExtFilter="UFLTV",ESKA TV
+#EXTINF:-1 group-title="Польша-(Пшекы) | Poland 🇵🇱" tvg-logo="https://iptvx.one/picons/eskatv.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_eskatv" $ExtFilter="UFLTV",ESKA TV
 http://91.246.72.88:8000/play/a002/index.m3u8
 #EXTINF:-1 group-title="Спорт+" tvg-id="simpleTVFakeEpgId" $ExtFilter="UFLTV",ESP1 INT HD
 http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/20069/index.m3u8
@@ -11293,7 +11293,7 @@ http://filmtvgroup.hopto.org/FILM_TV_GROUP/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJh
 http://filmtvgroup.hopto.org/novosilkiTB/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjEwMDgwNzMsImV4cCI6MTc2MTA5NDQ3Mywic3ViIjoiQWRtaW4ifQ.q63jEFty3Ry19ORUfTNUPhkvCSFnFBk9mHhXIwaxgLQ
 #EXTINF:-1 group-title="📽 КиноПлюс ᴴᴰ" tvg-logo="http://filmtvgroup.site/uploads/logo.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="UFLTV",FILM TV MUSIC RETRO WAVE UA TV
 http://filmtvgroup.hopto.org/RETROWAVEUAtv/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjEwMDgwNzMsImV4cCI6MTc2MTA5NDQ3Mywic3ViIjoiQWRtaW4ifQ.q63jEFty3Ry19ORUfTNUPhkvCSFnFBk9mHhXIwaxgLQ
-#EXTINF:-1 group-title="KINO+📺" tvg-id="simpleTVFakeEpgId" $ExtFilter="UFLTV",FILM TV Кінозал
+#EXTINF:-1 group-title="Movies" tvg-id="simpleTVFakeEpgId" $ExtFilter="UFLTV",FILM TV Кінозал
 http://filmtvgroup.hopto.org/FILMTVKinozaL/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjEwMDgwNzMsImV4cCI6MTc2MTA5NDQ3Mywic3ViIjoiQWRtaW4ifQ.q63jEFty3Ry19ORUfTNUPhkvCSFnFBk9mHhXIwaxgLQ
 #EXTINF:-1 group-title="📽 КиноПлюс ᴴᴰ" tvg-logo="../Channel/Logo/FilmBox Arthouse.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="UFLTV",Film UA Drama
 http://88.99.215.227/FilmUADrama/index.m3u8
@@ -11479,7 +11479,7 @@ http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6789/index.m3u8
 http://prokazov.ottolok.net/iptv/GEUL7CCKBHLXYN69ZHGZ3H5R/6789/index.m3u8
 #EXTINF:-1 group-title="türk" tvg-id="simpleTVFakeEpgId" $ExtFilter="UFLTV",FM TV TR
 http://s1putrso.otttv.pw/iptv/2EA55L4SUE4RH4/6789/index.m3u8
-#EXTINF:-1 group-title="Poland 🇵🇱" tvg-id="simpleTVFakeEpgId" $ExtFilter="UFLTV",Fokus TV
+#EXTINF:-1 group-title="Польша-(Пшекы) | Poland 🇵🇱" tvg-id="simpleTVFakeEpgId" $ExtFilter="UFLTV",Fokus TV
 http://91.246.72.88:8000/play/a008/index.m3u8
 #EXTINF:-1 group-title="🎧 Музыка 🔊🎶🎵🎸🎷" tvg-logo="https://i.ibb.co/HpVjLN2t/image-2025-09-01-T193404-213.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="UFLTV",Folk Klub TV
 http://tv1.intv.mk:1935/live2/folkklub/index.m3u8
@@ -14915,7 +14915,7 @@ http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6088/index.m3u8
 http://s1putrso.otttv.pw/iptv/2EA55L4SUE4RH4/6088/index.m3u8
 #EXTINF:-1 group-title="🎧 Музыка 🔊🎶🎵🎸🎷" tvg-logo="https://iptvx.one/picons/kinopolskamuz.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_kinopolskamuz" $ExtFilter="UFLTV",KINO POLSKA MUZYKA
 http://mains.services/live/0228902066/tc674KJ3du/ec21b706-56e2-4fb9-a014-7997ea52ed72.m3u
-#EXTINF:-1 group-title="KINO+📺" tvg-logo="../Channel/Logo/Kino 24.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_kino-tv-pl" $ExtFilter="UFLTV",Kino TV
+#EXTINF:-1 group-title="Movies" tvg-logo="../Channel/Logo/Kino 24.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_kino-tv-pl" $ExtFilter="UFLTV",Kino TV
 http://194.152.35.17/kino-tv/index.m3u8
 #EXTINF:-1 group-title="HD" tvg-id="simpleTVFakeEpgId" $ExtFilter="UFLTV",kino watch тв Свежаки HD
 http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/18197/index.m3u8
@@ -18493,7 +18493,7 @@ http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/2519/index.m3u8
 http://prokazov.ottolok.net/iptv/GEUL7CCKBHLXYN69ZHGZ3H5R/2519/index.m3u8
 #EXTINF:-1 group-title="Спорт+" tvg-id="simpleTVFakeEpgId" $ExtFilter="UFLTV",nSport+ PL
 http://s1putrso.otttv.pw/iptv/2EA55L4SUE4RH4/2519/index.m3u8
-#EXTINF:-1 group-title="KINO+📺" tvg-id="simpleTVFakeEpgId" $ExtFilter="UFLTV",NST
+#EXTINF:-1 group-title="Movies" tvg-id="simpleTVFakeEpgId" $ExtFilter="UFLTV",NST
 http://178.134.1.158:8081/nst/index.m3u8?token=tva.in.ua
 #EXTINF:-1 group-title="Каналы 📡" tvg-id="simpleTVFakeEpgId" $ExtFilter="UFLTV",NST (576p)
 https://vod.tuva.ru/nst/index.m3u8
@@ -19397,9 +19397,9 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64be64445dc166000899ce75/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84aec796-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=813b79c7-b5ab-4408-ae58-2c80c52c7f3a
 #EXTINF:-1 group-title="Германия | Germany 🇩🇪" tvg-id="simpleTVFakeEpgId" $ExtFilter="UFLTV",Polizeiserien
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64be64445dc166000899ce75/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc85a134-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4c0ec0b3-ba68-46bb-9506-636d3ab2a044
-#EXTINF:-1 group-title="Poland 🇵🇱" tvg-logo="https://iptvx.one/picons/polo-tv-pl.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_polo-tv-pl" $ExtFilter="UFLTV",Polo TV
+#EXTINF:-1 group-title="Польша-(Пшекы) | Poland 🇵🇱" tvg-logo="https://iptvx.one/picons/polo-tv-pl.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_polo-tv-pl" $ExtFilter="UFLTV",Polo TV
 http://91.246.72.88:8000/play/a004/index.m3u8
-#EXTINF:-1 group-title="Poland 🇵🇱" tvg-logo="https://iptvx.one/picons/polsat.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_polsat" $ExtFilter="UFLTV",Polsat
+#EXTINF:-1 group-title="Польша-(Пшекы) | Poland 🇵🇱" tvg-logo="https://iptvx.one/picons/polsat.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_polsat" $ExtFilter="UFLTV",Polsat
 http://91.246.72.88:8000/play/a00b/index.m3u8
 #EXTINF:-1 group-title="HD" tvg-id="simpleTVFakeEpgId" $ExtFilter="UFLTV",Polsat 2 HD PL
 http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6084/index.m3u8
@@ -19427,7 +19427,7 @@ http://s1putrso.otttv.pw/iptv/2EA55L4SUE4RH4/7295/index.m3u8
 http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/7299/index.m3u8
 #EXTINF:-1 group-title="Другие" tvg-id="simpleTVFakeEpgId" $ExtFilter="UFLTV",Polsat HD PL
 http://s1putrso.otttv.pw/iptv/2EA55L4SUE4RH4/7299/index.m3u8
-#EXTINF:-1 group-title="Poland 🇵🇱" tvg-id="simpleTVFakeEpgId" $ExtFilter="UFLTV",Polsat News Polityka
+#EXTINF:-1 group-title="Польша-(Пшекы) | Poland 🇵🇱" tvg-id="simpleTVFakeEpgId" $ExtFilter="UFLTV",Polsat News Polityka
 http://91.246.72.88:8000/play/a016/index.m3u8
 #EXTINF:-1 group-title="HD" tvg-id="simpleTVFakeEpgId" $ExtFilter="UFLTV",Polsat Play HD PL
 http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6087/index.m3u8
@@ -19883,7 +19883,7 @@ http://s1putrso.otttv.pw/iptv/2EA55L4SUE4RH4/2450/index.m3u8
 http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/19444/index.m3u8
 #EXTINF:-1 group-title="moldovenească" tvg-id="simpleTVFakeEpgId" $ExtFilter="UFLTV",Publika TV HD MD
 http://s1putrso.otttv.pw/iptv/2EA55L4SUE4RH4/19444/index.m3u8
-#EXTINF:-1 group-title="Poland 🇵🇱" tvg-id="simpleTVFakeEpgId" $ExtFilter="UFLTV",PULS 2
+#EXTINF:-1 group-title="Польша-(Пшекы) | Poland 🇵🇱" tvg-id="simpleTVFakeEpgId" $ExtFilter="UFLTV",PULS 2
 http://91.246.72.88:8000/play/a00g/index.m3u8
 #EXTINF:-1 group-title="ქართული" tvg-id="simpleTVFakeEpgId" $ExtFilter="UFLTV",Puls GE
 http://s1putrso.otttv.pw/iptv/2EA55L4SUE4RH4/7159/index.m3u8
@@ -24401,7 +24401,7 @@ https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u
 https://lotus.stingray.com/manifest/ose-232ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-id="simpleTVFakeEpgId" $ExtFilter="UFLTV",Stingray Época Dorada Delcine Mexicano
 https://lotus.stingray.com/manifest/ose-219ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="Poland 🇵🇱" tvg-id="simpleTVFakeEpgId" $ExtFilter="UFLTV",Stopklatka TV
+#EXTINF:-1 group-title="Польша-(Пшекы) | Poland 🇵🇱" tvg-id="simpleTVFakeEpgId" $ExtFilter="UFLTV",Stopklatka TV
 http://91.246.72.88:8000/play/a007/index.m3u8
 #EXTINF:-1 group-title="International 🧙" tvg-logo="https://i.imgur.com/QJtwJoS.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="UFLTV",Stories by AMC
 https://amc-amcpresents-1-us.xumo.wurl.tv/playlist.m3u8
@@ -24521,7 +24521,7 @@ http://tinyurl.com/deoTVoleg/id462/video.m3u8?secret=564q30t5&21yo=0?|User-Agent
 https://live.obslivestream.com/supercanal/index.m3u8
 #EXTINF:-1 group-title="Франция | France 🇫🇷" tvg-logo="../Channel/Logo/Super Tennis.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="UFLTV",Super Kids
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/652557d93fd33c000802f995/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e072636-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3cdbfc7d-6e82-40c4-be54-7974658b4cc2
-#EXTINF:-1 group-title="Poland 🇵🇱" tvg-logo="../Channel/Logo/Super Tennis.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_super-polsat" $ExtFilter="UFLTV",Super Polsat
+#EXTINF:-1 group-title="Польша-(Пшекы) | Poland 🇵🇱" tvg-logo="../Channel/Logo/Super Tennis.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_super-polsat" $ExtFilter="UFLTV",Super Polsat
 http://91.246.72.88:8000/play/a00i/index.m3u8
 #EXTINF:-1 group-title="HD" tvg-logo="../Channel/Logo/Super Tennis.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="UFLTV",SUPER POLSAT HD PL
 http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6109/index.m3u8
@@ -26143,7 +26143,7 @@ https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 http://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8
 #EXTINF:-1 group-title="🎧 Музыка 🔊🎶🎵🎸🎷" tvg-logo="https://i.ibb.co/XxtrS56s/image-2025-07-09-T093607-208.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="UFLTV",TSN Visual Radio
 https://189790-castr.akamaized.net/633d685a281cd401ae82c2f7/live_3d0ad040b69311edbdfe833877bb03e2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Poland 🇵🇱" tvg-logo="../Channel/Logo/RTTV HD.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="UFLTV",TTV
+#EXTINF:-1 group-title="Польша-(Пшекы) | Poland 🇵🇱" tvg-logo="../Channel/Logo/RTTV HD.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="UFLTV",TTV
 http://91.246.72.88:8000/play/a003/index.m3u8
 #EXTINF:-1 group-title="👁‍🗨 ☞ꀤᖘ꓄ᐯ-CloudSimpleTV ® ☜" tvg-id="simpleTVFakeEpgId" $ExtFilter="UFLTV",TUGAN TEL
 https://s05.watcher.uz/95/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
@@ -26547,7 +26547,7 @@ http://u2tp5zor.megatv.fun/iptv/AY99TNY7TTNU4N/6955/index.m3u8
 https://5929b138b139d.streamlock.net/12TVParma/livestream/chunklist.m3u8
 #EXTINF:-1 group-title="ქართული" tvg-logo="../Channel/Logo/MTV Dance_.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="UFLTV",TV Pirveli
 http://s1putrso.otttv.pw/iptv/2EA55L4SUE4RH4/7174/index.m3u8
-#EXTINF:-1 group-title="Poland 🇵🇱" tvg-logo="../Channel/Logo/MTV 80s.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_tv-puls" $ExtFilter="UFLTV",TV Puls
+#EXTINF:-1 group-title="Польша-(Пшекы) | Poland 🇵🇱" tvg-logo="../Channel/Logo/MTV 80s.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_tv-puls" $ExtFilter="UFLTV",TV Puls
 http://91.246.72.88:8000/play/a00e/index.m3u8
 #EXTINF:-1 group-title="👁‍🗨 ☞ꀤᖘ꓄ᐯ-CloudSimpleTV ® ☜" tvg-id="simpleTVFakeEpgId" $ExtFilter="UFLTV",TV Qui Modena
 http://59d7d6f47d7fc.streamlock.net/tvqui/tvqui/playlist.m3u8
@@ -26583,7 +26583,7 @@ https://streamer1.streamhost.org/salive/GMI3anjoh/playlist.m3u8
 http://217.173.176.107:1935/live/ngrp:tvk.stream_all/master.m3u8
 #EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="../Channel/Logo/MTV Club.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="UFLTV",TV Torun
 http://217.173.176.107:1935/live/tvk.stream/playlist.m3u8
-#EXTINF:-1 group-title="Poland 🇵🇱" tvg-logo="../Channel/Logo/MTV Club.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="UFLTV",TV Trwam
+#EXTINF:-1 group-title="Польша-(Пшекы) | Poland 🇵🇱" tvg-logo="../Channel/Logo/MTV Club.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="UFLTV",TV Trwam
 http://91.246.72.88:8000/play/a006/index.m3u8
 #EXTINF:-1 group-title="👁‍🗨 ☞ꀤᖘ꓄ᐯ-CloudSimpleTV ® ☜" tvg-id="simpleTVFakeEpgId" $ExtFilter="UFLTV",TV Universal
 http://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/chunklist_c32b30eb-5880-4020-b89f-7e7c2ac01405.m3u8
@@ -26863,7 +26863,7 @@ http://u2tp5zor.megatv.fun/iptv/AY99TNY7TTNU4N/12100/index.m3u8
 https://live.artidijitalmedya.com/artidijital_tv3/tv3/playlist.m3u8
 #EXTINF:-1 group-title="Разное 🎭" tvg-id="simpleTVFakeEpgId" $ExtFilter="UFLTV",TV3V
 http://tv3v.live-kd.com/live/tv3v/livestream/playlist.m3u8
-#EXTINF:-1 group-title="Poland 🇵🇱" tvg-id="simpleTVFakeEpgId" $ExtFilter="UFLTV",TV4
+#EXTINF:-1 group-title="Польша-(Пшекы) | Poland 🇵🇱" tvg-id="simpleTVFakeEpgId" $ExtFilter="UFLTV",TV4
 http://91.246.72.88:8000/play/a00d/index.m3u8
 #EXTINF:-1 group-title="Другие" tvg-id="simpleTVFakeEpgId" $ExtFilter="UFLTV",TV4 HD LV
 http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/18026/index.m3u8
@@ -26897,7 +26897,7 @@ https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccda
 http://prokazov.ottolok.net/iptv/GEUL7CCKBHLXYN69ZHGZ3H5R/6712/index.m3u8
 #EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-id="simpleTVFakeEpgId" $ExtFilter="UFLTV",TV5MONDE EUROPE
 http://62.32.84.50:18000/play/a0ef/index.m3u8
-#EXTINF:-1 group-title="Poland 🇵🇱" tvg-id="simpleTVFakeEpgId" $ExtFilter="UFLTV",TV6
+#EXTINF:-1 group-title="Польша-(Пшекы) | Poland 🇵🇱" tvg-id="simpleTVFakeEpgId" $ExtFilter="UFLTV",TV6
 http://91.246.72.88:8000/play/a00h/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵" tvg-id="simpleTVFakeEpgId" $ExtFilter="UFLTV",TV6 (Литва)
 http://stream.mcquack.net/375/index.m3u8
@@ -27115,13 +27115,13 @@ http://tvm3.vedge.infomaniak.com/livecast/tvm3/playlist.m3u8
 https://60417ddeaf0d9.streamlock.net/telemetrika3/telemetrika3.smil/.m3u8
 #EXTINF:-1 group-title="Mexico | Муксика" tvg-logo="https://i.imgur.com/15kcNRb.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="UFLTV",TVMÁS (XHGV-TDT) (360p) [Not 24/7]
 https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
-#EXTINF:-1 group-title="Poland 🇵🇱" tvg-logo="https://iptvx.one/picons/tvn-pl.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_tvn-pl" $ExtFilter="UFLTV",TVN
+#EXTINF:-1 group-title="Польша-(Пшекы) | Poland 🇵🇱" tvg-logo="https://iptvx.one/picons/tvn-pl.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_tvn-pl" $ExtFilter="UFLTV",TVN
 http://91.246.72.88:8000/play/a00c/index.m3u8
 #EXTINF:-1 group-title="Другие" tvg-id="simpleTVFakeEpgId" $ExtFilter="UFLTV",TVN 24 FHD PL
 http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/7288/index.m3u8
 #EXTINF:-1 group-title="Другие" tvg-id="simpleTVFakeEpgId" $ExtFilter="UFLTV",TVN 24 FHD PL
 http://s1putrso.otttv.pw/iptv/2EA55L4SUE4RH4/7288/index.m3u8
-#EXTINF:-1 group-title="Poland 🇵🇱" tvg-logo="https://iptvx.one/picons/tvn7-pl.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_tvn7-pl" $ExtFilter="UFLTV",TVN 7
+#EXTINF:-1 group-title="Польша-(Пшекы) | Poland 🇵🇱" tvg-logo="https://iptvx.one/picons/tvn7-pl.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_tvn7-pl" $ExtFilter="UFLTV",TVN 7
 http://91.246.72.88:8000/play/a00f/index.m3u8
 #EXTINF:-1 group-title="Другие" tvg-id="simpleTVFakeEpgId" $ExtFilter="UFLTV",TVN 7 HD PL
 http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/7279/index.m3u8
@@ -27163,13 +27163,13 @@ http://s1putrso.otttv.pw/iptv/2EA55L4SUE4RH4/7284/index.m3u8
 http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/20078/index.m3u8
 #EXTINF:-1 group-title="4K" tvg-logo="https://iptvx.one/picons/tvp-hd.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_tvp-hd" $ExtFilter="UFLTV",TVP 4k
 http://s1putrso.otttv.pw/iptv/2EA55L4SUE4RH4/20078/index.m3u8
-#EXTINF:-1 group-title="Poland 🇵🇱" tvg-logo="https://iptvx.one/picons/tvp-abc.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_tvp-abc" $ExtFilter="UFLTV",TVP ABC
+#EXTINF:-1 group-title="Польша-(Пшекы) | Poland 🇵🇱" tvg-logo="https://iptvx.one/picons/tvp-abc.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_tvp-abc" $ExtFilter="UFLTV",TVP ABC
 http://91.246.72.88:8000/play/a00r/index.m3u8
 #EXTINF:-1 group-title="Mexico | Муксика" tvg-logo="https://i.imgur.com/uX1S3kt.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="UFLTV",TVP Culiacán (720p) [Not 24/7]
 https://5ca3e84a76d30.streamlock.net/gpacifico1/smil:gpculiacan.smil/playlist.m3u8
-#EXTINF:-1 group-title="Poland 🇵🇱" tvg-logo="https://iptvx.one/picons/tvp-dokument.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_tvp-dokument" $ExtFilter="UFLTV",TVP Dokument
+#EXTINF:-1 group-title="Польша-(Пшекы) | Poland 🇵🇱" tvg-logo="https://iptvx.one/picons/tvp-dokument.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_tvp-dokument" $ExtFilter="UFLTV",TVP Dokument
 http://91.246.72.88:8000/play/a01x/index.m3u8
-#EXTINF:-1 group-title="Poland 🇵🇱" tvg-logo="https://iptvx.one/picons/tvp-historia.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_tvp-historia" $ExtFilter="UFLTV",TVP Historia
+#EXTINF:-1 group-title="Польша-(Пшекы) | Poland 🇵🇱" tvg-logo="https://iptvx.one/picons/tvp-historia.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_tvp-historia" $ExtFilter="UFLTV",TVP Historia
 http://91.246.72.88:8000/play/a00o/index.m3u8
 #EXTINF:-1 group-title="Другие" tvg-id="simpleTVFakeEpgId" $ExtFilter="UFLTV",TVP Historia PL
 http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/7283/index.m3u8
@@ -27177,31 +27177,31 @@ http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/7283/index.m3u8
 http://s1putrso.otttv.pw/iptv/2EA55L4SUE4RH4/7283/index.m3u8
 #EXTINF:-1 group-title="Другие" tvg-logo="https://iptvx.one/picons/tvp-info.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_tvp-info" $ExtFilter="UFLTV",TVP Info
 http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/961/index.m3u8
-#EXTINF:-1 group-title="Poland 🇵🇱" tvg-logo="https://iptvx.one/picons/tvp-info.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_tvp-info" $ExtFilter="UFLTV",TVP Info
+#EXTINF:-1 group-title="Польша-(Пшекы) | Poland 🇵🇱" tvg-logo="https://iptvx.one/picons/tvp-info.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_tvp-info" $ExtFilter="UFLTV",TVP Info
 http://91.246.72.88:8000/play/a00q/index.m3u8
 #EXTINF:-1 group-title="Другие" tvg-logo="https://iptvx.one/picons/tvp-info.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_tvp-info" $ExtFilter="UFLTV",TVP Info
 http://s1putrso.otttv.pw/iptv/2EA55L4SUE4RH4/961/index.m3u8
-#EXTINF:-1 group-title="Poland 🇵🇱" tvg-logo="https://iptvx.one/picons/tvp-kobieta.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_tvp-kobieta" $ExtFilter="UFLTV",TVP Kobieta
+#EXTINF:-1 group-title="Польша-(Пшекы) | Poland 🇵🇱" tvg-logo="https://iptvx.one/picons/tvp-kobieta.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_tvp-kobieta" $ExtFilter="UFLTV",TVP Kobieta
 http://91.246.72.88:8000/play/a01v/index.m3u8
-#EXTINF:-1 group-title="Poland 🇵🇱" tvg-logo="https://iptvx.one/picons/tvp-kultura.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_tvp-kultura" $ExtFilter="UFLTV",TVP Kultura
+#EXTINF:-1 group-title="Польша-(Пшекы) | Poland 🇵🇱" tvg-logo="https://iptvx.one/picons/tvp-kultura.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_tvp-kultura" $ExtFilter="UFLTV",TVP Kultura
 http://91.246.72.88:8000/play/a00n/index.m3u8
 #EXTINF:-1 group-title="Mexico | Муксика" tvg-logo="https://i.imgur.com/uX1S3kt.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="UFLTV",TVP Los Mochis (720p) [Not 24/7]
 https://5ca3e84a76d30.streamlock.net/gpacifico2/mochis.smil/playlist.m3u8
 #EXTINF:-1 group-title="Mexico | Муксика" tvg-logo="https://i.imgur.com/uX1S3kt.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="UFLTV",TVP Mazatlán (720p) [Not 24/7]
 https://5ca3e84a76d30.streamlock.net/gpacifico4/smil:mazatlan.smil/playlist.m3u8
-#EXTINF:-1 group-title="Poland 🇵🇱" tvg-logo="https://iptvx.one/picons/tvp-nauka.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_tvp-nauka" $ExtFilter="UFLTV",TVP Nauka
+#EXTINF:-1 group-title="Польша-(Пшекы) | Poland 🇵🇱" tvg-logo="https://iptvx.one/picons/tvp-nauka.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_tvp-nauka" $ExtFilter="UFLTV",TVP Nauka
 http://91.246.72.88:8000/play/a01z/index.m3u8
 #EXTINF:-1 group-title="Mexico | Муксика" tvg-logo="https://i.imgur.com/uX1S3kt.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="UFLTV",TVP Obregón (720p) [Not 24/7]
 https://5ca3e84a76d30.streamlock.net/gpacifico3/obregon.smil/playlist.m3u8
-#EXTINF:-1 group-title="Poland 🇵🇱" tvg-logo="https://iptvx.one/picons/tvp-polonia.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_tvp-polonia" $ExtFilter="UFLTV",TVP Polonia
+#EXTINF:-1 group-title="Польша-(Пшекы) | Poland 🇵🇱" tvg-logo="https://iptvx.one/picons/tvp-polonia.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_tvp-polonia" $ExtFilter="UFLTV",TVP Polonia
 http://91.246.72.88:8000/play/a01u/index.m3u8
 #EXTINF:-1 group-title="Другие" tvg-id="simpleTVFakeEpgId" $ExtFilter="UFLTV",TVP Polonia PL
 http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/7282/index.m3u8
 #EXTINF:-1 group-title="Другие" tvg-id="simpleTVFakeEpgId" $ExtFilter="UFLTV",TVP Polonia PL
 http://s1putrso.otttv.pw/iptv/2EA55L4SUE4RH4/7282/index.m3u8
-#EXTINF:-1 group-title="Poland 🇵🇱" tvg-logo="https://iptvx.one/picons/tvp-rozrywka.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_tvp-rozrywka" $ExtFilter="UFLTV",TVP Rozrywka
+#EXTINF:-1 group-title="Польша-(Пшекы) | Poland 🇵🇱" tvg-logo="https://iptvx.one/picons/tvp-rozrywka.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_tvp-rozrywka" $ExtFilter="UFLTV",TVP Rozrywka
 http://91.246.72.88:8000/play/a01y/index.m3u8
-#EXTINF:-1 group-title="Poland 🇵🇱" tvg-logo="https://iptvx.one/picons/tvp-sport.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_tvp-sport" $ExtFilter="UFLTV",TVP Sport
+#EXTINF:-1 group-title="Польша-(Пшекы) | Poland 🇵🇱" tvg-logo="https://iptvx.one/picons/tvp-sport.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_tvp-sport" $ExtFilter="UFLTV",TVP Sport
 http://91.246.72.88:8000/play/a00p/index.m3u8
 #EXTINF:-1 group-title="Спорт+" tvg-id="simpleTVFakeEpgId" $ExtFilter="UFLTV",TVP Sport FHD PL
 http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/7280/index.m3u8
@@ -27215,13 +27215,13 @@ http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/2520/index.m3u8
 http://prokazov.ottolok.net/iptv/GEUL7CCKBHLXYN69ZHGZ3H5R/2520/index.m3u8
 #EXTINF:-1 group-title="Спорт+" tvg-id="simpleTVFakeEpgId" $ExtFilter="UFLTV",TVP Sport HD PL
 http://s1putrso.otttv.pw/iptv/2EA55L4SUE4RH4/2520/index.m3u8
-#EXTINF:-1 group-title="Poland 🇵🇱" tvg-logo="https://iptvx.one/picons/tvp-world.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_tvp-world" $ExtFilter="UFLTV",TVP World
+#EXTINF:-1 group-title="Польша-(Пшекы) | Poland 🇵🇱" tvg-logo="https://iptvx.one/picons/tvp-world.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_tvp-world" $ExtFilter="UFLTV",TVP World
 http://91.246.72.88:8000/play/a020/index.m3u8
-#EXTINF:-1 group-title="Poland 🇵🇱" tvg-logo="https://iptvx.one/picons/tvp1.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_tvp1" $ExtFilter="UFLTV",TVP1
+#EXTINF:-1 group-title="Польша-(Пшекы) | Poland 🇵🇱" tvg-logo="https://iptvx.one/picons/tvp1.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_tvp1" $ExtFilter="UFLTV",TVP1
 http://91.246.72.88:8000/play/a00k/index.m3u8
-#EXTINF:-1 group-title="Poland 🇵🇱" tvg-logo="https://iptvx.one/picons/tvp2.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_tvp2" $ExtFilter="UFLTV",TVP2
+#EXTINF:-1 group-title="Польша-(Пшекы) | Poland 🇵🇱" tvg-logo="https://iptvx.one/picons/tvp2.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_tvp2" $ExtFilter="UFLTV",TVP2
 http://91.246.72.88:8000/play/a00l/index.m3u8
-#EXTINF:-1 group-title="Poland 🇵🇱" tvg-id="simpleTVFakeEpgId" $ExtFilter="UFLTV",TVP3 Rzeszow
+#EXTINF:-1 group-title="Польша-(Пшекы) | Poland 🇵🇱" tvg-id="simpleTVFakeEpgId" $ExtFilter="UFLTV",TVP3 Rzeszow
 http://91.246.72.88:8000/play/a00m/index.m3u8
 #EXTINF:-1 group-title="Румыния | Romania" tvg-id="simpleTVFakeEpgId" $ExtFilter="UFLTV",TVPlus Suceava
 http://85.186.146.34:8080
@@ -28729,13 +28729,13 @@ http://ottlinks.club/hls/7jic59vkp2tz/103.m3u8
 http://kewsiy0q.rostelekom.xyz/iptv/AQ6XNYBP9ZMSPN/132/index.m3u8
 #EXTINF:-1 group-title="🎞️ TEST udp" tvg-logo="https://iptvx.one/picons/tv1000.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_tv1000" $ExtFilter="UFLTV",viju TV1000
 http://109.70.186.82:9090/udp/239.185.1.4:1234
-#EXTINF:-1 group-title="KINO+📺" tvg-logo="https://iptvx.one/picons/tv1000.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_tv1000" $ExtFilter="UFLTV",viju TV1000
+#EXTINF:-1 group-title="Movies" tvg-logo="https://iptvx.one/picons/tv1000.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_tv1000" $ExtFilter="UFLTV",viju TV1000
 http://178.134.1.158:8081/tv1000/index.m3u8?token=tva.in.ua
-#EXTINF:-1 group-title="KINO+📺" tvg-logo="https://iptvx.one/picons/tv1000.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_tv1000" $ExtFilter="UFLTV",viju TV1000
+#EXTINF:-1 group-title="Movies" tvg-logo="https://iptvx.one/picons/tv1000.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_tv1000" $ExtFilter="UFLTV",viju TV1000
 http://178.134.1.158:8081/tv1000action/index.m3u8?token=tva.in.ua
-#EXTINF:-1 group-title="KINO+📺" tvg-logo="https://iptvx.one/picons/tv1000.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_tv1000" $ExtFilter="UFLTV",viju TV1000
+#EXTINF:-1 group-title="Movies" tvg-logo="https://iptvx.one/picons/tv1000.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_tv1000" $ExtFilter="UFLTV",viju TV1000
 http://178.134.120.75:8081/tv1000/index.m3u8
-#EXTINF:-1 group-title="KINO+📺" tvg-logo="https://iptvx.one/picons/tv1000.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_tv1000" $ExtFilter="UFLTV",viju TV1000
+#EXTINF:-1 group-title="Movies" tvg-logo="https://iptvx.one/picons/tv1000.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_tv1000" $ExtFilter="UFLTV",viju TV1000
 http://178.134.120.75:8081/tv1000/index.m3u8?token=tva.in.ua
 #EXTINF:-1 group-title="Разное 🎭" tvg-logo="http://epg.one/img/127.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_tv1000" $ExtFilter="UFLTV",Viju TV1000
 https://telluri.ru/video/vj/5107.m3u8
@@ -28771,7 +28771,7 @@ http://ud5j3fyx.rostelekom.xyz/iptv/HH856FPH8XVA9F/6387/index.m3u8
 http://kewsiy0q.rostelekom.xyz/iptv/AQ6XNYBP9ZMSPN/9058/index.m3u8
 #EXTINF:-1 group-title="Нестабильные 😩" tvg-logo="https://iptvx.one/picons/tv1000.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_tv1000" $ExtFilter="UFLTV",Viju TV1000 orig
 http://kewsiy0q.rostelekom.xyz/iptv/AQ6XNYBP9ZMSPN/9235/index.m3u8
-#EXTINF:-1 group-title="KINO+📺" tvg-id="simpleTVFakeEpgId" $ExtFilter="UFLTV",viju TV1000 R Kino
+#EXTINF:-1 group-title="Movies" tvg-id="simpleTVFakeEpgId" $ExtFilter="UFLTV",viju TV1000 R Kino
 http://158.101.222.193:88/georgia_play.php?id=tv1000rukino
 #EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="https://iptvx.one/picons/viju-tv1000-romantica.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_viju-tv1000-romantica" $ExtFilter="UFLTV",Viju TV1000 Romantica
 https://telluri.ru/video/vj/3111.m3u8
@@ -29435,7 +29435,7 @@ https://tv2.fastcast4u.com:3943/stream/play.m3u8
 http://37c18028.akadatel.com/iptv/T6XNCP6L7LLKPD/1088/mpegts
 #EXTINF:-1 group-title="Mexico | Муксика" tvg-logo="https://i.imgur.com/Qs4szHD.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="UFLTV",WWXY-DT1 (Boricua TV) (1080p)
 https://2-fss-2.streamhoster.com/pl_138/amlst:201284-1347630/playlist.m3u8
-#EXTINF:-1 group-title="Poland 🇵🇱" tvg-logo="https://iptvx.one/picons/wydarzenia-24.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_wydarzenia-24" $ExtFilter="UFLTV",Wydarzenia 24
+#EXTINF:-1 group-title="Польша-(Пшекы) | Poland 🇵🇱" tvg-logo="https://iptvx.one/picons/wydarzenia-24.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_wydarzenia-24" $ExtFilter="UFLTV",Wydarzenia 24
 http://91.246.72.88:8000/play/a009/index.m3u8
 #EXTINF:-1 group-title="Германия | Germany 🇩🇪" tvg-id="simpleTVFakeEpgId" $ExtFilter="UFLTV",X-Factor: Das Unfassbare
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/642d7e029189ce0008958af5/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b21d080-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=41684c81-e96d-4d50-865f-cb932d6c290f
@@ -32333,7 +32333,7 @@ http://s1putrso.otttv.pw/iptv/2EA55L4SUE4RH4/19236/index.m3u8
 http://u2tp5zor.megatv.fun/iptv/AY99TNY7TTNU4N/19236/index.m3u8
 #EXTINF:-1 group-title="Каналы 📡" tvg-id="simpleTVFakeEpgId" $ExtFilter="UFLTV",Евразия (Орск) (720p)
 https://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8
-#EXTINF:-1 group-title="KINO+📺" tvg-logo="../Channel/Logo/Еврокино.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="UFLTV",Евро кино
+#EXTINF:-1 group-title="Movies" tvg-logo="../Channel/Logo/Еврокино.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="UFLTV",Евро кино
 http://31.148.48.15/Evrokino/tracks-v1a1/mono.m3u8?token=iptv.org.ua
 #EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="../Channel/Logo/Еврокино.png" tvg-id="e10432067b0942800a78cadacc6c7675_ttv25952" $ExtFilter="UFLTV",Еврокино
 http://185.46.16.239:8000/Yevrokino
@@ -40945,7 +40945,7 @@ http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/9292/index.m3u8
 http://s1putrso.otttv.pw/iptv/2EA55L4SUE4RH4/9292/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="http://epg.it999.ru/img/2762.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_texno-24" $ExtFilter="UFLTV",Т24 orig
 http://u2tp5zor.megatv.fun/iptv/AY99TNY7TTNU4N/9292/index.m3u8
-#EXTINF:-1 group-title="KINO+📺" tvg-id="simpleTVFakeEpgId" $ExtFilter="UFLTV",ТV3
+#EXTINF:-1 group-title="Movies" tvg-id="simpleTVFakeEpgId" $ExtFilter="UFLTV",ТV3
 http://176.118.197.101/TB3/index.m3u8
 #EXTINF:-1 group-title="Федеральные" tvg-logo="https://i.ibb.co/wrWC1gKw/image-56.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="UFLTV",ТVоя Тюмень
 https://rt-ural-tum-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TVOYATUMEN/variant.m3u8
@@ -41133,7 +41133,7 @@ http://46.32.176.50/tv3/index.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
 #EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="https://iptvx.one/picons/tv3-ru.png" tvg-id="e10432067b0942800a78cadacc6c7675_ttv411" $ExtFilter="UFLTV",ТВ3
 http://185.46.16.239:8000/TV3
-#EXTINF:-1 group-title="KINO+📺" tvg-logo="https://iptvx.one/picons/tv3-ru.png" tvg-id="e10432067b0942800a78cadacc6c7675_ttv411" $ExtFilter="UFLTV",ТВ3
+#EXTINF:-1 group-title="Movies" tvg-logo="https://iptvx.one/picons/tv3-ru.png" tvg-id="e10432067b0942800a78cadacc6c7675_ttv411" $ExtFilter="UFLTV",ТВ3
 http://194.152.35.17/tv-3/index.m3u8
 #EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="https://iptvx.one/picons/tv3-ru.png" tvg-id="e10432067b0942800a78cadacc6c7675_ttv411" $ExtFilter="UFLTV",ТВ3
 http://5.188.221.43:8080/play/tv3
@@ -41225,7 +41225,7 @@ http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/9206/index.m3u8
 http://s1putrso.otttv.pw/iptv/2EA55L4SUE4RH4/9206/index.m3u8
 #EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img/5775.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="UFLTV",ТВ7 (Абакан)
 http://tinyurl.com/TvZaTak011/a023?|User-Agent=http-user-agent=Lavf53.32.100
-#EXTINF:-1 group-title="KINO+📺" tvg-id="simpleTVFakeEpgId" $ExtFilter="UFLTV",ТВ|21
+#EXTINF:-1 group-title="Movies" tvg-id="simpleTVFakeEpgId" $ExtFilter="UFLTV",ТВ|21
 http://178.134.1.158:8081/TVXXI/index.m3u8?token=test
 #EXTINF:-1 group-title="Украина | Українські 🇺🇦" tvg-logo="https://iptvx.one/picons/tva-ua.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_tva-ua" $ExtFilter="UFLTV",ТВА
 http://hls.cdn.ua/tva.ua_live/livestream/playlist.m3u8
