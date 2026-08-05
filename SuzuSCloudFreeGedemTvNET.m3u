@@ -8,7 +8,7 @@
 Мы не несём никакую ответственность за места происхождения, легальность и качество телеканалов, радиостанций и остального, лишь предоставляем техническое решение преобразования данных потоков с помощью плееров.
 Если вы желаете что бы с сервиса был убран контент который вам принадлежит, необходимо обратиться к оригинальному источнику вещания.
 Сайт работает при поддержке лесных духов и хранителя болот.  Поддержать проект: Юмани 410012490049169 $BorpasFileFormat="1" $NestedGroupsSeparator="/"
-#EXTINF:-1 group-title="▶🍿🛡️VPN КиноStream-Kinowalk TOP+🎞️" tvg-logo="https://suzustv.clan.su/Logo/929e536b0ad861b672bf4de8d4ca3586.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",+15 Animation
+#EXTINF:-1 group-title="▶1️⃣💲🎞️ Stream-Кинозалы Production 🧔‍" tvg-logo="https://suzustv.clan.su/Logo/929e536b0ad861b672bf4de8d4ca3586.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",+15 Animation
 https://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
 #EXTINF:-1 group-title="↕️ ▶🔺PLAYLIST INFORMATION🔺INFO👉©️ SuzuS TV™️ ®️🔴🔺↕️" tvg-logo="https://suzukantv.at.ua/LOGO/suzustv-icon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",+✓Обновление:🔺INFO 🔴🔺↕️ https://suzustv.clan.su/
 https://v2.catcast.tv/videos/ch38963/110220220628_125335/video.mp4
@@ -1097,9 +1097,9 @@ http://mains.services/live/0228902066/tc674KJ3du/1ee3f2e8-ae54-4829-abd5-6fb4610
 http://127.0.0.1:6878/ace/getstream?id=09f099db0453cf7517e133533aadfd5136eca771&.mp4
 #EXTINF:-1 group-title="🎡 Развлекательные 💫" tvg-logo="../Channel/Logo/Disney Channel.png" tvg-id="f736135dfb80936a523d63c9a10f2613_Солнце" $ExtFilter="GADEM 2",Disney Channel
 http://tinyurl.com/TvZaTak0/Disney_Channel_HD/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
-#EXTINF:-1 group-title="▶🍿🛡️VPN КиноStream-Kinowalk TOP+🎞️" tvg-logo="https://images.live.vkvideo.ru/user/23442796/avatar?change_time=1749539489&croped=1&mh=140&mw=140" tvg-id="f736135dfb80936a523d63c9a10f2613_Disney XD" $ExtFilter="GADEM 2",Disney XD
+#EXTINF:-1 group-title="▶1️⃣💲🎞️ Stream-Кинозалы Production 🧔‍" tvg-logo="https://images.live.vkvideo.ru/user/23442796/avatar?change_time=1749539489&croped=1&mh=140&mw=140" tvg-id="f736135dfb80936a523d63c9a10f2613_Disney XD" $ExtFilter="GADEM 2",Disney XD
 http://kinowalk.hopto.org/disneyxd_live
-#EXTINF:-1 group-title="▶🍿🛡️VPN КиноStream-Kinowalk TOP+🎞️" tvg-logo="https://images.live.vkvideo.ru/user/23442796/avatar?change_time=1749539489&croped=1&mh=140&mw=140" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Disney Онлайн
+#EXTINF:-1 group-title="▶1️⃣💲🎞️ Stream-Кинозалы Production 🧔‍" tvg-logo="https://images.live.vkvideo.ru/user/23442796/avatar?change_time=1749539489&croped=1&mh=140&mw=140" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Disney Онлайн
 http://kinowalk.hopto.org/kanaldisneyonline_live
 #EXTINF:-1 group-title="🎧 Музло+ 🔊🎶🎵🎧🎸🎷" tvg-logo="https://sun9-30.userapi.com/impf/0wIaAHlNZlOrKYJEzxcpIz1fjdzV5wdQS60lzw/Fh-OPva0ER4.jpg?size=604x483&quality=96&sign=12f901030c11914b3b7ed237f09b7b22&c_uniq_tag=N5rsQ2eHbAM7AZeQMoJrT-rbyhvj6gosg6PU6m7b0Tc&type=album" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",DITV Concert
 http://ditv.ydns.eu:8888/channel/526574d6/index.m3u8?q=ff32fdc3e0a934596d30e22ea7d0f841
@@ -1139,7 +1139,7 @@ http://195.189.60.253/118/index.m3u8
 #EXTINF:-1 group-title="▶1️⃣💲🎞️ Stream-Кинозалы Production 🧔‍" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOXJtPy10ZyNMcHbsKYIkTQ915IOK47L4A3w&s" tvg-id="6c18d008bb0762fb9d4b7016e8f18b1f_Epic Media" $ExtFilter="GADEM 2",Epic Media
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 YaBrowser/25.2.0.0 Safari/537.36
 rtmp://vkvsd173.okcdn.ru/playback/14311402711915?stkn=K_hqumA4lgtOZKnuZP3fAn3e8cK0AH1eErnKrpXHUv7ixFcyPDVbm-bX6mZhZ_buE6WcRQ9FaVQ8&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
-#EXTINF:-1 group-title="▶🍿🛡️VPN КиноStream-Kinowalk TOP+🎞️" tvg-logo="https://pic.rtbcdn.ru/user/c4/53/c453149b8774d33966cf7967c0647bfd.jpg?size=s" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Epic Plus
+#EXTINF:-1 group-title="▶1️⃣💲🎞️ Stream-Кинозалы Production 🧔‍" tvg-logo="https://pic.rtbcdn.ru/user/c4/53/c453149b8774d33966cf7967c0647bfd.jpg?size=s" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Epic Plus
 https://bl.rutube.ru/livestream/0ed0696149c131d3a7349372d730d4e6/index.m3u8?s=ejq9WptLi-xHQUsbK9tDXg&e=2081697927&scheme=https
 #EXTINF:-1 group-title="🎧 Музло+ 🔊🎶🎵🎧🎸🎷" tvg-logo="https://i.ibb.co/HJQM0YR/image-2025-08-31-T200940-038.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Errevutì TV
 https://stream10.xdevel.com/video0s977339-1877/stream/chunks.m3u8
@@ -1294,7 +1294,7 @@ https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883103
 #EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://rafail1982.uz/logo/kino2.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Films de Western
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/a5fc1b02-5945-11ef-a2df-87241c204d22/0/master.m3u8?country=fr&vendor=rakuten
-#EXTINF:-1 group-title="▶🍿🛡️VPN КиноStream-Kinowalk TOP+🎞️" tvg-logo="https://kinowalk.hopto.org/web/image/326/128x128?unique=2026-06-26%2014:51:18.003467&access_token=85cfea0b-99c3-4be9-9e19-6e92b9254d71" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",FilmsSerialsEveryDay
+#EXTINF:-1 group-title="▶1️⃣💲🎞️ Stream-Кинозалы Production 🧔‍" tvg-logo="https://kinowalk.hopto.org/web/image/326/128x128?unique=2026-06-26%2014:51:18.003467&access_token=85cfea0b-99c3-4be9-9e19-6e92b9254d71" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",FilmsSerialsEveryDay
 http://kinowalk.hopto.org/filmsserialseveryday_live
 #EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="../Channel/Logo/FilmBox Arthouse.png" tvg-id="f736135dfb80936a523d63c9a10f2613_FilmUADrama HD" $ExtFilter="GADEM 2",FilmUA Drama
 http://rebrand.ly/TvZaTak12?|User-Agent=http-user-agent=Lavf/56.15.102
@@ -1318,7 +1318,7 @@ http://127.0.0.1:6878/ace/getstream?id=df94afd23701839b3fdcdf669c73f2e3d656126e
 http://127.0.0.1:6878/ace/getstream?id=36bd5c1fdf09e5e92aa68cc642ae2d4db6694526&.mp4
 #EXTINF:-1 group-title="↕️ ♻️🎬  TTV Кинозалы 📼 ↕️" tvg-logo="../Channel/Logo/Fox Life HD.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_foxlife" $ExtFilter="GADEM 2",Fox Life HD
 http://127.0.0.1:6878/ace/getstream?id=36bd5c1fdf09e5e92aa68cc642ae2d4db6694526
-#EXTINF:-1 group-title="▶🍿🛡️VPN КиноStream-Kinowalk TOP+🎞️" tvg-logo="https://images.live.vkvideo.ru/user/19154193/avatar?change_time=1769970711&croped=1&mh=140&mw=140" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",FoxKids-Remastered
+#EXTINF:-1 group-title="▶1️⃣💲🎞️ Stream-Кинозалы Production 🧔‍" tvg-logo="https://images.live.vkvideo.ru/user/19154193/avatar?change_time=1769970711&croped=1&mh=140&mw=140" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",FoxKids-Remastered
 http://kinowalk.hopto.org/foxkids_remastered_live
 #EXTINF:-1 group-title="Украина | Українські 🇺🇦" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",FREEDOM UA HD
 https://cdnua03.hls.tv/178/hls/3ce9832c48b67915e9f2769b2dfbb005/91/stream.m3u8
@@ -1646,7 +1646,7 @@ http://pl.online24.pm/play/50060/1966B8DE7EC6FEE/video.m3u8
 http://pl.online24.pm/play/50099/1966B8DE7EC6FEE/video.m3u8
 #EXTINF:-1 group-title="⚽ Спорт+ ᴴᴰ 🏀🥎🏒⛸🏈🏋️‍ 🏆" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Jordan Sport
 http://93.184.10.248/JordanSport/index.m3u8
-#EXTINF:-1 group-title="▶🍿🛡️VPN КиноStream-Kinowalk TOP+🎞️" tvg-logo="https://sun1-30.userapi.com/s/v1/ig2/g-EBi5KkLU2SSlS6kxzWjBG5KlGpQEQYiXjKrvftyqoNlgXpNNaEtHweb3cDOhAlVBJIqqG9-G6pw2nWwz6dsjGC.jpg?quality=95&crop=0,0,500,500&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480&ava=1&cs=480x480" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",JTX Online
+#EXTINF:-1 group-title="▶1️⃣💲🎞️ Stream-Кинозалы Production 🧔‍" tvg-logo="https://sun1-30.userapi.com/s/v1/ig2/g-EBi5KkLU2SSlS6kxzWjBG5KlGpQEQYiXjKrvftyqoNlgXpNNaEtHweb3cDOhAlVBJIqqG9-G6pw2nWwz6dsjGC.jpg?quality=95&crop=0,0,500,500&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480&ava=1&cs=480x480" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",JTX Online
 http://kinowalk.hopto.org/jtxonline_live
 #EXTINF:-1 group-title="▶1️⃣💲🎞️ Stream-Кинозалы Production 🧔‍" tvg-logo="https://sun1-30.userapi.com/s/v1/ig2/g-EBi5KkLU2SSlS6kxzWjBG5KlGpQEQYiXjKrvftyqoNlgXpNNaEtHweb3cDOhAlVBJIqqG9-G6pw2nWwz6dsjGC.jpg?quality=95&crop=0,0,500,500&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480&ava=1&cs=480x480" tvg-id="6c18d008bb0762fb9d4b7016e8f18b1f_JTX Online" $ExtFilter="GADEM 2",JTX Online
 https://live.jtx-online.ru/memfs/e30ea533-4abf-4a88-91bc-73744ecfd06f.m3u8
@@ -1719,7 +1719,7 @@ http://kinowalk.hopto.org/kinoshnik_8_live
 https://lbgo.bozztv.com/07/ushba-films-j/index.m3u8
 #EXTINF:-1 group-title="📽 КиноПлюс ᴴᴰ" tvg-logo="https://img.catcast.tv/uploads/20092019/37126-5d84d7f922438.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",KINOSTREAM
 https://lbgo.bozztv.com/07/ushba82/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="▶🍿🛡️VPN КиноStream-Kinowalk TOP+🎞️" tvg-logo="https://i.imgur.com/uZKMbiG.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Kinowalk HD
+#EXTINF:-1 group-title="▶🍿🛡️VPN КиноStream-Kinowalk TOP+🎞️" tvg-logo="https://suzustv.clan.su/Logo/photo_2026-01-31_12-18-07.jpg" $ExtFilter="GADEM 2",Kinowalk HD
 http://kinowalk.hopto.org/kinowalk_live
 #EXTINF:-1 group-title="▶1️⃣💲🎞️ Stream-Кинозалы Production 🧔‍" tvg-logo="https://kinowalk.hopto.org/web/image/231/128x128?unique=2026-03-01%2018:13:54.866463&access_token=9715ea54-6d29-4cd5-8845-9aaa72ba071c" tvg-id="6c18d008bb0762fb9d4b7016e8f18b1f_Kinowalk prime" $ExtFilter="GADEM 2",Kinowalk prime
 http://kinowalk.hopto.org/kinowalk_prime_live
@@ -1958,7 +1958,7 @@ https://s05.watcher.uz/70/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.
 http://hubtv.ru/index.php?stream=aHR0cHM6Ly9tYml0MS53b3JsZGNhc3QudHYvZGFuY2V0ZWxldmlzaW9uc2l4L3N0cmVhbV8wLm0zdTg=
 #EXTINF:-1 group-title="🎧 Музло+ 🔊🎶🎵🎧🎸🎷" tvg-logo="https://i.ibb.co/GvHjTwvY/image-2025-09-09-T121831-329.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Mix Music Channel (España)
 https://cdamix.streaming.ws/mixmusic/live/.m3u8
-#EXTINF:-1 group-title="▶🍿🛡️VPN КиноStream-Kinowalk TOP+🎞️" tvg-logo="https://static.tildacdn.com/tild6230-6161-4235-b765-633836643231/20260325_0949_Logoti.png" tvg-id="6c18d008bb0762fb9d4b7016e8f18b1f_MKNEWS24.RU" $ExtFilter="GADEM 2",MKNEWS24.RU
+#EXTINF:-1 group-title="▶1️⃣💲🎞️ Stream-Кинозалы Production 🧔‍" tvg-logo="https://static.tildacdn.com/tild6230-6161-4235-b765-633836643231/20260325_0949_Logoti.png" tvg-id="6c18d008bb0762fb9d4b7016e8f18b1f_MKNEWS24.RU" $ExtFilter="GADEM 2",MKNEWS24.RU
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 YaBrowser/25.2.0.0 Safari/537.36
 https://stream.mknews24.ru/hls/stream.m3u8
 #EXTINF:-1 group-title="⚽ Спорт+ ᴴᴰ 🏀🥎🏒⛸🏈🏋️‍ 🏆" tvg-logo="http://i120.fastpic.org/big/2022/0627/77/081d3ff79dc8337f2e995ce077e0ed77.png" tvg-id="f736135dfb80936a523d63c9a10f2613_MLB Network HD" $ExtFilter="GADEM 2",MLB Network
@@ -1999,7 +1999,7 @@ http://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://d1qswsont218xa.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-im2kwho8ev6jk/mv_fr.m3u8
 #EXTINF:-1 group-title="▶🛡️VPN👁‍🗨 ☞ Пакет | 🎯 SuzuSTVNet + ᴴᴰ ᴳᴼᴸᴰ" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Movie Classic
 https://stitch.teletarget.ru/vintera/movieclassic/1769345728421a8ea6e51c8383dc93762a02d599036121e311be997503169eb5/lvl1.m3u8
-#EXTINF:-1 group-title="▶🍿🛡️VPN КиноStream-Kinowalk TOP+🎞️" tvg-logo="https://suzustv.clan.su/Logo/929e536b0ad861b672bf4de8d4ca3586.jpg" $ExtFilter="GADEM 2",MovieToper
+#EXTINF:-1 group-title="▶🍿🛡️VPN КиноStream-Kinowalk TOP+🎞️" tvg-logo="https://goodgame.ru/files/avatars/av_1676704_9wc1.jpg" $ExtFilter="GADEM 2",MovieToper
 http://kinowalk.hopto.org/movietoper_live
 #EXTINF:-1 group-title="📽 КиноПлюс ᴴᴰ" tvg-logo="https://iptvx.one/picons/movify-kino.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_movify-kino" $ExtFilter="GADEM 2",Movify Kino
 https://void.greenhosting.ru/MovifyKino_Mpeg4/index.m3u8
@@ -3240,7 +3240,7 @@ https://lbgo.bozztv.com/07/ushba46/tracks-v1a1/mono.m3u8
 https://stream.ushba.tv/akamaiushba/ushba82/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📽 КиноПлюс ᴴᴰ" tvg-logo="http://ttvrun.one/uploads/sfZf1iTgIoiXqGHJnRgCeaomkAOSb5.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",SuzuS TV VHS
 https://live20.bozztv.com/giatvplayout7/ushba-rfilrms-p/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="▶🍿🛡️VPN КиноStream-Kinowalk TOP+🎞️" tvg-logo="http://ttvrun.one/uploads/TfLrJRnDUI0VSUeQRmHEvphC76fBfg.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",SuzuS TV Забавное
+#EXTINF:-1 group-title="▶1️⃣💲🎞️ Stream-Кинозалы Production 🧔‍" tvg-logo="http://ttvrun.one/uploads/TfLrJRnDUI0VSUeQRmHEvphC76fBfg.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",SuzuS TV Забавное
 https://ab2262fdd9c5.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.061051251131.channel.rmtRK2FPYHmD.m3u8
 #EXTINF:-1 group-title="📽 КиноПлюс ᴴᴰ" tvg-logo="http://ttvrun.one/uploads/TfLrJRnDUI0VSUeQRmHEvphC76fBfg.png" tvg-id="e10432067b0942800a78cadacc6c7675_ttv31873" $ExtFilter="GADEM 2",SuzuS TV Забавное
 https://lbgo.bozztv.com/07/ushba-rvisionmovies/tracks-v1a1/mono.m3u8
@@ -3653,7 +3653,7 @@ http://eqatmiyg.megogo.xyz/iptv/VEXVELA6Z7PXH6/15517/index.m3u8
 http://qw9kh8gz.rostelekom.xyz/iptv/H7B4LWE4GTKBN9/17037/index.m3u8
 #EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="https://iptvx.one/picons/vf-serialy-turcii.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_vf-serialy-turcii" $ExtFilter="GADEM 2",VF Сериалы Турции
 http://8c902592.rossteleccom.net/iptv/VEXVELA6Z7PXH6/9123/index.m3u8
-#EXTINF:-1 group-title="▶🍿🛡️VPN КиноStream-Kinowalk TOP+🎞️" tvg-logo="https://goodgame.ru/files/avatars/av_1643167_Q5gP.jpg" tvg-id="f736135dfb80936a523d63c9a10f2613_VHS HD" $ExtFilter="GADEM 2",VHS
+#EXTINF:-1 group-title="▶🍿🛡️VPN КиноStream-Kinowalk TOP+🎞️" tvg-logo="https://suzustv.clan.su/Logo/av_1643167_Q5gP.jpg" tvg-id="f736135dfb80936a523d63c9a10f2613_VHS HD" $ExtFilter="GADEM 2",VHS
 http://kinowalk.hopto.org/and7610_live
 #EXTINF:-1 group-title="▶🍿🛡️VPN КиноStream-Kinowalk TOP+🎞️" tvg-logo="https://images.live.vkplay.ru/user/19154240/avatar?change_time=1720968476&croped=1&mh=140&mw=140" tvg-id="30e4811ef73797da2d944449838b622c_VHS Forever" $ExtFilter="GADEM 2",VHS Forever
 http://kinowalk.hopto.org/vhs-forever_live
@@ -3693,9 +3693,9 @@ http://kinowalk.hopto.org/video_channel_live
 http://kinowalk.hopto.org/video_serial_live
 #EXTINF:-1 group-title="🎧 Музло+ 🔊🎶🎵🎧🎸🎷" tvg-logo="https://i.postimg.cc/NF1hWNCW/image-15.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Video Tour Channel
 http://k4.usastreams.com/videotour/videotour/playlist.m3u8
-#EXTINF:-1 group-title="▶🍿🛡️VPN КиноStream-Kinowalk TOP+🎞️" tvg-logo="https://i.imgur.com/mo9Ac3E.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Video-Arsenal HD
+#EXTINF:-1 group-title="▶🍿🛡️VPN КиноStream-Kinowalk TOP+🎞️" tvg-logo="https://i.ibb.co/ynMtCF2H/image-29.png" $ExtFilter="GADEM 2",Video-Arsenal HD
 http://kinowalk.hopto.org/videoarsenal_live
-#EXTINF:-1 group-title="▶🍿🛡️VPN КиноStream-Kinowalk TOP+🎞️" tvg-logo="https://i.imgur.com/LgV1mko.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Video_Prokat
+#EXTINF:-1 group-title="▶🍿🛡️VPN КиноStream-Kinowalk TOP+🎞️" tvg-logo="https://images.live.vkplay.ru/user/18142699/avatar?change_time=1696376813&croped=1&mh=140&mw=140" $ExtFilter="GADEM 2",Video_Prokat
 http://kinowalk.hopto.org/video_prokat_live
 #EXTINF:-1 group-title="▶1️⃣💲🎞️ Stream-Кинозалы Production 🧔‍" tvg-logo="https://suzustv.clan.su/Logo/mediateka.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",VideoVk
 http://kinowalk.hopto.org/videovk_live
@@ -4207,7 +4207,7 @@ https://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R01_OTT_VETTA24_PERM/variant.m
 #EXTINF:-1 group-title="▶🍿🛡️VPN КиноStream-Kinowalk TOP+🎞️" tvg-logo="https://i.ibb.co/YBwZzLv0/image-7.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Видеокассета VHS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/vhs90e_live
-#EXTINF:-1 group-title="▶🍿🛡️VPN КиноStream-Kinowalk TOP+🎞️" tvg-logo="https://i.imgur.com/FaeFQAD.png" tvg-id="f736135dfb80936a523d63c9a10f2613_Видеокасета VHS" $ExtFilter="GADEM 2",Видеокассета VHS
+#EXTINF:-1 group-title="▶🍿🛡️VPN КиноStream-Kinowalk TOP+🎞️" tvg-logo="http://epg.it999.ru/img/6005.png" tvg-id="f736135dfb80936a523d63c9a10f2613_Видеокасета VHS" $ExtFilter="GADEM 2",Видеокассета VHS
 http://kinowalk.hopto.org/kasseta_live
 #EXTINF:-1 group-title="📽 КиноПлюс ᴴᴰ" tvg-logo="http://i120.fastpic.org/big/2022/0720/74/52a7882bf655f06a149bf9b06147dd74.png" tvg-id="f736135dfb80936a523d63c9a10f2613_Видеокасета VHS" $ExtFilter="GADEM 2",Видеокассета VHS
 https://live20.bozztv.com/akamaissh101/ssh101/livevhs90e/playlist.m3u8
@@ -5634,7 +5634,7 @@ http://cdnua03.hls.tv/476/hls/215247e3abee81b8339d3dc62acc6921/125/stream.m3u8
 http://cdnua03.hls.tv/476/hls/ed42052073c51314cafe807598aa000a/125/stream.m3u8
 #EXTINF:-1 group-title="Украина | Українські 🇺🇦" tvg-logo="../Channel/Logo/Надежда.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_nadia" $ExtFilter="GADEM 2",Надія
 http://cdnua03.hls.tv/476/hls/ceb0d53e174b785c4f95a89092f17ccc/125/stream.m3u8
-#EXTINF:-1 group-title="▶🍿🛡️VPN КиноStream-Kinowalk TOP+🎞️" tvg-logo="http://i121.fastpic.org/big/2023/0225/a1/1fef22feb0dfb4280b563f04410042a1.png" tvg-id="f736135dfb80936a523d63c9a10f2613_VB Назад в СССР" $ExtFilter="GADEM 2",Назад в СССР
+#EXTINF:-1 group-title="▶🍿🛡️VPN КиноStream-Kinowalk TOP+🎞️" tvg-logo="http://ttvrun.one/uploads/cDi9V36vx0HiuYbgISHdxXaoyLFlbF.png" tvg-id="f736135dfb80936a523d63c9a10f2613_VB Назад в СССР" $ExtFilter="GADEM 2",Назад в СССР
 http://kinowalk.hopto.org/backtotheussr_live
 #EXTINF:-1 group-title="↕️ ♻️ TTV 🎡 Развлекательно |🔎 Познавательные 🦎 ↕️" tvg-logo="../Channel/Logo/Нано.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",НАНО
 http://127.0.0.1:6878/ace/getstream?infohash=a604243282974cc912690555f96b1c80d1495607
@@ -6081,7 +6081,7 @@ https://rt-sth-vkaz-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_VKAZ_IRISTON/varian
 http://rt-sth-vkaz-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_VKAZ_IRISTON/variant.m3u8
 #EXTINF:-1 group-title="🏝 ▶ Разное  💫" tvg-logo="https://iptvx.one/picons/osetia-iryston.png" tvg-id="501a2aa5760168fcb900fc1be09304d6_f736135dfb80936a523d63c9a10f2613_Осетия Ирыстон HD" $ExtFilter="GADEM 2",Осетия-Ирыстон HD
 https://rt-sth-vkaz-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_VKAZ_IRISTON/variant.m3u8?version=2
-#EXTINF:-1 group-title="▶🍿🛡️VPN КиноStream-Kinowalk TOP+🎞️" tvg-logo="http://i120.fastpic.org/big/2022/1031/44/a56084076c69c9b7057b76d9dc078644.png" tvg-id="f736135dfb80936a523d63c9a10f2613_Осторожно Модерн!" $ExtFilter="GADEM 2",Осторожно Модерн
+#EXTINF:-1 group-title="▶🍿🛡️VPN КиноStream-Kinowalk TOP+🎞️" tvg-logo="http://ttvrun.one/uploads/XkGInInoE5szEwCKHOudPbOZxdRsdy.png" tvg-id="f736135dfb80936a523d63c9a10f2613_Осторожно Модерн!" $ExtFilter="GADEM 2",Осторожно Модерн
 http://kinowalk.hopto.org/ostorozhnomodern2_live
 #EXTINF:-1 group-title="↕️ ♻️🎬  TTV Кинозалы 📼 ↕️" tvg-logo="../Channel/Logo/Остросюжетное.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_ostrosiuzhetnoe-hd" $ExtFilter="GADEM 2",Остросюжетное HD
 http://127.0.0.1:6878/ace/getstream?id=6f294641e0d31c8c09e11a79bde0e2b2a28fb4f5&.mp4
@@ -6171,7 +6171,7 @@ http://212.42.117.34:8080/hls/OshTV.m3u8
 #EXTINF:-1 group-title="🏝 ▶ Региoнальные  ⚜️" tvg-logo="http://epg.one/img/6742.png" tvg-id="501a2aa5760168fcb900fc1be09304d6_simpleTVFakeEpgId" $ExtFilter="GADEM 2",Панорама ТВ HD (Тверь)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://rt-ct-tver-htlive.cdn.ngenix.net/hls/CH_R01_PANORAMATV/variant.m3u8
-#EXTINF:-1 group-title="▶🍿🛡️VPN КиноStream-Kinowalk TOP+🎞️" tvg-logo="https://i.postimg.cc/Gm4xYzXW/paranorm.png" tvg-id="30e4811ef73797da2d944449838b622c_Паранормальный архив" $ExtFilter="GADEM 2",Паранормальный архив
+#EXTINF:-1 group-title="▶🍿🛡️VPN КиноStream-Kinowalk TOP+🎞️" tvg-logo="https://suzustv.clan.su/Logo/images-1-.jfif" $ExtFilter="GADEM 2",Паранормальный архив
 http://kinowalk.hopto.org/paranormal404_live
 #EXTINF:-1 group-title="🎡 Развлекательные 💫" tvg-logo="../Channel/Logo/Парк Патриот.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_patriot" $ExtFilter="GADEM 2",Патриот
 http://starcius-cinema.com/10244/index.m3u8
