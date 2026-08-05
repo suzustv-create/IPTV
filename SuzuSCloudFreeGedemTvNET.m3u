@@ -702,7 +702,7 @@ http://158.101.222.193:88/georgia_play.php?id=black
 https://linear-493.frequency.stream/dist/glewedtv/493/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="🎧 Музло+ 🔊🎶🎵🎧🎸🎷" tvg-logo="https://i.ibb.co/C5MxYBQb/image-75.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Blink 102 FM
 https://5ad482a77183d.streamlock.net/blinkblink.com.br/blinkblink.com.br/chunklist_w1523890867.m3u8
-#EXTINF:-1 group-title="▶🍿🛡️VPN КиноStream-Kinowalk TOP+🎞️" tvg-logo="https://i.imgur.com/VsHvlwd.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Blockbusters Time
+#EXTINF:-1 group-title="▶🍿🛡️VPN КиноStream-Kinowalk TOP+🎞️" tvg-logo="https://images.live.vkvideo.ru/user/23770117/avatar?change_time=1767918213&croped=1&mh=140&mw=140" $ExtFilter="GADEM 2",Blockbusters Time
 http://kinowalk.hopto.org/blockbusterstime_live
 #EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://i121.fastpic.org/big/2023/0518/97/d6c53cb0860eb0f20b90b6cabc81c997.png" tvg-id="f736135dfb80936a523d63c9a10f2613_Bloomberg" $ExtFilter="GADEM 2",Bloomberg TV
 https://dai.google.com/linear/hls/event/BVlOmFGaTi6NpchccR14yA/master.m3u8
@@ -3294,7 +3294,7 @@ http://127.0.0.1:6878/ace/getstream?id=4da0f57fb96330c7f6ad5f4bce0ba93038b628c3
 https://30a-tv.com/feeds/720p/63.m3u8
 #EXTINF:-1 group-title="▶🍿🛡️VPN КиноStream-Kinowalk TOP+🎞️" tvg-logo="https://images.live.vkvideo.ru/user/18457974/avatar?change_time=1758279827&croped=1&mh=140&mw=140" tvg-id="30e4811ef73797da2d944449838b622c_TimeToHorror" $ExtFilter="GADEM 2",TimeToHorror
 http://kinowalk.hopto.org/timetohorror_live
-#EXTINF:-1 group-title="▶🍿🛡️VPN КиноStream-Kinowalk TOP+🎞️" tvg-logo="https://i.imgur.com/xKqx982.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",TimeToMovie
+#EXTINF:-1 group-title="▶🍿🛡️VPN КиноStream-Kinowalk TOP+🎞️" tvg-logo="https://images.live.vkplay.ru/user/18457965/avatar?change_time=1717150729&croped=1&mh=140&mw=140" $ExtFilter="GADEM 2",TimeToMovie
 http://kinowalk.hopto.org/timetomovie_live
 #EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="https://iptvx.one/picons/tlc.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_tlc" $ExtFilter="GADEM 2",TLC HD
 http://mfe02.cliptv.az/dash/TLC_HDerre2468.ism/playlist.mpd
