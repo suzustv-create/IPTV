@@ -7,7 +7,7 @@
 Весь контент взят с cайтов и форумов, которые находится в открытом доступе в сети Интернет, мы лишь ссылаемся на них.
 Мы не несём никакую ответственность за места происхождения, легальность и качество телеканалов, радиостанций и остального, лишь предоставляем техническое решение преобразования данных потоков с помощью плееров.
 Если вы желаете что бы с сервиса был убран контент который вам принадлежит, необходимо обратиться к оригинальному источнику вещания.
-Сайт работает при поддержке лесных духов и хранителя болот.  Поддержать проект: Юмани 410012490049169 $BorpasFileFormat="1" $NestedGroupsSeparator="/"
+Сайт работает при поддержке лесных духов и хранителя болот.  Поддержать проект: Юмани 410012490049169  $BorpasFileFormat="1" $NestedGroupsSeparator="/"
 #EXTINF:-1 group-title="▶1️⃣💲🎞️ КиноStream- Production 🧔‍" tvg-logo="https://suzustv.clan.su/Logo/929e536b0ad861b672bf4de8d4ca3586.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",+15 Animation
 https://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
 #EXTINF:-1 group-title="↕️ ▶🔺PLAYLIST INFORMATION🔺INFO👉©️ SuzuS TV™️ ®️🔴🔺↕️" tvg-logo="https://suzukantv.at.ua/LOGO/suzustv-icon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",+✓Обновление:🔺INFO 🔴🔺↕️ https://suzustv.clan.su/
@@ -1697,7 +1697,7 @@ http://kinowalk.hopto.org/kinolampa_live
 rtmp://vkvsd176.okcdn.ru/playback/9060843400063?stkn=KV0WGPPXIBbOVVy6l6W5YU70Wrv6I9tZOa9CyCjyDUwntlSO4dtIt72cgu0M-sTWTi7PFHAQj8s&uid=0&sp=uid,sp&sig=vlibqm4nyu
 #EXTINF:-1 group-title="📽 КиноПлюс ᴴᴰ" tvg-logo="https://suzustv.clan.su/Logo/photo_2026-07-09_09-58-51.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",KinoMix + Заруба
 https://ab2262fdd9c5.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.061051251131.channel.kOLvChA3aUIE.m3u8
-#EXTINF:-1 group-title="▶🍿🛡️VPN КиноStream-Kinowalk +🎞️" tvg-logo="https://i.postimg.cc/v85dGRbM/kinomix-uric.png" tvg-id="501a2aa5760168fcb900fc1be09304d6_30e4811ef73797da2d944449838b622c_50177" $ExtFilter="GADEM 2",KinoMix Юрич
+#EXTINF:-1 group-title="▶🍿🛡️VPN КиноStream-Kinowalk +🎞️" tvg-logo="https://s10.iimage.su/s/09/glnHYskxv2p5gbVU2IQmh2ziUa3ABgGuDfZ0jS6XJ.png" $ExtFilter="GADEM 2",KinoMix Юрич
 http://kinowalk.hopto.org/yurich_kinomix_live
 #EXTINF:-1 group-title="📽 КиноПлюс ᴴᴰ" tvg-logo="https://suzustv.clan.su/Logo/Kinomix.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",KinoMix Юрич
 https://ab2262fdd9c5.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.061051251131.channel.QK20f3fCHAGw.m3u8
@@ -1995,8 +1995,6 @@ https://d1qswsont218xa.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://stitch.teletarget.ru/vintera/movieclassic/1769345728421a8ea6e51c8383dc93762a02d599036121e311be997503169eb5/lvl1.m3u8
 #EXTINF:-1 group-title="▶🍿🛡️VPN КиноStream-Kinowalk +🎞️" tvg-logo="https://goodgame.ru/files/avatars/av_1676704_9wc1.jpg" $ExtFilter="GADEM 2",MovieToper
 http://kinowalk.hopto.org/movietoper_live
-#EXTINF:-1 group-title="📽 КиноПлюс ᴴᴰ" tvg-logo="https://iptvx.one/picons/movify-kino.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_movify-kino" $ExtFilter="GADEM 2",Movify Kino
-https://void.greenhosting.ru/MovifyKino_Mpeg4/index.m3u8
 #EXTINF:-1 group-title="▶🛡️VPN👁‍🗨 ☞ Пакет | 🎯 SuzuSTVNet + ᴴᴰ ᴳᴼᴸᴰ" tvg-logo="https://i0.wp.com/image.tmdb.org/t/p/w780/cEL2zvrJCGF7GwyE3ESCInQyRk8.jpg" tvg-id="30e4811ef73797da2d944449838b622c_Mr. Bean" $ExtFilter="GADEM 2",Mr. Bean
 https://fl1003.bozztv.com/ushba45/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="▶🛡️VPN👁‍🗨 ☞ Пакет | 🎯 SuzuSTVNet + ᴴᴰ ᴳᴼᴸᴰ" tvg-logo="https://i0.wp.com/image.tmdb.org/t/p/w780/cEL2zvrJCGF7GwyE3ESCInQyRk8.jpg" tvg-id="6c18d008bb0762fb9d4b7016e8f18b1f_Mr. Bean" $ExtFilter="GADEM 2",Mr. Bean
@@ -2333,45 +2331,45 @@ http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt6zskcLmoH-56_P_tF0fSf0/m3u8
 https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/manifest/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/ee89eb82-af22-4e93-b190-e319f234fbcf/4.m3u8
 #EXTINF:-1 group-title="🎧 Музло+ 🔊🎶🎵🎧🎸🎷" tvg-logo="https://i.ibb.co/FbhcZnfZ/image-24.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Play TV BR
 https://isaocorp.cloudecast.com/playtv/tracks-v1/index.fmp4.m3u8
-#EXTINF:-1 group-title="📽 КиноПлюс ᴴᴰ" tvg-logo="https://suzustv.clan.su/Logo/play-x.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Play-x  Music 2
+#EXTINF:-1 group-title="Узбекистан | O'zbek 🇺🇿" tvg-logo="https://suzustv.clan.su/Logo/play-x.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Play-x  Music 2
 https://live20.bozztv.com/giatvplayout7/ushba-t4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📽 КиноПлюс ᴴᴰ" tvg-logo="https://suzustv.clan.su/Logo/play-x.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Play-x Ai Video
+#EXTINF:-1 group-title="Узбекистан | O'zbek 🇺🇿" tvg-logo="https://suzustv.clan.su/Logo/play-x.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Play-x Ai Video
 https://lbgo.bozztv.com/07/ushba-aivideo/index.m3u8
 #EXTINF:-1 group-title="📽 КиноПлюс ᴴᴰ" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Play-x Beast Games HD
 https://lbgo.bozztv.com/07/ushba44/index.m3u8
-#EXTINF:-1 group-title="📽 КиноПлюс ᴴᴰ" tvg-logo="https://suzustv.clan.su/Logo/play-x.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Play-x Blues Music
+#EXTINF:-1 group-title="Узбекистан | O'zbek 🇺🇿" tvg-logo="https://suzustv.clan.su/Logo/play-x.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Play-x Blues Music
 https://lbgo.bozztv.com/07/ushba0/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📽 КиноПлюс ᴴᴰ" tvg-logo="https://suzustv.clan.su/Logo/play-x.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Play-x Cinema Sport
+#EXTINF:-1 group-title="Узбекистан | O'zbek 🇺🇿" tvg-logo="https://suzustv.clan.su/Logo/play-x.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Play-x Cinema Sport
 https://live20.bozztv.com/giatvplayout7/ushba55/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📽 КиноПлюс ᴴᴰ" tvg-logo="https://suzustv.clan.su/Logo/play-x.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Play-x Cinema Teens
 https://live20.bozztv.com/giatvplayout7/ushba-rvisionmovies/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📽 КиноПлюс ᴴᴰ" tvg-logo="https://suzustv.clan.su/Logo/play-x.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Play-x Classic
+#EXTINF:-1 group-title="Узбекистан | O'zbek 🇺🇿" tvg-logo="https://suzustv.clan.su/Logo/play-x.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Play-x Classic
 https://live20.bozztv.com/giatvplayout7/ushba-rvisionkinopanorama/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📽 КиноПлюс ᴴᴰ" tvg-logo="https://suzustv.clan.su/Logo/play-x.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Play-x Classic 2
+#EXTINF:-1 group-title="Узбекистан | O'zbek 🇺🇿" tvg-logo="https://suzustv.clan.su/Logo/play-x.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Play-x Classic 2
 https://live20.bozztv.com/giatvplayout7/ushba56/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📽 КиноПлюс ᴴᴰ" tvg-logo="https://suzustv.clan.su/Logo/play-x.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Play-x Fashion
+#EXTINF:-1 group-title="Узбекистан | O'zbek 🇺🇿" tvg-logo="https://suzustv.clan.su/Logo/play-x.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Play-x Fashion
 https://lbgo.bozztv.com/07/ushba93/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📽 КиноПлюс ᴴᴰ" tvg-logo="https://suzustv.clan.su/Logo/play-x.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Play-x Fashion 2
+#EXTINF:-1 group-title="Узбекистан | O'zbek 🇺🇿" tvg-logo="https://suzustv.clan.su/Logo/play-x.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Play-x Fashion 2
 https://live20.bozztv.com/giatvplayout7/ushba-t8/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📽 КиноПлюс ᴴᴰ" tvg-logo="https://suzustv.clan.su/Logo/play-x.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Play-x Fashion 3
+#EXTINF:-1 group-title="Узбекистан | O'zbek 🇺🇿" tvg-logo="https://suzustv.clan.su/Logo/play-x.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Play-x Fashion 3
 https://live20.bozztv.com/giatvplayout7/ushba-m7/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📽 КиноПлюс ᴴᴰ" tvg-logo="https://suzustv.clan.su/Logo/play-x.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Play-x Fashion 4
+#EXTINF:-1 group-title="Узбекистан | O'zbek 🇺🇿" tvg-logo="https://suzustv.clan.su/Logo/play-x.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Play-x Fashion 4
 https://live20.bozztv.com/giatvplayout7/ushba-m9/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="https://suzustv.clan.su/Logo/play-x.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Play-x Japan Music
 https://d3kmrn2mstrnk5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7ppcp3lxg7oer/f4acc9ba_daae_4ed0_b836_32126cead919/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=US39000038W
-#EXTINF:-1 group-title="📽 КиноПлюс ᴴᴰ" tvg-logo="https://suzustv.clan.su/Logo/play-x.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Play-x Midnight Lust Music
+#EXTINF:-1 group-title="Узбекистан | O'zbek 🇺🇿" tvg-logo="https://suzustv.clan.su/Logo/play-x.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Play-x Midnight Lust Music
 https://lbgo.bozztv.com/07/ushba-midnightlustmusic/index.m3u8
-#EXTINF:-1 group-title="📽 КиноПлюс ᴴᴰ" tvg-logo="https://suzustv.clan.su/Logo/play-x.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Play-x Music
+#EXTINF:-1 group-title="Узбекистан | O'zbek 🇺🇿" tvg-logo="https://suzustv.clan.su/Logo/play-x.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Play-x Music
 https://live20.bozztv.com/giatvplayout7/ushba-m3/index.m3u8
 #EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="https://suzustv.clan.su/Logo/play-x.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Play-x Music Bass
 https://eu1.servers10.com:8081/8010/index.m3u8
-#EXTINF:-1 group-title="📽 КиноПлюс ᴴᴰ" tvg-logo="https://suzustv.clan.su/Logo/play-x.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Play-x Music Hot
+#EXTINF:-1 group-title="Узбекистан | O'zbek 🇺🇿" tvg-logo="https://suzustv.clan.su/Logo/play-x.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Play-x Music Hot
 https://live20.bozztv.com/giatvplayout7/ushba-mafia/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📽 КиноПлюс ᴴᴰ" tvg-logo="https://suzustv.clan.su/Logo/play-x.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Play-x Music Mode
+#EXTINF:-1 group-title="Узбекистан | O'zbek 🇺🇿" tvg-logo="https://suzustv.clan.su/Logo/play-x.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Play-x Music Mode
 https://lbgo.bozztv.com/07/ushba-mafia/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📽 КиноПлюс ᴴᴰ" tvg-logo="https://suzustv.clan.su/Logo/play-x.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Play-x Retrovision Classic
+#EXTINF:-1 group-title="Узбекистан | O'zbek 🇺🇿" tvg-logo="https://suzustv.clan.su/Logo/play-x.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Play-x Retrovision Classic
 https://lbgo.bozztv.com/07/ushba-rvisionclassic/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📽 КиноПлюс ᴴᴰ" tvg-logo="https://suzustv.clan.su/Logo/play-x.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Play-x Retrovision Motor
+#EXTINF:-1 group-title="Узбекистан | O'zbek 🇺🇿" tvg-logo="https://suzustv.clan.su/Logo/play-x.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Play-x Retrovision Motor
 https://lbgo.bozztv.com/07/ushba-rvisionmotor/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📽 КиноПлюс ᴴᴰ" tvg-logo="https://suzustv.clan.su/Logo/play-x.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Play-x Арменфильм
 https://live20.bozztv.com/giatvplayout7/ushba-rvisionclassic/tracks-v1a1/mono.m3u8
@@ -2391,41 +2389,41 @@ https://lbgo.bozztv.com/07/ushba-rfilrms-c/tracks-v1a1/mono.m3u8
 https://lbgo.bozztv.com/07/ushba-rfilrms-e/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📽 КиноПлюс ᴴᴰ" tvg-logo="http://1lot.tv/ch/10963.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Play-X Кинозал 8 HD
 https://lbgo.bozztv.com/07/ushba-rfilrms-i/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📽 КиноПлюс ᴴᴰ" tvg-logo="https://suzustv.clan.su/Logo/play-x.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Play-x Мода 1
+#EXTINF:-1 group-title="Узбекистан | O'zbek 🇺🇿" tvg-logo="https://suzustv.clan.su/Logo/play-x.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Play-x Мода 1
 https://lbgo.bozztv.com/07/ushba-t8/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📽 КиноПлюс ᴴᴰ" tvg-logo="https://suzustv.clan.su/Logo/play-x.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Play-x Мода 2
+#EXTINF:-1 group-title="Узбекистан | O'zbek 🇺🇿" tvg-logo="https://suzustv.clan.su/Logo/play-x.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Play-x Мода 2
 https://lbgo.bozztv.com/07/ushba-m6/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📽 КиноПлюс ᴴᴰ" tvg-logo="https://suzustv.clan.su/Logo/play-x.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Play-x Мода 3
+#EXTINF:-1 group-title="Узбекистан | O'zbek 🇺🇿" tvg-logo="https://suzustv.clan.su/Logo/play-x.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Play-x Мода 3
 https://lbgo.bozztv.com/07/ushba-m7/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📽 КиноПлюс ᴴᴰ" tvg-logo="https://suzustv.clan.su/Logo/play-x.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Play-x Мода 4
+#EXTINF:-1 group-title="Узбекистан | O'zbek 🇺🇿" tvg-logo="https://suzustv.clan.su/Logo/play-x.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Play-x Мода 4
 https://lbgo.bozztv.com/07/ushba-m8/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📽 КиноПлюс ᴴᴰ" tvg-logo="https://suzustv.clan.su/Logo/play-x.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Play-x Мода 5
+#EXTINF:-1 group-title="Узбекистан | O'zbek 🇺🇿" tvg-logo="https://suzustv.clan.su/Logo/play-x.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Play-x Мода 5
 https://lbgo.bozztv.com/07/ushba-m9/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📽 КиноПлюс ᴴᴰ" tvg-logo="https://suzustv.clan.su/Logo/play-x.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Play-x Мода 6
+#EXTINF:-1 group-title="Узбекистан | O'zbek 🇺🇿" tvg-logo="https://suzustv.clan.su/Logo/play-x.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Play-x Мода 6
 https://lbgo.bozztv.com/07/ushba-m1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📽 КиноПлюс ᴴᴰ" tvg-logo="https://suzustv.clan.su/Logo/play-x.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Play-x Мосфильм 1
 https://live20.bozztv.com/giatvplayout7/ushba-rfilrms-g/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📽 КиноПлюс ᴴᴰ" tvg-logo="https://suzustv.clan.su/Logo/play-x.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Play-x Музыка 1
+#EXTINF:-1 group-title="Узбекистан | O'zbek 🇺🇿" tvg-logo="https://suzustv.clan.su/Logo/play-x.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Play-x Музыка 1
 https://lbgo.bozztv.com/07/ushba-t1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📽 КиноПлюс ᴴᴰ" tvg-logo="https://suzustv.clan.su/Logo/play-x.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Play-x Музыка 10
+#EXTINF:-1 group-title="Узбекистан | O'zbek 🇺🇿" tvg-logo="https://suzustv.clan.su/Logo/play-x.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Play-x Музыка 10
 https://lbgo.bozztv.com/07/ushba-t5/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📽 КиноПлюс ᴴᴰ" tvg-logo="https://suzustv.clan.su/Logo/play-x.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Play-x Музыка 11
+#EXTINF:-1 group-title="Узбекистан | O'zbek 🇺🇿" tvg-logo="https://suzustv.clan.su/Logo/play-x.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Play-x Музыка 11
 https://lbgo.bozztv.com/07/ushba-m2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📽 КиноПлюс ᴴᴰ" tvg-logo="https://suzustv.clan.su/Logo/play-x.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Play-x Музыка 2
+#EXTINF:-1 group-title="Узбекистан | O'zbek 🇺🇿" tvg-logo="https://suzustv.clan.su/Logo/play-x.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Play-x Музыка 2
 https://lbgo.bozztv.com/07/ushba-t2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📽 КиноПлюс ᴴᴰ" tvg-logo="https://suzustv.clan.su/Logo/play-x.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Play-x Музыка 3
+#EXTINF:-1 group-title="Узбекистан | O'zbek 🇺🇿" tvg-logo="https://suzustv.clan.su/Logo/play-x.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Play-x Музыка 3
 https://live20.bozztv.com/giatvplayout7/ushba-midnightlustmusic/index.m3u8
-#EXTINF:-1 group-title="📽 КиноПлюс ᴴᴰ" tvg-logo="https://suzustv.clan.su/Logo/play-x.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Play-x Музыка 4
+#EXTINF:-1 group-title="Узбекистан | O'zbek 🇺🇿" tvg-logo="https://suzustv.clan.su/Logo/play-x.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Play-x Музыка 4
 https://lbgo.bozztv.com/07/ushba-t4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📽 КиноПлюс ᴴᴰ" tvg-logo="https://suzustv.clan.su/Logo/play-x.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Play-x Музыка 6
+#EXTINF:-1 group-title="Узбекистан | O'zbek 🇺🇿" tvg-logo="https://suzustv.clan.su/Logo/play-x.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Play-x Музыка 6
 https://lbgo.bozztv.com/07/ushba-monj/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📽 КиноПлюс ᴴᴰ" tvg-logo="https://suzustv.clan.su/Logo/play-x.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Play-x Музыка 7
+#EXTINF:-1 group-title="Узбекистан | O'zbek 🇺🇿" tvg-logo="https://suzustv.clan.su/Logo/play-x.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Play-x Музыка 7
 https://lbgo.bozztv.com/07/ushba-m3/index.m3u8
-#EXTINF:-1 group-title="📽 КиноПлюс ᴴᴰ" tvg-logo="https://suzustv.clan.su/Logo/play-x.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Play-x Музыка 8
+#EXTINF:-1 group-title="Узбекистан | O'zbek 🇺🇿" tvg-logo="https://suzustv.clan.su/Logo/play-x.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Play-x Музыка 8
 https://lbgo.bozztv.com/07/ushba66/index.m3u8
-#EXTINF:-1 group-title="📽 КиноПлюс ᴴᴰ" tvg-logo="https://suzustv.clan.su/Logo/play-x.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Play-x Музыка 9
+#EXTINF:-1 group-title="Узбекистан | O'zbek 🇺🇿" tvg-logo="https://suzustv.clan.su/Logo/play-x.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Play-x Музыка 9
 https://lbgo.bozztv.com/07/ushba-RogerWaters/index.m3u8
-#EXTINF:-1 group-title="📽 КиноПлюс ᴴᴰ" tvg-logo="https://suzustv.clan.su/Logo/play-x.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Play-x Овертайм
+#EXTINF:-1 group-title="Узбекистан | O'zbek 🇺🇿" tvg-logo="https://suzustv.clan.su/Logo/play-x.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Play-x Овертайм
 https://lbgo.bozztv.com/07/ushba55/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📽 КиноПлюс ᴴᴰ" tvg-logo="https://suzustv.clan.su/Logo/play-x.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Play-x Одеська Кіностудія 1
 https://lbgo.bozztv.com/07/ushba-rvision/tracks-v1a1/mono.m3u8
@@ -2435,15 +2433,15 @@ https://live20.bozztv.com/giatvplayout7/ushba-rfilrms-0/tracks-v1a1/mono.m3u8
 https://live20.bozztv.com/giatvplayout7/ushba-rfilrms-e/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📽 КиноПлюс ᴴᴰ" tvg-logo="https://suzustv.clan.su/Logo/play-x.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Play-x Советский Дубляж
 https://live20.bozztv.com/giatvplayout7/ushba-rfilrms-d/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📽 КиноПлюс ᴴᴰ" tvg-logo="https://suzustv.clan.su/Logo/play-x.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Play-x Старый добрый фильм
+#EXTINF:-1 group-title="Узбекистан | O'zbek 🇺🇿" tvg-logo="https://suzustv.clan.su/Logo/play-x.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Play-x Старый добрый фильм
 https://live20.bozztv.com/giatvplayout7/ushba-rfilrms-c/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📽 КиноПлюс ᴴᴰ" tvg-logo="https://suzustv.clan.su/Logo/play-x.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Play-x Танцы 1
+#EXTINF:-1 group-title="Узбекистан | O'zbek 🇺🇿" tvg-logo="https://suzustv.clan.su/Logo/play-x.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Play-x Танцы 1
 https://lbgo.bozztv.com/07/ushba98/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📽 КиноПлюс ᴴᴰ" tvg-logo="https://suzustv.clan.su/Logo/play-x.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Play-x Танцы 2
+#EXTINF:-1 group-title="Узбекистан | O'zbek 🇺🇿" tvg-logo="https://suzustv.clan.su/Logo/play-x.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Play-x Танцы 2
 https://lbgo.bozztv.com/07/ushba97/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📽 КиноПлюс ᴴᴰ" tvg-logo="https://suzustv.clan.su/Logo/play-x.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Play-x Танцы 3
+#EXTINF:-1 group-title="Узбекистан | O'zbek 🇺🇿" tvg-logo="https://suzustv.clan.su/Logo/play-x.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Play-x Танцы 3
 https://lbgo.bozztv.com/07/ushba56/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📽 КиноПлюс ᴴᴰ" tvg-logo="https://suzustv.clan.su/Logo/play-x.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Play-x Тик Ток
+#EXTINF:-1 group-title="Узбекистан | O'zbek 🇺🇿" tvg-logo="https://suzustv.clan.su/Logo/play-x.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Play-x Тик Ток
 https://lbgo.bozztv.com/07/ushba61/index.m3u8
 #EXTINF:-1 group-title="🎧 Музло+ 🔊🎶🎵🎧🎸🎷" tvg-logo="https://i.ibb.co/RpTz1LWH/image-2025-08-31-T115859-990.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",PortalFoxmix
 https://panel.tvstream.cl:1936/8040/8040/chunklist_w1623789705.m3u8
@@ -3242,7 +3240,7 @@ https://lbgo.bozztv.com/07/ushba-rvisionmovies/tracks-v1a1/mono.m3u8
 http://tinyurl.com/TvZaTak37/Kinozal_Intern_HD/manifest.m3u8
 #EXTINF:-1 group-title="📽 КиноПлюс ᴴᴰ" tvg-logo="http://ttvrun.one/uploads/B3ZqNagWjmzoqUttzVSR2kDGbvbbaz.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",SuzuS TV Маша и Ведмедь
 https://lbgo.bozztv.com/07/ushba79/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📽 КиноПлюс ᴴᴰ" tvg-logo="http://ttvrun.one/uploads/y0uZZQgWpSv1WxwC10GIHQGzPSufHZ.png" tvg-id="e10432067b0942800a78cadacc6c7675_ttv32098" $ExtFilter="GADEM 2",SuzuS TV Симпсоны
+#EXTINF:-1 group-title="▶1️⃣💲🎞️ КиноStream- Production 🧔‍" tvg-logo="http://ttvrun.one/uploads/y0uZZQgWpSv1WxwC10GIHQGzPSufHZ.png" tvg-id="e10432067b0942800a78cadacc6c7675_ttv32098" $ExtFilter="GADEM 2",SuzuS TV Симпсоны
 https://ab2262fdd9c5.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.061051251131.channel.3j8ws9t6eyFp.m3u8
 #EXTINF:-1 group-title="📽 КиноПлюс ᴴᴰ" tvg-logo="http://ttvrun.one/uploads/wHxPw3InaJ6emSPp6UFzHObdQxKpaG.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",SuzuS TV Универ
 http://tinyurl.com/TvZaTak37/Kinozal_univer/manifest.m3u8
@@ -3451,13 +3449,13 @@ https://kb.catcast.tv/content/49702/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJ
 http://5ca49f2417d90.streamlock.net/live/dolnykubin2/playlist.m3u8
 #EXTINF:-1 group-title="📽 КиноПлюс ᴴᴰ" tvg-logo="https://iptvx.one/picons/detkinoint-tviksel.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Tviksel Детское кино International
 https://v2.catcast.tv/content/38720/index.m3u8
-#EXTINF:-1 group-title="📽 КиноПлюс ᴴᴰ" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Tviksel Детское кино International
+#EXTINF:-1 group-title="📽 КиноПлюс ᴴᴰ" tvg-logo="https://iptvx.one/picons/detkinoint-tviksel.png" $ExtFilter="GADEM 2",Tviksel Детское кино International
 https://v2.catcast.tv/content/38720/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3ODM1MzgwNDEsImV4cCI6MTc4MzYyNDQ0MSwic3ViIjoiQWRtaW4ifQ.RrtIuw_hnB8lCjjgZfUf__9Q8vMvT4CLQigW6q60aBQ
-#EXTINF:-1 group-title="📽 КиноПлюс ᴴᴰ" tvg-logo="https://img.catcast.tv/uploads/25062020/logos/38617-5ef3d12196e3e.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Tviksel Кино 1 International
+#EXTINF:-1 group-title="📽 КиноПлюс ᴴᴰ" tvg-logo="https://iptvx.one/picons/kino1int-tviksel.png" $ExtFilter="GADEM 2",Tviksel Кино 1 International
 https://kino-1.catcast.tv/content/38617/index.m3u8?token=0ee1b810cb70fabf816a92c7fbac144a
-#EXTINF:-1 group-title="📽 КиноПлюс ᴴᴰ" tvg-logo="https://img.catcast.tv/uploads/25062020/logos/38617-5ef3d12196e3e.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_kino1int-tviksel" $ExtFilter="GADEM 2",Tviksel Кино 1 International
+#EXTINF:-1 group-title="📽 КиноПлюс ᴴᴰ" tvg-logo="https://iptvx.one/picons/kino1int-tviksel.png" $ExtFilter="GADEM 2",Tviksel Кино 1 International
 https://kino-1.catcast.tv/content/38617/index.m3u8
-#EXTINF:-1 group-title="📽 КиноПлюс ᴴᴰ" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Tviksel Кино 1 International
+#EXTINF:-1 group-title="📽 КиноПлюс ᴴᴰ" tvg-logo="https://iptvx.one/picons/kino1int-tviksel.png" $ExtFilter="GADEM 2",Tviksel Кино 1 International
 https://kino-1.catcast.tv/content/38617/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3ODM1MzgwNDEsImV4cCI6MTc4MzYyNDQ0MSwic3ViIjoiQWRtaW4ifQ.RrtIuw_hnB8lCjjgZfUf__9Q8vMvT4CLQigW6q60aBQ
 #EXTINF:-1 group-title="📽 КиноПлюс ᴴᴰ" tvg-logo="https://iptvx.one/picons/kino1int-tviksel.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_kino1int-tviksel" $ExtFilter="GADEM 2",Tviksel Кино 1 International
 http://kino-1.catcast.tv/content/38617/index.m3u8
@@ -3465,7 +3463,7 @@ http://kino-1.catcast.tv/content/38617/index.m3u8
 https://v2.catcast.tv/content/40381/index.m3u8
 #EXTINF:-1 group-title="📽 КиноПлюс ᴴᴰ" tvg-logo="http://1lot.tv/ch/10827.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Tviksel Музыка 1 International
 https://live20.bozztv.com/giatvplayout7/ushba-t1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📽 КиноПлюс ᴴᴰ" tvg-logo="https://img.catcast.tv/uploads/25062020/logos/37745-5ef3d10ff0621.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Tviksel Музыка 1 International
+#EXTINF:-1 group-title="📽 КиноПлюс ᴴᴰ" tvg-logo="http://1lot.tv/ch/10827.png" $ExtFilter="GADEM 2",Tviksel Музыка 1 International
 https://kino-1.catcast.tv/content/37745/index.m3u8
 #EXTINF:-1 group-title="📽 КиноПлюс ᴴᴰ" tvg-logo="https://tvboom.vip/ico/Music2int.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Tviksel Музыка 2 International
 https://live20.bozztv.com/giatvplayout7/ushba-t2/tracks-v1a1/mono.m3u8
@@ -3705,13 +3703,13 @@ http://127.0.0.1:6878/ace/getstream?id=05a4d3a925f74cd093dfe2313617a97d1b74c6ab&
 http://158.101.222.193:88/georgia_play.php?id=viasatnat
 #EXTINF:-1 group-title="↕️ ♻️ TTV 🎡 Развлекательно |🔎 Познавательные 🦎 ↕️" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Viju Nature HD
 http://127.0.0.1:6878/ace/getstream?id=2128074a1ebba9d320b148d25001b356f1057dda&.mp4
-#EXTINF:-1 group-title="📽 КиноПлюс ᴴᴰ" tvg-logo="../Channel/Logo/TV1000.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",viju TV1000
+#EXTINF:-1 group-title="📽 КиноПлюс ᴴᴰ" tvg-logo="https://iptvx.one/picons/tv1000.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_tv1000" $ExtFilter="GADEM 2",viju TV1000
 https://stream8.cinerama.uz/1058/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📽 КиноПлюс ᴴᴰ" tvg-logo="https://iptvx.one/picons/tv1000.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_tv1000" $ExtFilter="GADEM 2",viju TV1000
 http://178.134.1.158:8081/tv1000/index.m3u8?token=tva.in.ua
 #EXTINF:-1 group-title="📽 КиноПлюс ᴴᴰ" tvg-logo="https://iptvx.one/picons/tv1000-action.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_tv1000-action" $ExtFilter="GADEM 2",viju TV1000 Action
 http://178.134.1.158:8081/tv1000action/index.m3u8?token=tva.in.ua
-#EXTINF:-1 group-title="📽 КиноПлюс ᴴᴰ" tvg-logo="../Channel/Logo/TV1000 Action HD.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",viju TV1000 Action
+#EXTINF:-1 group-title="📽 КиноПлюс ᴴᴰ" tvg-logo="https://iptvx.one/picons/tv1000-action.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_tv1000-action" $ExtFilter="GADEM 2",viju TV1000 Action
 https://stream8.cinerama.uz/1225/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="↕️ ♻️🎬  TTV Кинозалы 📼 ↕️" tvg-logo="../Channel/Logo/TV1000 Action HD.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_tv1000-action" $ExtFilter="GADEM 2",viju TV1000 Action HD
 http://127.0.0.1:6878/ace/getstream?id=05a7dd3bf60e16ed1674cb437e1e00084392285e
@@ -3719,7 +3717,7 @@ http://127.0.0.1:6878/ace/getstream?id=05a7dd3bf60e16ed1674cb437e1e00084392285e
 http://127.0.0.1:6878/ace/getstream?id=ae0d6d703ef80198263a1a868740cf059eac4e9e&.mp4
 #EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",viju TV1000 R Kino
 http://158.101.222.193:88/georgia_play.php?id=tv1000rukino
-#EXTINF:-1 group-title="📽 КиноПлюс ᴴᴰ" tvg-logo="../Channel/Logo/TV1000 Русское кино.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",viju TV1000 Русское Кино
+#EXTINF:-1 group-title="📽 КиноПлюс ᴴᴰ" tvg-logo="https://iptvx.one/picons/tv1000-russkoe-kino.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_tv1000-russkoe-kino" $ExtFilter="GADEM 2",viju TV1000 Русское Кино
 https://stream8.cinerama.uz/1059/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="↕️ ♻️🎬  TTV Кинозалы 📼 ↕️" tvg-logo="../Channel/Logo/TV1000 Русское кино HD.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_tv1000-russkoe-kino" $ExtFilter="GADEM 2",viju TV1000 Русское кино HD
 http://127.0.0.1:6878/ace/getstream?id=af4baf7f76a3057eeea815c90747860e9fec488a
@@ -4203,7 +4201,7 @@ https://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R01_OTT_VETTA24_PERM/variant.m
 http://kinowalk.hopto.org/vhs90e_live
 #EXTINF:-1 group-title="▶🍿🛡️VPN КиноStream-Kinowalk +🎞️" tvg-logo="http://epg.it999.ru/img/6005.png" tvg-id="f736135dfb80936a523d63c9a10f2613_Видеокасета VHS" $ExtFilter="GADEM 2",Видеокассета VHS
 http://kinowalk.hopto.org/kasseta_live
-#EXTINF:-1 group-title="📽 КиноПлюс ᴴᴰ" tvg-logo="http://i120.fastpic.org/big/2022/0720/74/52a7882bf655f06a149bf9b06147dd74.png" tvg-id="f736135dfb80936a523d63c9a10f2613_Видеокасета VHS" $ExtFilter="GADEM 2",Видеокассета VHS
+#EXTINF:-1 group-title="▶1️⃣💲🎞️ КиноStream- Production 🧔‍" tvg-logo="http://i120.fastpic.org/big/2022/0720/74/52a7882bf655f06a149bf9b06147dd74.png" tvg-id="f736135dfb80936a523d63c9a10f2613_Видеокасета VHS" $ExtFilter="GADEM 2",Видеокассета VHS
 https://live20.bozztv.com/akamaissh101/ssh101/livevhs90e/playlist.m3u8
 #EXTINF:-1 group-title="▶🛡️VPN👁‍🗨 ☞ Пакет | 🎯 SuzuSTVNet + ᴴᴰ ᴳᴼᴸᴰ" tvg-logo="../Channel/Logo/Вместе-РФ.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_vmeste-rf" $ExtFilter="GADEM 2",Вместе-РФ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
@@ -4460,7 +4458,7 @@ http://rt-sth-rd-htlive.cdn.ngenix.net/hls/CH_R02_DON24/variant.m3u8
 https://rt-sth-rd-htlive.cdn.ngenix.net/hls/CH_R02_OTT_STH_RD_DON24/variant.m3u8?version=2
 #EXTINF:-1 group-title="↕️ ▶🔺PLAYLIST INFORMATION🔺INFO👉©️ SuzuS TV™️ ®️🔴🔺↕️" tvg-logo="https://edemtv.my1.ru/LOGO/qr_bcdf0a3beb9ce4f0b1110889afb8296d.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Донат Webmoney Z457575729000 Поблагодарить
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/9a087b26-8be4-11eb-a7de-bacfe1f83627/0/master.m3u8?country=DE&optout=0&uid=749544ec3d9a45d48c600d03cac91dfd&vendor=philips
-#EXTINF:-1 group-title="📽 КиноПлюс ᴴᴰ" tvg-logo="../Channel/Logo/Дорама.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Дорама
+#EXTINF:-1 group-title="📽 КиноПлюс ᴴᴰ" tvg-logo="https://iptvx.one/picons/dorama.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_dorama" $ExtFilter="GADEM 2",Дорама
 https://fs.uplink.kz/dorama/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="../Channel/Logo/Дорама.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_dorama" $ExtFilter="GADEM 2",Дорама
 http://tinyurl.com/TvZaTak007/dorama/video.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
@@ -4667,13 +4665,13 @@ https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R02_IMPULS_NBK/variant.m3u8
 http://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R02_IMPULS_NBK/variant.m3u8
 #EXTINF:-1 group-title="🏝 ▶ Другие  💫" tvg-logo="http://i115.fastpic.org/big/2021/0926/29/2f6d07e9c87177018b9c70036fd0e529.png" tvg-id="501a2aa5760168fcb900fc1be09304d6_f736135dfb80936a523d63c9a10f2613_Импульс (Салехард)" $ExtFilter="GADEM 2",Импульс HD
 https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R02_IMPULS_NBK/variant.m3u8?version=2
-#EXTINF:-1 group-title="📽 КиноПлюс ᴴᴰ" tvg-logo="../Channel/Logo/Индийское кино.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_indiyskoe-kino" $ExtFilter="GADEM 2",Индийское Кино
+#EXTINF:-1 group-title="📽 КиноПлюс ᴴᴰ" tvg-logo="https://iptvx.one/picons/indijskoe-kino.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_indiyskoe-kino" $ExtFilter="GADEM 2",Индийское Кино
 https://stream8.cinerama.uz/1060/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="../Channel/Logo/Индийское кино.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_indiyskoe-kino" $ExtFilter="GADEM 2",Индийское кино
 http://mfe01.cliptv.az/dash/Indiyskoe_Kino_SDfdghj4.ism/playlist.mpd
 #EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="../Channel/Logo/Индийское кино.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_indiyskoe-kino" $ExtFilter="GADEM 2",Индийское кино
 http://158.101.222.193:88/georgia_play.php?id=indiyskoekino
-#EXTINF:-1 group-title="📽 КиноПлюс ᴴᴰ" tvg-logo="../Channel/Logo/Индийское кино.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Индия
+#EXTINF:-1 group-title="📽 КиноПлюс ᴴᴰ" tvg-logo="https://iptvx.one/picons/zee-tv.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_zee-tv" $ExtFilter="GADEM 2",Индия
 http://hls127.freeott.top:8080/Zee_Russia/video.m3u8
 #EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="https://iptvx.one/picons/zee-tv.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_zee-tv" $ExtFilter="GADEM 2",индия
 http://158.101.222.193:88/georgia_play.php?id=zeetv
@@ -4856,7 +4854,7 @@ http://kinowalk.hopto.org/nonestopmovie_live
 https://stream8.cinerama.uz/1057/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📽 КиноПлюс ᴴᴰ" tvg-logo="../Channel/Logo/Кинопоказ HD.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",КИНОПОКАЗ
 http://hls127.freeott.top:8080/Kinopokaz_HD/video.m3u8
-#EXTINF:-1 group-title="📽 КиноПлюс ᴴᴰ" tvg-logo="../Channel/Logo/Кинопоказ HD.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Кинопоказ HD
+#EXTINF:-1 group-title="📽 КиноПлюс ᴴᴰ" tvg-logo="https://iptvx.one/picons/kinopokaz.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_kinopokaz-hd" $ExtFilter="GADEM 2",Кинопоказ HD
 http://hls127.freeott.top:8080/Kinopokaz_HD/mono.m3u8
 #EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="https://iptvx.one/picons/kinopremiera.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_kinopremiera-hd" $ExtFilter="GADEM 2",Кинопремьера
 http://mfe02.cliptv.az/dash/Kinopremiera_HDsdhjop567.ism/playlist.mpd
@@ -4882,7 +4880,7 @@ https://stream8.cinerama.uz/1234/tracks-v1a1/mono.m3u8
 http://127.0.0.1:6878/ace/getstream?id=e177586ae336f410e95e784348e4a1f7a82e0952&.mp4
 #EXTINF:-1 group-title="▶1️⃣💲🎞️ КиноStream- Production 🧔‍" tvg-logo="https://avatars.mds.yandex.net/i?id=7a5b0831e593de39a62fbcb0dfc28f61b95a254e-4449300-images-thumbs&n=13" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",КиноСериалы
 http://kinowalk.hopto.org/zagar_live
-#EXTINF:-1 group-title="📽 КиноПлюс ᴴᴰ" tvg-logo="../Channel/Logo/Киносерия.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",КИНОСЕРИЯ
+#EXTINF:-1 group-title="📽 КиноПлюс ᴴᴰ" tvg-logo="https://iptvx.one/picons/kinoseria.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_kinoseria" $ExtFilter="GADEM 2",КИНОСЕРИЯ
 http://hls127.freeott.top:8080/Kinoseriya_HD/video.m3u8
 #EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="https://iptvx.one/picons/kinoseria.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_kinoseria" $ExtFilter="GADEM 2",Киносерия
 http://158.101.222.193:88/georgia_play.php?id=kinoseria
@@ -4901,7 +4899,7 @@ http://158.101.222.193:88/georgia_play.php?id=kinoujas
 http://kinowalk.hopto.org/kinouzhas_live
 #EXTINF:-1 group-title="↕️ ♻️🎬  TTV Кинозалы 📼 ↕️" tvg-logo="../Channel/Logo/Киноужас.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_kinouzhas" $ExtFilter="GADEM 2",Киноужас HD
 http://127.0.0.1:6878/ace/getstream?id=fd386c089ec9cc7d1d75ef5d59cf2199211515e7
-#EXTINF:-1 group-title="📽 КиноПлюс ᴴᴰ" tvg-logo="../Channel/Logo/Кинохит.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_kinoxit" $ExtFilter="GADEM 2",Кинохит
+#EXTINF:-1 group-title="📽 КиноПлюс ᴴᴰ" tvg-logo="https://iptvx.one/picons/kinoxit.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_kinoxit" $ExtFilter="GADEM 2",Кинохит
 https://stream8.cinerama.uz/1055/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="../Channel/Logo/Кинохит.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_kinoxit" $ExtFilter="GADEM 2",Кинохит
 http://mfe01.cliptv.az/dash/Kinohit_SDqwecvrt672.ism/playlist.mpd
@@ -4919,9 +4917,9 @@ http://cdnua03.hls.tv/476/hls/ed42052073c51314cafe807598aa000a/115/stream.m3u8
 http://cdnua03.hls.tv/476/hls/ceb0d53e174b785c4f95a89092f17ccc/115/stream.m3u8
 #EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="https://iptvx.one/picons/klassika-kino.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_klassika-kino" $ExtFilter="GADEM 2",Классика кино
 https://dvrfl07.bozztv.com/ushba-rvisionmovies/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="📽 КиноПлюс ᴴᴰ" tvg-logo="../Channel/Logo/Ключ.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Ключ
+#EXTINF:-1 group-title="📽 КиноПлюс ᴴᴰ" tvg-logo="https://iptvx.one/picons/kluch.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_kluch" $ExtFilter="GADEM 2",Ключ
 http://hls127.freeott.top:8080/Kluch/mono.m3u8
-#EXTINF:-1 group-title="📽 КиноПлюс ᴴᴰ" tvg-logo="../Channel/Logo/Ключ.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Ключ
+#EXTINF:-1 group-title="📽 КиноПлюс ᴴᴰ" tvg-logo="https://iptvx.one/picons/kluch.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_kluch" $ExtFilter="GADEM 2",Ключ
 http://hls127.freeott.top:8080/Kluch/video.m3u8
 #EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="../Channel/Logo/Приключения.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Ключайка
 https://bl.rutube.ru/livestream/ed497bdb28846536f3928849f8f7e469/index.m3u8?s=8hKIWF5Ng40B0-kW7qvWBA&e=2070122249&scheme=https
@@ -5436,11 +5434,11 @@ http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
 #EXTINF:-1 group-title="🏝 ▶ Развлекательные 🧙" tvg-logo="https://iptvx.one/picons/doverie.png" tvg-id="501a2aa5760168fcb900fc1be09304d6_5d1a2899733a7d24226e4160e054b31e_doverie" $ExtFilter="GADEM 2",Москва. Доверие
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
-#EXTINF:-1 group-title="📽 КиноПлюс ᴴᴰ" tvg-logo="../Channel/Logo/Мосфильм. Золотая коллекция.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Мосфильм. Золотая коллекция
+#EXTINF:-1 group-title="📽 КиноПлюс ᴴᴰ" tvg-logo="https://iptvx.one/picons/mosfilm.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_mosfilm" $ExtFilter="GADEM 2",Мосфильм. Золотая коллекция
 http://hls127.freeott.top:8080/Mosfilm/mono.m3u8
-#EXTINF:-1 group-title="📽 КиноПлюс ᴴᴰ" tvg-logo="../Channel/Logo/Мосфильм Золотая коллекция.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Мосфильм. Золотая коллекция
+#EXTINF:-1 group-title="📽 КиноПлюс ᴴᴰ" tvg-logo="https://iptvx.one/picons/mosfilm.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_mosfilm" $ExtFilter="GADEM 2",Мосфильм. Золотая коллекция
 http://hls127.freeott.top:8080/Mosfilm/video.m3u8
-#EXTINF:-1 group-title="📽 КиноПлюс ᴴᴰ" tvg-logo="../Channel/Logo/Мосфильм. Золотая коллекция.png" tvg-id="c1e324916d345377bc986805bf2d4033_http://filmtvgroup.site/uploads/epg.xml.gz" $ExtFilter="GADEM 2",Мосфильм. Золотая коллекция
+#EXTINF:-1 group-title="📽 КиноПлюс ᴴᴰ" tvg-logo="https://iptvx.one/picons/mosfilm.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_mosfilm" $ExtFilter="GADEM 2",Мосфильм. Золотая коллекция
 https://filmtvgroup.hopto.org:8080/mosfilm/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3ODM1MzgwNDEsImV4cCI6MTc4MzYyNDQ0MSwic3ViIjoiQWRtaW4ifQ.RrtIuw_hnB8lCjjgZfUf__9Q8vMvT4CLQigW6q60aBQ
 #EXTINF:-1 group-title="↕️ ♻️🎬  TTV Кинозалы 📼 ↕️" tvg-logo="../Channel/Logo/Мосфильм. Золотая коллекция.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_mosfilm" $ExtFilter="GADEM 2",Мосфильм. Золотая коллекция HD
 http://127.0.0.1:6878/ace/getstream?id=50c13be1307994322057222dbbeefd22622e333d
@@ -5462,7 +5460,7 @@ http://87.99.87.203:2007/channel/6f48303b/index.m3u8?q=5a96c7e48a4072ebac1835b78
 http://tvcdn01.oktv.kz/tv/mtrk/index.m3u8
 #EXTINF:-1 group-title="💠 Казахстан | Қазақстан 🇰🇿" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/9/93/%D0%9C%D0%A2%D0%A0%D0%9A_2022.png/revision/latest?cb=20220817122335&path-prefix=ru" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",МТРК(Петропавловск)
 http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt2gwUfrLng2lIElZtlOhZQQ/m3u8
-#EXTINF:-1 group-title="📽 КиноПлюс ᴴᴰ" tvg-logo="../Channel/Logo/Мужское кино.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_muzhskoe-kino" $ExtFilter="GADEM 2",МУЖСКОЕ КИНО
+#EXTINF:-1 group-title="📽 КиноПлюс ᴴᴰ" tvg-logo="https://iptvx.one/picons/muzhskoe-kino.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_muzhskoe-kino" $ExtFilter="GADEM 2",МУЖСКОЕ КИНО
 https://stream8.cinerama.uz/1237/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="https://iptvx.one/picons/muzhskoe-kino.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_muzhskoe-kino" $ExtFilter="GADEM 2",Мужское Кино
 http://158.101.222.193:88/georgia_play.php?id=interesnoetv
@@ -5621,7 +5619,7 @@ https://rt-vlg-chr-htlive.cdn.ngenix.net/hls/CH_R01_NATIONALTV/variant.m3u8
 http://rt-vlg-penza-htlive.cdn.ngenix.net/hls/CH_R03_NASHDOM/variant.m3u8
 #EXTINF:-1 group-title="📽 КиноПлюс ᴴᴰ" tvg-logo="https://suzustv.clan.su/Logo/photo_2026-04-23_17-55-19.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Наш Киномир
 http://hls127.freeott.top:8080/Nash_kinomir/video.m3u8
-#EXTINF:-1 group-title="📽 КиноПлюс ᴴᴰ" tvg-logo="../Channel/Logo/Наш кинопоказ.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Наш Киномир
+#EXTINF:-1 group-title="📽 КиноПлюс ᴴᴰ" tvg-logo="https://suzustv.clan.su/Logo/photo_2026-04-23_17-55-19.jpg" $ExtFilter="GADEM 2",Наш Киномир
 http://hls127.freeott.top:8080/Nash_kinomir/video.m3u8?token=tva.in.ua
 #EXTINF:-1 group-title="↕️ ♻️🎬  TTV Кинозалы 📼 ↕️" tvg-logo="../Channel/Logo/Наш кинопоказ.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_nash-kinopokaz-hd" $ExtFilter="GADEM 2",Наш Кинопоказ HD
 http://127.0.0.1:6878/ace/getstream?id=ea3446c59eb4f6083c98a73e367b262e7e89c6ed&.mp4
@@ -5661,7 +5659,7 @@ http://127.0.0.1:6878/ace/getstream?id=646e1bd5cccfef3d0926eee34eb3fd7e01430507
 http://mfe01.cliptv.az/dash/Nashe_Novoe_Kino_SDfgffgfgf23.ism/playlist.mpd
 #EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="https://iptvx.one/picons/nashe-novoe-kino.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_nashe-novoe-kino" $ExtFilter="GADEM 2",Наше новое кино
 http://158.101.222.193:88/georgia_play.php?id=nashanovoekino
-#EXTINF:-1 group-title="📽 КиноПлюс ᴴᴰ" tvg-logo="../Channel/Logo/Наше новое кино.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Наше новое кино HD
+#EXTINF:-1 group-title="📽 КиноПлюс ᴴᴰ" tvg-logo="https://iptvx.one/picons/nashe-novoe-kino.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_nashe-novoe-kino" $ExtFilter="GADEM 2",Наше новое кино HD
 http://tinyurl.com/TvZaTak37/Nashe_Novoe_Kino_HD/video.m3u8?token=freeportal&token=1f3bbff14fb295b19d264ff7d63af35a
 #EXTINF:-1 group-title="↕️ ♻️🎬  TTV Кинозалы 📼 ↕️" tvg-logo="../Channel/Logo/Наше новое кино.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_nashe-novoe-kino" $ExtFilter="GADEM 2",Наше новое кино HD
 http://127.0.0.1:6878/ace/getstream?id=ae38625cca3cae6873509ba05b99aa1af5ec0f4e
@@ -5774,9 +5772,9 @@ https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_49CHANNEL/varian
 https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_49CHANNEL/variant.m3u8?version=2
 #EXTINF:-1 group-title="🏝 ▶ Другие  💫" tvg-logo="http://i115.fastpic.org/big/2021/0824/98/8be4cab4b979a244f3839ff8f498c898.png" tvg-id="501a2aa5760168fcb900fc1be09304d6_f736135dfb80936a523d63c9a10f2613_49 канал (Новосибирск)" $ExtFilter="GADEM 2",НСК 49
 https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_49CHANNEL/variant.m3u8?version=3
-#EXTINF:-1 group-title="📽 КиноПлюс ᴴᴰ" tvg-logo="../Channel/Logo/НСТ.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",НСТ
+#EXTINF:-1 group-title="📽 КиноПлюс ᴴᴰ" tvg-logo="https://iptvx.one/picons/nst.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_nst" $ExtFilter="GADEM 2",НСТ
 http://hls127.freeott.top:8080/HCTV/mono.m3u8
-#EXTINF:-1 group-title="📽 КиноПлюс ᴴᴰ" tvg-logo="../Channel/Logo/НСТ.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",НСТ
+#EXTINF:-1 group-title="📽 КиноПлюс ᴴᴰ" tvg-logo="https://iptvx.one/picons/nst.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_nst" $ExtFilter="GADEM 2",НСТ
 http://hls127.freeott.top:8080/HCTV/video.m3u8
 #EXTINF:-1 group-title="↕️ ♻️🎬  TTV Кинозалы 📼 ↕️" tvg-logo="../Channel/Logo/НСТ.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_nst" $ExtFilter="GADEM 2",НСТ
 http://127.0.0.1:6878/ace/getstream?id=038d0b88c99d988b0b91af57ef142f563a90d200&.mp4
@@ -6350,9 +6348,9 @@ http://cdnua03.hls.tv/476/hls/215247e3abee81b8339d3dc62acc6921/4907/stream.m3u8
 http://cdnua03.hls.tv/476/hls/ed42052073c51314cafe807598aa000a/4907/stream.m3u8
 #EXTINF:-1 group-title="Украина | Українські 🇺🇦" tvg-logo="../Channel/Logo/Про Бизнес.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Про Київ
 http://cdnua03.hls.tv/476/hls/ceb0d53e174b785c4f95a89092f17ccc/4907/stream.m3u8
-#EXTINF:-1 group-title="📽 КиноПлюс ᴴᴰ" tvg-logo="../Channel/Logo/Про любовь.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Про любовь
+#EXTINF:-1 group-title="📽 КиноПлюс ᴴᴰ" tvg-logo="https://iptvx.one/picons/pro-lyubov.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_pro-lyubov" $ExtFilter="GADEM 2",Про любовь
 http://hls127.freeott.top:8080/ProLubovHD/mono.m3u8
-#EXTINF:-1 group-title="📽 КиноПлюс ᴴᴰ" tvg-logo="../Channel/Logo/Про любовь.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Про Любовь HD
+#EXTINF:-1 group-title="📽 КиноПлюс ᴴᴰ" tvg-logo="https://iptvx.one/picons/pro-lyubov.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_pro-lyubov" $ExtFilter="GADEM 2",Про Любовь HD
 http://hls127.freeott.top:8080/ProLubovHD/video.m3u8
 #EXTINF:-1 group-title="↕️ ♻️🎬  TTV Кинозалы 📼 ↕️" tvg-logo="../Channel/Logo/Про любовь.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_pro-lyubov" $ExtFilter="GADEM 2",Про Любовь HD
 http://127.0.0.1:6878/ace/getstream?id=300552f346d9fe2dfd405f48fbafe084a95da563
@@ -6648,7 +6646,7 @@ http://rt-vlg-ul-htlive.cdn.ngenix.net/hls/CH_R03_REP73/variant.m3u8
 https://rt-vlg-ul-htlive.cdn.ngenix.net/hls/CH_R03_REP73/variant.m3u8
 #EXTINF:-1 group-title="🏝 ▶ Другие  💫" tvg-logo="https://iptvx.one/picons/reportior-73.png" tvg-id="501a2aa5760168fcb900fc1be09304d6_5d1a2899733a7d24226e4160e054b31e_reportior-73" $ExtFilter="GADEM 2",Репортер 73
 https://rt-vlg-ul-htlive.cdn.ngenix.net/hls/CH_R03_REP73/variant.m3u8?version=2
-#EXTINF:-1 group-title="📽 КиноПлюс ᴴᴰ" tvg-logo="../Channel/Logo/Ретро ТВ.png" tvg-id="c1e324916d345377bc986805bf2d4033_http://filmtvgroup.site/uploads/epg.xml.gz" $ExtFilter="GADEM 2",Ретро
+#EXTINF:-1 group-title="📽 КиноПлюс ᴴᴰ" tvg-logo="https://iptvx.one/picons/retro-tv.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_retro-tv" $ExtFilter="GADEM 2",Ретро
 https://filmtvgroup.hopto.org:8080/Retro/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3ODM1MzgwNDEsImV4cCI6MTc4MzYyNDQ0MSwic3ViIjoiQWRtaW4ifQ.RrtIuw_hnB8lCjjgZfUf__9Q8vMvT4CLQigW6q60aBQ
 #EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="../Channel/Logo/Ретро ТВ.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_retro-tv" $ExtFilter="GADEM 2",Ретро
 http://176.118.197.101/Retro/index.m3u8
@@ -7560,7 +7558,7 @@ http://213.91.179.28:8000/play/a07g
 http://tinyurl.com/TvZaTak37/STS_Kids/video.m3u8?token=freeportal&token=deooleg
 #EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="../Channel/Logo/СТС Kids.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_sts-kids-hd" $ExtFilter="GADEM 2",СТС Kids HD
 http://57.128.183.163/11017/index.m3u8?token=835894B9079F&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
-#EXTINF:-1 group-title="📽 КиноПлюс ᴴᴰ" tvg-logo="../Channel/Logo/СТС Love.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",СТС Love
+#EXTINF:-1 group-title="📽 КиноПлюс ᴴᴰ" tvg-logo="https://iptvx.one/picons/sts-love.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_sts-love" $ExtFilter="GADEM 2",СТС Love
 http://tinyurl.com/TvZaTak37/CTC-LOVE/manifest.m3u8
 #EXTINF:-1 group-title="↕️ ♻️ TTV 🎡 Развлекательно |🔎 Познавательные 🦎 ↕️" tvg-logo="../Channel/Logo/СТС Love.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",СТС Love
 http://127.0.0.1:6878/ace/getstream?id=d586953ebbdb28493eecd8d8e8527557a231201d
@@ -8103,7 +8101,7 @@ https://rt-sth-elista-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_ELISTA_HAMDAN/var
 #EXTINF:-1 group-title="🏝 ▶ Региoнальные  ⚜️" tvg-logo="https://iptvx.one/picons/xamdan-kalm24.png" tvg-id="501a2aa5760168fcb900fc1be09304d6_5d1a2899733a7d24226e4160e054b31e_xamdan-kalm24" $ExtFilter="GADEM 2",Хамдан-Калмыкия 24 (Элиста)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://rt-sth-elista-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_ELISTA_HAMDAN/variant.m3u8
-#EXTINF:-1 group-title="📽 КиноПлюс ᴴᴰ" tvg-logo="../Channel/Logo/Хит HD.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Хит HD
+#EXTINF:-1 group-title="📽 КиноПлюс ᴴᴰ" tvg-logo="https://iptvx.one/picons/khit.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_khit-hd" $ExtFilter="GADEM 2",Хит HD
 http://hls127.freeott.top:8080/XitHD/video.m3u8
 #EXTINF:-1 group-title="↕️ ♻️🎬  TTV Кинозалы 📼 ↕️" tvg-logo="../Channel/Logo/Хит HD.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_khit-hd" $ExtFilter="GADEM 2",Хит HD
 http://127.0.0.1:6878/ace/getstream?id=3eb0fde3eb9b432b6a978742e73dccf4ec0c5b5d&.mp4
@@ -8180,7 +8178,7 @@ http://vasilijsd.kazaktelekom.com/iptv/VEXVELA6Z7PXH6/6299/index.m3u8
 http://127.0.0.1:6878/ace/getstream?id=a4d2d63c562696b5ef7731efb7c2df74d9183700&.mp4
 #EXTINF:-1 group-title="↕️ ♻️🎬  TTV Кинозалы 📼 ↕️" tvg-logo="../Channel/Logo/Шокирующее.png" tvg-id="e10432067b0942800a78cadacc6c7675_ttv20321" $ExtFilter="GADEM 2",Шокирующее HD
 http://127.0.0.1:6878/ace/getstream?id=a4d2d63c562696b5ef7731efb7c2df74d9183700
-#EXTINF:-1 group-title="📽 КиноПлюс ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/8/8d/The_Benny_Hill_Show.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Шоу Бенни Хилла
+#EXTINF:-1 group-title="📽 КиноПлюс ᴴᴰ" tvg-logo="https://suzustv.clan.su/Logo/The_Benny_Hill_Show.jpg" $ExtFilter="GADEM 2",Шоу Бенни Хилла
 https://lbgo.bozztv.com/07/ushba62/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="▶🍿🛡️VPN КиноStream-Kinowalk +🎞️" tvg-logo="https://kinowalk.hopto.org/web/image/295/128x128?unique=2026-05-08%2010:22:58.142219&access_token=aba5562b-f0f3-49e0-bbc0-acec67c0e8e7" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Шурентий Live
 http://kinowalk.hopto.org/shurentiy_live_live
