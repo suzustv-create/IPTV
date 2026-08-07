@@ -7,7 +7,7 @@
 Весь контент взят с cайтов и форумов, которые находится в открытом доступе в сети Интернет, мы лишь ссылаемся на них.
 Мы не несём никакую ответственность за места происхождения, легальность и качество телеканалов, радиостанций и остального, лишь предоставляем техническое решение преобразования данных потоков с помощью плееров.
 Если вы желаете что бы с сервиса был убран контент который вам принадлежит, необходимо обратиться к оригинальному источнику вещания.
-Сайт работает при поддержке лесных духов и хранителя болот.  Поддержать проект: Юмани 410012490049169 $BorpasFileFormat="1" $NestedGroupsSeparator="/"
+Сайт работает при поддержке лесных духов и хранителя болот.  Поддержать проект: Юмани 410012490049169  $BorpasFileFormat="1" $NestedGroupsSeparator="/"
 #EXTINF:-1 group-title="↕️ ▶🔺PLAYLIST INFORMATION🔺INFO👉©️ SuzuS TV™️ ®️🔴🔺↕️" tvg-logo="https://suzustv.clan.su/IMAGES/suzustv-icon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",+✓Обновление:🔺INFO 🔴🔺↕️ https://suzustv.clan.su/
 https://v2.catcast.tv/videos/ch38963/110220220628_125335/video.mp4
 #EXTINF:-1 group-title="↕️ ♻️🎬  TTV Кинозалы 📼 ↕️" tvg-logo="https://iptvx.one/picons/sony-turbo.png" tvg-id="501a2aa5760168fcb900fc1be09304d6_0aff53edcbcf5111e3a2b47f80701b10_sony-turbo" $ExtFilter="GADEM 2",.black
@@ -3536,9 +3536,9 @@ http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt1rgOgTI-gPeAudc7iTbu6Y/m3u8
 http://abr.de1se01.v2beat.live/playlist.m3u8
 #EXTINF:-1 group-title="🎧 Музло+ 🔊🎶🎵🎧🎸🎷" tvg-logo="https://i.ibb.co/RJyW4cF/image-2025-09-21-T122129-314.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",V2Beat TV Live
 http://hubtv.ru/index.php?stream=aHR0cHM6Ly9hYnIuZGUxc2UwMS52MmJlYXQubGl2ZS9saXZlL2xpdmU2L2NodW5rcy5tM3U4
-#EXTINF:-1 group-title="▶🍿🛡️VPN КиноStream-Kinowalk +🎞️" tvg-logo="https://i128.fastpic.org/big/2026/0730/c2/bc7c9f65450aaa9106549406e3be18c2.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",VB Eurodance Hits of 90s & Dance Hits of 90s
+#EXTINF:-1 group-title="▶🍿🛡️VPN КиноStream-Kinowalk +🎞️" tvg-logo="https://suzustv.clan.su/Logo/bc7c9f65450aaa9106549406e3be18c2.jpg" $ExtFilter="GADEM 2",VB Eurodance Hits of 90s & Dance Hits of 90s
 https://ab2262fdd9c5.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.061051251131.channel.KQqQc9umXpN7.m3u8
-#EXTINF:-1 group-title="▶🍿🛡️VPN КиноStream-Kinowalk +🎞️" tvg-logo="https://i128.fastpic.org/big/2026/0730/c2/bc7c9f65450aaa9106549406e3be18c2.jpg" tvg-id="6c18d008bb0762fb9d4b7016e8f18b1f_VB Live Dance Events & Mixes" $ExtFilter="GADEM 2",VB Live Dance Events & Mixes
+#EXTINF:-1 group-title="▶🍿🛡️VPN КиноStream-Kinowalk +🎞️" tvg-logo="https://suzustv.clan.su/Logo/bc7c9f65450aaa9106549406e3be18c2.jpg" $ExtFilter="GADEM 2",VB Live Dance Events & Mixes
 https://ab2262fdd9c5.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.061051251131.channel.8oNpN7R2EoH5.m3u8
 #EXTINF:-1 group-title="▶1️⃣💲🎞️ КиноStream- Production+ 🧔‍" tvg-logo="https://sun9-6.userapi.com/impg/cqiOBeOK580ghbsclTCpd1JGgEsofKQh-EgG-A/-TnJypxbUjs.jpg?size=320x240&quality=95&keep_aspect_ratio=1&background=000000&sign=d0f2d84b0755308f9e8aee98fef6ad0a&c_uniq_tag=gnwzCNO3zqMn1zRO6d_5oD0qarTqpXCloZKBTn8iybU&type=video_thumb" tvg-id="501a2aa5760168fcb900fc1be09304d6_6c18d008bb0762fb9d4b7016e8f18b1f_VB Всё в одном" $ExtFilter="GADEM 2",VB Всё в одном
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 YaBrowser/25.2.0.0 Safari/537.36
