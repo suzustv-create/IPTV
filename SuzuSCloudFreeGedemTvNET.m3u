@@ -1696,8 +1696,6 @@ http://cootv.cootel.com.ni:8075/channel22/playlist.m3u8
 https://cloudpro.servidoresdestream.com:8081/8026/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Украина | Українські 🇺🇦" tvg-logo="http://168.119.58.242:80/images/rp1amMNgKaqtkxe5QdZxGmZxMD2shcFEhYiT_P-NRzsJDpTrMdiU9mRYqbgcPB61OeJotxyOtX4Mfm2-Khu5zQ.png" tvg-id="501a2aa5760168fcb900fc1be09304d6_5d1a2899733a7d24226e4160e054b31e_lale" $ExtFilter="GADEM 2",LALE
 http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjltw2HliT-9aOxwgRi1HfOmAQ/m3u8
-#EXTINF:-1 group-title="▶🍿🛡️VPN КиноStream-Kinowalk +🎞️" tvg-logo="https://images.live.vkvideo.ru/user/18907130/avatar?change_time=1734455298&croped=1&mh=140&mw=140" tvg-id="501a2aa5760168fcb900fc1be09304d6_simpleTVFakeEpgId" $ExtFilter="GADEM 2",lampoTV
-http://kinowalk.hopto.org/lampotv_live
 #EXTINF:-1 group-title="↕️ ▶🔺PLAYLIST INFORMATION🔺INFO👉©️ SuzuS TV™️ ®️🔴🔺↕️" tvg-logo="https://suzustv.clan.su/QRCOD/SUZUSTV.png" tvg-id="501a2aa5760168fcb900fc1be09304d6_5d1a2899733a7d24226e4160e054b31e_lanet-relax" $ExtFilter="GADEM 2",Lanet Relax
 http://iptv.prosto.tv:7000/ch314/video.m3u8
 #EXTINF:-1 group-title="🎧 Музло+ 🔊🎶🎵🎧🎸🎷" tvg-logo="https://headicon.trovo.live/user/2l7xgbqaaaaaby365l2bw4g2cy.jpeg" $ExtFilter="GADEM 2",Latin Zone TV
@@ -4227,6 +4225,8 @@ http://tinyurl.com/TvZaTak007/dorama/video.m3u8?|User-Agent=http-user-agent=Lavf
 http://127.0.0.1:6878/ace/getstream?id=67cf1b59347125a57a5ea62844a6b77075a3d9dd
 #EXTINF:-1 group-title="↕️ ♻️ TTV 🎡 Развлекательно |🔎 Познавательные 🦎 ↕️" tvg-logo="../Channel/Logo/Драйв.png" tvg-id="501a2aa5760168fcb900fc1be09304d6_simpleTVFakeEpgId" $ExtFilter="GADEM 2",Драйв
 http://127.0.0.1:6878/ace/getstream?id=2893ea38cf923c7efcfaf3eead798dd73b2cf2d0
+#EXTINF:-1 group-title="▶🍿🛡️VPN КиноStream-Kinowalk +🎞️" tvg-logo="http://ttvrun.one/uploads/xpBtaWfH8FJetVcQz2B1hwueRo21kZ.png" tvg-id="e10432067b0942800a78cadacc6c7675_ttv31559" $ExtFilter="GADEM 2",Друзья
+http://kinowalk.hopto.org/lampotv_live
 #EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-id="501a2aa5760168fcb900fc1be09304d6_simpleTVFakeEpgId" $ExtFilter="GADEM 2",ДТВ Голые и смешные TV
 http://146.59.93.251/12498/index.m3u8?token=09CA671DAA57
 #EXTINF:-1 group-title="🥔 Беларусь | Беларускія 🇧🇾" tvg-logo="https://i.postimg.cc/yx14KkcR/unnamed.png" tvg-id="501a2aa5760168fcb900fc1be09304d6_simpleTVFakeEpgId" $ExtFilter="GADEM 2",Душевное радио (Беларусь)
