@@ -4954,8 +4954,12 @@ https://bl.rutube.ru/livestream/ed497bdb28846536f3928849f8f7e469/index.m3u8?s=8h
 https://bl.rutube.ru/livestream/ed497bdb28846536f3928849f8f7e469/index.m3u8?s=X1ynr2GGVdByHxGi1uQZcA&e=2083580134&scheme=https
 #EXTINF:-1 group-title="🏝 ▶ Другие  💫" tvg-logo="../Channel/Logo/Терра Инкогнита.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_simpleTVFakeEpgId" $ExtFilter="GADEM 2",КОГАЛЫМ
 https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_NGOR_URAL_SUR/variant.m3u8?version=2
-#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://ttvrun.one/uploads/cQmXU2s0BRdS2sN6fkUifg9QC5FcdC.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e10432067b0942800a78cadacc6c7675_ttv32167" $ExtFilter="GADEM 2",Колобок ТВ - VHS Melodrama
+#EXTINF:-1 group-title="▶🍿🛡️VPN КиноStream-Kinowalk +🎞️" tvg-logo="http://ttvrun.one/uploads/cQmXU2s0BRdS2sN6fkUifg9QC5FcdC.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e10432067b0942800a78cadacc6c7675_ttv32167" $ExtFilter="GADEM 2",Колобок ТВ - VHS Melodrama
 https://stream.ushba.tv/akamaiushba/ushba64/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="▶🍿🛡️VPN КиноStream-Kinowalk +🎞️" tvg-logo="http://ttvrun.one/uploads/glkIprpAQMLyr7bFOQMgnEh9gOcBjT.png" tvg-id="e10432067b0942800a78cadacc6c7675_ttv32046" $ExtFilter="GADEM 2",Колобок ТВ - Ералаш
+https://lbgo.bozztv.com/07/ushba45/index.m3u8
+#EXTINF:-1 group-title="▶🍿🛡️VPN КиноStream-Kinowalk +🎞️" tvg-logo="http://ttvrun.one/uploads/hLUyf8FR9p9Rv4QSg9Cr0JX3EEi7Um.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Колобок ТВ - Том и Джерри в детстве
+https://rpn3.bozztv.com/dvrfl07/giatv-208314/playlist.m3u8
 #EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="https://iptvx.one/picons/kolyma-plus.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_5d1a2899733a7d24226e4160e054b31e_kolyma-plus" $ExtFilter="GADEM 2",Колыма-Плюс
 https://tw2ywfm7jbp.a.trbcdn.net/livemaster/7phjk_live-papd7z4v92.smil/playlist.m3u8
 #EXTINF:-1 group-title="🏝 ▶ Региoнальные  ⚜️" tvg-logo="https://iptvx.one/picons/kolyma-plus.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_5d1a2899733a7d24226e4160e054b31e_kolyma-plus" $ExtFilter="GADEM 2",Колыма-Плюс HD
@@ -8565,8 +8569,18 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ_7/variant.m3u8
 #EXTINF:-1 group-title="🏝 ▶ Другие  💫" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_simpleTVFakeEpgId" $ExtFilter="GADEM 2",Че! - Музыкальное телевидение Сахалина(Сахалин)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://s14553.cdn.ngenix.net/hls/CH_R02_PERETZ_SLIN/variant.m3u8
-#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://ttvrun.one/uploads/SGPj9wjE3FxnSLBTzZOCDEZPxVCtHw.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e10432067b0942800a78cadacc6c7675_ttv32136" $ExtFilter="GADEM 2",Чебур ТВ - Кинопанорама
+#EXTINF:-1 group-title="▶🍿🛡️VPN КиноStream-Kinowalk +🎞️" tvg-logo="http://ttvrun.one/uploads/SGPj9wjE3FxnSLBTzZOCDEZPxVCtHw.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e10432067b0942800a78cadacc6c7675_ttv32136" $ExtFilter="GADEM 2",Чебур ТВ - Кинопанорама
 https://fl1003.bozztv.com/ushba-rvisionkinopanorama/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="▶🍿🛡️VPN КиноStream-Kinowalk +🎞️" tvg-logo="http://ttvrun.one/uploads/0Jxot9N3dp51vzUnaX6aeuViDNQRuu.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Чебур ТВ - Мультики
+https://video1.getstreamhosting.com:1936/8006/8006/playlist.m3u8
+#EXTINF:-1 group-title="▶🍿🛡️VPN КиноStream-Kinowalk +🎞️" tvg-logo="http://ttvrun.one/uploads/cDi9V36vx0HiuYbgISHdxXaoyLFlbF.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Чебур ТВ - Назад в СССР
+https://lbgo.bozztv.com/07/ushba80/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="▶🍿🛡️VPN КиноStream-Kinowalk +🎞️" tvg-logo="http://ttvrun.one/uploads/iOZA3kplhClTbsKW6lrBIhQAzhiYnM.png" tvg-id="e10432067b0942800a78cadacc6c7675_ttv31953" $ExtFilter="GADEM 2",Чебур ТВ - Патриот
+https://lbgo.bozztv.com/07/ushba-rfilrms-v/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="▶🍿🛡️VPN КиноStream-Kinowalk +🎞️" tvg-logo="http://ttvrun.one/uploads/uCudimW7Ud3j5FPAdRhv1fbzJTeQJC.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Чебур ТВ - СССР 70-е
+https://lbgo.bozztv.com/07/ushba-rvisionkinopanorama/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="▶🍿🛡️VPN КиноStream-Kinowalk +🎞️" tvg-logo="http://ttvrun.one/uploads/BxBO9MwqQPQb1Bx9vlWvKWas1h1SCY.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Чебур ТВ - СССР 80-е
+https://live20.bozztv.com/giatvplayout7/ushba-rfilrms-z/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_simpleTVFakeEpgId" $ExtFilter="GADEM 2",Чернівецький Промінь HD
 http://rebrand.ly/TvZaTak11
 #EXTINF:-1 group-title="Украина | Українські 🇺🇦" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_simpleTVFakeEpgId" $ExtFilter="GADEM 2",Чернівецький Промінь HD
