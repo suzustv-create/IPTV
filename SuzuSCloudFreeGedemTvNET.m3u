@@ -98,7 +98,7 @@ http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/951/index.m3u8
 http://s1putrso.otttv.pw/iptv/2EA55L4SUE4RH4/951/index.m3u8
 #EXTINF:-1 group-title="Украина | Українські 🇺🇦" tvg-logo="../Channel/Logo/Сочи 24 HD.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_24news-ua" $ExtFilter="GADEM 2",24 КАНАЛ
 http://streamvideol1.luxnet.ua/news24/news24.stream/playlist.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="https://iptvx.one/picons/24news-ua.png" tvg-id="f736135dfb80936a523d63c9a10f2613_24 канал" $ExtFilter="GADEM 2",24 Канал HD
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="https://iptvx.one/picons/24news-ua.png" tvg-id="f736135dfb80936a523d63c9a10f2613_24 канал" $ExtFilter="GADEM 2",24 Канал HD
 http://rebrand.ly/1c0qjdg/ROSTIK-TV/24-NEWS-HD
 #EXTINF:-1 group-title="Украина | Українські 🇺🇦" tvg-logo="http://i120.fastpic.org/big/2022/1026/1b/a513ae6847dc4d6123bda88d0748251b.png" tvg-id="f736135dfb80936a523d63c9a10f2613_24 канал" $ExtFilter="GADEM 2",24 канал HD
 http://streamvideol1.luxnet.ua/news24/livenews.m3u8
@@ -184,7 +184,7 @@ https://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R03_BRATSK360/variant.m3u8
 https://rt-sib-nvkz-htlive.cdn.ngenix.net/hls/CH_R03_KISEL_TV/variant.m3u8
 #EXTINF:-1 group-title="Украина | Українські 🇺🇦" tvg-logo="http://i120.fastpic.org/big/2022/0902/56/8e7f7b0e21771cdac82a2a99e9999556.png" tvg-id="f736135dfb80936a523d63c9a10f2613_360 Tune Box" $ExtFilter="GADEM 2",360 Tune BOX
 http://iptv.prosto.tv:7000/ch141/video.m3u8?secret=xws6dla3
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="https://iptvx.one/picons/360-news.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_360-news" $ExtFilter="GADEM 2",360 Новости
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="https://iptvx.one/picons/360-news.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_360-news" $ExtFilter="GADEM 2",360 Новости
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/tracks-v5a1/mono.m3u8
 #EXTINF:-1 group-title="▶🛡️VPN👁‍🗨 ☞ Пакет | 🎯 SuzuSTVNet + ᴴᴰ ᴳᴼᴸᴰ" tvg-logo="https://iptvx.one/picons/360-news.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_e10432067b0942800a78cadacc6c7675_ttv30241" $ExtFilter="GADEM 2",360 Новости HD
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/mono.m3u8
@@ -796,9 +796,9 @@ https://s05.watcher.uz/92/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.
 #EXTINF:-1 group-title="▶🛡️VPN👁‍🗨 ☞ Пакет | 🎯 SuzuSTVNet + ᴴᴰ ᴳᴼᴸᴰ" tvg-logo="../Channel/Logo/CGTN Русский.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_e10432067b0942800a78cadacc6c7675_ttv31671" $ExtFilter="GADEM 2",CGTN Русский
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/f785d738a845cc80658e887843a18ed9/index.m3u8?s=WzNLV3yhVEMzUuwCy8_4Eg&e=2082197309&scheme=https
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img/2268.png" tvg-id="e10432067b0942800a78cadacc6c7675_ttv31671" $ExtFilter="GADEM 2",CGTN Русский
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img/2268.png" tvg-id="e10432067b0942800a78cadacc6c7675_ttv31671" $ExtFilter="GADEM 2",CGTN Русский
 http://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img/2268.png" tvg-id="e10432067b0942800a78cadacc6c7675_ttv31671" $ExtFilter="GADEM 2",CGTN Русский
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img/2268.png" tvg-id="e10432067b0942800a78cadacc6c7675_ttv31671" $ExtFilter="GADEM 2",CGTN Русский
 https://russian-liveali.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
 #EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="../Channel/Logo/CGTN Русский.png" tvg-id="e10432067b0942800a78cadacc6c7675_ttv31671" $ExtFilter="GADEM 2",CGTN Русский
 https://bl.rutube.ru/livestream/f785d738a845cc80658e887843a18ed9/index.m3u8?s=7U0vxvLINRZjgjh-m-Zd_Q&e=2083580092&scheme=https
@@ -844,7 +844,7 @@ http://stream.laut.fm:80/club85
 http://168.119.58.242:80/play/f_BX1L0-rdInVewZIDjlt4OQZUuEdAxyDGcNv0O2e-Y/m3u8
 #EXTINF:-1 group-title="🎧 Музло+ 🔊🎶🎵🎧🎸🎷" tvg-logo="https://i.ibb.co/5n71nsB/resize-23.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",CMC TV
 https://stream.cmctv.hr:49998/cmc/live.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://i121.fastpic.org/big/2023/0424/f5/ea67051008da24d7dd9bbc326da327f5.png" tvg-id="f736135dfb80936a523d63c9a10f2613_CNN International" $ExtFilter="GADEM 2",CNN
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://i121.fastpic.org/big/2023/0424/f5/ea67051008da24d7dd9bbc326da327f5.png" tvg-id="f736135dfb80936a523d63c9a10f2613_CNN International" $ExtFilter="GADEM 2",CNN
 http://190.11.225.124:5000/live/cnn_hd/playlist.m3u8
 #EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="https://i.ibb.co/525547v/Screenshot-4.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",CODE FASHION
 https://cdn2.invivo.bg/Codefashion_5500/index.fmp4.m3u8
@@ -1050,7 +1050,7 @@ https://s06.watcher.uz/121/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9
 https://flussonic.mkpnet.ru/tv-d66fcf59f2f4c966/video.m3u8
 #EXTINF:-1 group-title="Узбекистан | O'zbek 🇺🇿" tvg-logo="http://tv.team/images/chIcons/1805.png" tvg-id="f736135dfb80936a523d63c9a10f2613_Dunyo Bo’ylab (UZ)" $ExtFilter="GADEM 2",Dunyo Boylab UZ
 https://s05.watcher.uz/63/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="https://iptvx.one/picons/deutsche-welle-ru.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_deutsche-welle-ru" $ExtFilter="GADEM 2",DW Russia
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="https://iptvx.one/picons/deutsche-welle-ru.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_deutsche-welle-ru" $ExtFilter="GADEM 2",DW Russia
 https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.m3u8
 #EXTINF:-1 group-title="🎧 Музло+ 🔊🎶🎵🎧🎸🎷" tvg-logo="https://headicon.trovo.live/user/2l7xgbqaaaaaby365l2bw4g2cy.jpeg" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",ECKO EXPRES music
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist.m3u8
@@ -1644,7 +1644,7 @@ http://iptv.prosto.tv:7000/ch314/video.m3u8
 https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://i120.fastpic.org/big/2022/0724/87/a5e5d43df5a2c833cd3538f521ab9187.png" tvg-id="f736135dfb80936a523d63c9a10f2613_LIFE TV" $ExtFilter="GADEM 2",Life TV
 http://lifetv.bitflip.ee/live/stream1_1/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/dd022de9cc6c8af89409513fa0a6117a/index.m3u8?s=--PS6tbV9XWHkPb0Js9kcw&e=2082197315&scheme=https
 #EXTINF:-1 group-title="⚽ Спорт+ ᴴᴰ 🏀🥎🏒⛸🏈🏋️‍ 🏆" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/11bbbec75a2ceb8cf446ad16813c6eec/index.m3u8?s=y7nXOalMNdsp8QPsgVL9Ag&e=2085221831&scheme=https
@@ -2430,13 +2430,13 @@ http://streamcdnb4-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S27134503/0f9
 https://rst2.saiuzwebnetwork.it:8081/saiuz-2/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="🎧 Музло+ 🔊🎶🎵🎧🎸🎷" tvg-logo="https://i.ibb.co/svf2yn0j/image-29.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",RTV Love
 https://d2o8iss0ldenh4.cloudfront.net/nlpo/clr-nlpo/rtvlove/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="../Channel/Logo/RTVi.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",RTV NOF TV
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="../Channel/Logo/RTVi.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",RTV NOF TV
 http://5ebd833552d56.streamlock.net:1935/rtvnof3/rtvnof3/chunklist.m3u8
 #EXTINF:-1 group-title="🎧 Музло+ 🔊🎶🎵🎧🎸🎷" tvg-logo="http://rafail1982.uz/music.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",RTV Vida
 https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8
 #EXTINF:-1 group-title="🎧 Музло+ 🔊🎶🎵🎧🎸🎷" tvg-logo="http://rafail1982.uz/music.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",RTV Vida
 http://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="../Channel/Logo/RTД HD.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rtd-ru" $ExtFilter="GADEM 2",RTД HD
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="../Channel/Logo/RTД HD.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rtd-ru" $ExtFilter="GADEM 2",RTД HD
 http://rt-doc.rttv.com/dvr/rtdru/rtdru1080.m3u8
 #EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="../Channel/Logo/RU TV.png" tvg-id="f736135dfb80936a523d63c9a10f2613_RU TV" $ExtFilter="GADEM 2",Ru TV
 https://flussonic.mkpnet.ru/tv-64b2c4ff13365817/video.m3u8
@@ -4287,7 +4287,7 @@ http://11.tvtm.one/ch3826/mono.m3u8?token=alxdlp.v2_G_QEM5T2z21jQKczPnq7v_BhE0Tu
 http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
 #EXTINF:-1 group-title="▶🛡️VPN👁‍🗨 ☞ Пакет | 🎯 SuzuSTVNet + ᴴᴰ ᴳᴼᴸᴰ" tvg-logo="https://iptvx.one/picons/izvestia.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_5d1a2899733a7d24226e4160e054b31e_izvestia" $ExtFilter="GADEM 2",Известия
 http://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v3a1/mono.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="https://i.imgur.com/GRWcCDP.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_izvestia" $ExtFilter="GADEM 2",Известия
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="https://i.imgur.com/GRWcCDP.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_izvestia" $ExtFilter="GADEM 2",Известия
 http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 #EXTINF:-1 group-title="🏝 ▶ Другие  💫" tvg-logo="../Channel/Logo/Известия.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_simpleTVFakeEpgId" $ExtFilter="GADEM 2",Известия - Армавир
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -4330,9 +4330,9 @@ https://rt-nw-komi-htlive.cdn.ngenix.net/hls/CH_R01_IZVESTYA/variant.m3u8
 #EXTINF:-1 group-title="🏝 ▶ Другие  💫" tvg-logo="../Channel/Logo/Известия.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_simpleTVFakeEpgId" $ExtFilter="GADEM 2",Известия - ТСН 24 (Тула)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://rt-ct-tula-htlive.cdn.ngenix.net/hls/CH_R01_TULA24/variant.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="https://iptvx.one/picons/izvestia.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_izvestia" $ExtFilter="GADEM 2",Известия HD
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="https://iptvx.one/picons/izvestia.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_izvestia" $ExtFilter="GADEM 2",Известия HD
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="https://iptvx.one/picons/izvestia.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_izvestia" $ExtFilter="GADEM 2",Известия HD
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="https://iptvx.one/picons/izvestia.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_izvestia" $ExtFilter="GADEM 2",Известия HD
 http://s20441.cdn.ngenix.net/hls/CH_R49_MGTK/variant.m3u8
 #EXTINF:-1 group-title="🏝 ▶ Другие  💫" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_simpleTVFakeEpgId" $ExtFilter="GADEM 2",Известия/Тула 24 (ТСН 24) HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -4805,13 +4805,13 @@ http://127.0.0.1:6878/ace/getstream?id=aa6c193b9de1e6b6277e3075299fdeea925e2dc0
 https://live20.bozztv.com/giatv/giatv-88882com/88882com/chunks.m3u8
 #EXTINF:-1 group-title="▶🍿🛡️VPN КиноStream-Kinowalk +🎞️" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSShNpX-AKOcjiUv4Mpoa0xoll0T5cig2x6fA&s" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",КІНО TV БРОВАРИ
 https://183.bozztv.com/giatv/giatv-88882com/88882com/playlist.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="../Channel/Logo/ЛДПР ТВ.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_ldpr-tv" $ExtFilter="GADEM 2",ЛДПР ТВ
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="../Channel/Logo/ЛДПР ТВ.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_ldpr-tv" $ExtFilter="GADEM 2",ЛДПР ТВ
 http://46.46.143.222:1935/live/ldpr.stream/playlist.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="../Channel/Logo/ЛДПР ТВ.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_ldpr-tv" $ExtFilter="GADEM 2",ЛДПР ТВ
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="../Channel/Logo/ЛДПР ТВ.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_ldpr-tv" $ExtFilter="GADEM 2",ЛДПР ТВ
 http://46.46.143.222:1935/live/mp4:ldpr.stream/playlist.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="../Channel/Logo/ЛДПР ТВ.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_ldpr-tv" $ExtFilter="GADEM 2",ЛДПР ТВ
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="../Channel/Logo/ЛДПР ТВ.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_ldpr-tv" $ExtFilter="GADEM 2",ЛДПР ТВ
 http://46.46.143.222:1935/live/mp4:ldpr.stream_480p/playlist.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="../Channel/Logo/ЛДПР ТВ.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_ldpr-tv" $ExtFilter="GADEM 2",ЛДПР ТВ
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="../Channel/Logo/ЛДПР ТВ.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_ldpr-tv" $ExtFilter="GADEM 2",ЛДПР ТВ
 http://46.46.143.222:1935/live/mp4:ldpr.stream_720p/playlist.m3u8
 #EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="https://iptvx.one/picons/legenda.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_legenda" $ExtFilter="GADEM 2",Легенда
 https://flussonic.mkpnet.ru/tv-7a5f996197077375/video.m3u8
@@ -5096,7 +5096,7 @@ https://rt-sth-nalch-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_NALCH_KBR/variant.
 https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_NYAGANTV/variant.m3u8
 #EXTINF:-1 group-title="▶🛡️VPN👁‍🗨 ☞ Пакет | 🎯 SuzuSTVNet + ᴴᴰ ᴳᴼᴸᴰ" tvg-logo="../Channel/Logo/Мир 24.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_e10432067b0942800a78cadacc6c7675_ttv25462" $ExtFilter="GADEM 2",МИР 24 HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="../Channel/Logo/Мир 24.png" tvg-id="e10432067b0942800a78cadacc6c7675_ttv25462" $ExtFilter="GADEM 2",Мир 24 HD
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="../Channel/Logo/Мир 24.png" tvg-id="e10432067b0942800a78cadacc6c7675_ttv25462" $ExtFilter="GADEM 2",Мир 24 HD
 http://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="💠 Казахстан | Қазақстан 🇰🇿" tvg-logo="../Channel/Logo/Мир.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_mir" $ExtFilter="GADEM 2",МИР FHD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/tracks-v1a1/mono.m3u8
@@ -5369,9 +5369,9 @@ https://bl.rutube.ru/livestream/cf958b6c9ae4504be5fc2c1de358a017/index.m3u8?s=YV
 https://rt-vlg-srnk-htlive.cdn.ngenix.net/hls/CH_R01_NTM/variant.m3u8
 #EXTINF:-1 group-title="🏝 ▶ Другие  💫" tvg-logo="https://iptvx.one/picons/ntm.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_5d1a2899733a7d24226e4160e054b31e_ntm" $ExtFilter="GADEM 2",Народное телевидение Мордовии
 https://rt-vlg-srnk-htlive.cdn.ngenix.net/hls/CH_R01_NTM/variant.m3u8?version=2
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="https://iptvx.one/picons/nastoiaschee-vremia.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_nastoyaschee-vremia" $ExtFilter="GADEM 2",Настоящее время
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="https://iptvx.one/picons/nastoiaschee-vremia.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_nastoyaschee-vremia" $ExtFilter="GADEM 2",Настоящее время
 https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="https://i.imgur.com/6JhhLfq.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_nastoyaschee-vremia" $ExtFilter="GADEM 2",Настоящее время HD
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="https://i.imgur.com/6JhhLfq.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_nastoyaschee-vremia" $ExtFilter="GADEM 2",Настоящее время HD
 https://clck.ru/3F6ZUq
 #EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="https://i.imgur.com/ZZxzueO.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_nauka" $ExtFilter="GADEM 2",Наука
 http://tinyurl.com/TvZaTak37/NAUKA/video.m3u8?token=freeportal&token=deooleg
@@ -6359,21 +6359,21 @@ http://hubtv.ru/index.php?stream=aHR0cDovL3N0cmVhbTEuZGMuYmVsdGVsZWNvbS5ieToxOTM
 https://stream1.dc.beltelecom.by/radiomir/studio.stream/playlist.m3u8
 #EXTINF:-1 group-title="🥔 Беларусь | Беларускія 🇧🇾" tvg-logo="https://i.postimg.cc/yx14KkcR/unnamed.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Радио Могилев BY
 http://stream2.datacenter.by:8011/tvrmogilev
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="https://i.postimg.cc/zGZRjJz3/1.jpg" tvg-id="5d1a2899733a7d24226e4160e054b31e_radio-rossii" $ExtFilter="GADEM 2",Радио россии
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="https://i.postimg.cc/zGZRjJz3/1.jpg" tvg-id="5d1a2899733a7d24226e4160e054b31e_radio-rossii" $ExtFilter="GADEM 2",Радио россии
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/radio_russia/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="https://suzus-tv-kabinet.usite.pro/LOGO/novoe_radio.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Радио России (Иваново)
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="https://suzus-tv-kabinet.usite.pro/LOGO/novoe_radio.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Радио России (Иваново)
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/ivanovo/radio_russia/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="https://suzus-tv-kabinet.usite.pro/LOGO/novoe_radio.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Радио России (Курган)
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="https://suzus-tv-kabinet.usite.pro/LOGO/novoe_radio.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Радио России (Курган)
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/kurgan/radio_russia/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="https://suzus-tv-kabinet.usite.pro/LOGO/novoe_radio.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Радио России (Липецк)
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="https://suzus-tv-kabinet.usite.pro/LOGO/novoe_radio.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Радио России (Липецк)
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/lipetsk/radio_russia/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="https://suzus-tv-kabinet.usite.pro/LOGO/novoe_radio.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Радио России (Псков)
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="https://suzus-tv-kabinet.usite.pro/LOGO/novoe_radio.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Радио России (Псков)
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/pskov/radio_russia/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="https://suzus-tv-kabinet.usite.pro/LOGO/novoe_radio.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Радио России (Улан-Удэ)
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="https://suzus-tv-kabinet.usite.pro/LOGO/novoe_radio.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Радио России (Улан-Удэ)
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/ulanude/radio_russia/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="https://suzus-tv-kabinet.usite.pro/LOGO/novoe_radio.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Радио России (Ульяновск)
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="https://suzus-tv-kabinet.usite.pro/LOGO/novoe_radio.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Радио России (Ульяновск)
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/ulyanovsk/radio_russia/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="https://suzus-tv-kabinet.usite.pro/LOGO/novoe_radio.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Радио России (Уфа)
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="https://suzus-tv-kabinet.usite.pro/LOGO/novoe_radio.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Радио России (Уфа)
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/ufa/radio_russia/index.m3u8
 #EXTINF:-1 group-title="🥔 Беларусь | Беларускія 🇧🇾" tvg-logo="https://i.postimg.cc/yx14KkcR/unnamed.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Радио Супер FM (BY)
 http://stream2.datacenter.by:8010/sfm
@@ -6556,33 +6556,33 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/russia1-hd/index.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
 #EXTINF:-1 group-title="🏝 ▶ Другие  💫" tvg-logo="http://iptv-content.rv77.pw/336x192/20002.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_5d1a2899733a7d24226e4160e054b31e_rossia1" $ExtFilter="GADEM 2",Россия 1
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://rafail1982.uz/logo/Россия 1.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia1" $ExtFilter="GADEM 2",Россия 1
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://rafail1982.uz/logo/Россия 1.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia1" $ExtFilter="GADEM 2",Россия 1
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/984.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia1" $ExtFilter="GADEM 2",Россия 1
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/984.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia1" $ExtFilter="GADEM 2",Россия 1
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/cherkessk/russia1-sd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/984.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia1" $ExtFilter="GADEM 2",Россия 1
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/984.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia1" $ExtFilter="GADEM 2",Россия 1
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/elista/russia1-sd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/984.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia1" $ExtFilter="GADEM 2",Россия 1
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/984.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia1" $ExtFilter="GADEM 2",Россия 1
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/grozniy/russia1-sd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/984.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia1" $ExtFilter="GADEM 2",Россия 1
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/984.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia1" $ExtFilter="GADEM 2",Россия 1
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/HO3gcQAHbok/russia1-sd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/984.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia1" $ExtFilter="GADEM 2",Россия 1
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/984.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia1" $ExtFilter="GADEM 2",Россия 1
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/HO4y0CelYt0/russia1-sd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/984.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia1" $ExtFilter="GADEM 2",Россия 1
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/984.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia1" $ExtFilter="GADEM 2",Россия 1
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/kursk/russia1-sd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/984.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia1" $ExtFilter="GADEM 2",Россия 1
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/984.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia1" $ExtFilter="GADEM 2",Россия 1
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/mahachkala/russia1-sd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/984.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia1" $ExtFilter="GADEM 2",Россия 1
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/984.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia1" $ExtFilter="GADEM 2",Россия 1
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/murmansk/russia1-sd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/984.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia1" $ExtFilter="GADEM 2",Россия 1
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/984.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia1" $ExtFilter="GADEM 2",Россия 1
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/nazran/russia1-sd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/984.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia1" $ExtFilter="GADEM 2",Россия 1
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/984.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia1" $ExtFilter="GADEM 2",Россия 1
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/nigniynovgorod/russia1-sd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/984.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia1" $ExtFilter="GADEM 2",Россия 1
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/984.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia1" $ExtFilter="GADEM 2",Россия 1
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/siktivkar/russia1-sd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/984.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia1" $ExtFilter="GADEM 2",Россия 1
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/984.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia1" $ExtFilter="GADEM 2",Россия 1
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/stavropol/russia1-sd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/984.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia1" $ExtFilter="GADEM 2",Россия 1
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/984.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia1" $ExtFilter="GADEM 2",Россия 1
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/vologda/russia1-sd/index.m3u8
 #EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img/711.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia1" $ExtFilter="GADEM 2",Россия 1
 http://tinyurl.com/TvZaTak011/a002?|User-Agent=http-user-agent=Lavf/56.15.102
@@ -6594,19 +6594,19 @@ https://flussonic.mkpnet.ru/tv-d696bdfd6a0e4373/video.m3u8
 https://s04.watcher.uz/12/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTg1MTUwLCJsb2dpbiI6InR2LTE4NTE1MCIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzgwNjk3NTc4fQ.bXNxmt2iOlX4qQ8TitFHFzmB2Kxh7DkhMjEQXb-aEgc%3A8
 #EXTINF:-1 group-title="🏝 ▶+ Плюсовые ✨" tvg-logo="https://iptvx.one/picons/rossia1-pl1.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_5d1a2899733a7d24226e4160e054b31e_rossia1-pl1" $ExtFilter="GADEM 2",Россия 1 (+1)
 https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R04_OTT_VLG_SARATOV_ROSSIA1/variant.m3u8?version=2
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/984.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia1-pl1" $ExtFilter="GADEM 2",Россия 1 (+1)
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/984.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia1-pl1" $ExtFilter="GADEM 2",Россия 1 (+1)
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/igevsk/russia1-sd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/984.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia1-pl1" $ExtFilter="GADEM 2",Россия 1 (+1)
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/984.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia1-pl1" $ExtFilter="GADEM 2",Россия 1 (+1)
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/ulyanovsk/russia1-sd/index.m3u8
 #EXTINF:-1 group-title="🏝 ▶📡🌐 Общественные | Эфирные✔️" tvg-logo="https://iptvx.one/picons/rossia1-pl2.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_5d1a2899733a7d24226e4160e054b31e_rossia1-pl2" $ExtFilter="GADEM 2",Россия 1 (+2)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_2/variant.m3u8
 #EXTINF:-1 group-title="🏝 ▶+ Плюсовые ✨" tvg-logo="https://iptvx.one/picons/rossia1-pl2.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_5d1a2899733a7d24226e4160e054b31e_rossia1-pl2" $ExtFilter="GADEM 2",Россия 1 (+2)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_2/variant.m3u8?version=2
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/984.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia1-pl2" $ExtFilter="GADEM 2",Россия 1 (+2)
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/984.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia1-pl2" $ExtFilter="GADEM 2",Россия 1 (+2)
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/perm/russia1-sd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/984.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia1-pl2" $ExtFilter="GADEM 2",Россия 1 (+2)
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/984.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia1-pl2" $ExtFilter="GADEM 2",Россия 1 (+2)
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/salehad/russia1-sd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/984.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia1-pl2" $ExtFilter="GADEM 2",Россия 1 (+2)
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/984.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia1-pl2" $ExtFilter="GADEM 2",Россия 1 (+2)
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/ufa/russia1-sd/index.m3u8
 #EXTINF:-1 group-title="🏝 ▶+ Плюсовые ✨" tvg-logo="https://iptvx.one/picons/rossia1-pl3.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_5d1a2899733a7d24226e4160e054b31e_rossia1-pl3" $ExtFilter="GADEM 2",Россия 1 (+3)
 #EXTVLCOPT:http-user-agent=SmartTV
@@ -6619,7 +6619,7 @@ https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_OMSK_ROSSIA1_OMSKOB
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_4/variant.m3u8
 #EXTINF:-1 group-title="🏝 ▶+ Плюсовые ✨" tvg-logo="https://iptvx.one/picons/rossia1-pl4.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_5d1a2899733a7d24226e4160e054b31e_rossia1-pl4" $ExtFilter="GADEM 2",Россия 1 (+4)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_4/variant.m3u8?version=2
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/984.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia1-pl4" $ExtFilter="GADEM 2",Россия 1 (+4)
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/984.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia1-pl4" $ExtFilter="GADEM 2",Россия 1 (+4)
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/barnaul/russia1-sd/index.m3u8
 #EXTINF:-1 group-title="🏝 ▶+ Плюсовые ✨" tvg-logo="https://iptvx.one/picons/rossia1-pl5.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_5d1a2899733a7d24226e4160e054b31e_rossia1-pl5" $ExtFilter="GADEM 2",Россия 1 (+5)
 #EXTVLCOPT:http-user-agent=SmartTV
@@ -6628,17 +6628,17 @@ https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_UUDE_ROSSIA1_ULAN/v
 http://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1_IRKUTSK/variant.m3u8
 #EXTINF:-1 group-title="🏝 ▶+ Плюсовые ✨" tvg-logo="https://iptvx.one/picons/rossia1-pl5.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_5d1a2899733a7d24226e4160e054b31e_rossia1-pl5" $ExtFilter="GADEM 2",Россия 1 (+5)
 https://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1_IRKUTSK/variant.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/984.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia1-pl5" $ExtFilter="GADEM 2",Россия 1 (+5)
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/984.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia1-pl5" $ExtFilter="GADEM 2",Россия 1 (+5)
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/irkutsk/russia1-sd/index.m3u8
 #EXTINF:-1 group-title="🏝 ▶+ Плюсовые ✨" tvg-logo="https://iptvx.one/picons/rossia1-pl6.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_5d1a2899733a7d24226e4160e054b31e_rossia1-pl6" $ExtFilter="GADEM 2",Россия 1 (+6)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_7/variant.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/984.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia1-pl6" $ExtFilter="GADEM 2",Россия 1 (+6)
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/984.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia1-pl6" $ExtFilter="GADEM 2",Россия 1 (+6)
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/vladivostok/russia1-sd/index.m3u8
 #EXTINF:-1 group-title="🏝 ▶+ Плюсовые ✨" tvg-logo="https://iptvx.one/picons/rossia1-pl7.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_5d1a2899733a7d24226e4160e054b31e_rossia1-pl7" $ExtFilter="GADEM 2",Россия 1 (+7)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_7/variant.m3u8?version=2
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/984.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia1-pl9" $ExtFilter="GADEM 2",Россия 1 (+9)
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/984.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia1-pl9" $ExtFilter="GADEM 2",Россия 1 (+9)
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/anadyr/russia1-sd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/984.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia1-pl9" $ExtFilter="GADEM 2",Россия 1 (+9)
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/984.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia1-pl9" $ExtFilter="GADEM 2",Россия 1 (+9)
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/gornoaltaysk/russia1-sd/index.m3u8
 #EXTINF:-1 group-title="🏝 ▶+ Плюсовые ✨" tvg-logo="https://iptvx.one/picons/rossia1-m1.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_5d1a2899733a7d24226e4160e054b31e_rossia1-m1" $ExtFilter="GADEM 2",Россия 1 (-1)
 #EXTVLCOPT:http-user-agent=SmartTV
@@ -6647,279 +6647,279 @@ https://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R04_OTT_NW_KLGR_ROSSIA1/variant.
 https://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
 #EXTINF:-1 group-title="🏝 ▶+ Плюсовые ✨" tvg-logo="https://iptvx.one/picons/rossia1-m1.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_5d1a2899733a7d24226e4160e054b31e_rossia1-m1" $ExtFilter="GADEM 2",Россия 1 (-1)
 http://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R04_OTT_NW_KLGR_ROSSIA1/variant.m3u8?|User-agent=HlsWinkPlayer
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/11-%D0%B9_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-1.svg/512px-11-%D0%B9_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-1.svg.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Россия 1 +4 Абакан
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/11-%D0%B9_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-1.svg/512px-11-%D0%B9_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-1.svg.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Россия 1 +4 Абакан
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/abakan/russia1-sd/index.m3u8
 #EXTINF:-1 group-title="🏝 ▶ Другие  💫" tvg-logo="../Channel/Logo/Россия 1 HD.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_simpleTVFakeEpgId" $ExtFilter="GADEM 2",Россия 1 - ГТРК Дон-ТР
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://rt-sth-rd-htlive.cdn.ngenix.net/hls/CH_R04_OTT_STH_RD_ROSSIA1/variant.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/711.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Россия 1 / ГТРК Адыгея
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/711.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Россия 1 / ГТРК Адыгея
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/maykop/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/711.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Россия 1 / ГТРК Алания
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/711.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Россия 1 / ГТРК Алания
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/vladikavkaz/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/711.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Россия 1 / ГТРК Амур
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/711.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Россия 1 / ГТРК Амур
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/blagoveshensk/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/711.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Россия 1 / ГТРК Белгород
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/711.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Россия 1 / ГТРК Белгород
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/belgorod/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/711.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Россия 1 / ГТРК Брянск
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/711.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Россия 1 / ГТРК Брянск
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/bryansk/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/711.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Россия 1 / ГТРК Бурятия
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/711.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Россия 1 / ГТРК Бурятия
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/ulanude/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/711.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Россия 1 / ГТРК Владимир
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/711.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Россия 1 / ГТРК Владимир
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/vladimir/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/711.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Россия 1 / ГТРК Воронеж
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/711.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Россия 1 / ГТРК Воронеж
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/voroneg/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/711.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Россия 1 / ГТРК Вятка
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/711.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Россия 1 / ГТРК Вятка
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/kirov/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/711.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Россия 1 / ГТРК Дальневосточная
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/711.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Россия 1 / ГТРК Дальневосточная
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/habarovsk/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/711.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Россия 1 / ГТРК Дон-ТР
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/711.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Россия 1 / ГТРК Дон-ТР
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/rostovdon/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/711.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Россия 1 / ГТРК Ивтелерадио
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/711.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Россия 1 / ГТРК Ивтелерадио
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/ivanovo/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/711.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Россия 1 / ГТРК Иртыш
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/711.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Россия 1 / ГТРК Иртыш
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/omsk/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/711.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Россия 1 / ГТРК Кабардино-Балкария
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/711.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Россия 1 / ГТРК Кабардино-Балкария
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/nalchik/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/711.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Россия 1 / ГТРК Калуга
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/711.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Россия 1 / ГТРК Калуга
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaluga/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/711.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Россия 1 / ГТРК Камчатка
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/711.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Россия 1 / ГТРК Камчатка
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/petropavlosk/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/711.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Россия 1 / ГТРК Карелия
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/711.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Россия 1 / ГТРК Карелия
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/petrozavodsk/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/711.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Россия 1 / ГТРК Кострома
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/711.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Россия 1 / ГТРК Кострома
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/kostroma/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/711.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Россия 1 / ГТРК Кузбасс
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/711.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Россия 1 / ГТРК Кузбасс
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/kemerovo/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/711.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Россия 1 / ГТРК Курган
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/711.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Россия 1 / ГТРК Курган
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/kurgan/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/711.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Россия 1 / ГТРК Липецк
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/711.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Россия 1 / ГТРК Липецк
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/lipetsk/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/711.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Россия 1 / ГТРК Лотос
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/711.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Россия 1 / ГТРК Лотос
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/astrahan/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/711.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Россия 1 / ГТРК Магадан
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/711.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Россия 1 / ГТРК Магадан
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/magadan/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/711.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Россия 1 / ГТРК Марий Эл
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/711.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Россия 1 / ГТРК Марий Эл
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/yoshkar-ola/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/711.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Россия 1 / ГТРК Мордовия
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/711.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Россия 1 / ГТРК Мордовия
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/saransk/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/711.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Россия 1 / ГТРК Ока
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/711.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Россия 1 / ГТРК Ока
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/ryazan/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/711.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Россия 1 / ГТРК Оренбург
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/711.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Россия 1 / ГТРК Оренбург
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/orenburg/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/711.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Россия 1 / ГТРК Орёл
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/711.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Россия 1 / ГТРК Орёл
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/orel/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/711.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Россия 1 / ГТРК Пенза
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/711.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Россия 1 / ГТРК Пенза
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/penza/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/711.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Россия 1 / ГТРК Поморье
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/711.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Россия 1 / ГТРК Поморье
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/arhangelsk/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/711.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Россия 1 / ГТРК Псков
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/711.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Россия 1 / ГТРК Псков
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/pskov/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/711.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Россия 1 / ГТРК Санкт-Петербург
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/711.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Россия 1 / ГТРК Санкт-Петербург
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/spb/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/711.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Россия 1 / ГТРК Саратов
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/711.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Россия 1 / ГТРК Саратов
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/saratov/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/711.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Россия 1 / ГТРК Саха
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/711.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Россия 1 / ГТРК Саха
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/yakutsk/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/711.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Россия 1 / ГТРК Сахалин
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/711.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Россия 1 / ГТРК Сахалин
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/ugnosahalinsk/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/711.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Россия 1 / ГТРК Славия
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/711.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Россия 1 / ГТРК Славия
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/velikiy-novgorod/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/711.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Россия 1 / ГТРК Смоленск
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/711.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Россия 1 / ГТРК Смоленск
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/smolensk/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/711.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Россия 1 / ГТРК Тамбов
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/711.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Россия 1 / ГТРК Тамбов
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/tambov/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/711.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Россия 1 / ГТРК Татарстан
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/711.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Россия 1 / ГТРК Татарстан
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/kazan/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/711.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Россия 1 / ГТРК Тверь
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/711.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Россия 1 / ГТРК Тверь
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/tver/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/711.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Россия 1 / ГТРК Томск
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/711.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Россия 1 / ГТРК Томск
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/tomsk/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/711.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Россия 1 / ГТРК Тула
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/711.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Россия 1 / ГТРК Тула
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/tula/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/711.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Россия 1 / ГТРК Тыва
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/711.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Россия 1 / ГТРК Тыва
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/kisil/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/711.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Россия 1 / ГТРК Урал
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/711.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Россия 1 / ГТРК Урал
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/ekaterinburg/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/711.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Россия 1 / ГТРК Чита
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/711.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Россия 1 / ГТРК Чита
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/chita/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/711.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Россия 1 / ГТРК Чувашия
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/711.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Россия 1 / ГТРК Чувашия
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/cheboksar/russia1-hd/index.m3u8
 #EXTINF:-1 group-title="🏝 ▶ Другие  💫" tvg-logo="../Channel/Logo/Россия 1 HD.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_simpleTVFakeEpgId" $ExtFilter="GADEM 2",Россия 1 / ГТРК Южный Урал
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R04_OTT_ROSSIA1_URAL_CHEL/variant.m3u8
 #EXTINF:-1 group-title="▶🛡️VPN👁‍🗨 ☞ Пакет | 🎯 SuzuSTVNet + ᴴᴰ ᴳᴼᴸᴰ" tvg-logo="../Channel/Logo/Россия 1 HD.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_5d1a2899733a7d24226e4160e054b31e_rossia1" $ExtFilter="GADEM 2",Россия 1 HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="../Channel/Logo/Россия 1 HD.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia1" $ExtFilter="GADEM 2",Россия 1 HD
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="../Channel/Logo/Россия 1 HD.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia1" $ExtFilter="GADEM 2",Россия 1 HD
 http://mfe01.cliptv.az/dash/Rossiya_1_HDhfhf937456.ism/playlist.mpd
 #EXTINF:-1 group-title="🏝 ▶ Другие  💫" tvg-logo="http://iptv-content.rv77.pw/336x192/129.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_5d1a2899733a7d24226e4160e054b31e_rossia1-pl1" $ExtFilter="GADEM 2",Россия 1 HD (+1)
 https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R04_OTT_VLG_SARATOV_ROSSIA1/variant.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="../Channel/Logo/Россия 1 HD.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia1-pl1" $ExtFilter="GADEM 2",Россия 1 HD (+1)
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="../Channel/Logo/Россия 1 HD.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia1-pl1" $ExtFilter="GADEM 2",Россия 1 HD (+1)
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/1/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="../Channel/Logo/Россия 1 HD.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia1-pl2" $ExtFilter="GADEM 2",Россия 1 HD (+2)
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="../Channel/Logo/Россия 1 HD.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia1-pl2" $ExtFilter="GADEM 2",Россия 1 HD (+2)
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/2/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="../Channel/Logo/Россия 1 HD.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia1-pl3" $ExtFilter="GADEM 2",Россия 1 HD (+3)
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="../Channel/Logo/Россия 1 HD.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia1-pl3" $ExtFilter="GADEM 2",Россия 1 HD (+3)
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/3/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="../Channel/Logo/Россия 1 HD.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia1-pl5" $ExtFilter="GADEM 2",Россия 1 HD (+5)
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="../Channel/Logo/Россия 1 HD.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia1-pl5" $ExtFilter="GADEM 2",Россия 1 HD (+5)
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/5/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="../Channel/Logo/Россия 1 HD.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia1-pl6" $ExtFilter="GADEM 2",Россия 1 HD (+6)
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="../Channel/Logo/Россия 1 HD.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia1-pl6" $ExtFilter="GADEM 2",Россия 1 HD (+6)
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/6/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="../Channel/Logo/Россия 1 HD.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia1-pl7" $ExtFilter="GADEM 2",Россия 1 HD (+7)
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="../Channel/Logo/Россия 1 HD.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia1-pl7" $ExtFilter="GADEM 2",Россия 1 HD (+7)
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/7/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="../Channel/Logo/Россия 1 HD.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia1-pl8" $ExtFilter="GADEM 2",Россия 1 HD (+8)
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="../Channel/Logo/Россия 1 HD.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia1-pl8" $ExtFilter="GADEM 2",Россия 1 HD (+8)
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/8/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="../Channel/Logo/Россия 1 HD.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia1-pl9" $ExtFilter="GADEM 2",Россия 1 HD (+9)
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="../Channel/Logo/Россия 1 HD.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia1-pl9" $ExtFilter="GADEM 2",Россия 1 HD (+9)
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/9/russia1-hd/index.m3u8
 #EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="../Channel/Logo/Россия 1 HD.png" tvg-id="f736135dfb80936a523d63c9a10f2613_Россия 1 (+4)" $ExtFilter="GADEM 2",Россия 1 HD +4
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/11-%D0%B9_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-1.svg/512px-11-%D0%B9_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-1.svg.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Россия 1+2 (Челябинск)
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/11-%D0%B9_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-1.svg/512px-11-%D0%B9_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-1.svg.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Россия 1+2 (Челябинск)
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/chelyabinsk/russia1-sd/index.m3u8
 #EXTINF:-1 group-title="▶🛡️VPN👁‍🗨 ☞ Пакет | 🎯 SuzuSTVNet + ᴴᴰ ᴳᴼᴸᴰ" tvg-logo="http://epg.one/img2/1683.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/1399200_576p.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/abakan/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/arhangelsk/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/astrahan/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/barnaul/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/belgorod/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/birobidgan/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/blagoveshensk/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/bryansk/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/cheboksar/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/chelyabinsk/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/cherkessk/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/chita/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/ekaterinburg/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/elista/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/gornoaltaysk/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/grozniy/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/habarovsk/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/igevsk/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/irkutsk/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/ivanovo/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaluga/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/kemerovo/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/kirov/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/kisil/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/kursk/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/lipetsk/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/magadan/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/mahachkala/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/maykop/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/murmansk/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/nalchik/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/nazran/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/nigniynovgorod/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/novosibirsk/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/omsk/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/orel/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/orenburg/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/penza/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/perm/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/petropavlosk/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/petrozavodsk/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/pskov/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/rostovdon/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/ryazan/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/saransk/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/saratov/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/siktivkar/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/smolensk/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/spb/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/stavropol/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/tambov/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/tomsk/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/tula/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/tver/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/ufa/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/ugnosahalinsk/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/ulanude/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/ulyanovsk/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/velikiy-novgorod/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/vladikavkaz/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/vladimir/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/vladivostok/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/vologda/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/voroneg/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/yakutsk/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/yoshkar-ola/russia24-sd/index.m3u8
 #EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="../Channel/Logo/Россия 24.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
 http://95.47.155.244:8001/play/a007
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="../Channel/Logo/Россия 24.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="../Channel/Logo/Россия 24.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/salehad/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
 http://31.148.48.15:80/Rossiya_24/index.m3u8?token=test
 #EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="../Channel/Logo/Россия 24.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24
 https://flussonic.mkpnet.ru/tv-6c5b49dbcf811fc6/video.m3u8
@@ -6932,7 +6932,7 @@ https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24_OMSKOBL/variant.m3
 #EXTINF:-1 group-title="🏝 ▶ Другие  💫" tvg-logo="../Channel/Logo/Россия 24.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_simpleTVFakeEpgId" $ExtFilter="GADEM 2",Россия 24 / ГТРК Южный Урал
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_ROSSIA24_URAL_CHEL/variant.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24 HD
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/1683.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия 24 HD
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/1080p.m3u8
 #EXTINF:-1 group-title="▶🛡️VPN👁‍🗨 ☞ Пакет | 🎯 SuzuSTVNet + ᴴᴰ ᴳᴼᴸᴰ" tvg-logo="http://epg.one/img2/187.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_5d1a2899733a7d24226e4160e054b31e_kultura" $ExtFilter="GADEM 2",Россия К
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
@@ -6969,11 +6969,11 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_7/variant.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_7/variant.m3u8
 #EXTINF:-1 group-title="🏝 ▶+ Плюсовые ✨" tvg-logo="https://iptvx.one/picons/kultura-pl7.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_5d1a2899733a7d24226e4160e054b31e_kultura-pl7" $ExtFilter="GADEM 2",Россия К (+7)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_7/variant.m3u8?version=2
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/187.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Россия К HD (+2) (auto)
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/187.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Россия К HD (+2) (auto)
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/2/kultura-hd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/187.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Россия К HD (+4) (auto)
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/187.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Россия К HD (+4) (auto)
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/kultura-hd/index.m3u8
-#EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/187.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Россия К HD (+7) (auto)
+#EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img2/187.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Россия К HD (+7) (auto)
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/7/kultura-hd/index.m3u8
 #EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://sarkor.tv/static/images/channels/Россия Культура.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_kultura" $ExtFilter="GADEM 2",Россия Культура
 https://s05.watcher.uz/40/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTg1MTUwLCJsb2dpbiI6InR2LTE4NTE1MCIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzgwNjk3NTc4fQ.bXNxmt2iOlX4qQ8TitFHFzmB2Kxh7DkhMjEQXb-aEgc%3A8
