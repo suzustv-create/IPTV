@@ -7,7 +7,7 @@
 Весь контент взят с cайтов и форумов, которые находится в открытом доступе в сети Интернет, мы лишь ссылаемся на них.
 Мы не несём никакую ответственность за места происхождения, легальность и качество телеканалов, радиостанций и остального, лишь предоставляем техническое решение преобразования данных потоков с помощью плееров.
 Если вы желаете что бы с сервиса был убран контент который вам принадлежит, необходимо обратиться к оригинальному источнику вещания.
-Сайт работает при поддержке лесных духов и хранителя болот.  Поддержать проект: Юмани 410012490049169 $BorpasFileFormat="1" $NestedGroupsSeparator="/"
+Сайт работает при поддержке лесных духов и хранителя болот.  Поддержать проект: Юмани 410012490049169  $BorpasFileFormat="1" $NestedGroupsSeparator="/"
 #EXTINF:-1 group-title="↕️ ▶🔺PLAYLIST INFORMATION🔺INFO👉©️ SuzuS TV™️ ®️🔴🔺↕️" tvg-logo="https://suzustv.clan.su/IMAGES/suzustv-icon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",+✓Обновление:🔺INFO 🔴🔺↕️ https://suzustv.clan.su/
 https://v2.catcast.tv/videos/ch38963/110220220628_125335/video.mp4
 #EXTINF:-1 group-title="↕️ ♻️🎬  TTV Кинозалы 📼 ↕️" tvg-logo="https://iptvx.one/picons/sony-turbo.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_5d1a2899733a7d24226e4160e054b31e_sony-turbo" $ExtFilter="GADEM 2",.black
@@ -4503,7 +4503,7 @@ http://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/russia1-hd/index.m3u8
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/zapad24-hd/index.m3u8
 #EXTINF:-1 group-title="▶🛡️VPN👁‍🗨 ☞ Пакет | 🎯 SuzuSTVNet + ᴴᴰ ᴳᴼᴸᴰ" tvg-logo="../Channel/Logo/Звезда.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_5d1a2899733a7d24226e4160e054b31e_zvezda" $ExtFilter="GADEM 2",Звезда
 https://stream8.cinerama.uz/1050/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🏝 ▶ Федеральные ✔️" tvg-logo="https://iptvx.one/picons/zvezda.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_5d1a2899733a7d24226e4160e054b31e_zvezda" $ExtFilter="GADEM 2",Звезда
+#EXTINF:-1 group-title="🏝 ▶📡🌐 Общественные | Эфирные✔️" tvg-logo="https://iptvx.one/picons/zvezda.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_5d1a2899733a7d24226e4160e054b31e_zvezda" $ExtFilter="GADEM 2",Звезда
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8
 #EXTINF:-1 group-title="🥔 Беларусь | Беларускія 🇧🇾" tvg-logo="../Channel/Logo/Звезда.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_zvezda" $ExtFilter="GADEM 2",Звезда
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
@@ -4517,18 +4517,18 @@ https://bl.rutube.ru/livestream/5ab908fccfac5bb43ef2b1e4182256b0/index.m3u8?s=9R
 https://s05.watcher.uz/43/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTg1MTUwLCJsb2dpbiI6InR2LTE4NTE1MCIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzgwNjk3NTc4fQ.bXNxmt2iOlX4qQ8TitFHFzmB2Kxh7DkhMjEQXb-aEgc%3A8
 #EXTINF:-1 group-title="🏝 ▶+ Плюсовые ✨" tvg-logo="https://iptvx.one/picons/zvezda-pl2.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_5d1a2899733a7d24226e4160e054b31e_zvezda-pl2" $ExtFilter="GADEM 2",Звезда (+2)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_2/variant.m3u8
-#EXTINF:-1 group-title="🏝 ▶ Федеральные ✔️" tvg-logo="https://iptvx.one/picons/zvezda-pl2.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_5d1a2899733a7d24226e4160e054b31e_zvezda-pl2" $ExtFilter="GADEM 2",Звезда (+2)
+#EXTINF:-1 group-title="🏝 ▶📡🌐 Общественные | Эфирные✔️" tvg-logo="https://iptvx.one/picons/zvezda-pl2.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_5d1a2899733a7d24226e4160e054b31e_zvezda-pl2" $ExtFilter="GADEM 2",Звезда (+2)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_2/variant.m3u8?version=2
 #EXTINF:-1 group-title="🏝 ▶ Другие  💫" tvg-logo="http://iptv-content.rv77.pw/336x192/366.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_5d1a2899733a7d24226e4160e054b31e_zvezda-pl2" $ExtFilter="GADEM 2",Звезда (+2)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_2/variant.m3u8
 #EXTINF:-1 group-title="🏝 ▶+ Плюсовые ✨" tvg-logo="https://iptvx.one/picons/zvezda-pl4.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_5d1a2899733a7d24226e4160e054b31e_zvezda-pl4" $ExtFilter="GADEM 2",Звезда (+4)
 #EXTVLCOPT:http-user-agent=SmartTV
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_4/variant.m3u8
-#EXTINF:-1 group-title="🏝 ▶ Федеральные ✔️" tvg-logo="https://iptvx.one/picons/zvezda-pl4.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_5d1a2899733a7d24226e4160e054b31e_zvezda-pl4" $ExtFilter="GADEM 2",Звезда (+4)
+#EXTINF:-1 group-title="🏝 ▶📡🌐 Общественные | Эфирные✔️" tvg-logo="https://iptvx.one/picons/zvezda-pl4.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_5d1a2899733a7d24226e4160e054b31e_zvezda-pl4" $ExtFilter="GADEM 2",Звезда (+4)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_4/variant.m3u8
 #EXTINF:-1 group-title="🏝 ▶+ Плюсовые ✨" tvg-logo="https://iptvx.one/picons/zvezda-pl4.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_5d1a2899733a7d24226e4160e054b31e_zvezda-pl4" $ExtFilter="GADEM 2",Звезда (+4)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_4/variant.m3u8?version=2
-#EXTINF:-1 group-title="🏝 ▶ Федеральные ✔️" tvg-logo="https://iptvx.one/picons/zvezda-pl7.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_5d1a2899733a7d24226e4160e054b31e_zvezda-pl7" $ExtFilter="GADEM 2",Звезда (+7)
+#EXTINF:-1 group-title="🏝 ▶📡🌐 Общественные | Эфирные✔️" tvg-logo="https://iptvx.one/picons/zvezda-pl7.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_5d1a2899733a7d24226e4160e054b31e_zvezda-pl7" $ExtFilter="GADEM 2",Звезда (+7)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_7/variant.m3u8
 #EXTINF:-1 group-title="🏝 ▶+ Плюсовые ✨" tvg-logo="https://iptvx.one/picons/zvezda-pl7.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_5d1a2899733a7d24226e4160e054b31e_zvezda-pl7" $ExtFilter="GADEM 2",Звезда (+7)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_7/variant.m3u8?version=2
@@ -5899,7 +5899,7 @@ http://iptv.prosto.tv:7000/ch263/video.m3u8?secret=kp7brelm
 http://cdn.ntv.ru/ntv0/tracks-v3a1/mono.m3u8
 #EXTINF:-1 group-title="▶🛡️VPN👁‍🗨 ☞ Пакет | 🎯 SuzuSTVNet + ᴴᴰ ᴳᴼᴸᴰ" tvg-logo="../Channel/Logo/НТВ.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_5d1a2899733a7d24226e4160e054b31e_ntv" $ExtFilter="GADEM 2",НТВ
 https://cdn.ntv.ru/ntv-msk_hd/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 group-title="🏝 ▶ Федеральные ✔️" tvg-logo="https://iptvx.one/picons/ntv.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_5d1a2899733a7d24226e4160e054b31e_ntv" $ExtFilter="GADEM 2",НТВ
+#EXTINF:-1 group-title="🏝 ▶📡🌐 Общественные | Эфирные✔️" tvg-logo="https://iptvx.one/picons/ntv.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_5d1a2899733a7d24226e4160e054b31e_ntv" $ExtFilter="GADEM 2",НТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
 #EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="http://epg.one/img/162.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_ntv" $ExtFilter="GADEM 2",НТВ
 http://tinyurl.com/TvZaTak011/a004?|User-Agent=http-user-agent=Lavf/56.15.102
@@ -5916,7 +5916,7 @@ https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SARATOV_NTV/vari
 https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_2/variant.m3u8
 #EXTINF:-1 group-title="🏝 ▶+ Плюсовые ✨" tvg-logo="https://iptvx.one/picons/ntv-pl2.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_5d1a2899733a7d24226e4160e054b31e_ntv-pl2" $ExtFilter="GADEM 2",НТВ (+2)
 http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R03_OTT_NTV_URAL_EKT/variant.m3u8?version=2
-#EXTINF:-1 group-title="🏝 ▶ Федеральные ✔️" tvg-logo="https://iptvx.one/picons/ntv-pl2.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_5d1a2899733a7d24226e4160e054b31e_ntv-pl2" $ExtFilter="GADEM 2",НТВ (+2)
+#EXTINF:-1 group-title="🏝 ▶📡🌐 Общественные | Эфирные✔️" tvg-logo="https://iptvx.one/picons/ntv-pl2.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_5d1a2899733a7d24226e4160e054b31e_ntv-pl2" $ExtFilter="GADEM 2",НТВ (+2)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_2/variant.m3u8?version=2
 #EXTINF:-1 group-title="🏝 ▶+ Плюсовые ✨" tvg-logo="https://iptvx.one/picons/ntv-pl2.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_5d1a2899733a7d24226e4160e054b31e_ntv-pl2" $ExtFilter="GADEM 2",НТВ (+2)
 http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R03_OTT_NTV_URAL_EKT/variant.m3u8?|User-agent=HlsWinkPlayer
@@ -5926,7 +5926,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_2/variant.m3u8
 http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R03_NTV_OMSKOBL/variant.m3u8
 #EXTINF:-1 group-title="🏝 ▶+ Плюсовые ✨" tvg-logo="https://iptvx.one/picons/ntv-pl3.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_5d1a2899733a7d24226e4160e054b31e_ntv-pl3" $ExtFilter="GADEM 2",нтв (+3)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_4/variant.m3u8?&offset=-3600
-#EXTINF:-1 group-title="🏝 ▶ Федеральные ✔️" tvg-logo="https://iptvx.one/picons/ntv-pl4.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_5d1a2899733a7d24226e4160e054b31e_ntv-pl4" $ExtFilter="GADEM 2",НТВ (+4)
+#EXTINF:-1 group-title="🏝 ▶📡🌐 Общественные | Эфирные✔️" tvg-logo="https://iptvx.one/picons/ntv-pl4.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_5d1a2899733a7d24226e4160e054b31e_ntv-pl4" $ExtFilter="GADEM 2",НТВ (+4)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_4/variant.m3u8
 #EXTINF:-1 group-title="🏝 ▶+ Плюсовые ✨" tvg-logo="https://iptvx.one/picons/ntv-pl4.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_5d1a2899733a7d24226e4160e054b31e_ntv-pl4" $ExtFilter="GADEM 2",НТВ (+4)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_4/variant.m3u8?version=2
@@ -5938,7 +5938,7 @@ http://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R03_NTV_BURAT/variant.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_7/variant.m3u8?&offset=-7200
 #EXTINF:-1 group-title="🏝 ▶+ Плюсовые ✨" tvg-logo="http://i115.fastpic.org/big/2021/0927/b4/0dd4932a103cc8e2b6d1aaa336cc31b4.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_f736135dfb80936a523d63c9a10f2613_НТВ (+6)" $ExtFilter="GADEM 2",нтв (+6)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_7/variant.m3u8?&offset=-3600
-#EXTINF:-1 group-title="🏝 ▶ Федеральные ✔️" tvg-logo="https://iptvx.one/picons/ntv-pl7.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_5d1a2899733a7d24226e4160e054b31e_ntv-pl7" $ExtFilter="GADEM 2",НТВ (+7)
+#EXTINF:-1 group-title="🏝 ▶📡🌐 Общественные | Эфирные✔️" tvg-logo="https://iptvx.one/picons/ntv-pl7.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_5d1a2899733a7d24226e4160e054b31e_ntv-pl7" $ExtFilter="GADEM 2",НТВ (+7)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_7/variant.m3u8
 #EXTINF:-1 group-title="🏝 ▶+ Плюсовые ✨" tvg-logo="https://iptvx.one/picons/ntv-pl7.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_5d1a2899733a7d24226e4160e054b31e_ntv-pl7" $ExtFilter="GADEM 2",НТВ (+7)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_7/variant.m3u8?version=2
@@ -6264,7 +6264,7 @@ https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:informacionnyy.smil/chunkli
 https://bl.rutube.ru/livestream/c58f502c7bb34a8fcdd976b221fca292/index.m3u8?s=QtcvU0csc8ahHWSFZe83bQ&e=2071401223&scheme=https
 #EXTINF:-1 group-title="▶🛡️VPN👁‍🗨 ☞ Пакет | 🎯 SuzuSTVNet + ᴴᴰ ᴳᴼᴸᴰ" tvg-logo="../Channel/Logo/Первый канал.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_5d1a2899733a7d24226e4160e054b31e_pervy" $ExtFilter="GADEM 2",Первый канал
 https://stream8.cinerama.uz/1019/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🏝 ▶ Федеральные ✔️" tvg-logo="https://iptvx.one/picons/pervy.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_5d1a2899733a7d24226e4160e054b31e_pervy" $ExtFilter="GADEM 2",Первый канал
+#EXTINF:-1 group-title="🏝 ▶📡🌐 Общественные | Эфирные✔️" tvg-logo="https://iptvx.one/picons/pervy.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_5d1a2899733a7d24226e4160e054b31e_pervy" $ExtFilter="GADEM 2",Первый канал
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
 #EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="../Channel/Logo/Первый канал.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_pervy" $ExtFilter="GADEM 2",Первый канал
 http://95.47.155.244:8001/play/a001
@@ -6283,7 +6283,7 @@ http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SARATOV_1TV/varia
 https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SARATOV_1TV/variant.m3u8?version=2
 #EXTINF:-1 group-title="🏝 ▶+ Плюсовые ✨" tvg-logo="https://iptvx.one/picons/pervy-pl1.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_5d1a2899733a7d24226e4160e054b31e_pervy-pl1" $ExtFilter="GADEM 2",Первый канал (+1)
 https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8
-#EXTINF:-1 group-title="🏝 ▶ Федеральные ✔️" tvg-logo="https://iptvx.one/picons/pervy-pl2.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_5d1a2899733a7d24226e4160e054b31e_pervy-pl2" $ExtFilter="GADEM 2",Первый канал (+2)
+#EXTINF:-1 group-title="🏝 ▶📡🌐 Общественные | Эфирные✔️" tvg-logo="https://iptvx.one/picons/pervy-pl2.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_5d1a2899733a7d24226e4160e054b31e_pervy-pl2" $ExtFilter="GADEM 2",Первый канал (+2)
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R03_OTT_1TV_EKT/variant.m3u8?version=2
 #EXTINF:-1 group-title="🏝 ▶+ Плюсовые ✨" tvg-logo="https://iptvx.one/picons/pervy-pl2.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_5d1a2899733a7d24226e4160e054b31e_pervy-pl2" $ExtFilter="GADEM 2",Первый канал (+2)
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R03_OTT_1TV_EKT/variant.m3u8
@@ -6294,7 +6294,7 @@ http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R03_OTT_1TV_EKT/variant.m3u8
 https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_OMSK_1TV_OMSKOBL/variant.m3u8
 #EXTINF:-1 group-title="🏝 ▶+ Плюсовые ✨" tvg-logo="https://iptvx.one/picons/pervy-pl3.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_5d1a2899733a7d24226e4160e054b31e_pervy-pl3" $ExtFilter="GADEM 2",Первый канал (+3)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_3/variant.m3u8
-#EXTINF:-1 group-title="🏝 ▶ Федеральные ✔️" tvg-logo="https://iptvx.one/picons/pervy-pl4.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_5d1a2899733a7d24226e4160e054b31e_pervy-pl4" $ExtFilter="GADEM 2",Первый канал (+4)
+#EXTINF:-1 group-title="🏝 ▶📡🌐 Общественные | Эфирные✔️" tvg-logo="https://iptvx.one/picons/pervy-pl4.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_5d1a2899733a7d24226e4160e054b31e_pervy-pl4" $ExtFilter="GADEM 2",Первый канал (+4)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_4/variant.m3u8
 #EXTINF:-1 group-title="🏝 ▶+ Плюсовые ✨" tvg-logo="https://iptvx.one/picons/pervy-pl4.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_5d1a2899733a7d24226e4160e054b31e_pervy-pl4" $ExtFilter="GADEM 2",Первый канал (+4)
 https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R03_1TV_KRASN_KRAI/variant.m3u8?version=2
@@ -6786,7 +6786,7 @@ https://rt-nw-arkh-htlive.cdn.ngenix.net/hls/CH_R02_PRAVDASEVERA/variant.m3u8
 https://rt-nw-arkh-htlive.cdn.ngenix.net/hls/CH_R02_PRAVDASEVERA/variant.m3u8?version=2
 #EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="../Channel/Logo/Ямал-регион.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_region67" $ExtFilter="GADEM 2",Регион 67
 http://212.3.155.126:8181/udp/233.67.67.177:5510
-#EXTINF:-1 group-title="🏝 ▶ Федеральные ✔️" tvg-logo="https://iptvx.one/picons/rentv.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_5d1a2899733a7d24226e4160e054b31e_rentv" $ExtFilter="GADEM 2",РЕН ТВ
+#EXTINF:-1 group-title="🏝 ▶📡🌐 Общественные | Эфирные✔️" tvg-logo="https://iptvx.one/picons/rentv.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_5d1a2899733a7d24226e4160e054b31e_rentv" $ExtFilter="GADEM 2",РЕН ТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
 #EXTINF:-1 group-title="🥔 Беларусь | Беларускія 🇧🇾" tvg-logo="../Channel/Logo/РЕН ТВ.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rentv" $ExtFilter="GADEM 2",Рен ТВ
 http://45.145.32.13:20440/ren_tv/index.m3u8?token=test
@@ -6794,19 +6794,19 @@ http://45.145.32.13:20440/ren_tv/index.m3u8?token=test
 http://95.47.155.244:8001/play/a011
 #EXTINF:-1 group-title="🏝 ▶+ Плюсовые ✨" tvg-logo="https://iptvx.one/picons/rentv.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_f736135dfb80936a523d63c9a10f2613_РЕН ТВ (+1)" $ExtFilter="GADEM 2",РЕН ТВ (+1)
 http://rt-sth-astrh-htlive.cdn.ngenix.net/hls/CH_R02_OTT_STH_ASTRH_RENTV/variant.m3u8
-#EXTINF:-1 group-title="🏝 ▶ Федеральные ✔️" tvg-logo="https://iptvx.one/picons/rentv-pl2.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_5d1a2899733a7d24226e4160e054b31e_rentv-pl2" $ExtFilter="GADEM 2",РЕН ТВ (+2)
+#EXTINF:-1 group-title="🏝 ▶📡🌐 Общественные | Эфирные✔️" tvg-logo="https://iptvx.one/picons/rentv-pl2.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_5d1a2899733a7d24226e4160e054b31e_rentv-pl2" $ExtFilter="GADEM 2",РЕН ТВ (+2)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_2/variant.m3u8?version=2
 #EXTINF:-1 group-title="🏝 ▶+ Плюсовые ✨" tvg-logo="https://iptvx.one/picons/rentv-pl2.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_5d1a2899733a7d24226e4160e054b31e_rentv-pl2" $ExtFilter="GADEM 2",РЕН ТВ (+2)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_2/variant.m3u8
 #EXTINF:-1 group-title="🏝 ▶ Другие  💫" tvg-logo="http://iptv-content.rv77.pw/336x192/226.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_5d1a2899733a7d24226e4160e054b31e_rentv-pl2" $ExtFilter="GADEM 2",РЕН ТВ (+2)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_2/variant.m3u8
-#EXTINF:-1 group-title="🏝 ▶ Федеральные ✔️" tvg-logo="https://iptvx.one/picons/rentv-pl4.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_5d1a2899733a7d24226e4160e054b31e_rentv-pl4" $ExtFilter="GADEM 2",РЕН ТВ (+4)
+#EXTINF:-1 group-title="🏝 ▶📡🌐 Общественные | Эфирные✔️" tvg-logo="https://iptvx.one/picons/rentv-pl4.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_5d1a2899733a7d24226e4160e054b31e_rentv-pl4" $ExtFilter="GADEM 2",РЕН ТВ (+4)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_4/variant.m3u8
 #EXTINF:-1 group-title="🏝 ▶+ Плюсовые ✨" tvg-logo="https://iptvx.one/picons/rentv-pl4.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_5d1a2899733a7d24226e4160e054b31e_rentv-pl4" $ExtFilter="GADEM 2",РЕН ТВ (+4)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_4/variant.m3u8?version=2
 #EXTINF:-1 group-title="🏝 ▶+ Плюсовые ✨" tvg-logo="https://iptvx.one/picons/rentv.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_f736135dfb80936a523d63c9a10f2613_РЕН ТВ (+5)" $ExtFilter="GADEM 2",РЕН ТВ (+5)
 http://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R02_RENTV_BURAT/variant.m3u8
-#EXTINF:-1 group-title="🏝 ▶ Федеральные ✔️" tvg-logo="https://iptvx.one/picons/rentv-pl7.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_5d1a2899733a7d24226e4160e054b31e_rentv-pl7" $ExtFilter="GADEM 2",РЕН ТВ (+7)
+#EXTINF:-1 group-title="🏝 ▶📡🌐 Общественные | Эфирные✔️" tvg-logo="https://iptvx.one/picons/rentv-pl7.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_5d1a2899733a7d24226e4160e054b31e_rentv-pl7" $ExtFilter="GADEM 2",РЕН ТВ (+7)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/variant.m3u8
 #EXTINF:-1 group-title="🏝 ▶+ Плюсовые ✨" tvg-logo="https://iptvx.one/picons/rentv-pl7.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_5d1a2899733a7d24226e4160e054b31e_rentv-pl7" $ExtFilter="GADEM 2",РЕН ТВ (+7)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/variant.m3u8?version=2
@@ -6900,7 +6900,7 @@ https://s05.watcher.uz/45/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.
 http://127.0.0.1:6878/ace/getstream?id=19bf6faf7257fb5db419008750d80ab4b693981e
 #EXTINF:-1 group-title="▶🛡️VPN👁‍🗨 ☞ Пакет | 🎯 SuzuSTVNet + ᴴᴰ ᴳᴼᴸᴰ" tvg-logo="../Channel/Logo/Россия 1.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_5d1a2899733a7d24226e4160e054b31e_rossia1" $ExtFilter="GADEM 2",Россия 1
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="🏝 ▶ Федеральные ✔️" tvg-logo="https://iptvx.one/picons/rossia1.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_5d1a2899733a7d24226e4160e054b31e_rossia1" $ExtFilter="GADEM 2",Россия 1
+#EXTINF:-1 group-title="🏝 ▶📡🌐 Общественные | Эфирные✔️" tvg-logo="https://iptvx.one/picons/rossia1.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_5d1a2899733a7d24226e4160e054b31e_rossia1" $ExtFilter="GADEM 2",Россия 1
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
 #EXTINF:-1 group-title="🏝 ▶ Другие  💫" tvg-logo="http://iptv-content.rv77.pw/336x192/20002.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_5d1a2899733a7d24226e4160e054b31e_rossia1" $ExtFilter="GADEM 2",Россия 1
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
@@ -6946,7 +6946,7 @@ https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R04_OTT_VLG_SARATOV_ROSSIA1/
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/igevsk/russia1-sd/index.m3u8
 #EXTINF:-1 group-title="▶✅ Информационные ☯☢📡" tvg-logo="http://epg.one/img2/984.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_rossia1-pl1" $ExtFilter="GADEM 2",Россия 1 (+1)
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/ulyanovsk/russia1-sd/index.m3u8
-#EXTINF:-1 group-title="🏝 ▶ Федеральные ✔️" tvg-logo="https://iptvx.one/picons/rossia1-pl2.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_5d1a2899733a7d24226e4160e054b31e_rossia1-pl2" $ExtFilter="GADEM 2",Россия 1 (+2)
+#EXTINF:-1 group-title="🏝 ▶📡🌐 Общественные | Эфирные✔️" tvg-logo="https://iptvx.one/picons/rossia1-pl2.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_5d1a2899733a7d24226e4160e054b31e_rossia1-pl2" $ExtFilter="GADEM 2",Россия 1 (+2)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_2/variant.m3u8
 #EXTINF:-1 group-title="🏝 ▶+ Плюсовые ✨" tvg-logo="https://iptvx.one/picons/rossia1-pl2.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_5d1a2899733a7d24226e4160e054b31e_rossia1-pl2" $ExtFilter="GADEM 2",Россия 1 (+2)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_2/variant.m3u8?version=2
@@ -7284,7 +7284,7 @@ https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_ROSSIA24_URAL_CHEL/var
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/1080p.m3u8
 #EXTINF:-1 group-title="▶🛡️VPN👁‍🗨 ☞ Пакет | 🎯 SuzuSTVNet + ᴴᴰ ᴳᴼᴸᴰ" tvg-logo="http://epg.one/img2/187.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_5d1a2899733a7d24226e4160e054b31e_kultura" $ExtFilter="GADEM 2",Россия К
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
-#EXTINF:-1 group-title="🏝 ▶ Федеральные ✔️" tvg-logo="https://iptvx.one/picons/kultura.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_5d1a2899733a7d24226e4160e054b31e_kultura" $ExtFilter="GADEM 2",Россия К
+#EXTINF:-1 group-title="🏝 ▶📡🌐 Общественные | Эфирные✔️" tvg-logo="https://iptvx.one/picons/kultura.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_5d1a2899733a7d24226e4160e054b31e_kultura" $ExtFilter="GADEM 2",Россия К
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8
 #EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="../Channel/Logo/Россия К.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_kultura" $ExtFilter="GADEM 2",Россия К
 http://95.47.155.244:8001/play/a006
@@ -7327,7 +7327,7 @@ http://vgtrkregion-reg.cdnvideo.ru/vgtrk/7/kultura-hd/index.m3u8
 https://s05.watcher.uz/40/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTg1MTUwLCJsb2dpbiI6InR2LTE4NTE1MCIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzgwNjk3NTc4fQ.bXNxmt2iOlX4qQ8TitFHFzmB2Kxh7DkhMjEQXb-aEgc%3A8
 #EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="../Channel/Logo/Россия К.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_kultura" $ExtFilter="GADEM 2",Россия Культура HD
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
-#EXTINF:-1 group-title="🏝 ▶ Федеральные ✔️" tvg-logo="https://iptvx.one/picons/rossia-24.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия-24
+#EXTINF:-1 group-title="🏝 ▶📡🌐 Общественные | Эфирные✔️" tvg-logo="https://iptvx.one/picons/rossia-24.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_5d1a2899733a7d24226e4160e054b31e_rossia-24" $ExtFilter="GADEM 2",Россия-24
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
 #EXTINF:-1 group-title="🏝 ▶ Региoнальные  ⚜️" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_simpleTVFakeEpgId" $ExtFilter="GADEM 2",Россия-24 (Екатеринбург)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
@@ -7830,7 +7830,7 @@ http://kinowalk.hopto.org/channel30001568_live
 http://sochinskayatrk.ru/hdtv/hls/CTPK_400/playlist.m3u8
 #EXTINF:-1 group-title="▶🛡️VPN👁‍🗨 ☞ Пакет | 🎯 SuzuSTVNet + ᴴᴰ ᴳᴼᴸᴰ" tvg-logo="https://iptvx.one/picons/strk.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_5d1a2899733a7d24226e4160e054b31e_strk" $ExtFilter="GADEM 2",СТРК HD
 http://sochinskayatrk.ru:2015/STRK/mpegts
-#EXTINF:-1 group-title="🏝 ▶ Федеральные ✔️" tvg-logo="https://iptvx.one/picons/sts.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_5d1a2899733a7d24226e4160e054b31e_sts" $ExtFilter="GADEM 2",СТС
+#EXTINF:-1 group-title="🏝 ▶📡🌐 Общественные | Эфирные✔️" tvg-logo="https://iptvx.one/picons/sts.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_5d1a2899733a7d24226e4160e054b31e_sts" $ExtFilter="GADEM 2",СТС
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
 #EXTINF:-1 group-title="🏝 ▶ Другие  💫" tvg-logo="http://iptv-content.rv77.pw/336x192/292.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_5d1a2899733a7d24226e4160e054b31e_sts" $ExtFilter="GADEM 2",СТС
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
@@ -7844,12 +7844,12 @@ http://95.47.155.244:8001/play/a013
 https://flussonic.mkpnet.ru/tv-9cb92ea0862cd7b0/video.m3u8
 #EXTINF:-1 group-title="🏝 ▶+ Плюсовые ✨" tvg-logo="https://iptvx.one/picons/sts.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_f736135dfb80936a523d63c9a10f2613_СТС (+1)" $ExtFilter="GADEM 2",СТС (+1)
 http://rt-sth-astrh-htlive.cdn.ngenix.net/hls/CH_R02_OTT_STH_ASTRH_STS/variant.m3u8
-#EXTINF:-1 group-title="🏝 ▶ Федеральные ✔️" tvg-logo="https://iptvx.one/picons/sts-pl2.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_5d1a2899733a7d24226e4160e054b31e_sts-pl2" $ExtFilter="GADEM 2",СТС (+2)
+#EXTINF:-1 group-title="🏝 ▶📡🌐 Общественные | Эфирные✔️" tvg-logo="https://iptvx.one/picons/sts-pl2.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_5d1a2899733a7d24226e4160e054b31e_sts-pl2" $ExtFilter="GADEM 2",СТС (+2)
 #EXTVLCOPT:http-user-agent=SmartTV
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_2/variant.m3u8
 #EXTINF:-1 group-title="🏝 ▶+ Плюсовые ✨" tvg-logo="https://iptvx.one/picons/sts-pl2.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_5d1a2899733a7d24226e4160e054b31e_sts-pl2" $ExtFilter="GADEM 2",СТС (+2)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STS_2/variant.m3u8?version=2
-#EXTINF:-1 group-title="🏝 ▶ Федеральные ✔️" tvg-logo="https://iptvx.one/picons/sts-pl4.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_5d1a2899733a7d24226e4160e054b31e_sts-pl4" $ExtFilter="GADEM 2",СТС (+4)
+#EXTINF:-1 group-title="🏝 ▶📡🌐 Общественные | Эфирные✔️" tvg-logo="https://iptvx.one/picons/sts-pl4.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_5d1a2899733a7d24226e4160e054b31e_sts-pl4" $ExtFilter="GADEM 2",СТС (+4)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STS_4/variant.m3u8?version=2
 #EXTINF:-1 group-title="🏝 ▶+ Плюсовые ✨" tvg-logo="https://iptvx.one/picons/sts-pl4.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_5d1a2899733a7d24226e4160e054b31e_sts-pl4" $ExtFilter="GADEM 2",СТС (+4)
 #EXTVLCOPT:http-user-agent=SmartTV
@@ -7858,7 +7858,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_4/variant.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STS_4/variant.m3u8
 #EXTINF:-1 group-title="🏝 ▶+ Плюсовые ✨" tvg-logo="http://i127.fastpic.org/big/2026/0412/55/5aacef4fa1d0194c7da7f8e9c0bfad55.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_f736135dfb80936a523d63c9a10f2613_СТС (+6)" $ExtFilter="GADEM 2",СТС (+6)
 http://rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R01_STS_ZK/variant.m3u8
-#EXTINF:-1 group-title="🏝 ▶ Федеральные ✔️" tvg-logo="https://iptvx.one/picons/sts-pl7.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_5d1a2899733a7d24226e4160e054b31e_sts-pl7" $ExtFilter="GADEM 2",СТС (+7)
+#EXTINF:-1 group-title="🏝 ▶📡🌐 Общественные | Эфирные✔️" tvg-logo="https://iptvx.one/picons/sts-pl7.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_5d1a2899733a7d24226e4160e054b31e_sts-pl7" $ExtFilter="GADEM 2",СТС (+7)
 #EXTVLCOPT:http-user-agent=SmartTV
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_7/variant.m3u8
 #EXTINF:-1 group-title="🏝 ▶+ Плюсовые ✨" tvg-logo="https://iptvx.one/picons/sts-pl7.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_5d1a2899733a7d24226e4160e054b31e_sts-pl7" $ExtFilter="GADEM 2",СТС (+7)
@@ -8034,17 +8034,17 @@ https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R02_EFIR24/variant.m3u8?version=
 https://bl.rutube.ru/livestream/68b2533a29f7de163842baf1b9dfc17e/index.m3u8?s=o7ipxLo1ip4GnXrJzkhuAA&e=2083580126&scheme=https
 #EXTINF:-1 group-title="▶🛡️VPN👁‍🗨 ☞ Пакет | 🎯 SuzuSTVNet + ᴴᴰ ᴳᴼᴸᴰ" tvg-logo="../Channel/Logo/ОТВ 24.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_e10432067b0942800a78cadacc6c7675_ttv1434" $ExtFilter="GADEM 2",ТВ 21
 http://83.217.12.157:81/udp/239.1.1.95:1234
-#EXTINF:-1 group-title="🏝 ▶ Федеральные ✔️" tvg-logo="http://i122.fastpic.org/big/2023/0901/4d/934af08eff0727d877939f70bf0dde4d.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_f736135dfb80936a523d63c9a10f2613_ТВ 3" $ExtFilter="GADEM 2",ТВ 3
+#EXTINF:-1 group-title="🏝 ▶📡🌐 Общественные | Эфирные✔️" tvg-logo="http://i122.fastpic.org/big/2023/0901/4d/934af08eff0727d877939f70bf0dde4d.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_f736135dfb80936a523d63c9a10f2613_ТВ 3" $ExtFilter="GADEM 2",ТВ 3
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
 #EXTINF:-1 group-title="🏝 ▶+ Плюсовые ✨" tvg-logo="http://i122.fastpic.org/big/2023/0901/b6/af3eff8e40056704b9e4dd80751d4eb6.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_f736135dfb80936a523d63c9a10f2613_ТВ 3 (+2)" $ExtFilter="GADEM 2",ТВ 3 (+2)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_2/variant.m3u8
-#EXTINF:-1 group-title="🏝 ▶ Федеральные ✔️" tvg-logo="http://i122.fastpic.org/big/2023/0901/b6/af3eff8e40056704b9e4dd80751d4eb6.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_f736135dfb80936a523d63c9a10f2613_ТВ 3 (+2)" $ExtFilter="GADEM 2",ТВ 3 (+2)
+#EXTINF:-1 group-title="🏝 ▶📡🌐 Общественные | Эфирные✔️" tvg-logo="http://i122.fastpic.org/big/2023/0901/b6/af3eff8e40056704b9e4dd80751d4eb6.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_f736135dfb80936a523d63c9a10f2613_ТВ 3 (+2)" $ExtFilter="GADEM 2",ТВ 3 (+2)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_2/variant.m3u8?version=2
-#EXTINF:-1 group-title="🏝 ▶ Федеральные ✔️" tvg-logo="http://i122.fastpic.org/big/2023/0901/2d/9ae58a21913b0f80b0c8970a2e5a532d.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_f736135dfb80936a523d63c9a10f2613_ТВ 3 (+4)" $ExtFilter="GADEM 2",ТВ 3 (+4)
+#EXTINF:-1 group-title="🏝 ▶📡🌐 Общественные | Эфирные✔️" tvg-logo="http://i122.fastpic.org/big/2023/0901/2d/9ae58a21913b0f80b0c8970a2e5a532d.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_f736135dfb80936a523d63c9a10f2613_ТВ 3 (+4)" $ExtFilter="GADEM 2",ТВ 3 (+4)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_4/variant.m3u8
 #EXTINF:-1 group-title="🏝 ▶+ Плюсовые ✨" tvg-logo="http://i122.fastpic.org/big/2023/0901/2d/9ae58a21913b0f80b0c8970a2e5a532d.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_f736135dfb80936a523d63c9a10f2613_ТВ 3 (+4)" $ExtFilter="GADEM 2",ТВ 3 (+4)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_4/variant.m3u8?version=2
-#EXTINF:-1 group-title="🏝 ▶ Федеральные ✔️" tvg-logo="http://i122.fastpic.org/big/2023/0901/8b/2bc7ce162d7d870ae3df9ceab5f79c8b.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_f736135dfb80936a523d63c9a10f2613_ТВ 3 (+7)" $ExtFilter="GADEM 2",ТВ 3 (+7)
+#EXTINF:-1 group-title="🏝 ▶📡🌐 Общественные | Эфирные✔️" tvg-logo="http://i122.fastpic.org/big/2023/0901/8b/2bc7ce162d7d870ae3df9ceab5f79c8b.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_f736135dfb80936a523d63c9a10f2613_ТВ 3 (+7)" $ExtFilter="GADEM 2",ТВ 3 (+7)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_7/variant.m3u8
 #EXTINF:-1 group-title="🏝 ▶+ Плюсовые ✨" tvg-logo="http://i122.fastpic.org/big/2023/0901/8b/2bc7ce162d7d870ae3df9ceab5f79c8b.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_f736135dfb80936a523d63c9a10f2613_ТВ 3 (+7)" $ExtFilter="GADEM 2",ТВ 3 (+7)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_7/variant.m3u8?version=2
@@ -8084,7 +8084,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8?version=2&offset=-3
 http://live-3.otcnet.ru/sportivny/index.m3u8
 #EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="../Channel/Logo/НТВ Стиль.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_sportivny" $ExtFilter="GADEM 2",ТВ Спорт
 http://live-3.otcnet.ru/sportivny/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="🏝 ▶ Федеральные ✔️" tvg-logo="https://iptvx.one/picons/tvcentr.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_5d1a2899733a7d24226e4160e054b31e_tvcentr" $ExtFilter="GADEM 2",ТВ Центр
+#EXTINF:-1 group-title="🏝 ▶📡🌐 Общественные | Эфирные✔️" tvg-logo="https://iptvx.one/picons/tvcentr.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_5d1a2899733a7d24226e4160e054b31e_tvcentr" $ExtFilter="GADEM 2",ТВ Центр
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
 #EXTINF:-1 group-title="🏝 ▶ Другие  💫" tvg-logo="http://iptv-content.rv77.pw/336x192/334.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_5d1a2899733a7d24226e4160e054b31e_tvcentr" $ExtFilter="GADEM 2",ТВ Центр
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
@@ -8153,12 +8153,12 @@ http://mfe01.cliptv.az/dash/TV_3_SDasdqw3qw.ism/playlist.mpd
 http://95.47.155.244:8001/play/a015
 #EXTINF:-1 group-title="🏝 ▶+ Плюсовые ✨" tvg-logo="https://iptvx.one/picons/tv3-ru.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_f736135dfb80936a523d63c9a10f2613_ТВ 3 (+1)" $ExtFilter="GADEM 2",ТВ3 (+1)
 http://rt-sth-astrh-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_ASTRH_TV3/variant.m3u8
-#EXTINF:-1 group-title="🏝 ▶ Федеральные ✔️" tvg-logo="https://iptvx.one/picons/tv3-ru-pl2.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_5d1a2899733a7d24226e4160e054b31e_tv3-ru-pl2" $ExtFilter="GADEM 2",ТВ3 (+2)
+#EXTINF:-1 group-title="🏝 ▶📡🌐 Общественные | Эфирные✔️" tvg-logo="https://iptvx.one/picons/tv3-ru-pl2.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_5d1a2899733a7d24226e4160e054b31e_tv3-ru-pl2" $ExtFilter="GADEM 2",ТВ3 (+2)
 #EXTVLCOPT:http-user-agent=SmartTV
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_2/variant.m3u8
 #EXTINF:-1 group-title="🏝 ▶+ Плюсовые ✨" tvg-logo="https://iptvx.one/picons/tv3-ru-pl3.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_5d1a2899733a7d24226e4160e054b31e_tv3-ru-pl3" $ExtFilter="GADEM 2",ТВ3 (+3)
 http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_TV3_OMSKOBL/variant.m3u8
-#EXTINF:-1 group-title="🏝 ▶ Федеральные ✔️" tvg-logo="https://iptvx.one/picons/tv3-ru-pl4.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_5d1a2899733a7d24226e4160e054b31e_tv3-ru-pl4" $ExtFilter="GADEM 2",ТВ3 (+4)
+#EXTINF:-1 group-title="🏝 ▶📡🌐 Общественные | Эфирные✔️" tvg-logo="https://iptvx.one/picons/tv3-ru-pl4.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_5d1a2899733a7d24226e4160e054b31e_tv3-ru-pl4" $ExtFilter="GADEM 2",ТВ3 (+4)
 #EXTVLCOPT:http-user-agent=SmartTV
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_4/variant.m3u8
 #EXTINF:-1 group-title="🏝 ▶+ Плюсовые ✨" tvg-logo="https://iptvx.one/picons/tv3-ru.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_f736135dfb80936a523d63c9a10f2613_ТВ 3 (+5)" $ExtFilter="GADEM 2",ТВ3 (+5)
@@ -8305,7 +8305,7 @@ https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TNR24/variant.m3u8?vers
 http://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TNR24/variant.m3u8
 #EXTINF:-1 group-title="▶🛡️VPN👁‍🗨 ☞ Пакет | 🎯 SuzuSTVNet + ᴴᴰ ᴳᴼᴸᴰ" tvg-logo="http://epg.one/img2/353.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_5d1a2899733a7d24226e4160e054b31e_tnt" $ExtFilter="GADEM 2",ТНТ
 https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=kt86-c21Bfl5abtRahA4DQ&e=2071401224&scheme=https
-#EXTINF:-1 group-title="🏝 ▶ Федеральные ✔️" tvg-logo="https://iptvx.one/picons/tnt.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_5d1a2899733a7d24226e4160e054b31e_tnt" $ExtFilter="GADEM 2",ТНТ
+#EXTINF:-1 group-title="🏝 ▶📡🌐 Общественные | Эфирные✔️" tvg-logo="https://iptvx.one/picons/tnt.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_5d1a2899733a7d24226e4160e054b31e_tnt" $ExtFilter="GADEM 2",ТНТ
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
 #EXTINF:-1 group-title="🏝 ▶ Другие  💫" tvg-logo="http://iptv-content.rv77.pw/336x192/5001.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_5d1a2899733a7d24226e4160e054b31e_tnt" $ExtFilter="GADEM 2",ТНТ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
@@ -8313,19 +8313,19 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
 http://tinyurl.com/TvZaTak011/a019?|User-Agent=http-user-agent=Lavf/56.15.102
 #EXTINF:-1 group-title="💎 ☞ CloudSuzusMixer 🇹🇲 ☜| Разное ꀤᖘ꓄ᐯ 👁‍🗨" tvg-logo="../Channel/Logo/ТНТ.png" tvg-id="5d1a2899733a7d24226e4160e054b31e_tnt" $ExtFilter="GADEM 2",ТНТ
 http://95.47.155.244:8001/play/a019
-#EXTINF:-1 group-title="🏝 ▶ Федеральные ✔️" tvg-logo="https://iptvx.one/picons/tnt-pl2.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_5d1a2899733a7d24226e4160e054b31e_tnt-pl2" $ExtFilter="GADEM 2",ТНТ (+2)
+#EXTINF:-1 group-title="🏝 ▶📡🌐 Общественные | Эфирные✔️" tvg-logo="https://iptvx.one/picons/tnt-pl2.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_5d1a2899733a7d24226e4160e054b31e_tnt-pl2" $ExtFilter="GADEM 2",ТНТ (+2)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/variant.m3u8
 #EXTINF:-1 group-title="🏝 ▶+ Плюсовые ✨" tvg-logo="https://iptvx.one/picons/tnt-pl2.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_5d1a2899733a7d24226e4160e054b31e_tnt-pl2" $ExtFilter="GADEM 2",ТНТ (+2)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/variant.m3u8?version=2
 #EXTINF:-1 group-title="🏝 ▶ Другие  💫" tvg-logo="http://iptv-content.rv77.pw/336x192/353.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_5d1a2899733a7d24226e4160e054b31e_tnt-pl2" $ExtFilter="GADEM 2",ТНТ (+2)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/variant.m3u8
-#EXTINF:-1 group-title="🏝 ▶ Федеральные ✔️" tvg-logo="https://iptvx.one/picons/tnt-pl4.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_5d1a2899733a7d24226e4160e054b31e_tnt-pl4" $ExtFilter="GADEM 2",ТНТ (+4)
+#EXTINF:-1 group-title="🏝 ▶📡🌐 Общественные | Эфирные✔️" tvg-logo="https://iptvx.one/picons/tnt-pl4.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_5d1a2899733a7d24226e4160e054b31e_tnt-pl4" $ExtFilter="GADEM 2",ТНТ (+4)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_4/variant.m3u8
 #EXTINF:-1 group-title="🏝 ▶+ Плюсовые ✨" tvg-logo="https://iptvx.one/picons/tnt-pl4.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_5d1a2899733a7d24226e4160e054b31e_tnt-pl4" $ExtFilter="GADEM 2",ТНТ (+4)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_4/variant.m3u8?version=2
 #EXTINF:-1 group-title="🏝 ▶ Другие  💫" tvg-logo="http://iptv-content.rv77.pw/336x192/20749.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_5d1a2899733a7d24226e4160e054b31e_tnt-pl4" $ExtFilter="GADEM 2",ТНТ (+4)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_4/variant.m3u8
-#EXTINF:-1 group-title="🏝 ▶ Федеральные ✔️" tvg-logo="https://iptvx.one/picons/tnt-pl7.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_5d1a2899733a7d24226e4160e054b31e_tnt-pl7" $ExtFilter="GADEM 2",ТНТ (+7)
+#EXTINF:-1 group-title="🏝 ▶📡🌐 Общественные | Эфирные✔️" tvg-logo="https://iptvx.one/picons/tnt-pl7.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_5d1a2899733a7d24226e4160e054b31e_tnt-pl7" $ExtFilter="GADEM 2",ТНТ (+7)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8
 #EXTINF:-1 group-title="🏝 ▶+ Плюсовые ✨" tvg-logo="https://iptvx.one/picons/tnt-pl7.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_5d1a2899733a7d24226e4160e054b31e_tnt-pl7" $ExtFilter="GADEM 2",ТНТ (+7)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8?version=2
