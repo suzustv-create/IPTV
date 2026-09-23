@@ -7,8 +7,7 @@
 Весь контент взят с cайтов и форумов, которые находится в открытом доступе в сети Интернет, мы лишь ссылаемся на них.
 Мы не несём никакую ответственность за места происхождения, легальность и качество телеканалов, радиостанций и остального, лишь предоставляем техническое решение преобразования данных потоков с помощью плееров.
 Если вы желаете что бы с сервиса был убран контент который вам принадлежит, необходимо обратиться к оригинальному источнику вещания.
-Сайт работает при поддержке лесных духов и хранителя болот.  Поддержать проект: Юмани 410012490049169 
- $BorpasFileFormat="1" $NestedGroupsSeparator="/"
+Сайт работает при поддержке лесных духов и хранителя болот.  Поддержать проект: Юмани 410012490049169  $BorpasFileFormat="1" $NestedGroupsSeparator="/"
 #EXTINF:-1 group-title="↕️ ▶🔺PLAYLIST INFORMATION🔺INFO👉©️ SuzuS TV™️ ®️🔴🔺↕️" tvg-logo="https://suzustv.clan.su/IMAGES/suzustv-icon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",+✓Обновление:🔺INFO 🔴🔺БЕСПЛАТНЫЕ КАНАЛЫ SuzuS TV↕️
 https://dl.dropbox.com/scl/fi/h0jmo0n5rr42lwszy90vz/video_2__httpst.meSuzusTVMedia.mp4?rlkey=bn3mlwknuwyerqm27fmimh8g5&dl=0
 #EXTINF:-1 group-title="↕️ ♻️🎬  TTV Кинозалы 📼 (Ace Serve)↕️" tvg-logo="http://filmtvgroup.site/uploads/logo.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",.A SUZUS TV GROUP - Для этой категории каналов надо устаовит дополнительное ПО (Ace Serve 💥Оновлено:.2026 (14:59) | IP: 198.244.252.20
@@ -794,12 +793,6 @@ http://127.0.0.1:6878/ace/getstream?id=3cacfef48b11ea2a81282c4b49b3eac4d7cce501
 http://hnc-free-viewlift.amagi.tv/playlist720_lp.m3u8
 #EXTINF:-1 group-title="↕️ ▶🔺PLAYLIST INFORMATION🔺INFO👉©️ SuzuS TV™️ ®️🔴🔺↕️" tvg-logo="https://suzustv.clan.su/IMAGES/photo_2026-08-07_10-20-35.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",https://boosty.to/kolobokhatnettv/donate
 https://dl.dropbox.com/scl/fi/h0pmfymzhwdzrwdatd69l/video_2026-SUZUS-TV.mp4?rlkey=03cwk3nm961p73gr7uinpwa9y&dl=0
-#EXTINF:-1 group-title="↕️ ▶🔺PLAYLIST INFORMATION🔺INFO👉©️ SuzuS TV™️ ®️🔴🔺↕️" tvg-logo="https://i.postimg.cc/1t5RRm05/Pixaloop-09-11-2021-21-03-10-1660000.gif" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",https://suzustv.clan.su/
-http://185.57.68.33/232/index.m3u8
-#EXTINF:-1 group-title="↕️ ▶🔺PLAYLIST INFORMATION🔺INFO👉©️ SuzuS TV™️ ®️🔴🔺↕️" tvg-logo="https://i.postimg.cc/1t5RRm05/Pixaloop-09-11-2021-21-03-10-1660000.gif" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",https://suzustv.clan.su/
-http://camsecure.co/HLS/boatq1.m3u8
-#EXTINF:-1 group-title="↕️ ▶🔺PLAYLIST INFORMATION🔺INFO👉©️ SuzuS TV™️ ®️🔴🔺↕️" tvg-logo="https://suzustv.clan.su/QRCOD/SUZUSTV.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",https://suzustv.clan.su/
-http://iptv.prosto.tv:7000/ch302/video.m3u8
 #EXTINF:-1 group-title="↕️ ▶🔺PLAYLIST INFORMATION🔺INFO👉©️ SuzuS TV™️ ®️🔴🔺↕️" tvg-logo="https://suzustv.clan.su/IMAGES/photo_2026-08-07_10-20-35.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",https://suzustv.clan.su/
 http://iptv.prosto.tv:7000/ch305/video.m3u8
 #EXTINF:-1 group-title="↕️ ▶🔺PLAYLIST INFORMATION🔺INFO👉©️ SuzuS TV™️ ®️🔴🔺↕️" tvg-logo="https://suzustv.clan.su/QRCOD/SUZUSTV.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",https://suzustv.clan.su/
@@ -824,6 +817,52 @@ http://iptv.prosto.tv:7000/ch319/video.m3u8
 http://iptv.prosto.tv:7000/ch332/video.m3u8
 #EXTINF:-1 group-title="↕️ ▶🔺PLAYLIST INFORMATION🔺INFO👉©️ SuzuS TV™️ ®️🔴🔺↕️" tvg-logo="https://suzustv.clan.su/IMAGES/photo_2026-08-07_10-20-35.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",https://t.me/SuzusTVMedia
 http://jzhxm893.megatv.fun/iptv/BG3TE5HEQRXENC/14009/index.m3u8
+#EXTINF:-1 group-title="↕️ ▶🔺PLAYLIST INFORMATION🔺INFO👉©️ SuzuS TV™️ ®️🔴🔺↕️" tvg-logo="https://suzustv.clan.su/Logo/photo_2026-09-22_13-46-02.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",https://t.me/SuzusTVMedia
+http://185.57.68.33/232/index.m3u8
+#EXTINF:-1 group-title="↕️ ▶🔺PLAYLIST INFORMATION🔺INFO👉©️ SuzuS TV™️ ®️🔴🔺↕️" tvg-logo="https://suzustv.clan.su/Logo/photo_2026-09-22_13-46-02.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",https://t.me/SuzusTVMedia
+http://camsecure.co/HLS/boatq1.m3u8
+#EXTINF:-1 group-title="↕️ ▶🔺PLAYLIST INFORMATION🔺INFO👉©️ SuzuS TV™️ ®️🔴🔺↕️" tvg-logo="https://suzustv.clan.su/QRCOD/SUZUSTV.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",https://t.me/SuzusTVMedia
+http://iptv.prosto.tv:7000/ch302/video.m3u8
+#EXTINF:-1 group-title="↕️ ▶🔺PLAYLIST INFORMATION🔺INFO👉©️ SuzuS TV™️ ®️🔴🔺↕️" tvg-logo="https://suzustv.clan.su/Logo/photo_2026-09-22_13-46-02.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",https://t.me/SuzusTVMedia
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210276&extension=ts
+#EXTINF:-1 group-title="↕️ ▶🔺PLAYLIST INFORMATION🔺INFO👉©️ SuzuS TV™️ ®️🔴🔺↕️" tvg-logo="https://suzustv.clan.su/Logo/photo_2026-09-22_13-46-02.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",https://t.me/SuzusTVMedia
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210279&extension=ts
+#EXTINF:-1 group-title="↕️ ▶🔺PLAYLIST INFORMATION🔺INFO👉©️ SuzuS TV™️ ®️🔴🔺↕️" tvg-logo="https://suzustv.clan.su/Logo/photo_2026-09-22_13-46-02.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",https://t.me/SuzusTVMedia
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210284&extension=ts
+#EXTINF:-1 group-title="↕️ ▶🔺PLAYLIST INFORMATION🔺INFO👉©️ SuzuS TV™️ ®️🔴🔺↕️" tvg-logo="https://suzustv.clan.su/Logo/photo_2026-09-22_13-46-02.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",https://t.me/SuzusTVMedia
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210277&extension=ts
+#EXTINF:-1 group-title="↕️ ▶🔺PLAYLIST INFORMATION🔺INFO👉©️ SuzuS TV™️ ®️🔴🔺↕️" tvg-logo="https://suzustv.clan.su/Logo/photo_2026-09-22_13-46-02.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",https://t.me/SuzusTVMedia
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210278&extension=ts
+#EXTINF:-1 group-title="↕️ ▶🔺PLAYLIST INFORMATION🔺INFO👉©️ SuzuS TV™️ ®️🔴🔺↕️" tvg-logo="https://suzustv.clan.su/Logo/photo_2026-09-22_13-46-02.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",https://t.me/SuzusTVMedia
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210285&extension=ts
+#EXTINF:-1 group-title="↕️ ▶🔺PLAYLIST INFORMATION🔺INFO👉©️ SuzuS TV™️ ®️🔴🔺↕️" tvg-logo="https://suzustv.clan.su/Logo/photo_2026-09-22_13-46-02.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",https://t.me/SuzusTVMedia
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210274&extension=ts
+#EXTINF:-1 group-title="↕️ ▶🔺PLAYLIST INFORMATION🔺INFO👉©️ SuzuS TV™️ ®️🔴🔺↕️" tvg-logo="https://suzustv.clan.su/Logo/photo_2026-09-22_13-46-02.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",https://t.me/SuzusTVMedia
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210289&extension=ts
+#EXTINF:-1 group-title="↕️ ▶🔺PLAYLIST INFORMATION🔺INFO👉©️ SuzuS TV™️ ®️🔴🔺↕️" tvg-logo="https://suzustv.clan.su/Logo/photo_2026-09-22_13-46-02.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",https://t.me/SuzusTVMedia
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210288&extension=ts
+#EXTINF:-1 group-title="↕️ ▶🔺PLAYLIST INFORMATION🔺INFO👉©️ SuzuS TV™️ ®️🔴🔺↕️" tvg-logo="https://suzustv.clan.su/Logo/photo_2026-09-22_13-46-02.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",https://t.me/SuzusTVMedia
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210290&extension=ts
+#EXTINF:-1 group-title="↕️ ▶🔺PLAYLIST INFORMATION🔺INFO👉©️ SuzuS TV™️ ®️🔴🔺↕️" tvg-logo="https://suzustv.clan.su/Logo/photo_2026-09-22_13-46-02.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",https://t.me/SuzusTVMedia
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210287&extension=ts
+#EXTINF:-1 group-title="↕️ ▶🔺PLAYLIST INFORMATION🔺INFO👉©️ SuzuS TV™️ ®️🔴🔺↕️" tvg-logo="https://suzustv.clan.su/Logo/photo_2026-09-22_13-46-02.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",https://t.me/SuzusTVMedia
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210291&extension=ts
+#EXTINF:-1 group-title="↕️ ▶🔺PLAYLIST INFORMATION🔺INFO👉©️ SuzuS TV™️ ®️🔴🔺↕️" tvg-logo="https://suzustv.clan.su/Logo/photo_2026-09-22_13-46-02.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",https://t.me/SuzusTVMedia
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210286&extension=ts
+#EXTINF:-1 group-title="↕️ ▶🔺PLAYLIST INFORMATION🔺INFO👉©️ SuzuS TV™️ ®️🔴🔺↕️" tvg-logo="https://suzustv.clan.su/Logo/photo_2026-09-22_13-46-02.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",https://t.me/SuzusTVMedia
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210292&extension=ts
+#EXTINF:-1 group-title="↕️ ▶🔺PLAYLIST INFORMATION🔺INFO👉©️ SuzuS TV™️ ®️🔴🔺↕️" tvg-logo="https://suzustv.clan.su/Logo/photo_2026-09-22_13-46-02.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",https://t.me/SuzusTVMedia
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210283&extension=ts
+#EXTINF:-1 group-title="↕️ ▶🔺PLAYLIST INFORMATION🔺INFO👉©️ SuzuS TV™️ ®️🔴🔺↕️" tvg-logo="https://suzustv.clan.su/Logo/photo_2026-09-22_13-46-02.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",https://t.me/SuzusTVMedia
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210275&extension=ts
+#EXTINF:-1 group-title="↕️ ▶🔺PLAYLIST INFORMATION🔺INFO👉©️ SuzuS TV™️ ®️🔴🔺↕️" tvg-logo="https://suzustv.clan.su/Logo/photo_2026-09-22_13-46-02.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",https://t.me/SuzusTVMedia
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210281&extension=ts
+#EXTINF:-1 group-title="↕️ ▶🔺PLAYLIST INFORMATION🔺INFO👉©️ SuzuS TV™️ ®️🔴🔺↕️" tvg-logo="https://suzustv.clan.su/Logo/photo_2026-09-22_13-46-02.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",https://t.me/SuzusTVMedia
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210282&extension=ts
+#EXTINF:-1 group-title="↕️ ▶🔺PLAYLIST INFORMATION🔺INFO👉©️ SuzuS TV™️ ®️🔴🔺↕️" tvg-logo="https://suzustv.clan.su/Logo/photo_2026-09-22_13-46-02.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",https://t.me/SuzusTVMedia
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210280&extension=ts
+#EXTINF:-1 group-title="↕️ ▶🔺PLAYLIST INFORMATION🔺INFO👉©️ SuzuS TV™️ ®️🔴🔺↕️" tvg-logo="https://suzustv.clan.su/Logo/photo_2026-09-22_13-46-02.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",https://t.me/SuzusTVMedia
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210273&extension=ts
 #EXTINF:-1 group-title="🎧 Музло+ 🔊🎶🎵🎧🎸🎷" tvg-logo="https://i.ibb.co/V0Lf2QYS/image-4.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Hype Visual Radio
 https://streammix.alsolnet.com/hyperadio/live/chunklist_w1883948073.m3u8
 #EXTINF:-1 group-title="↕️ ♻️ TTV 🎡 Развлекательно |🔎 Познавательные 🦎(Ace Serve) ↕️" tvg-logo="../Channel/Logo/iConcerts.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_5d1a2899733a7d24226e4160e054b31e_iconcerts" $ExtFilter="GADEM 2",iConcerts HD
@@ -1579,16 +1618,6 @@ http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 group-title="🎧 Музло+ 🔊🎶🎵🎧🎸🎷" tvg-logo="https://i.ibb.co/gZvs4F1x/image-17.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Rede Blitz Tv
 https://video01.logicahost.com.br/redeblitz/redeblitz/chunklist_w484849390.m3u8
-#EXTINF:-1 group-title="↕️ ▶🔺PLAYLIST INFORMATION🔺INFO👉©️ SuzuS TV™️ ®️🔴🔺↕️" tvg-logo="https://i.postimg.cc/8PfB8sS7/1.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",RELAX COFFEE SHOP MUSIC
-http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210297&extension=ts
-#EXTINF:-1 group-title="↕️ ▶🔺PLAYLIST INFORMATION🔺INFO👉©️ SuzuS TV™️ ®️🔴🔺↕️" tvg-logo="https://i.postimg.cc/8PfB8sS7/1.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",RELAX JAZZ MUSIC
-http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210294&extension=ts
-#EXTINF:-1 group-title="↕️ ▶🔺PLAYLIST INFORMATION🔺INFO👉©️ SuzuS TV™️ ®️🔴🔺↕️" tvg-logo="https://i.postimg.cc/8PfB8sS7/1.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",RELAX MUSIC
-http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210293&extension=ts
-#EXTINF:-1 group-title="↕️ ▶🔺PLAYLIST INFORMATION🔺INFO👉©️ SuzuS TV™️ ®️🔴🔺↕️" tvg-logo="https://i.postimg.cc/8PfB8sS7/1.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",RELAX TO SLEEP
-http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210296&extension=ts
-#EXTINF:-1 group-title="↕️ ▶🔺PLAYLIST INFORMATION🔺INFO👉©️ SuzuS TV™️ ®️🔴🔺↕️" tvg-logo="https://i.postimg.cc/8PfB8sS7/1.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",RELAX YOGA MUSIC
-http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210295&extension=ts
 #EXTINF:-1 group-title="↕️ ▶🔺PLAYLIST INFORMATION🔺INFO👉©️ SuzuS TV™️ ®️🔴🔺↕️" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00307.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Relaxon
 http://iptv.prosto.tv:7000/ch317/video.m3u8
 #EXTINF:-1 group-title="🎧 Музло+ 🔊🎶🎵🎧🎸🎷" tvg-logo="https://i.ibb.co/WvDJF12P/image-11.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",RELOAD GR
@@ -1687,46 +1716,6 @@ https://kinowalk.hopto.org/san4ez09_live
 http://kinowalk.hopto.org/sansey_ru_live
 #EXTINF:-1 group-title="▶1️⃣💲🎞️ КиноMultStream-Production+ 🧔‍" tvg-logo="https://kinowalk.hopto.org/web/image/332/128x128?unique=2026-07-23%2016:55:00.654325&access_token=14a0dc2d-fcee-4c83-a4b6-852f9291297b" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",SCORPIO КИНО
 http://kinowalk.hopto.org/scorpio05_live
-#EXTINF:-1 group-title="↕️ ▶🔺PLAYLIST INFORMATION🔺INFO👉©️ SuzuS TV™️ ®️🔴🔺↕️" tvg-logo="https://i.postimg.cc/8PfB8sS7/1.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",SCREEN AQUARIUM
-http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210276&extension=ts
-#EXTINF:-1 group-title="↕️ ▶🔺PLAYLIST INFORMATION🔺INFO👉©️ SuzuS TV™️ ®️🔴🔺↕️" tvg-logo="https://i.postimg.cc/8PfB8sS7/1.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",SCREEN CAMPFIRE
-http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210279&extension=ts
-#EXTINF:-1 group-title="↕️ ▶🔺PLAYLIST INFORMATION🔺INFO👉©️ SuzuS TV™️ ®️🔴🔺↕️" tvg-logo="https://i.postimg.cc/8PfB8sS7/1.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",SCREEN DUBAI
-http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210284&extension=ts
-#EXTINF:-1 group-title="↕️ ▶🔺PLAYLIST INFORMATION🔺INFO👉©️ SuzuS TV™️ ®️🔴🔺↕️" tvg-logo="https://i.postimg.cc/8PfB8sS7/1.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",SCREEN FIREPLACE
-http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210277&extension=ts
-#EXTINF:-1 group-title="↕️ ▶🔺PLAYLIST INFORMATION🔺INFO👉©️ SuzuS TV™️ ®️🔴🔺↕️" tvg-logo="https://i.postimg.cc/8PfB8sS7/1.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",SCREEN FIREPLACE WINTER
-http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210278&extension=ts
-#EXTINF:-1 group-title="↕️ ▶🔺PLAYLIST INFORMATION🔺INFO👉©️ SuzuS TV™️ ®️🔴🔺↕️" tvg-logo="https://i.postimg.cc/8PfB8sS7/1.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",SCREEN ISTANBUL
-http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210285&extension=ts
-#EXTINF:-1 group-title="↕️ ▶🔺PLAYLIST INFORMATION🔺INFO👉©️ SuzuS TV™️ ®️🔴🔺↕️" tvg-logo="https://i.postimg.cc/8PfB8sS7/1.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",SCREEN MEDIEVAL EUROPE
-http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210274&extension=ts
-#EXTINF:-1 group-title="↕️ ▶🔺PLAYLIST INFORMATION🔺INFO👉©️ SuzuS TV™️ ®️🔴🔺↕️" tvg-logo="https://i.postimg.cc/8PfB8sS7/1.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",SCREEN NEW YORK 2
-http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210289&extension=ts
-#EXTINF:-1 group-title="↕️ ▶🔺PLAYLIST INFORMATION🔺INFO👉©️ SuzuS TV™️ ®️🔴🔺↕️" tvg-logo="https://i.postimg.cc/8PfB8sS7/1.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",SCREEN NEWYORK
-http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210288&extension=ts
-#EXTINF:-1 group-title="↕️ ▶🔺PLAYLIST INFORMATION🔺INFO👉©️ SuzuS TV™️ ®️🔴🔺↕️" tvg-logo="https://i.postimg.cc/8PfB8sS7/1.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",SCREEN NEWYORK NIGHT
-http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210290&extension=ts
-#EXTINF:-1 group-title="↕️ ▶🔺PLAYLIST INFORMATION🔺INFO👉©️ SuzuS TV™️ ®️🔴🔺↕️" tvg-logo="https://i.postimg.cc/8PfB8sS7/1.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",SCREEN NORWAY
-http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210287&extension=ts
-#EXTINF:-1 group-title="↕️ ▶🔺PLAYLIST INFORMATION🔺INFO👉©️ SuzuS TV™️ ®️🔴🔺↕️" tvg-logo="https://i.postimg.cc/8PfB8sS7/1.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",SCREEN OCEAN
-http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210291&extension=ts
-#EXTINF:-1 group-title="↕️ ▶🔺PLAYLIST INFORMATION🔺INFO👉©️ SuzuS TV™️ ®️🔴🔺↕️" tvg-logo="https://i.postimg.cc/8PfB8sS7/1.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",SCREEN PARIS
-http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210286&extension=ts
-#EXTINF:-1 group-title="↕️ ▶🔺PLAYLIST INFORMATION🔺INFO👉©️ SuzuS TV™️ ®️🔴🔺↕️" tvg-logo="https://i.postimg.cc/8PfB8sS7/1.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",SCREEN THE DRIVE
-http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210292&extension=ts
-#EXTINF:-1 group-title="↕️ ▶🔺PLAYLIST INFORMATION🔺INFO👉©️ SuzuS TV™️ ®️🔴🔺↕️" tvg-logo="https://i.postimg.cc/8PfB8sS7/1.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",SCREEN TROPICAL RAIN
-http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210283&extension=ts
-#EXTINF:-1 group-title="↕️ ▶🔺PLAYLIST INFORMATION🔺INFO👉©️ SuzuS TV™️ ®️🔴🔺↕️" tvg-logo="https://i.postimg.cc/8PfB8sS7/1.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",SCREEN WILD ANIMALS
-http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210275&extension=ts
-#EXTINF:-1 group-title="↕️ ▶🔺PLAYLIST INFORMATION🔺INFO👉©️ SuzuS TV™️ ®️🔴🔺↕️" tvg-logo="https://i.postimg.cc/8PfB8sS7/1.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",SCREEN WINTER
-http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210281&extension=ts
-#EXTINF:-1 group-title="↕️ ▶🔺PLAYLIST INFORMATION🔺INFO👉©️ SuzuS TV™️ ®️🔴🔺↕️" tvg-logo="https://i.postimg.cc/8PfB8sS7/1.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",SCREEN WINTER 2
-http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210282&extension=ts
-#EXTINF:-1 group-title="↕️ ▶🔺PLAYLIST INFORMATION🔺INFO👉©️ SuzuS TV™️ ®️🔴🔺↕️" tvg-logo="https://i.postimg.cc/8PfB8sS7/1.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",SCREEN WINTER WONDERLAND
-http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210280&extension=ts
-#EXTINF:-1 group-title="↕️ ▶🔺PLAYLIST INFORMATION🔺INFO👉©️ SuzuS TV™️ ®️🔴🔺↕️" tvg-logo="https://i.postimg.cc/8PfB8sS7/1.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",SCREENSAVER
-http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210273&extension=ts
 #EXTINF:-1 group-title="▶🛡️VPN🍿TOP-КиноStream-Kinowalk +🎞️" tvg-logo="https://i.imgur.com/wbrp0zw.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Scripach TV HD
 http://kinowalk.hopto.org/scripachtv_live
 #EXTINF:-1 group-title="▶🛡️VPN🍿TOP-КиноStream-Kinowalk +🎞️" tvg-logo="https://i.ibb.co/hrJnvY6/image-15.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",SeleCaoTV
@@ -4120,19 +4109,19 @@ https://c5c391eb5d6c43019e76edc4ea5c726b.mediatailor.us-east-1.amazonaws.com/v1/
 https://d10cyxntpn0bwm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-udbgiwo3vva3o/master.m3u8
 #EXTINF:-1 group-title="↕️ ▶🔺PLAYLIST INFORMATION🔺INFO👉©️ SuzuS TV™️ ®️🔴🔺↕️" tvg-logo="https://suzustv.clan.su/IMAGES/photo_2026-08-07_10-20-35.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Поддержать проект: Юмани 410012490049169
 https://d9rd4243pcy92.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-e4dxftqz7hlvi/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="↕️ ▶🔺PLAYLIST INFORMATION🔺INFO👉©️ SuzuS TV™️ ®️🔴🔺↕️" tvg-logo="http://epg.one/img2/6599.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Поддержать проект: Юмани 410012490049169
+#EXTINF:-1 group-title="↕️ ▶🔺PLAYLIST INFORMATION🔺INFO👉©️ SuzuS TV™️ ®️🔴🔺↕️" tvg-logo="https://suzustv.clan.su/Logo/photo_2026-09-22_13-46-02.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Поддержать проект: Юмани 410012490049169
 http://qw9kh8gz.rostelekom.xyz/iptv/H7B4LWE4GTKBN9/18088/index.m3u8
-#EXTINF:-1 group-title="↕️ ▶🔺PLAYLIST INFORMATION🔺INFO👉©️ SuzuS TV™️ ®️🔴🔺↕️" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2900009D4_20240924T011022SQUARE.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Поддержать проект: Юмани 410012490049169
+#EXTINF:-1 group-title="↕️ ▶🔺PLAYLIST INFORMATION🔺INFO👉©️ SuzuS TV™️ ®️🔴🔺↕️" tvg-logo="https://suzustv.clan.su/Logo/photo_2026-09-22_13-46-02.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Поддержать проект: Юмани 410012490049169
 https://d2aem88cs0tggr.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-wyllbnbambvw1/SONO58.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=US2900009D4
-#EXTINF:-1 group-title="↕️ ▶🔺PLAYLIST INFORMATION🔺INFO👉©️ SuzuS TV™️ ®️🔴🔺↕️" tvg-logo="http://rafail1982.uz/music.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Поддержать проект: Юмани 410012490049169
+#EXTINF:-1 group-title="↕️ ▶🔺PLAYLIST INFORMATION🔺INFO👉©️ SuzuS TV™️ ®️🔴🔺↕️" tvg-logo="https://suzustv.clan.su/Logo/photo_2026-09-22_13-46-02.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Поддержать проект: Юмани 410012490049169
 http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
-#EXTINF:-1 group-title="↕️ ▶🔺PLAYLIST INFORMATION🔺INFO👉©️ SuzuS TV™️ ®️🔴🔺↕️" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500038R6_20240520T212838SQUARE.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Поддержать проект: Юмани 410012490049169
+#EXTINF:-1 group-title="↕️ ▶🔺PLAYLIST INFORMATION🔺INFO👉©️ SuzuS TV™️ ®️🔴🔺↕️" tvg-logo="https://suzustv.clan.su/Logo/photo_2026-09-22_13-46-02.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Поддержать проект: Юмани 410012490049169
 https://d10cyxntpn0bwm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-udbgiwo3vva3o/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3500038R6
 #EXTINF:-1 group-title="↕️ ▶🔺PLAYLIST INFORMATION🔺INFO👉©️ SuzuS TV™️ ®️🔴🔺↕️" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500013DG_20240520T212850SQUARE.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Поддержать проект: Юмани 410012490049169
 https://d9rd4243pcy92.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-e4dxftqz7hlvi/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3500013DG
-#EXTINF:-1 group-title="↕️ ▶🔺PLAYLIST INFORMATION🔺INFO👉©️ SuzuS TV™️ ®️🔴🔺↕️" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00318.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Поддержать проект: Юмани 410012490049169
+#EXTINF:-1 group-title="↕️ ▶🔺PLAYLIST INFORMATION🔺INFO👉©️ SuzuS TV™️ ®️🔴🔺↕️" tvg-logo="https://suzustv.clan.su/Logo/photo_2026-09-22_13-46-02.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Поддержать проект: Юмани 410012490049169
 http://iptv.prosto.tv:7000/ch321/video.m3u8
-#EXTINF:-1 group-title="↕️ ▶🔺PLAYLIST INFORMATION🔺INFO👉©️ SuzuS TV™️ ®️🔴🔺↕️" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US14000155Y_20240625T011442SQUARE.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Поддержать проект: Юмани 410012490049169
+#EXTINF:-1 group-title="↕️ ▶🔺PLAYLIST INFORMATION🔺INFO👉©️ SuzuS TV™️ ®️🔴🔺↕️" tvg-logo="https://suzustv.clan.su/Logo/photo_2026-09-22_13-46-02.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Поддержать проект: Юмани 410012490049169
 https://d2d69nwkl0jeh7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a85upkl05uqt1/SONO56.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=US14000155Y
 #EXTINF:-1 group-title="↕️ ▶🔺PLAYLIST INFORMATION🔺INFO👉©️ SuzuS TV™️ ®️🔴🔺↕️" tvg-logo="https://suzustv.clan.su/IMAGES/photo_2026-08-07_10-20-35.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Поддержать проект: Юмани 410012490049169
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
@@ -4140,7 +4129,7 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 #EXTINF:-1 group-title="↕️ ♻️ TTV 🎡 Развлекательно |🔎 Познавательные 🦎(Ace Serve) ↕️" tvg-logo="../Channel/Logo/Поехали!.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_5d1a2899733a7d24226e4160e054b31e_poexali" $ExtFilter="GADEM 2",Поехали!
 http://127.0.0.1:6878/ace/getstream?id=c5841f89c3ae2e6745948308be283a904bf96adb
-#EXTINF:-1 group-title="↕️ ▶🔺PLAYLIST INFORMATION🔺INFO👉©️ SuzuS TV™️ ®️🔴🔺↕️" tvg-logo="https://suzukantv.at.ua/LOGO/410012490049169.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Помощь проекту: карта 5599 0050 9018 3604
+#EXTINF:-1 group-title="↕️ ▶🔺PLAYLIST INFORMATION🔺INFO👉©️ SuzuS TV™️ ®️🔴🔺↕️" tvg-logo="https://suzukantv.at.ua/LOGO/410012490049169.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Помощь проекту: карта МИР 2204120144644941
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="↕️ ♻️🎬  TTV Кинозалы 📼 (Ace Serve)↕️" tvg-logo="../Channel/Logo/Еда Премиум.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_5d1a2899733a7d24226e4160e054b31e_premialnoe-hd" $ExtFilter="GADEM 2",Премиальное HD
 http://127.0.0.1:6878/ace/getstream?id=4bf6e4511111ef5f8946c75ff85d3591a809f131&.mp4
@@ -5059,6 +5048,16 @@ http://tvoetv.space:8080/tvoetv_humor/video.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_4/variant.m3u8
 #EXTINF:-1 group-title="🏝 ▶+ Плюсовые ✨" tvg-logo="http://epg.one/img/3038.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_f736135dfb80936a523d63c9a10f2613_ТВ Центр (+7)" $ExtFilter="GADEM 2",ТВЦ +7
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_7/variant.m3u8
+#EXTINF:-1 group-title="↕️ ▶🔺PLAYLIST INFORMATION🔺INFO👉©️ SuzuS TV™️ ®️🔴🔺↕️" tvg-logo="https://suzustv.clan.su/Logo/photo_2026-09-22_13-46-02.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",ТГ https://t.me/SuzusTVMedia
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210297&extension=ts
+#EXTINF:-1 group-title="↕️ ▶🔺PLAYLIST INFORMATION🔺INFO👉©️ SuzuS TV™️ ®️🔴🔺↕️" tvg-logo="https://suzustv.clan.su/Logo/photo_2026-09-22_13-46-02.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",ТГ https://t.me/SuzusTVMedia
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210294&extension=ts
+#EXTINF:-1 group-title="↕️ ▶🔺PLAYLIST INFORMATION🔺INFO👉©️ SuzuS TV™️ ®️🔴🔺↕️" tvg-logo="https://suzustv.clan.su/Logo/photo_2026-09-22_13-46-02.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",ТГ https://t.me/SuzusTVMedia
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210293&extension=ts
+#EXTINF:-1 group-title="↕️ ▶🔺PLAYLIST INFORMATION🔺INFO👉©️ SuzuS TV™️ ®️🔴🔺↕️" tvg-logo="https://suzustv.clan.su/Logo/photo_2026-09-22_13-46-02.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",ТГ https://t.me/SuzusTVMedia
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210296&extension=ts
+#EXTINF:-1 group-title="↕️ ▶🔺PLAYLIST INFORMATION🔺INFO👉©️ SuzuS TV™️ ®️🔴🔺↕️" tvg-logo="https://suzustv.clan.su/Logo/photo_2026-09-22_13-46-02.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",ТГ https://t.me/SuzusTVMedia
+http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210295&extension=ts
 #EXTINF:-1 group-title="🏝 ▶ Региoнальные  ⚜️" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_simpleTVFakeEpgId" $ExtFilter="GADEM 2",Телевитрина-Восток (Новосибирск)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_VITRINAVOSTOK/variant.m3u8
