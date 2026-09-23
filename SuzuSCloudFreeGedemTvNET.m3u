@@ -7,9 +7,10 @@
 Весь контент взят с cайтов и форумов, которые находится в открытом доступе в сети Интернет, мы лишь ссылаемся на них.
 Мы не несём никакую ответственность за места происхождения, легальность и качество телеканалов, радиостанций и остального, лишь предоставляем техническое решение преобразования данных потоков с помощью плееров.
 Если вы желаете что бы с сервиса был убран контент который вам принадлежит, необходимо обратиться к оригинальному источнику вещания.
-Сайт работает при поддержке лесных духов и хранителя болот.  Поддержать проект: Юмани 410012490049169 $BorpasFileFormat="1" $NestedGroupsSeparator="/"
+Сайт работает при поддержке лесных духов и хранителя болот.  Поддержать проект: Юмани 410012490049169 
+ $BorpasFileFormat="1" $NestedGroupsSeparator="/"
 #EXTINF:-1 group-title="↕️ ▶🔺PLAYLIST INFORMATION🔺INFO👉©️ SuzuS TV™️ ®️🔴🔺↕️" tvg-logo="https://suzustv.clan.su/IMAGES/suzustv-icon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",+✓Обновление:🔺INFO 🔴🔺БЕСПЛАТНЫЕ КАНАЛЫ SuzuS TV↕️
-https://dl.dropbox.com/scl/fi/h0pmfymzhwdzrwdatd69l/video_2026-SUZUS-TV.mp4?rlkey=03cwk3nm961p73gr7uinpwa9y&dl=0
+https://dl.dropbox.com/scl/fi/h0jmo0n5rr42lwszy90vz/video_2__httpst.meSuzusTVMedia.mp4?rlkey=bn3mlwknuwyerqm27fmimh8g5&dl=0
 #EXTINF:-1 group-title="↕️ ♻️🎬  TTV Кинозалы 📼 (Ace Serve)↕️" tvg-logo="http://filmtvgroup.site/uploads/logo.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",.A SUZUS TV GROUP - Для этой категории каналов надо устаовит дополнительное ПО (Ace Serve 💥Оновлено:.2026 (14:59) | IP: 198.244.252.20
 https://filmtvgroup.hopto.org:8080/zastavka/index.m3u8?token=info
 #EXTINF:-1 group-title="↕️ ♻️🎬  TTV Кинозалы 📼 (Ace Serve)↕️" tvg-logo="https://iptvx.one/picons/sony-turbo.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_5d1a2899733a7d24226e4160e054b31e_sony-turbo" $ExtFilter="GADEM 2",.black
@@ -792,9 +793,7 @@ http://127.0.0.1:6878/ace/getstream?id=3cacfef48b11ea2a81282c4b49b3eac4d7cce501
 #EXTINF:-1 group-title="⚽ Спорт+ ᴴᴰ 🏀🥎🏒⛸🏈🏋️‍ 🏆" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Horse & Country TV
 http://hnc-free-viewlift.amagi.tv/playlist720_lp.m3u8
 #EXTINF:-1 group-title="↕️ ▶🔺PLAYLIST INFORMATION🔺INFO👉©️ SuzuS TV™️ ®️🔴🔺↕️" tvg-logo="https://suzustv.clan.su/IMAGES/photo_2026-08-07_10-20-35.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",https://boosty.to/kolobokhatnettv/donate
-http://cdn.balelbrus.com/balancer/bigteisti1/08936913/V3d3d3d3dzJ8fGQzZDNkM2QzZHpJPQ==/index.m3u8
-#EXTINF:-1 group-title="↕️ ▶🔺PLAYLIST INFORMATION🔺INFO👉©️ SuzuS TV™️ ®️🔴🔺↕️" tvg-logo="https://suzustv.clan.su/IMAGES/photo_2026-08-07_10-20-35.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",https://boosty.to/kolobokhatnettv/donate
-http://jzhxm893.megatv.fun/iptv/BG3TE5HEQRXENC/14009/index.m3u8
+https://dl.dropbox.com/scl/fi/h0pmfymzhwdzrwdatd69l/video_2026-SUZUS-TV.mp4?rlkey=03cwk3nm961p73gr7uinpwa9y&dl=0
 #EXTINF:-1 group-title="↕️ ▶🔺PLAYLIST INFORMATION🔺INFO👉©️ SuzuS TV™️ ®️🔴🔺↕️" tvg-logo="https://i.postimg.cc/1t5RRm05/Pixaloop-09-11-2021-21-03-10-1660000.gif" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",https://suzustv.clan.su/
 http://185.57.68.33/232/index.m3u8
 #EXTINF:-1 group-title="↕️ ▶🔺PLAYLIST INFORMATION🔺INFO👉©️ SuzuS TV™️ ®️🔴🔺↕️" tvg-logo="https://i.postimg.cc/1t5RRm05/Pixaloop-09-11-2021-21-03-10-1660000.gif" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",https://suzustv.clan.su/
@@ -823,6 +822,8 @@ http://iptv.prosto.tv:7000/ch306/video.m3u8
 http://iptv.prosto.tv:7000/ch319/video.m3u8
 #EXTINF:-1 group-title="↕️ ▶🔺PLAYLIST INFORMATION🔺INFO👉©️ SuzuS TV™️ ®️🔴🔺↕️" tvg-logo="https://suzustv.clan.su/QRCOD/SUZUSTV.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",https://t.me/suzusATV
 http://iptv.prosto.tv:7000/ch332/video.m3u8
+#EXTINF:-1 group-title="↕️ ▶🔺PLAYLIST INFORMATION🔺INFO👉©️ SuzuS TV™️ ®️🔴🔺↕️" tvg-logo="https://suzustv.clan.su/IMAGES/photo_2026-08-07_10-20-35.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",https://t.me/SuzusTVMedia
+http://jzhxm893.megatv.fun/iptv/BG3TE5HEQRXENC/14009/index.m3u8
 #EXTINF:-1 group-title="🎧 Музло+ 🔊🎶🎵🎧🎸🎷" tvg-logo="https://i.ibb.co/V0Lf2QYS/image-4.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Hype Visual Radio
 https://streammix.alsolnet.com/hyperadio/live/chunklist_w1883948073.m3u8
 #EXTINF:-1 group-title="↕️ ♻️ TTV 🎡 Развлекательно |🔎 Познавательные 🦎(Ace Serve) ↕️" tvg-logo="../Channel/Logo/iConcerts.png" tvg-id="e3ffcb1c4906d8c346530b09d92e7295_e3ffcb1c4906d8c346530b09d92e7295_5d1a2899733a7d24226e4160e054b31e_iconcerts" $ExtFilter="GADEM 2",iConcerts HD
