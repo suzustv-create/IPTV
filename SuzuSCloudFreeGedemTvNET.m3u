@@ -1,4 +1,13 @@
-#EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
+#EXTM3U url-tvg="http://tapitv.com/ttv.xmltv.7.xml.gz,https://italo.drm-play.com/Kino_epg.xml.gz,https://iptvx.one/EPG,http://gabbarit.drm-play.com/epg_1.xml.gz,https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/us.xml.gz"
+#USERAGENT http-user-agent Mozilla/5.0 SUZUKANTV/1.34.1 (AndroidTV/6.1.1) SUZUSTVPlayer
+#PLAYLIST:SITE-https://suzustv.clan.su/
+#INFO: Телеграм: https://t.me/iptvsuzukan2
+#INFO: Преимущества нашего сервиса. Одно из преимуществ нашего сервиса – его простота и удобство.  Новые технологии вещания позволяют транслировать сигнал в любую точку мира в идеальном качестве. Большой выбор каналов, среди которых основное количество в оригинальном качестве – еще одно неоспоримое преимущество нашего сервиса. Огромное разнообразие каналов различных категорий и направлений приведет в восторг абсолютно любого пользователя: на выбор спортивные, развлекательные, детские, научные или музыкальные каналы.
+Уважаемые Правообладатели, мы не транслируем и не ретранслируем каналы и остальное.
+Весь контент взят с cайтов и форумов, которые находится в открытом доступе в сети Интернет, мы лишь ссылаемся на них.
+Мы не несём никакую ответственность за места происхождения, легальность и качество телеканалов, радиостанций и остального, лишь предоставляем техническое решение преобразования данных потоков с помощью плееров.
+Если вы желаете что бы с сервиса был убран контент который вам принадлежит, необходимо обратиться к оригинальному источнику вещания.
+Сайт работает при поддержке лесных духов и хранителя болот.  Поддержать проект: Юмани 410012490049169  $BorpasFileFormat="1" $NestedGroupsSeparator="/"
 #EXTINF:-1 group-title="▶🛡️🍿🎞️ КиноMultStreamKinowalk-Production+ (VPN)" tvg-logo="https://suzustv.clan.su/Logo/photo_2026-09-22_13-46-02.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",+15 Animation
 https://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
 #EXTINF:-1 group-title="↕️ ▶🔺PLAYLIST INFORMATION🔺INFO👉©️ SuzuS TV™️ ®️🔴🔺↕️" tvg-logo="https://suzustv.clan.su/IMAGES/suzustv-icon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",+✓Обновление:🔺INFO 🔴🔺БЕСПЛАТНЫЕ КАНАЛЫ SuzuS TV↕️
@@ -1552,8 +1561,8 @@ https://bl.rutube.ru/livestream/e08e513c4e33f52fce3a975b5cb6932c/index.m3u8?s=2i
 https://rpn3.bozztv.com/dvrfl07/ushba-rfilrms-v/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="▶🛡️🍿🎞️TOP-Кино-Stream-Kinowalk-Production+ (VPN)" tvg-logo="https://suzustv.clan.su/Logo/photo_2026-04-04_21-22-11.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",SuzuS TV Kinorating
 https://rpn3.bozztv.com/dvrfl07/ushba-rfilrms-z/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="▶🛡️🍿🎞️TOP-Кино-Stream-Kinowalk-Production+ (VPN)" tvg-logo="http://ttvrun.one/uploads/WDB0J9fqXlCnrW6xiQ7pW8lIyHKSTJ.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",SuzuS TV Kinozakaz
-http://timeshift.arpinet.am/237/index.m3u8
+#EXTINF:-1 group-title="▶🛡️🍿🎞️TOP-Кино-Stream-Kinowalk-Production+ (VPN)" tvg-logo="http://ttvrun.one/uploads/WDB0J9fqXlCnrW6xiQ7pW8lIyHKSTJ.png" $ExtFilter="GADEM 2",SuzuS TV Kinozakaz
+https://rpn3.bozztv.com/dvrfl07/ushba82/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="▶🛡️🍿🎞️TOP-Кино-Stream-Kinowalk-Production+ (VPN)" tvg-logo="http://ttvrun.one/uploads/4dBq9nIg2cJoNnJfhznQbvnj17O1vQ.png" $ExtFilter="GADEM 2",SuzuS TV MAGIC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/f6a3656e5ef574982994ddf2e5003341/index.m3u8?s=VzKeWBKLYOegm_jJtXi7Mw&e=2091531091&scheme=https
@@ -1561,15 +1570,13 @@ https://bl.rutube.ru/livestream/f6a3656e5ef574982994ddf2e5003341/index.m3u8?s=Vz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/3abeb7577fd38ac4b8130bb8e03418f2/index.m3u8?s=KAiYt-mpvy6VoW8RCPkl-A&e=2091531092&scheme=https
 #EXTINF:-1 group-title="▶🛡️🍿🎞️TOP-Кино-Stream-Kinowalk-Production+ (VPN)" tvg-logo="http://ttvrun.one/uploads/XuMSKBzv20SuEj8qhxtKAcuYel1Tag.png" $ExtFilter="GADEM 2",SuzuS TV Media HD
-https://rpn3.bozztv.com/dvrfl07/ushba82/tracks-v1a1/mono.m3u8
+http://timeshift.arpinet.am/237/index.m3u8
 #EXTINF:-1 group-title="▶🛡️🍿🎞️TOP-Кино-Stream-Kinowalk-Production+ (VPN)" tvg-logo="http://ttvrun.one/uploads/SMohZjevmTQBOHEj1nvX1vCRszoGtm.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",SuzuS TV Mix
 https://rpn3.bozztv.com/dvrfl07/ushba65/index.m3u8
 #EXTINF:-1 group-title="▶🛡️🍿🎞️TOP-Кино-Stream-Kinowalk-Production+ (VPN)" tvg-logo="http://ttvrun.one/uploads/rSGP3PIwmN6B1FNAQlXalgMmNHImvW.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",SuzuS TV Music
 https://rpn3.bozztv.com/dvrfl07/ushba-t5/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="▶🛡️🍿🎞️TOP-Кино-Stream-Kinowalk-Production+ (VPN)" tvg-logo="http://ttvrun.one/uploads/8H7ztCWcyCDi5PR8poDV6YCVWfmFD9.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",SuzuS TV Rating TruMotion HD
 http://stream.mcquack.net/470/index.m3u8
-#EXTINF:-1 group-title="▶🛡️🍿🎞️TOP-Кино-Stream-Kinowalk-Production+ (VPN)" tvg-logo="http://ttvrun.one/uploads/SglmDlG9w66qR9ggPJ6r44qEiFy8yk.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",SuzuS TV Sport
-https://rpn3.bozztv.com/dvrfl07/ushba46/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="▶🛡️🍿🎞️TOP-Кино-Stream-Kinowalk-Production+ (VPN)" tvg-logo="http://ttvrun.one/uploads/hFX6HMKpqmMVSKrBptDQJ9vZC7FU8T.png" $ExtFilter="GADEM 2",SuzuS TV Космозоо
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/dcd36c7833f9431e6e6c902515c6c3ac/index.m3u8?s=KoOg67RTLeSq7f6ErIfXvQ&e=2091531091&scheme=https
@@ -1577,7 +1584,7 @@ https://bl.rutube.ru/livestream/dcd36c7833f9431e6e6c902515c6c3ac/index.m3u8?s=Ko
 https://rpn3.bozztv.com/dvrfl07/ushba79/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="🎧 Музло+ 🔊🎶🎵🎧🎸🎷" tvg-logo="https://i.ibb.co/RkRBMyD6/image-2025-07-21-T042153-169.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Team FM TV
 https://live.teamfm.nl:3190/stream/play.m3u8
-#EXTINF:-1 group-title="▶🛡️🍿🎞️TOP-Кино-Stream-Kinowalk-Production+ (VPN)" tvg-logo="http://i115.fastpic.org/big/2021/0925/14/728694545f694fc1519fd058ce34e014.png" tvg-id="f736135dfb80936a523d63c9a10f2613_TechnoDanceMusic" $ExtFilter="GADEM 2",TechnoDanceMusic
+#EXTINF:-1 group-title="▶🛡️🍿🎞️TOP-Кино-Stream-Kinowalk-Production+ (VPN)" tvg-logo="http://kinowalk.hopto.org/static-content/logo/351?unique=2026-07-31+08%3A05%3A20.215597&access_token=46199c98-2416-4c56-b58a-888b0929008f" $ExtFilter="GADEM 2",TechnoDanceMusic
 http://kinowalk.hopto.org/technodancemusic_live
 #EXTINF:-1 group-title="🎧 Музло+ 🔊🎶🎵🎧🎸🎷" tvg-logo="https://i.ibb.co/7d6VwF4N/image-2025-09-03-T195109-422.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Telecitta Padova
 https://soobeat.fluid.stream/Telecitta/livestream/playlist.m3u8?FLID=2&type=.m3u8
@@ -1693,11 +1700,11 @@ https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",UTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/673b559e08f8b99d65a4e8fbbceb911b/index.m3u8?s=lj25DvpP5zdZyVj_eUuMwQ&e=2093765749&scheme=https
-#EXTINF:-1 group-title="▶🛡️🍿🎞️TOP-Кино-Stream-Kinowalk-Production+ (VPN)" tvg-logo="https://i128.fastpic.org/big/2026/0730/c2/bc7c9f65450aaa9106549406e3be18c2.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",VB Eurodance Hits of 90s & Dance Hits of 90s
+#EXTINF:-1 group-title="▶🛡️🍿🎞️TOP-Кино-Stream-Kinowalk-Production+ (VPN)" tvg-logo="https://i128.fastpic.org/big/2026/0730/c2/bc7c9f65450aaa9106549406e3be18c2.jpg" $ExtFilter="GADEM 2",VB Eurodance Hits of 90s & Dance Hits of 90s
 http://kinowalk.hopto.org/vb_edh90sanddh90s_live
 #EXTINF:-1 group-title="▶🛡️🍿🎞️ КиноMultStreamKinowalk-Production+ (VPN)" tvg-logo="https://s6.iimage.su/s/09/g3ZMlxvxp95iUJzPb7abvuKKFyB0gSgKGLU1NMcD6.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",VB Greatest Hits & Romantic and Ballads
 http://kinowalk.hopto.org/gh_and_randb_live
-#EXTINF:-1 group-title="▶🛡️🍿🎞️TOP-Кино-Stream-Kinowalk-Production+ (VPN)" tvg-logo="https://s6.iimage.su/s/20/g1zxt89xQkzA02VCWMRsrXmNCAiO4XXEm78szycEW.jpg" tvg-id="f736135dfb80936a523d63c9a10f2613_VB MTV Old Russia" $ExtFilter="GADEM 2",VB MTV Old Россия
+#EXTINF:-1 group-title="▶🛡️🍿🎞️TOP-Кино-Stream-Kinowalk-Production+ (VPN)" tvg-logo="https://i128.fastpic.org/big/2026/0730/c2/bc7c9f65450aaa9106549406e3be18c2.jpg" $ExtFilter="GADEM 2",VB MTV Old Россия
 http://kinowalk.hopto.org/vovanb_iptv_live
 #EXTINF:-1 group-title="▶🛡️🍿🎞️ КиноMultStreamKinowalk-Production+ (VPN)" tvg-logo="https://i128.fastpic.org/big/2026/0730/e6/455f183c1745a2acf6f6e223f80129e6.jpg" tvg-id="2a66729c56f4a7cc21b9bc4d62f32aef_Всё в одном" $ExtFilter="GADEM 2",VB Всё в одном
 http://kinowalk.hopto.org/vb-all-in-one_live
@@ -1717,9 +1724,9 @@ https://d2hdqrshyzxswl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://d2hdqrshyzxswl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-neu8sqvbxozkb/Vevo_Retro_Rock.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3000145P
 #EXTINF:-1 group-title="▶🛡️🍿🎞️TOP-Кино-Stream-Kinowalk-Production+ (VPN)" tvg-logo="http://ttvrun.one/uploads/6O91TLiOTD9SrmcQzuO1TCAbU9LKP5.png" $ExtFilter="GADEM 2",VHS
 http://kinowalk.hopto.org/and7610_live
-#EXTINF:-1 group-title="▶🛡️🍿🎞️TOP-Кино-Stream-Kinowalk-Production+ (VPN)" tvg-logo="https://images.live.vkplay.ru/user/19154240/avatar?change_time=1720968476&croped=1&mh=140&mw=140" tvg-id="30e4811ef73797da2d944449838b622c_VHS Forever" $ExtFilter="GADEM 2",VHS Forever
+#EXTINF:-1 group-title="▶🛡️🍿🎞️TOP-Кино-Stream-Kinowalk-Production+ (VPN)" tvg-logo="https://i.imgur.com/DForxaE.png" $ExtFilter="GADEM 2",VHS Forever
 http://kinowalk.hopto.org/vhs-forever_live
-#EXTINF:-1 group-title="▶🛡️🍿🎞️TOP-Кино-Stream-Kinowalk-Production+ (VPN)" tvg-logo="https://kinowalk.hopto.org/web/image/229/128x128?unique=2026-02-27%2000:42:39.447034&access_token=5669e3ab-5c82-4751-8438-03a8e7706ad8" tvg-id="6c18d008bb0762fb9d4b7016e8f18b1f_VHS Power" $ExtFilter="GADEM 2",VHS Power
+#EXTINF:-1 group-title="▶🛡️🍿🎞️ КиноMultStreamKinowalk-Production+ (VPN)" tvg-logo="https://kinowalk.hopto.org/web/image/229/128x128?unique=2026-02-27%2000:42:39.447034&access_token=5669e3ab-5c82-4751-8438-03a8e7706ad8" tvg-id="6c18d008bb0762fb9d4b7016e8f18b1f_VHS Power" $ExtFilter="GADEM 2",VHS Power
 http://kinowalk.hopto.org/noir_live
 #EXTINF:-1 group-title="▶🛡️🍿🎞️TOP-Кино-Stream-Kinowalk-Production+ (VPN)" tvg-logo="http://kinowalk.hopto.org/static-content/logo/391?unique=2026-09-08+04%3A59%3A08.262286&access_token=e549c1e3-9b47-40ac-90d5-6fd535bbe0ec" tvg-id="5158cb5e8ea7835ec458e2da35216ede_VHS store" $ExtFilter="GADEM 2",VHS store
 http://kinowalk.hopto.org/channel36774366_live
@@ -2077,7 +2084,7 @@ https://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R01_OTT_VETTA24_PERM/variant.m
 #EXTINF:-1 group-title="▶🛡️🍿🎞️TOP-Кино-Stream-Kinowalk-Production+ (VPN)" tvg-logo="https://suzustv.clan.su/Logo/VHSVHS.png.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Видеокассета VHS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/vhs90e_live
-#EXTINF:-1 group-title="▶🛡️🍿🎞️TOP-Кино-Stream-Kinowalk-Production+ (VPN)" tvg-logo="https://i.ibb.co/YBwZzLv0/image-7.png" tvg-id="f736135dfb80936a523d63c9a10f2613_Видеокасета VHS" $ExtFilter="GADEM 2",Видеокассета VHS
+#EXTINF:-1 group-title="▶🛡️🍿🎞️ КиноMultStreamKinowalk-Production+ (VPN)" tvg-logo="https://i.ibb.co/YBwZzLv0/image-7.png" tvg-id="f736135dfb80936a523d63c9a10f2613_Видеокасета VHS" $ExtFilter="GADEM 2",Видеокассета VHS
 http://kinowalk.hopto.org/kasseta_live
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Властелин колец
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
