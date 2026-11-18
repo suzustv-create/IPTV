@@ -22,7 +22,7 @@ http://127.0.0.1:6878/ace/getstream?id=e5546c985741ec758b39030c59ade2f3a311a06e&
 http://127.0.0.1:6878/ace/getstream?id=ed6a12719fbc9c9b38c2ce69c065a84f3a9b42e6&.mp4
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" $ExtFilter="GADEM 2",10 канал (Новокузнецк)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/c9e26bf5c003fd8d477200065ca1a05f/index.m3u8?s=ld05eXffVPDXq_Edi594Aw&e=2093765764&scheme=https
+https://bl.rutube.ru/livestream/c9e26bf5c003fd8d477200065ca1a05f/index.m3u8?s=YFp2cfoYxuWjeCjpaU4QFQ&e=2094643142&scheme=https
 #EXTINF:-1 group-title="🏝 ▶ Региoнальные  ⚜️" tvg-logo="http://i121.fastpic.org/big/2022/1220/f9/89d5ce22c8501b69422beffe1d3d4cf9.png" tvg-id="f736135dfb80936a523d63c9a10f2613_Десятка (Кемеровская область г.Новокузнецк)" $ExtFilter="GADEM 2",10 канал Новокузнецк
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://rt-sib-nvkz-htlive.cdn.ngenix.net/hls/CH_R01_DESYATKA/variant.m3u8
@@ -54,7 +54,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-logo="../Channel/Logo/2x2.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",2x2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/392b4686b770bae2da6bf5ac4574add5/index.m3u8?s=fMs46Bd_eFFh7NLS0C-q3A&e=2093765732&scheme=https
+https://bl.rutube.ru/livestream/392b4686b770bae2da6bf5ac4574add5/index.m3u8?s=rIFQpep8Y69KTQkMb9S3Lg&e=2094643115&scheme=https
 #EXTINF:-1 group-title="🏝 ▶ Развлекательные 🧙" tvg-logo="https://iptvx.one/picons/2na2-pl2.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_2na2-pl2" $ExtFilter="GADEM 2",2x2 (+2)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_2/variant.m3u8
 #EXTINF:-1 group-title="🏝 ▶+ Плюсовые ✨" tvg-logo="https://iptvx.one/picons/2na2-pl2.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_2na2-pl2" $ExtFilter="GADEM 2",2x2 (+2)
@@ -93,7 +93,7 @@ https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_31TVK_CHEL/variant.m3u
 https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_OTT_PERVIYSOVETSKIY/variant.m3u8?version=2
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-logo="../Channel/Logo/360°.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",360
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/07beff61e617797db550cc3a5f6ad92b/index.m3u8?s=XlSQmVSPfOTvynrB8SJaUg&e=2093765763&scheme=https
+https://bl.rutube.ru/livestream/07beff61e617797db550cc3a5f6ad92b/index.m3u8?s=HFshhy_vMPSd46vrCXq5Gw&e=2094643142&scheme=https
 #EXTINF:-1 group-title="🏝 ▶ Другие  💫" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",360 - Верхнекамье-ТВ (Березники)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R02_VERHTV/variant.m3u8
@@ -119,7 +119,7 @@ https://rt-sib-nvkz-htlive.cdn.ngenix.net/hls/CH_R03_KISEL_TV/variant.m3u8
 http://kinowalk.hopto.org/3jiou_tatapuh_live
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",4 канал (Екатеринбург)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/c6f66b644424c117f41e48062719ceed/index.m3u8?s=lFDcOK2_KjSfM8iXezh-OQ&e=2093765747&scheme=https
+https://bl.rutube.ru/livestream/c6f66b644424c117f41e48062719ceed/index.m3u8?s=gtL-B30hIFyKSp-VaKdypg&e=2094643128&scheme=https
 #EXTINF:-1 group-title="🏝 ▶ Региoнальные  ⚜️" tvg-logo="https://iptvx.one/picons/41region.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_41region" $ExtFilter="GADEM 2",41 Регион
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://s14131.cdn.ngenix.net/hls/CH_R02_OTT_DV_KAM_41REG_OTT/variant.m3u8
@@ -129,7 +129,7 @@ https://s14131.cdn.ngenix.net/hls/CH_R02_OTT_DV_KAM_41REG_OTT/variant.m3u8
 https://s14131.cdn.ngenix.net/hls/CH_R02_OTT_DV_KAM_41REG_OTT/variant.m3u8?version=2
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",41 Регион
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/aff0a2b356d2e1eef55bdb868be4dcc3/index.m3u8?s=glpBAKoq1OXQmbYns5GhyQ&e=2093765748&scheme=https
+https://bl.rutube.ru/livestream/aff0a2b356d2e1eef55bdb868be4dcc3/index.m3u8?s=nn4n_3LytRRvO5LWh40SRg&e=2094643129&scheme=https
 #EXTINF:-1 group-title="🏝 ▶ Региoнальные  ⚜️" tvg-logo="http://i115.fastpic.org/big/2021/0824/34/9d2c95ec191f22c932f468babfc3ee34.png" tvg-id="f736135dfb80936a523d63c9a10f2613_41 телеканал (Воронеж)" $ExtFilter="GADEM 2",41 Телеканал ВТК АРГУС HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R01_ARGUS/variant.m3u8
@@ -203,7 +203,7 @@ http://hubtv.ru/index.php?stream=aHR0cDovL2szLnVzYXN0cmVhbXMuY29tL0NhYmxlTGF0aW5
 https://d2hng5r56zpsbw.cloudfront.net/out/v1/9c4c990f44bb4767bb46271f326dd574/index.m3u8
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-logo="../Channel/Logo/TV1000 Action.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Activa TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/8e9da41366fcb497aaeade579f0d715f/index.m3u8?s=DDTMJ1ThASc8YSGB46Go4g&e=2093765776&scheme=https
+https://bl.rutube.ru/livestream/8e9da41366fcb497aaeade579f0d715f/index.m3u8?s=wWtCsZzjvYrxlaf7YRxQyw&e=2094643147&scheme=https
 #EXTINF:-1 group-title="🎧 Музло+ 🔊🎶🎵🎧🎸🎷" tvg-logo="https://i.ibb.co/sdRLtDYy/image-49.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",AFRO MUSIC
 http://mains.services/live/0228902066/tc674KJ3du/e4466204-f15f-49ba-bd49-a6ad0c3c4219.m3u
 #EXTINF:-1 group-title="↕️ ♻️🎡 Развлекательно |🔎 Познавательные 🦎 (TTV) ↕️" tvg-logo="http://ttvrun.one/uploads/I5rtBFEwD68w2rbwC3NEI3DvTB4NI6.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Afrobeats
@@ -231,13 +231,13 @@ http://kinowalk.hopto.org/alexvira_live
 https://bl.rutube.ru/livestream/99f8f1d827641b766de62fe9023642fa/index.m3u8?s=m7rfgX02oU-VpsrLCFQWXw&e=2091531092&scheme=https
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Amazon Prime Video mans' club
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/99f8f1d827641b766de62fe9023642fa/index.m3u8?s=Ta-iS6JGsRH-EayL6C9TnA&e=2093765741&scheme=https
+https://bl.rutube.ru/livestream/99f8f1d827641b766de62fe9023642fa/index.m3u8?s=i5KV5Yk-bvsIAPx_XmSyPQ&e=2094643122&scheme=https
 #EXTINF:-1 group-title="▶🛡️🍿🎞️ КиноMultStreamKinowalk-Production+ (VPN)" tvg-logo="https://suzustv.clan.su/Logo/cb00bf0b844dadef144f7b9fb208e18b.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Amazon Prime Video Romance
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/7758ac4d77fac95e187144ee2c8b368d/index.m3u8?s=jWMdLndf4GwrrDFW1h6a-A&e=2091531092&scheme=https
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Amazon Prime Video Romance
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/7758ac4d77fac95e187144ee2c8b368d/index.m3u8?s=XMGPEwNB1zkHPI4LYi8BIg&e=2093765741&scheme=https
+https://bl.rutube.ru/livestream/7758ac4d77fac95e187144ee2c8b368d/index.m3u8?s=iLL9aMkY71gtw6hsr1lIpg&e=2094643122&scheme=https
 #EXTINF:-1 group-title="↕️ ♻️🎬  Кинозалы 📼 (TTV) ↕️" tvg-logo="../Channel/Logo/Amedia Hit.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_amedia1" $ExtFilter="GADEM 2",Amedia 1 HD
 http://127.0.0.1:6878/ace/getstream?id=5b1f4a0fb8abc134de4692179b55e4008f0e5e82
 #EXTINF:-1 group-title="↕️ ♻️🎬  Кинозалы 📼 (TTV) ↕️" tvg-logo="../Channel/Logo/Amedia Hit.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_amedia2" $ExtFilter="GADEM 2",Amedia 2 HD
@@ -248,9 +248,6 @@ http://127.0.0.1:6878/ace/getstream?id=1b74777f3b2121d067457fc554beb5e1c26b6cd8
 http://127.0.0.1:6878/ace/getstream?id=5988dc4ef60bf2f77939026578ac80771f2938c2&.mp4
 #EXTINF:-1 group-title="🎧 Музло+ 🔊🎶🎵🎧🎸🎷" tvg-logo="https://iptvx.one/picons/angel-tv.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Angel TV
 http://hubtv.ru/index.php?stream=aHR0cHM6Ly9qYW55YS1kaWdpbWl4LmFrYW1haXplZC5uZXQvdmdsaXZlLXNrLTM5NDkxNC9pbmRpYS9uZ3JwOmFuZ2VsaW5kaWFfYWxsL3BsYXlsaXN0Lm0zdTg=
-#EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-logo="../Channel/Logo/Animal Planet.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Animal Planet
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/4004c8f6817b9ae1bd0d418905ae2b02/index.m3u8?s=DOhPWK27NOkVFxhaW9jNGQ&e=2093765735&scheme=https
 #EXTINF:-1 group-title="↕️ ♻️🎡 Развлекательно |🔎 Познавательные 🦎 (TTV) ↕️" tvg-logo="../Channel/Logo/Animal Planet HD.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_animal-planet-eu" $ExtFilter="GADEM 2",Animal Planet HD
 http://127.0.0.1:6878/ace/getstream?infohash=568159b1059c7bbe3eaf40f123541fef86ef83cb
 #EXTINF:-1 group-title="▶🛡️🍿🎞️ КиноMultStreamKinowalk-Production+ (VPN)" tvg-logo="https://suzustv.clan.su/Logo/c611182976a5cb47f5b19bb64c8e60bd.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Apple TV+Action Time
@@ -258,13 +255,10 @@ http://127.0.0.1:6878/ace/getstream?infohash=568159b1059c7bbe3eaf40f123541fef86e
 https://bl.rutube.ru/livestream/74bb437ef478a52f42198c50d4241dc7/index.m3u8?s=xtdzbDz95MK4jqXNcqH0kQ&e=2091531089&scheme=https
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Apple TV+Action Time
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/74bb437ef478a52f42198c50d4241dc7/index.m3u8?s=lVtEymM8wwJ2pd2AeVmW0A&e=2093765740&scheme=https
+https://bl.rutube.ru/livestream/74bb437ef478a52f42198c50d4241dc7/index.m3u8?s=fgF356VvKB0Z8rwL00p5-w&e=2094643121&scheme=https
 #EXTINF:-1 group-title="▶🛡️🍿🎞️ КиноMultStreamKinowalk-Production+ (VPN)" tvg-logo="https://suzustv.clan.su/Logo/c611182976a5cb47f5b19bb64c8e60bd.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Apple TV+Woman's Story
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/680dfe110840cf882437082b948578d6/index.m3u8?s=LX4YHhnnRz7wddiKVwgTRA&e=2091531090&scheme=https
-#EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Apple TV+Woman's Story
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/680dfe110840cf882437082b948578d6/index.m3u8?s=wghQerMUhDT11czBdaHMWg&e=2093765740&scheme=https
 #EXTINF:-1 group-title="🎧 Музло+ 🔊🎶🎵🎧🎸🎷" tvg-logo="https://i.ibb.co/7dq1B22D/image-47.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",ArmMusic
 http://livestream.usatv.com/hls/m3u8/ArmMusicHD.m3u8
 #EXTINF:-1 group-title="↕️ ♻️🎡 Развлекательно |🔎 Познавательные 🦎 (TTV) ↕️" tvg-logo="https://i.imgur.com/O4uI0Uy.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Atomic TV
@@ -379,7 +373,7 @@ http://127.0.0.1:6878/ace/getstream?id=5cea434c891d27aa66d87d3b23d91ab74c1c72f8
 http://127.0.0.1:6878/ace/getstream?id=59623cb797c031a5aa4922eb219851547cb346b0
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-logo="../Channel/Logo/Bein Sports 1.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",beIN SPORTS XTRA Español
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/05550e441b09aeec53e60de66b6c47bf/index.m3u8?s=6N-Zko_qNIzC8lpJr8rjaA&e=2093765786&scheme=https
+https://bl.rutube.ru/livestream/05550e441b09aeec53e60de66b6c47bf/index.m3u8?s=uu8JyQ0yxCIIRbC-0_vLvQ&e=2094643156&scheme=https
 #EXTINF:-1 group-title="🎧 Музло+ 🔊🎶🎵🎧🎸🎷" tvg-logo="https://i.ibb.co/4gmCPdLv/image-2025-08-29-T234412-248.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Bella Radio TV
 http://server.bellaradio.it:1935/live/bellaradiotv/playlist.m3u8
 #EXTINF:-1 group-title="🎧 Музло+ 🔊🎶🎵🎧🎸🎷" tvg-logo="https://www.dancetv.net/img/DTlogo.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Best of Dance TV
@@ -461,16 +455,13 @@ rtmp://vkvsd79.okcdn.ru/playback/15605286185795?stkn=i0kgeALzpw-5qtWyIuA64C5ZUry
 rtmp://vkvsd62.okcdn.ru/playback/15605286185795?stkn=0BfhzaS79rBPIuIp3ITDJ69MiJyoRjR4EFbewyaQ3Mgc8XQQP1HrUXEHAegtQLK3Wqxjdr4ma7JT&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
 #EXTINF:-1 group-title="↕️ ♻️🎡 Развлекательно |🔎 Познавательные 🦎 (TTV) ↕️" tvg-logo="../Channel/Logo/Cartoon Network.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_cartoon-network" $ExtFilter="GADEM 2",Cartoon Network
 http://127.0.0.1:6878/ace/getstream?id=6578fed493fdf327038e74d9d967888d3dbb9c2d
-#EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-logo="../Channel/Logo/Cartoon Network.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Cartoon Network
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/d2119cfb95146b3983cf05c1fe35e66f/index.m3u8?s=1-pWFP0iqks_ZODYXJ3GKg&e=2093765768&scheme=https
 #EXTINF:-1 group-title="↕️ ♻️🎡 Развлекательно |🔎 Познавательные 🦎 (TTV) ↕️" tvg-logo="../Channel/Logo/Cartoon Network HD.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_cartoon-network" $ExtFilter="GADEM 2",Cartoon Network HD
 http://127.0.0.1:6878/ace/getstream?id=6578fed493fdf327038e74d9d967888d3dbb9c2d&.mp4
 #EXTINF:-1 group-title="↕️ ♻️🎡 Развлекательно |🔎 Познавательные 🦎 (TTV) ↕️" tvg-logo="../Channel/Logo/Cartoon Network.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_boomerang" $ExtFilter="GADEM 2",CARTOONITO
 http://127.0.0.1:6878/ace/getstream?id=7c1eb7f914bc0dcddfa79cc9e2693cf39aa32ed5&.mp4
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-logo="../Channel/Logo/CGTN Русский.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",CGTN Русский
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/f785d738a845cc80658e887843a18ed9/index.m3u8?s=yo8XFx61HWtg7P5O4oYaAg&e=2093765734&scheme=https
+https://bl.rutube.ru/livestream/f785d738a845cc80658e887843a18ed9/index.m3u8?s=tijHOeG2n-NfYz0_T0bghg&e=2094643116&scheme=https
 #EXTINF:-1 group-title="▶🛡️🍿🎞️ КиноMultStreamKinowalk-Production+ (VPN)" tvg-logo="https://www.kiho.fi/app/uploads/2023/08/kiho-kihologo-multicolour.png.webp" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",ChowAmigo
 http://kinowalk.hopto.org/chowamigo_live
 #EXTINF:-1 group-title="▶🛡️🍿🎞️ КиноMultStreamKinowalk-Production+ (VPN)" tvg-logo="https://images.live.vkvideo.ru/user/23803295/avatar?change_time=1767804459&croped=1&mh=140&mw=140" tvg-id="30e4811ef73797da2d944449838b622c_Cinema Time" $ExtFilter="GADEM 2",Cinema Time
@@ -539,7 +530,7 @@ http://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m
 https://livestream.unlimitedcdn.com/agm-dc/desi-channel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-logo="../Channel/Logo/Discovery Channel.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Discovery Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/6422d62f7e1f87bc3aec45b462cd89ea/index.m3u8?s=wgq4cOxQnKC4mXKIWvh0Kw&e=2093765737&scheme=https
+https://bl.rutube.ru/livestream/6422d62f7e1f87bc3aec45b462cd89ea/index.m3u8?s=V5Xpr5m5YBcy1ts0_u8UzQ&e=2094643117&scheme=https
 #EXTINF:-1 group-title="↕️ ♻️🎡 Развлекательно |🔎 Познавательные 🦎 (TTV) ↕️" tvg-logo="../Channel/Logo/Investigation Discovery HD.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_discovery-channel" $ExtFilter="GADEM 2",Discovery HD
 http://127.0.0.1:6878/ace/getstream?id=09f099db0453cf7517e133533aadfd5136eca771&.mp4
 #EXTINF:-1 group-title="▶🛡️🍿🎞️ КиноMultStreamKinowalk-Production+ (VPN)" tvg-logo="https://images.live.vkvideo.ru/user/23442796/avatar?change_time=1749539489&croped=1&mh=140&mw=140" tvg-id="f736135dfb80936a523d63c9a10f2613_Disney XD" $ExtFilter="GADEM 2",Disney XD
@@ -565,10 +556,10 @@ rtmp://vkvsd173.okcdn.ru/playback/14311402711915?stkn=K_hqumA4lgtOZKnuZP3fAn3e8c
 https://bl.rutube.ru/livestream/21f3993ed8291b70208aa06c982c731f/index.m3u8?s=O0w-BwhM6MLYtEKXW31qEw&e=2083267933&scheme=https
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Epic Media Love
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/21f3993ed8291b70208aa06c982c731f/index.m3u8?s=k5hgv_zdm33fEEqMnWLuTQ&e=2093765741&scheme=https
+https://bl.rutube.ru/livestream/21f3993ed8291b70208aa06c982c731f/index.m3u8?s=aeOTqmI851ZSn9uZjCzdrw&e=2094643122&scheme=https
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Epic Media Plus
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/0ed0696149c131d3a7349372d730d4e6/index.m3u8?s=wsT7KMd-o5LBPs6xM5ko1Q&e=2093765741&scheme=https
+https://bl.rutube.ru/livestream/0ed0696149c131d3a7349372d730d4e6/index.m3u8?s=286lAKt_-2tIDqqs3AYwEQ&e=2094643122&scheme=https
 #EXTINF:-1 group-title="▶🛡️🍿🎞️ КиноMultStreamKinowalk-Production+ (VPN)" tvg-logo="https://pic.rtbcdn.ru/user/c4/53/c453149b8774d33966cf7967c0647bfd.jpg?size=s" tvg-id="6c18d008bb0762fb9d4b7016e8f18b1f_Epic Plus" $ExtFilter="GADEM 2",Epic Plus
 https://bl.rutube.ru/livestream/0ed0696149c131d3a7349372d730d4e6/index.m3u8?s=ejq9WptLi-xHQUsbK9tDXg&e=2081697927&scheme=https
 #EXTINF:-1 group-title="🎧 Музло+ 🔊🎶🎵🎧🎸🎷" tvg-logo="https://i.ibb.co/HJQM0YR/image-2025-08-31-T200940-038.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Errevutì TV
@@ -618,12 +609,6 @@ http://tv1.intv.mk:1935/live2/folkklub/index.m3u8
 http://127.0.0.1:6878/ace/getstream?id=42f32ae94fa97417ddd6f2b6f141bca76f56a299
 #EXTINF:-1 group-title="↕️ ♻️🎬  Кинозалы 📼 (TTV) ↕️" tvg-logo="../Channel/Logo/FOX.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_fox" $ExtFilter="GADEM 2",Fox
 http://127.0.0.1:6878/ace/getstream?id=df94afd23701839b3fdcdf669c73f2e3d656126e
-#EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-logo="../Channel/Logo/FOX.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Fox
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/bcf8e82a331067e567f765d65ed52b21/index.m3u8?s=V3Mbr8iG1h61Zdpbk0SzAQ&e=2093765739&scheme=https
-#EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-logo="../Channel/Logo/Fox Life.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Fox Life
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/f27b804a6f805cb66ff83d4930bd17ff/index.m3u8?s=svkDq8qcoZODEw1XWwtOKg&e=2093765739&scheme=https
 #EXTINF:-1 group-title="↕️ ♻️🎬  Кинозалы 📼 (TTV) ↕️" tvg-logo="../Channel/Logo/Fox Life HD.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_foxlife" $ExtFilter="GADEM 2",Fox Life HD
 http://127.0.0.1:6878/ace/getstream?id=36bd5c1fdf09e5e92aa68cc642ae2d4db6694526&.mp4
 #EXTINF:-1 group-title="↕️ ♻️🎬  Кинозалы 📼 (TTV) ↕️" tvg-logo="../Channel/Logo/Fox Life HD.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_foxlife" $ExtFilter="GADEM 2",Fox Life HD
@@ -651,7 +636,7 @@ http://127.0.0.1:6878/ace/getstream?id=88e804faf482b3caa0a680c931bdd1578c4bfbee
 https://tv.mediacp.eu:8081/happyradio/index.m3u8
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",HHQ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/2d7fa51716500fba52586d594201777f/index.m3u8?s=wUq0V-aMUBXbOAJRtFQNnA&e=2093765743&scheme=https
+https://bl.rutube.ru/livestream/2d7fa51716500fba52586d594201777f/index.m3u8?s=wnZFMEgQKiI0SZ8HFxtbRA&e=2094643124&scheme=https
 #EXTINF:-1 group-title="🎧 Музло+ 🔊🎶🎵🎧🎸🎷" tvg-logo="https://i.postimg.cc/0y3z5jyP/image-22.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Hip Hop TV
 https://9ea6ba0f84904cf4b17433f6a489638b.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-it_HipHopTV/playlist.m3u8?ads.wurl_channel=1366&ads.wurl_name=HipHopTV&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 #EXTINF:-1 group-title="↕️ ♻️🎡 Развлекательно |🔎 Познавательные 🦎 (TTV) ↕️" tvg-logo="../Channel/Logo/History HD.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_history" $ExtFilter="GADEM 2",History HD
@@ -750,9 +735,6 @@ http://127.0.0.1:6878/ace/getstream?id=2bc787fab6cfce8b5c7a7c6b85e862066d967a68&
 http://127.0.0.1:6878/ace/getstream?id=2bc787fab6cfce8b5c7a7c6b85e862066d967a68
 #EXTINF:-1 group-title="🎧 Музло+ 🔊🎶🎵🎧🎸🎷" tvg-logo="https://i.ibb.co/HpqGMF3m/image-2025-09-01-T205848-952.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",INTV Australia
 http://tv1.intv.mk:1935/live/intv/index.m3u8
-#EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-logo="../Channel/Logo/Investigation Discovery.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Investigation Discovery
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/a91d58870b9a0d23b2309d020ac4b354/index.m3u8?s=gHzk4XEpLQm1JPBo2Gg4cQ&e=2093765737&scheme=https
 #EXTINF:-1 group-title="🎧 Музло+ 🔊🎶🎵🎧🎸🎷" tvg-logo="https://headicon.trovo.live/user/2l7xgbqaaaaaby365l2bw4g2cy.jpeg" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",jazz
 https://live.xo.fm/xofm256
 #EXTINF:-1 group-title="▶🛡️🍿🎞️ КиноMultStreamKinowalk-Production+ (VPN)" tvg-logo="https://sun1-30.userapi.com/s/v1/ig2/g-EBi5KkLU2SSlS6kxzWjBG5KlGpQEQYiXjKrvftyqoNlgXpNNaEtHweb3cDOhAlVBJIqqG9-G6pw2nWwz6dsjGC.jpg?quality=95&crop=0,0,500,500&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480&ava=1&cs=480x480" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",JTX Online
@@ -840,9 +822,6 @@ http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist.m3u8
 #EXTINF:-1 group-title="🎧 Музло+ 🔊🎶🎵🎧🎸🎷" tvg-logo="http://i115.fastpic.org/big/2021/0924/0d/694a7fbcc8c0e95f020b81749c45770d.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",KroneHit HD
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
-#EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Kronehit TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/bc1b811349f526188c839d377913e16a/index.m3u8?s=laATNPeyUIzsk4Ubj3CSKw&e=2093765769&scheme=https
 #EXTINF:-1 group-title="🎧 Музло+ 🔊🎶🎵🎧🎸🎷" tvg-logo="http://i115.fastpic.org/big/2021/0924/0d/694a7fbcc8c0e95f020b81749c45770d.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Kronehit TV
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
 #EXTINF:-1 group-title="🎧 Музло+ 🔊🎶🎵🎧🎸🎷" tvg-logo="http://i115.fastpic.org/big/2021/0924/0d/694a7fbcc8c0e95f020b81749c45770d.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Kronehit TV
@@ -851,6 +830,9 @@ http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1228000.m3u8
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b628000.m3u8
 #EXTINF:-1 group-title="🎧 Музло+ 🔊🎶🎵🎧🎸🎷" tvg-logo="http://i115.fastpic.org/big/2021/0924/0d/694a7fbcc8c0e95f020b81749c45770d.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Kronehit TV
 http://hubtv.ru/index.php?stream=aHR0cDovL2JpdGNkbi1rcm9uZWhpdC5iaXRtb3Zpbi5jb20vdjIvaGxzL2NodW5rbGlzdF9iMzEyODAwMC5tM3U4
+#EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Kronehit TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/bc1b811349f526188c839d377913e16a/index.m3u8?s=t0TP2lcCuL1pbz_BvxAeoA&e=2094643146&scheme=https
 #EXTINF:-1 group-title="🎧 Музло+ 🔊🎶🎵🎧🎸🎷" tvg-logo="https://i.ibb.co/W4LsNjz0/image-2025-09-07-T221500-889.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Kuriakos Music
 http://w2.manasat.com:1935/kmusic/smil:kmusic.smil/playlist.m3u8
 #EXTINF:-1 group-title="🎧 Музло+ 🔊🎶🎵🎧🎸🎷" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Kuriakos Music
@@ -895,7 +877,7 @@ http://kinowalk.hopto.org/mmaxim0vich_live
 https://v1.tustreaming.cl/margamargatv/index.m3u8
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Marvel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/3abeb7577fd38ac4b8130bb8e03418f2/index.m3u8?s=4ZOJqW3Q2S_pbuMpFyw2Og&e=2093765742&scheme=https
+https://bl.rutube.ru/livestream/3abeb7577fd38ac4b8130bb8e03418f2/index.m3u8?s=tzKA9CCIR1A_47SxQkXSuw&e=2094643123&scheme=https
 #EXTINF:-1 group-title="▶🛡️🍿🎞️ КиноMultStreamKinowalk-Production+ (VPN)" tvg-logo="https://kinowalk.hopto.org/web/image/215/128x128?unique=2026-02-24%2017:40:47.422997&access_token=29c6c26e-f6cc-4e76-a259-4b20a09c4491" tvg-id="30e4811ef73797da2d944449838b622c_MAX LIVЕ" $ExtFilter="GADEM 2",MAX LIVЕ
 http://kinowalk.hopto.org/maximum_live
 #EXTINF:-1 group-title="🎧 Музло+ 🔊🎶🎵🎧🎸🎷" tvg-logo="https://i.ibb.co/0R4Hr9cf/image-19.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Maxima FM
@@ -968,21 +950,18 @@ http://127.0.0.1:6878/ace/getstream?id=f57378901dec9cb1d110f3893f355becb6cae39d&
 http://online.nasheradio.ua/NasheRadio_HD
 #EXTINF:-1 group-title="🎧 Музло+ 🔊🎶🎵🎧🎸🎷" tvg-logo="https://headicon.trovo.live/user/2l7xgbqaaaaaby365l2bw4g2cy.jpeg" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Nashe Radio UktTop100
 http://online.nasheradio.ua/NasheRadio_Ukr_HD
-#EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-logo="../Channel/Logo/Nat Geo Wild.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Nat Geo Wild
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/c11af26c0ab831ce6c37a4888056479b/index.m3u8?s=F5EtYQGxZo1YgtjD687JHg&e=2093765737&scheme=https
 #EXTINF:-1 group-title="↕️ ♻️🎡 Развлекательно |🔎 Познавательные 🦎 (TTV) ↕️" tvg-logo="../Channel/Logo/Nat Geo Wild HD.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_nat-geo-wild" $ExtFilter="GADEM 2",Nat Geo Wild HD
 http://127.0.0.1:6878/ace/getstream?id=5347a5417c376ac10cdf9c1a3a26eadbe76c280a&.mp4
 #EXTINF:-1 group-title="↕️ ♻️🎡 Развлекательно |🔎 Познавательные 🦎 (TTV) ↕️" tvg-logo="../Channel/Logo/Nat Geo Wild HD.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_nat-geo-wild" $ExtFilter="GADEM 2",Nat Geo Wild HD
 http://127.0.0.1:6878/ace/getstream?id=5347a5417c376ac10cdf9c1a3a26eadbe76c280a
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-logo="../Channel/Logo/National Geographic.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",National Geographic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/2619fc295c16585ef018041d88f14db0/index.m3u8?s=p5Pvq_w-amv5dDMpCkqDMg&e=2093765737&scheme=https
+https://bl.rutube.ru/livestream/2619fc295c16585ef018041d88f14db0/index.m3u8?s=xhQtfMHHTwno7b0gRXEmPw&e=2094643118&scheme=https
 #EXTINF:-1 group-title="↕️ ♻️🎡 Развлекательно |🔎 Познавательные 🦎 (TTV) ↕️" tvg-logo="../Channel/Logo/National Geographic HD.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_national-geographic" $ExtFilter="GADEM 2",National Geographic HD
 http://127.0.0.1:6878/ace/getstream?id=3a08c5a973e162429910f441bf8aa45b24d667e0
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",NBA TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/d01241e9fd2bc2d65dbf6d74cca02f89/index.m3u8?s=4_6qxa6cW_Cw1KLAET1JPw&e=2093765784&scheme=https
+https://bl.rutube.ru/livestream/d01241e9fd2bc2d65dbf6d74cca02f89/index.m3u8?s=7UJgLCsxpJmqY1SIQghcdw&e=2094643154&scheme=https
 #EXTINF:-1 group-title="↕️ ♻️🎡 Развлекательно |🔎 Познавательные 🦎 (TTV) ↕️" tvg-logo="http://i115.fastpic.org/big/2021/0924/b8/02656ace564e05c2a5bb0f571960d9b8.png" tvg-id="f736135dfb80936a523d63c9a10f2613_NBA TV" $ExtFilter="GADEM 2",NBA TV HD
 http://127.0.0.1:6878/ace/getstream?infohash=42832fbf9a1d3bdcca043e09951d6769fbbe04e7
 #EXTINF:-1 group-title="▶🛡️🍿🎞️ КиноMultStreamKinowalk-Production+ (VPN)" tvg-logo="https://i.ibb.co/hrJnvY6/image-15.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",NE SELECAOTV
@@ -996,10 +975,7 @@ http://s45177.cdn.ngenix.net/hls/CH_R01_NEXTTV/variant.m3u8
 http://kinowalk.hopto.org/nezabudka_live
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",NHL Network [US]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/7a485ef5da9fe50ba939f36ca3e6ed96/index.m3u8?s=NX7_wzGMeBStEs3Mw5_a1Q&e=2093765783&scheme=https
-#EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-logo="../Channel/Logo/Nickelodeon.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Nickelodeon
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/e902c1a059034a1537430b2aa5aedece/index.m3u8?s=0ZTfTyCNrq3Q6ehO4Rmgcw&e=2093765768&scheme=https
+https://bl.rutube.ru/livestream/7a485ef5da9fe50ba939f36ca3e6ed96/index.m3u8?s=iOZ8Z6IPYdoOsQV3VqU4yA&e=2094643153&scheme=https
 #EXTINF:-1 group-title="▶🛡️🍿🎞️ КиноMultStreamKinowalk-Production+ (VPN)" tvg-logo="https://i.ibb.co/4gWrp0z5/image-4.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",NikNik-TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 YaBrowser/25.2.0.0 Safari/537.36
 rtmp://vkvsd80.okcdn.ru/playback/9747990391627?stkn=2Lyi_Ax9qb3B6h3kwj94uaJDSdT0WZKvF4ZjgG64dyjskgckoNMd8hING9Mw1oHi8F-YwSfyqy8&uid=0&sp=uid,sp&sig=vlibqm4nyu
@@ -1035,15 +1011,15 @@ https://lightning-now90s-samsungnz.amagi.tv/playlist720p.m3u8
 http://hubtv.ru/index.php?stream=aHR0cHM6Ly9saWdodG5pbmctbm93OTBzLXNhbXN1bmduei5hbWFnaS50di9wbGF5bGlzdC5tM3U4
 #EXTINF:-1 group-title="🎧 Музло+ 🔊🎶🎵🎧🎸🎷" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",NOW Radio
 http://hubtv.ru/index.php?stream=aHR0cDovL3ZpZGVvc3RyZWFtLmpwYmdkaWdpdGFsLmNvbS9OT1dUVi5tM3U4
-#EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Now Rock
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/047ba54d846ee185b4209a797a2ae138/index.m3u8?s=10xwltbS6bM8yyvXDv031g&e=2093765778&scheme=https
 #EXTINF:-1 group-title="🎧 Музло+ 🔊🎶🎵🎧🎸🎷" tvg-logo="https://iptvx.one/picons/now-rock.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Now Rock
 https://lightning-now90s-samsungnz.amagi.tv/playlist480p.m3u8
 #EXTINF:-1 group-title="🎧 Музло+ 🔊🎶🎵🎧🎸🎷" tvg-logo="https://i.ibb.co/5WRxHnJd/image-2025-09-02-T152456-867.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Now Rock
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="🎧 Музло+ 🔊🎶🎵🎧🎸🎷" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",NOW ROCK
 http://hubtv.ru/index.php?stream=aHR0cHM6Ly9saWdodG5pbmctbm93OTBzLXNhbXN1bmduei5hbWFnaS50di9wbGF5bGlzdDcyMHAubTN1OA==
+#EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Now Rock
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/047ba54d846ee185b4209a797a2ae138/index.m3u8?s=ZafHbadYIXy82lLijlDWHw&e=2094643148&scheme=https
 #EXTINF:-1 group-title="🎧 Музло+ 🔊🎶🎵🎧🎸🎷" tvg-logo="https://i.ibb.co/hx5jnTB/deooleg.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Now TV 102.3FM Edmonton (CKNO-FM)
 https://videostream.jpbgdigital.com/NOWTV.m3u8
 #EXTINF:-1 group-title="🎧 Музло+ 🔊🎶🎵🎧🎸🎷" tvg-logo="http://rafail1982.uz/music.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Now TV 102.3FM Edmonton (CKNO-FM)
@@ -1224,52 +1200,52 @@ http://kinowalk.hopto.org/re_boot_live
 http://kinowalk.hopto.org/rsf_live
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Record Big Hits
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/c7b8a6f89c95f9d224d7811d4489d5f7/index.m3u8?s=i-iJqQBwGnQcCdLqUjFSiA&e=2093765778&scheme=https
+https://bl.rutube.ru/livestream/c7b8a6f89c95f9d224d7811d4489d5f7/index.m3u8?s=L185hr4H7yNkCUz2wFKmxA&e=2094643149&scheme=https
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Record Chill House
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/149b862a6f45faed8800e28c15066c21/index.m3u8?s=tLN0KsftM-27ofdviCNeYA&e=2093765781&scheme=https
+https://bl.rutube.ru/livestream/149b862a6f45faed8800e28c15066c21/index.m3u8?s=8mg8GDkJXVyWpHJYS--sPg&e=2094643151&scheme=https
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Record Chill-Out
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/6ad623fe9b908f3823c47e77cd981cd4/index.m3u8?s=4wTtPCre2YB2PjZolvSnBg&e=2093765781&scheme=https
+https://bl.rutube.ru/livestream/6ad623fe9b908f3823c47e77cd981cd4/index.m3u8?s=hIj8P-wPcoaZCUo_wcQedA&e=2094643152&scheme=https
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Record Dance Radio
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/21675e5154442266a0c154f168a6b019/index.m3u8?s=hekywuKx_iUczzf_QoWfkw&e=2093765779&scheme=https
+https://bl.rutube.ru/livestream/21675e5154442266a0c154f168a6b019/index.m3u8?s=ovZxO4IUjBQieUt_3apD7g&e=2094643149&scheme=https
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Record Deep
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/9249feec1c78e5414f68ecf40a6645d2/index.m3u8?s=UZ-mqSNCKNdx4SEUayb2oA&e=2093765780&scheme=https
+https://bl.rutube.ru/livestream/9249feec1c78e5414f68ecf40a6645d2/index.m3u8?s=_nSBCjjE8wFopmQ30fF-6w&e=2094643151&scheme=https
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Record Drum n Bass
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/dc756dfadfdb320e9cec39b35def79e3/index.m3u8?s=SHCL_Ndi8IKms79-p_voiQ&e=2093765781&scheme=https
+https://bl.rutube.ru/livestream/dc756dfadfdb320e9cec39b35def79e3/index.m3u8?s=47Kfvg0381qjWTYjL8qIHg&e=2094643152&scheme=https
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Record Megamix
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/60b73481dcc9880850f22690142c8d17/index.m3u8?s=1LIf6llQl5dbVxzsNjQk1A&e=2093765780&scheme=https
+https://bl.rutube.ru/livestream/60b73481dcc9880850f22690142c8d17/index.m3u8?s=HYygIUMdzhPcvcje_IU9eA&e=2094643150&scheme=https
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Record Phonk
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/f972da70f03eee3d14fcff4113a8b6e4/index.m3u8?s=3sYV9uLT1nmj3YZQ4lAdIg&e=2093765780&scheme=https
+https://bl.rutube.ru/livestream/f972da70f03eee3d14fcff4113a8b6e4/index.m3u8?s=NW1ntJhhbVkeQ1zESD6Spg&e=2094643151&scheme=https
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Record Rock
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/a1bad1d3fee40a92df8f3d8d3de16821/index.m3u8?s=tJ5T2AGRuG014B1xOwSb7g&e=2093765779&scheme=https
+https://bl.rutube.ru/livestream/a1bad1d3fee40a92df8f3d8d3de16821/index.m3u8?s=M9YVr7KLlRnMY7vUiFgb3Q&e=2094643149&scheme=https
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Record Russian Hits
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/b5f4e1d43e11888455a0a66f0872e77b/index.m3u8?s=c9-RBhYTrgBZZQr2irKW0A&e=2093765779&scheme=https
+https://bl.rutube.ru/livestream/b5f4e1d43e11888455a0a66f0872e77b/index.m3u8?s=9LKZ5IWqz8jkZV-VDnGEpw&e=2094643150&scheme=https
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Record Russian Mix
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/2f3e5c6a66617c063f12d8d5d49248c7/index.m3u8?s=qTT_RE3r-MdstLEMKne93w&e=2093765780&scheme=https
+https://bl.rutube.ru/livestream/2f3e5c6a66617c063f12d8d5d49248c7/index.m3u8?s=s-PpdqXIjDGMZ9YYILv5_w&e=2094643150&scheme=https
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Record Techno by Innocence
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/a385dcd78395ea7740d1aed28980fe6c/index.m3u8?s=0nERx1EVOI9L4GLtF8eZqg&e=2093765781&scheme=https
+https://bl.rutube.ru/livestream/a385dcd78395ea7740d1aed28980fe6c/index.m3u8?s=WXL_YXcLIQsbQp3mYKqlgw&e=2094643152&scheme=https
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Record Trance
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/26aeb9043f519687846255556ee891aa/index.m3u8?s=3POI59grz5dKhKlT_cSlkA&e=2093765782&scheme=https
+https://bl.rutube.ru/livestream/26aeb9043f519687846255556ee891aa/index.m3u8?s=SULbHDqInmfBNKYhNxfodA&e=2094643153&scheme=https
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Record Гоп FM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/b575eaf54bd00d5fb079c55988bc0f24/index.m3u8?s=K8hYIHCScL0T4XF4ExL78Q&e=2093765779&scheme=https
+https://bl.rutube.ru/livestream/b575eaf54bd00d5fb079c55988bc0f24/index.m3u8?s=lFhalsoXiuDjzM6K6gmf2w&e=2094643150&scheme=https
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Record Супердискотека 90х
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/351f0e84a7db69a73658bbf61debcf62/index.m3u8?s=845X2q2TL7qUKow5-TEq_g&e=2093765778&scheme=https
+https://bl.rutube.ru/livestream/351f0e84a7db69a73658bbf61debcf62/index.m3u8?s=gb6l2ZXqD2t57phWw2xCOQ&e=2094643149&scheme=https
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Red Bull TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/45b30eef1b89857182b03db2c25631d9/index.m3u8?s=xbx1FdEGxUSNWs1DXM1RIg&e=2093765783&scheme=https
+https://bl.rutube.ru/livestream/45b30eef1b89857182b03db2c25631d9/index.m3u8?s=gktx6aKthg9qwc2ooorAow&e=2094643154&scheme=https
 #EXTINF:-1 group-title="↕️ ▶🔺PLAYLIST INFORMATION🔺INFO👉©️ SuzuS TV™️ ®️🔴🔺↕️" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00307.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Relaxon
 http://iptv.prosto.tv:7000/ch317/video.m3u8
 #EXTINF:-1 group-title="🎧 Музло+ 🔊🎶🎵🎧🎸🎷" tvg-logo="https://i.ibb.co/WvDJF12P/image-11.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",RELOAD GR
@@ -1314,13 +1290,13 @@ http://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8
 https://s03.watcher.uz/55/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
 #EXTINF:-1 group-title="↕️ ♻️🎡 Развлекательно |🔎 Познавательные 🦎 (TTV) ↕️" tvg-logo="../Channel/Logo/RU.TV HD.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_ru-tv" $ExtFilter="GADEM 2",RU.TV
 http://127.0.0.1:6878/ace/getstream?id=2302f4b9327232b91a434658c24a506c88bc55f0
-#EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-logo="../Channel/Logo/RU.TV HD.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",RU.TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/b1eb8e90d7e636677b3eb73b4fcbb717/index.m3u8?s=pYXvyUCM-O7mfTqk9oAefg&e=2093765776&scheme=https
 #EXTINF:-1 group-title="🎧 Музло+ 🔊🎶🎵🎧🎸🎷" tvg-logo="http://sarkor.tv/static/images/channels/RU.TV.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",RU.TV
 https://s03.watcher.uz/55/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTg1MTUwLCJsb2dpbiI6InR2LTE4NTE1MCIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzgwNjk3NTc4fQ.bXNxmt2iOlX4qQ8TitFHFzmB2Kxh7DkhMjEQXb-aEgc%3A8
 #EXTINF:-1 group-title="🎧 Музло+ 🔊🎶🎵🎧🎸🎷" tvg-logo="../Channel/Logo/RU.TV HD.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",RU.TV
 http://hubtv.ru/index.php?stream=aHR0cHM6Ly9mcy51cGxpbmsua3ovUnVUVi9tb25vLm0zdTg/dG9rZW49b25saW5ldHYy
+#EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-logo="../Channel/Logo/RU.TV HD.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",RU.TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/b1eb8e90d7e636677b3eb73b4fcbb717/index.m3u8?s=EKyGXAd5jbqmJyYkz5kuzw&e=2094643147&scheme=https
 #EXTINF:-1 group-title="↕️ ♻️🎡 Развлекательно |🔎 Познавательные 🦎 (TTV) ↕️" tvg-logo="../Channel/Logo/RU.TV HD.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_ru-tv" $ExtFilter="GADEM 2",RU.TV HD
 http://127.0.0.1:6878/ace/getstream?id=2302f4b9327232b91a434658c24a506c88bc55f0&.mp4
 #EXTINF:-1 group-title="↕️ ♻️🎡 Развлекательно |🔎 Познавательные 🦎 (TTV) ↕️" tvg-logo="../Channel/Logo/Russian Extreme.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_russky-ekstrim" $ExtFilter="GADEM 2",Russian Extreme HD
@@ -1335,7 +1311,7 @@ http://127.0.0.1:6878/ace/getstream?id=a5149234466b95643eec346ffbd24bc71c64e3d6&
 http://127.0.0.1:6878/ace/getstream?id=a5149234466b95643eec346ffbd24bc71c64e3d6
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Rutube TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/9ae8e8a6dc58bdad66190475f9872ecd/index.m3u8?s=7BQOW0cnb8C0t4Gs-lihWQ&e=2093765728&scheme=https
+https://bl.rutube.ru/livestream/9ae8e8a6dc58bdad66190475f9872ecd/index.m3u8?s=r0QjeE70h-reaJO2yfnOfw&e=2094643111&scheme=https
 #EXTINF:-1 group-title="▶🛡️🍿🎞️ КиноMultStreamKinowalk-Production+ (VPN)" tvg-logo="https://avatars.mds.yandex.net/i?id=ba4f624cb18c47ab9b5997415ab2ba44-5288513-images-thumbs&n=13" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",SANSEY_RU
 http://kinowalk.hopto.org/sansey_ru_live
 #EXTINF:-1 group-title="▶🛡️🍿🎞️TOP-Кино-Stream-Kinowalk-Production+ (VPN)" tvg-logo="https://kinowalk.hopto.org/static-content/logo/134?unique=2026-07-25+13%3A55%3A22.216397&access_token=0a12131f-650c-4909-9a02-ba9a6b511825" $ExtFilter="GADEM 2",Scripach TV HD
@@ -1364,19 +1340,19 @@ http://127.0.0.1:6878/ace/getstream?infohash=04759f636ad9c8dc35b5eb560d393eab3e2
 http://kinowalk.hopto.org/severtv_live
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",SKY SPORTS CRICKET
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=2rezcE_zmGp_Yu_ruakx2w&e=2093765784&scheme=https
+https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=-V9aUS6Bjs6Pi7RPAfnBEQ&e=2094643154&scheme=https
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Sky Sports Golf
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/a7a17d6b994f02a80aebd69435266b58/index.m3u8?s=mfYJ7nuLpm1wOPVW9ImFww&e=2093765784&scheme=https
+https://bl.rutube.ru/livestream/a7a17d6b994f02a80aebd69435266b58/index.m3u8?s=8grJD266ZAPXUGTa_62K1A&e=2094643155&scheme=https
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Sky Sports Premier League
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=SmkVT29qYH72yrHgXyDcjA&e=2093765785&scheme=https
+https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=Pj3s-4kc9h-DSKrxyq9C9w&e=2094643155&scheme=https
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Sky Sports Racing
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/362d68a2d5d5b48dbf23522573e64d57/index.m3u8?s=nt4evCiAZZKvpVq9-KcqQw&e=2093765785&scheme=https
+https://bl.rutube.ru/livestream/362d68a2d5d5b48dbf23522573e64d57/index.m3u8?s=oHpPeU0ruVKVzsoXieCXGQ&e=2094643155&scheme=https
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Sky Sports Tennis
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/5f5dc9d64b43dfc740e92f2bdf2b0d38/index.m3u8?s=QDOGz1G--5XCA7XI1rb_Rw&e=2093765785&scheme=https
+https://bl.rutube.ru/livestream/5f5dc9d64b43dfc740e92f2bdf2b0d38/index.m3u8?s=NBAUrANHzsiumsSc5qHGiQ&e=2094643155&scheme=https
 #EXTINF:-1 group-title="▶🛡️🍿🎞️ КиноMultStreamKinowalk-Production+ (VPN)" tvg-logo="https://headicon.trovo.live/user/3gipwbqaaaaabdcw4ebxkdmnda.jpeg" tvg-id="6c18d008bb0762fb9d4b7016e8f18b1f_SmotrimVmeste" $ExtFilter="GADEM 2",SmotrimVmeste
 http://kinowalk.hopto.org/frxnkl1n_live
 #EXTINF:-1 group-title="🎧 Музло+ 🔊🎶🎵🎧🎸🎷" tvg-logo="https://i.ibb.co/d0ZGdvMn/image-59.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Sol Musica
@@ -1391,7 +1367,7 @@ https://56b50ada2d659.streamlock.net/RadioSorrrisoTV/livestream/chunklist_w10277
 http://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-logo="../Channel/Logo/Bein Sports 1.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Sports Grid
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/afc3073ec3efc6cb70c88ce6acaf4344/index.m3u8?s=42SIaFFHXkGxSoEmRfV_zQ&e=2093765785&scheme=https
+https://bl.rutube.ru/livestream/afc3073ec3efc6cb70c88ce6acaf4344/index.m3u8?s=WQd1pFm-o3hpiitYCOmp6w&e=2094643156&scheme=https
 #EXTINF:-1 group-title="🎧 Музло+ 🔊🎶🎵🎧🎸🎷" tvg-logo="https://star101.gu/images/fb_icon.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Star 101 FM (KNUT Guam)
 https://live2.tensila.com/knut-v-1.choice/hls/master.m3u8
 #EXTINF:-1 group-title="🎧 Музло+ 🔊🎶🎵🎧🎸🎷" tvg-logo="http://rafail1982.uz/music.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Stingray Classic Rock
@@ -1600,7 +1576,7 @@ http://kinowalk.hopto.org/timetohorror_live
 http://kinowalk.hopto.org/timetomovie_live
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-logo="../Channel/Logo/TLC.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",TLC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/7c3d1a4cc0b4dff1176aa2dbb0b90000/index.m3u8?s=CJixZ1Qj5i8VPLmYW9qlug&e=2093765738&scheme=https
+https://bl.rutube.ru/livestream/7c3d1a4cc0b4dff1176aa2dbb0b90000/index.m3u8?s=D5rBjxpPMTyDTkvvdnMsEQ&e=2094643118&scheme=https
 #EXTINF:-1 group-title="🎧 Музло+ 🔊🎶🎵🎧🎸🎷" tvg-logo="http://rafail1982.uz/music.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",TMA
 http://hls.tmacaraibes.com/live/index.m3u8
 #EXTINF:-1 group-title="🏝 ▶ Региoнальные  ⚜️" tvg-logo="https://iptvx.one/picons/tmtv.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_tmtv" $ExtFilter="GADEM 2",TMTV
@@ -1614,7 +1590,7 @@ https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R03_TMTV/variant.m3u8?version=2
 http://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_KZN_TMTV/variant.m3u8?version2
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",TNT SPORTS 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/3aa782bace452e7c4b9f81d767512147/index.m3u8?s=IFruNMZJMnbXIlbQzwgkZA&e=2093765783&scheme=https
+https://bl.rutube.ru/livestream/3aa782bace452e7c4b9f81d767512147/index.m3u8?s=2xkC1vyyQ5Iph4BKfJMRAQ&e=2094643154&scheme=https
 #EXTINF:-1 group-title="🎧 Музло+ 🔊🎶🎵🎧🎸🎷" tvg-logo="https://i.ibb.co/rKf5jmNt/image-100.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Top TV
 http://74.208.199.212:8081/TopTV/live/chunks.m3u8
 #EXTINF:-1 group-title="▶🛡️🍿🎞️ КиноMultStreamKinowalk-Production+ (VPN)" tvg-logo="https://avatars.mds.yandex.net/i?id=c9852df4b3c469587a77d98ec83c0fb7_sr-9683096-images-thumbs&n=13" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",TopMoment
@@ -1637,9 +1613,6 @@ http://83.103.149.75:8085/udp/239.30.0.9:4000
 https://myradio24.org/tisradio_video.m3u8
 #EXTINF:-1 group-title="🎧 Музло+ 🔊🎶🎵🎧🎸🎷" tvg-logo="https://i.postimg.cc/vTYFgPBB/LOGO23-RADIO.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",TRANCE IS STAR RADIO
 http://hubtv.ru/index.php?stream=aHR0cHM6Ly9teXJhZGlvMjQub3JnL3Rpc3JhZGlvX3ZpZGVvLm0zdTg=
-#EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-logo="../Channel/Logo/Travel channel.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Travel Channel
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/4196566bc9c3b7b854074ad1a9a2db36/index.m3u8?s=d557kO0Awic8aGLPOti08g&e=2093765738&scheme=https
 #EXTINF:-1 group-title="↕️ ♻️🎡 Развлекательно |🔎 Познавательные 🦎 (TTV) ↕️" tvg-logo="../Channel/Logo/Travel channel HD.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_travel-channel" $ExtFilter="GADEM 2",Travel Channel HD
 http://127.0.0.1:6878/ace/getstream?id=48566a80593d54be5543583173fd520ce675d5b2
 #EXTINF:-1 group-title="↕️ ♻️🎡 Развлекательно |🔎 Познавательные 🦎 (TTV) ↕️" tvg-logo="../Channel/Logo/Travel+ adventure HD.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_travel-adventure" $ExtFilter="GADEM 2",Travel+Adventure HD
@@ -1664,7 +1637,7 @@ https://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_VRZH_TVGUBERNIYA/vari
 http://127.0.0.1:6878/ace/getstream?id=ae0d6d703ef80198263a1a868740cf059eac4e9e
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",TVS Classic Sports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/9f28acb802549828d3ce7fbd8ecc17d3/index.m3u8?s=Its_sKCPfDYEEuBQGzHcjg&e=2093765786&scheme=https
+https://bl.rutube.ru/livestream/9f28acb802549828d3ce7fbd8ecc17d3/index.m3u8?s=rNAVYYuo8LvjGI09i0-sUQ&e=2094643156&scheme=https
 #EXTINF:-1 group-title="🏝 ▶ Региoнальные  ⚜️" tvg-logo="https://iptvx.one/picons/tvoya-tumen.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_tvoya-tumen" $ExtFilter="GADEM 2",TVоя Тюмень
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://rt-ural-tum-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TVOYATUMEN/variant.m3u8
@@ -1691,7 +1664,7 @@ http://127.0.0.1:6878/ace/getstream?id=6c76dccd15ff935fb1442223529d1aecc8f515d8
 http://kinowalk.hopto.org/umelyiretro_live
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-logo="../Channel/Logo/FastnFunBox.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Unbeaten
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/efc2833169ec20a3ea61197714bea6ab/index.m3u8?s=BlM6a6deAbBpzI2-HsmP-g&e=2093765787&scheme=https
+https://bl.rutube.ru/livestream/efc2833169ec20a3ea61197714bea6ab/index.m3u8?s=yN8YVKQT6BUcNXT7-N0nFQ&e=2094643157&scheme=https
 #EXTINF:-1 group-title="🏝 ▶ Другие  💫" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Ural 1
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_URAL1/variant.m3u8
 #EXTINF:-1 group-title="🏝 ▶ Региoнальные  ⚜️" tvg-logo="https://iptvx.one/picons/ural1.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_ural1" $ExtFilter="GADEM 2",URAL1
@@ -1701,7 +1674,7 @@ http://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_URAL1/variant.m3u8
 https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",UTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/673b559e08f8b99d65a4e8fbbceb911b/index.m3u8?s=lj25DvpP5zdZyVj_eUuMwQ&e=2093765749&scheme=https
+https://bl.rutube.ru/livestream/673b559e08f8b99d65a4e8fbbceb911b/index.m3u8?s=P0Xh1kze51h9t1hQXE4WrA&e=2094643130&scheme=https
 #EXTINF:-1 group-title="▶🛡️🍿🎞️TOP-Кино-Stream-Kinowalk-Production+ (VPN)" tvg-logo="https://dl.dropbox.com/scl/fi/fa26mysa5gm7t2ugqzz6s/bc7c9f65450aaa9106549406e3be18c2-4.jpg?rlkey=c8t0k1lif0742rn264jv0rab5&dl=0" $ExtFilter="GADEM 2",VB Eurodance Hits of 90s & Dance Hits of 90s
 http://kinowalk.hopto.org/vb_edh90sanddh90s_live
 #EXTINF:-1 group-title="▶🛡️🍿🎞️ КиноMultStreamKinowalk-Production+ (VPN)" tvg-logo="https://s6.iimage.su/s/09/g3ZMlxvxp95iUJzPb7abvuKKFyB0gSgKGLU1NMcD6.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",VB Greatest Hits & Romantic and Ballads
@@ -1724,6 +1697,9 @@ https://amg00056-vevotv-vevoregionalmx-localnow-zoyae.amagi.tv/playlist.m3u8
 https://d2hdqrshyzxswl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-neu8sqvbxozkb/Vevo_Retro_Rock.m3u8
 #EXTINF:-1 group-title="🎧 Музло+ 🔊🎶🎵🎧🎸🎷" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3000145P_20240924T011033SQUARE.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Vevo Retro Rock
 https://d2hdqrshyzxswl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-neu8sqvbxozkb/Vevo_Retro_Rock.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3000145P
+#EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-logo="http://ttvrun.one/uploads/UR8MCm80VDAgfGAZ0xzPaDxxKLSmR9.png" $ExtFilter="GADEM 2",VF Гарри Поттер
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/f6a3656e5ef574982994ddf2e5003341/index.m3u8?s=FNP30Z9WiEB4KRuydUwQOw&e=2094643123&scheme=https
 #EXTINF:-1 group-title="▶🛡️🍿🎞️TOP-Кино-Stream-Kinowalk-Production+ (VPN)" tvg-logo="http://ttvrun.one/uploads/6O91TLiOTD9SrmcQzuO1TCAbU9LKP5.png" $ExtFilter="GADEM 2",VHS
 http://kinowalk.hopto.org/and7610_live
 #EXTINF:-1 group-title="▶🛡️🍿🎞️TOP-Кино-Stream-Kinowalk-Production+ (VPN)" tvg-logo="http://kinowalk.hopto.org/static-content/logo/181?unique=2026-02-20+01%3A57%3A49.533570&access_token=a81ca619-cbf8-4dd0-bcd4-f69512a038b7" $ExtFilter="GADEM 2",VHS Forever
@@ -1784,7 +1760,7 @@ http://127.0.0.1:6878/ace/getstream?id=aaf3060a96b04f621643e031eb61137722981595&
 http://127.0.0.1:6878/ace/getstream?id=aaf3060a96b04f621643e031eb61137722981595
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",VIVA Russia HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/f712ae5ff3db23ec09b3674133d44daa/index.m3u8?s=QROUVtiboDgeA54Z32oNkA&e=2093765782&scheme=https
+https://bl.rutube.ru/livestream/f712ae5ff3db23ec09b3674133d44daa/index.m3u8?s=574XogS8WudV_zHOlYVXLA&e=2094643153&scheme=https
 #EXTINF:-1 group-title="🎧 Музло+ 🔊🎶🎵🎧🎸🎷" tvg-logo="https://i.ibb.co/Jw1GpzFH/image-4.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",VIVA TV Yurimaguas
 https://live.obslivestream.com/vivatv/index.m3u8
 #EXTINF:-1 group-title="▶🛡️🍿🎞️ КиноMultStreamKinowalk-Production+ (VPN)" tvg-logo="https://kinowalk.hopto.org/web/image/297/128x128?unique=2026-05-08%2010:29:16.575395&access_token=a1e3028a-a788-4930-9b55-2c0d36ce90eb" tvg-id="6c18d008bb0762fb9d4b7016e8f18b1f_VKTV HD CINEMA" $ExtFilter="GADEM 2",VKTV HD CINEMA
@@ -1886,7 +1862,7 @@ http://hubtv.ru/index.php?stream=aHR0cDovL29ja28tbGl2ZS5zc2wuY2RuLmNyYS5jei9jaGF
 http://kinowalk.hopto.org/apricus_live
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-logo="../Channel/Logo/Хабар 24.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Абакан 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/7c5ae60686a94e04691f6917e1dec066/index.m3u8?s=7zYNuElw8X2betcLqG3Rdg&e=2093765752&scheme=https
+https://bl.rutube.ru/livestream/7c5ae60686a94e04691f6917e1dec066/index.m3u8?s=9GtO-Y7EWCdrPgC6iayuhg&e=2094643132&scheme=https
 #EXTINF:-1 group-title="↕️ ♻️🎡 Развлекательно |🔎 Познавательные 🦎 (TTV) ↕️" tvg-logo="../Channel/Logo/Авто 24.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_avto24" $ExtFilter="GADEM 2",Авто 24
 http://127.0.0.1:6878/ace/getstream?id=7e515477cf191b1e4e33c7151c7cf84925f16780
 #EXTINF:-1 group-title="↕️ ♻️🎡 Развлекательно |🔎 Познавательные 🦎 (TTV) ↕️" tvg-logo="../Channel/Logo/Авто 24.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_avto24" $ExtFilter="GADEM 2",Авто 24 HD
@@ -1922,9 +1898,12 @@ http://s84942.cdn.ngenix.net/hls/CH_R28_OTT_DV_BLAG_AOT/variant.m3u8
 https://s84942.cdn.ngenix.net/hls/CH_R28_OTT_DV_BLAG_AOT/variant.m3u8
 #EXTINF:-1 group-title="🏝 ▶ Другие  💫" tvg-logo="https://iptvx.one/picons/1obl-blagoveschensk.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_1obl-blagoveschensk" $ExtFilter="GADEM 2",Амурское областное телевидение
 https://s84942.cdn.ngenix.net/hls/CH_R28_OTT_DV_BLAG_AOT/variant.m3u8?version=2
+#EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-logo="../Channel/Logo/Мультимания.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Анимач
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/b3019a8983105f5e33f038246f860c32/index.m3u8?s=E7DhmP7WVW34TOOW4-3raQ&e=2094643143&scheme=https
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-logo="../Channel/Logo/Первый вегетарианский.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Ариг Ус 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/5d9273a93631b87a3bbdc883bb3a58cb/index.m3u8?s=n9XHXdPuu65wTDO9jUdKlg&e=2093765752&scheme=https
+https://bl.rutube.ru/livestream/5d9273a93631b87a3bbdc883bb3a58cb/index.m3u8?s=zeEDrn45BxV2HYBHW_WQkA&e=2094643133&scheme=https
 #EXTINF:-1 group-title="🏝 ▶ Региoнальные  ⚜️" tvg-logo="https://iptvx.one/picons/arig-us-24.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_arig-us-24" $ExtFilter="GADEM 2",Ариг Ус 24 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R01_ARIGUS/variant.m3u8
@@ -1938,7 +1917,7 @@ https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R01_ARIGUS/variant.m3u8
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/arhangelsk/arktika24-hd/index.m3u8
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-logo="../Channel/Logo/Первый вегетарианский.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",АРИС 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/9b482361d6c845f7d70eafc98356d8bf/index.m3u8?s=SD10JfU9JiGPJUM7IA6GdQ&e=2093765753&scheme=https
+https://bl.rutube.ru/livestream/9b482361d6c845f7d70eafc98356d8bf/index.m3u8?s=DA-51UeR4dBJPs5-NqmLlA&e=2094643134&scheme=https
 #EXTINF:-1 group-title="🏝 ▶ Другие  💫" tvg-logo="https://iptvx.one/picons/arktik-tv.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_arktik-tv" $ExtFilter="GADEM 2",Арктик-TV
 https://rt-nw-murm-htlive.cdn.ngenix.net/hls/CH_R03_ARCTIC/variant.m3u8
 #EXTINF:-1 group-title="🏝 ▶ Другие  💫" tvg-logo="https://iptvx.one/picons/arktik-tv.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_arktik-tv" $ExtFilter="GADEM 2",Арктик-TV
@@ -1964,7 +1943,7 @@ http://rt-sth-cherks-htlive.cdn.ngenix.net/hls/CH_R03_OTT_STH_CHERKS_ARKHIZ241/v
 http://rt-sth-cherks-htlive.cdn.ngenix.net/hls/CH_R03_OTT_STH_CHERKS_ARKHIZ24LITE/variant.m3u8
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-logo="../Channel/Logo/Блокбастер.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",АСТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/df0faa92ca3f1d7df057c202fd4b21c4/index.m3u8?s=aP546RFpuzA_F7G350AXUQ&e=2093765764&scheme=https
+https://bl.rutube.ru/livestream/df0faa92ca3f1d7df057c202fd4b21c4/index.m3u8?s=jUMdGPsiEPSMqhAFlP1AjQ&e=2094643142&scheme=https
 #EXTINF:-1 group-title="🏝 ▶ Региoнальные  ⚜️" tvg-logo="https://iptvx.one/picons/astvus.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_astvus" $ExtFilter="GADEM 2",АСТВ Южно-Сахалинск
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://s14553.cdn.ngenix.net/hls/CH_R65_OTT_DV_SLIN_ACTV/variant.m3u8
@@ -1996,7 +1975,7 @@ https://stream.afontovo.ru/hd.m3u8
 http://rt-ct-ivan-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_IVAN_BARS/variant.m3u8
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-logo="../Channel/Logo/Барс ТВ.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Барс
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/f79ff24ad16cf5f5eb52994647596d13/index.m3u8?s=3CR1-aJX4O64ckSd01Ij8g&e=2093765745&scheme=https
+https://bl.rutube.ru/livestream/f79ff24ad16cf5f5eb52994647596d13/index.m3u8?s=EAShLOHW-ki-x899G-QDtw&e=2094643126&scheme=https
 #EXTINF:-1 group-title="🏝 ▶ Другие  💫" tvg-logo="http://i124.fastpic.org/big/2024/1001/c0/cfe202ca1c21b6c4add707826d7012c0.png" tvg-id="f736135dfb80936a523d63c9a10f2613_Барс (Иваново)" $ExtFilter="GADEM 2",Барс плюс
 https://rt-ct-ivan-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_IVAN_BARS/variant.m3u8
 #EXTINF:-1 group-title="🏝 ▶ Другие  💫" tvg-logo="http://i124.fastpic.org/big/2024/1001/c0/cfe202ca1c21b6c4add707826d7012c0.png" tvg-id="f736135dfb80936a523d63c9a10f2613_Барс (Иваново)" $ExtFilter="GADEM 2",Барс плюс
@@ -2010,7 +1989,7 @@ https://s45177.cdn.ngenix.net/hls/CH_R02_BASHKORTOSTAN24/variant.m3u8
 https://s45177.cdn.ngenix.net/hls/CH_R02_BASHKORTOSTAN24/variant.m3u8?version=2
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-logo="../Channel/Logo/Башкортостан 24.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Башкортостан 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/cf7e6ad2c24ce743b5b60478c176037b/index.m3u8?s=uQjyCNEsa03rlIr5EKTc6w&e=2093765751&scheme=https
+https://bl.rutube.ru/livestream/cf7e6ad2c24ce743b5b60478c176037b/index.m3u8?s=XbFOoeixCZpnR8NEcLSxlw&e=2094643132&scheme=https
 #EXTINF:-1 group-title="🏝 ▶ Региoнальные  ⚜️" tvg-logo="https://iptvx.one/picons/belgorod24.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_belgorod24" $ExtFilter="GADEM 2",Белгород 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://rt-ct-belg-htlive.cdn.ngenix.net/hls/CH_R02_BELGOROD24/variant.m3u8
@@ -2038,18 +2017,18 @@ https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_BST/variant.m3u8
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_BST/variant.m3u8?version=2
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-logo="../Channel/Logo/БСТ.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",БСТ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/92aa15b4975d9f63c4e0b82e3b7af463/index.m3u8?s=O7jBG5ciC4bsLObi8PmqOw&e=2093765760&scheme=https
+https://bl.rutube.ru/livestream/92aa15b4975d9f63c4e0b82e3b7af463/index.m3u8?s=1QZspqdMgg_45-CPMjbKWQ&e=2094643139&scheme=https
 #EXTINF:-1 group-title="🏝 ▶ Региoнальные  ⚜️" tvg-logo="https://iptvx.one/picons/bst-bratsk.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_bst-bratsk" $ExtFilter="GADEM 2",БСТ Братск
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R01_TNT_BR/variant.m3u8
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",БТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/671239d68ada3000a154a68efa0c7813/index.m3u8?s=cotY7GzMyqo8s70AHjt-2w&e=2093765761&scheme=https
+https://bl.rutube.ru/livestream/671239d68ada3000a154a68efa0c7813/index.m3u8?s=PatLe1yRTxfh1c6Dn5lyLQ&e=2094643140&scheme=https
 #EXTINF:-1 group-title="▶🛡️🍿🎞️ КиноMultStreamKinowalk-Production+ (VPN)" tvg-logo="https://i.ibb.co/4gWrp0z5/image-4.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",БУДУ СМОТЕТЬ
 http://kinowalk.hopto.org/channel35772578_live
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-logo="../Channel/Logo/Санкт-Петербург.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Буряад ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/55fec7f2c11f4decc66568fca39f26b2/index.m3u8?s=IpHFLUypcMKsfoFbWsDOSg&e=2093765743&scheme=https
+https://bl.rutube.ru/livestream/55fec7f2c11f4decc66568fca39f26b2/index.m3u8?s=9_fAD2OiNuiAF_xrWAtTHw&e=2094643125&scheme=https
 #EXTINF:-1 group-title="🏝 ▶ Региoнальные  ⚜️" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Буряад ТВ HD (Республика Бурятия)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R02_BURYAAD/variant.m3u8
@@ -2076,7 +2055,7 @@ http://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R02_VERHTV/variant.m3u8
 http://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R01_OTT_VETTA24_PERM/variant.m3u8
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-logo="../Channel/Logo/Светлое тв.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",ВЕТТА 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/3053eeaecc60e0adef57b81d3498fdd0/index.m3u8?s=COYjQmOdPhCcc1HdKkA44w&e=2093765753&scheme=https
+https://bl.rutube.ru/livestream/3053eeaecc60e0adef57b81d3498fdd0/index.m3u8?s=DII1nAdl3BUAuqWAfq0AnA&e=2094643134&scheme=https
 #EXTINF:-1 group-title="🏝 ▶ Другие  💫" tvg-logo="https://iptvx.one/picons/vetta24.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_vetta24" $ExtFilter="GADEM 2",Ветта 24 Пермь
 https://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R01_OTT_VETTA24_PERM/variant.m3u8
 #EXTINF:-1 group-title="🏝 ▶ Другие  💫" tvg-logo="https://iptvx.one/picons/vetta24.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_vetta24" $ExtFilter="GADEM 2",Ветта 24 Пермь
@@ -2088,10 +2067,10 @@ http://kinowalk.hopto.org/vhs90e_live
 http://kinowalk.hopto.org/kasseta_live
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Властелин колец
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/6f99d2a36810a41acc8f66af25441ae3/index.m3u8?s=zYjAIDqEClHqzzwaB1SqaA&e=2093765742&scheme=https
+https://bl.rutube.ru/livestream/6f99d2a36810a41acc8f66af25441ae3/index.m3u8?s=jb7nCbnVyVeJRvEtHgtVxw&e=2094643123&scheme=https
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-logo="../Channel/Logo/Вместе-РФ.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Вместе-РФ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/f6a6d5c955180d0d0f80c66d0b6150d3/index.m3u8?s=E7niLMudmnptS9QJQMpULA&e=2093765756&scheme=https
+https://bl.rutube.ru/livestream/f6a6d5c955180d0d0f80c66d0b6150d3/index.m3u8?s=ZXotrtYokEEvi8c87Lt4-g&e=2094643136&scheme=https
 #EXTINF:-1 group-title="🏝 ▶ Региoнальные  ⚜️" tvg-logo="https://iptvx.one/picons/volga.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_volga" $ExtFilter="GADEM 2",Волга
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_VOLGA/variant.m3u8
@@ -2101,14 +2080,14 @@ https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_VOLGA/variant.m3u8
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_VOLGA/variant.m3u8?version=2
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Волга
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/bed2dcda74004e4e9a61966d2848c027/index.m3u8?s=cuPidqCwwPebuKONyV9rAQ&e=2093765750&scheme=https
+https://bl.rutube.ru/livestream/bed2dcda74004e4e9a61966d2848c027/index.m3u8?s=V8yaLJqnM4ZilnrN-WgPpA&e=2094643131&scheme=https
 #EXTINF:-1 group-title="🏝 ▶ Другие  💫" tvg-logo="https://iptvx.one/picons/vremia-n.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_vremia-n" $ExtFilter="GADEM 2",Волга 24
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R04_VREMYAN/variant.m3u8
 #EXTINF:-1 group-title="🏝 ▶ Другие  💫" tvg-logo="https://iptvx.one/picons/vremia-n.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_vremia-n" $ExtFilter="GADEM 2",Волга 24
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R04_VREMYAN/variant.m3u8?version=2
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Волга 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/e30732c0045af997cb7312822534522f/index.m3u8?s=8NepEac_DX-nvfy7aPwkUQ&e=2093765751&scheme=https
+https://bl.rutube.ru/livestream/e30732c0045af997cb7312822534522f/index.m3u8?s=4AD98IGJCCRIkgi_rcB6AA&e=2094643132&scheme=https
 #EXTINF:-1 group-title="🏝 ▶ Региoнальные  ⚜️" tvg-logo="http://i115.fastpic.org/big/2021/0926/73/ba5471253dc137f52c3771291e3e2773.png" tvg-id="f736135dfb80936a523d63c9a10f2613_Волгоград 1" $ExtFilter="GADEM 2",Волгоград 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://rt-sth-vgrad-htlive.cdn.ngenix.net/hls/CH_R06_OTT_STH_VGRAD_VOLGOGRAD1/variant.m3u8
@@ -2125,7 +2104,7 @@ https://rt-sth-vgrad-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_VGRAD_VOLGOGRAD24/
 https://rt-sth-vgrad-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_VGRAD_VOLGOGRAD24/variant.m3u8?version=2
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Волейбол
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/cc1b56aa4955a144f324ad58998513bb/index.m3u8?s=NEPF6kXo1z2L9S0V6STPOw&e=2093765786&scheme=https
+https://bl.rutube.ru/livestream/cc1b56aa4955a144f324ad58998513bb/index.m3u8?s=rD_-TYMgS1XApxKsHv5-Uw&e=2094643157&scheme=https
 #EXTINF:-1 group-title="🏝 ▶ Региoнальные  ⚜️" tvg-logo="https://iptvx.one/picons/vostok-24.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_vostok-24" $ExtFilter="GADEM 2",Восток 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_VOSTOK24_OTT/variant.m3u8
@@ -2143,19 +2122,16 @@ https://rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_LIPETSK_VOTTV/vari
 http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R04_VREMYAN/variant.m3u8
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Вселенная DC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/31cd70d4054fbbde3b169d9a6972515c/index.m3u8?s=fTKyqY4M8Fu5wMhanGwF7w&e=2093765742&scheme=https
+https://bl.rutube.ru/livestream/31cd70d4054fbbde3b169d9a6972515c/index.m3u8?s=gUs92QtHQ4FNtA5c01A_BA&e=2094643124&scheme=https
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-logo="../Channel/Logo/Вся Уфа.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Вся Уфа
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/5a88a8d75565c5cdebeb11d87bfc61e9/index.m3u8?s=-nn3ns5rMUwd1YFTtKMUhA&e=2093765748&scheme=https
+https://bl.rutube.ru/livestream/5a88a8d75565c5cdebeb11d87bfc61e9/index.m3u8?s=R7ybXgfKv8G63_OzgZIfxw&e=2094643129&scheme=https
 #EXTINF:-1 group-title="🏝 ▶ Другие  💫" tvg-logo="http://i115.fastpic.org/big/2021/0824/34/9d2c95ec191f22c932f468babfc3ee34.png" tvg-id="f736135dfb80936a523d63c9a10f2613_41 телеканал (Воронеж)" $ExtFilter="GADEM 2",ВТК «Аргус» HD
 https://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R01_ARGUS/variant.m3u8?version=2
 #EXTINF:-1 group-title="🏝 ▶ Региoнальные  ⚜️" tvg-logo="http://i115.fastpic.org/big/2021/0824/34/9d2c95ec191f22c932f468babfc3ee34.png" tvg-id="f736135dfb80936a523d63c9a10f2613_41 телеканал (Воронеж)" $ExtFilter="GADEM 2",ВТК «Аргус» HD
 https://a635216799-rt-ct-vrzh-htlive.cdn.ngenix.net:443/hls/CH_R01_ARGUS/playlist.m3u8
 #EXTINF:-1 group-title="🏝 ▶ Другие  💫" tvg-logo="http://i115.fastpic.org/big/2021/0824/34/9d2c95ec191f22c932f468babfc3ee34.png" tvg-id="f736135dfb80936a523d63c9a10f2613_41 телеканал (Воронеж)" $ExtFilter="GADEM 2",ВТК Аргус (Воронеж)
 https://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R01_ARGUS/variant.m3u8
-#EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Гарри Поттер
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/f6a3656e5ef574982994ddf2e5003341/index.m3u8?s=0hH1HXH2XpTpHHK_jC0WjA&e=2093765742&scheme=https
 #EXTINF:-1 group-title="🏝 ▶ Региoнальные  ⚜️" tvg-logo="https://iptvx.one/picons/gis-samara.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_gis-samara" $ExtFilter="GADEM 2",ГИС Самара
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R02_SAMARAGIS/variant.m3u8
@@ -2197,7 +2173,7 @@ https://s97982.cdn.ngenix.net/hls/CH_R79_NTK/variant.m3u8
 http://rt-ct-vlad-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_VLAD_GUBERNIA33/variant.m3u8
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-logo="../Channel/Logo/Брянская губерния.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Губерния 33
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/52a1592710d8803b0570bfef9d2fbeff/index.m3u8?s=lFFKV2w-FHsYpBJWJf_BKA&e=2093765754&scheme=https
+https://bl.rutube.ru/livestream/52a1592710d8803b0570bfef9d2fbeff/index.m3u8?s=AtsUmo1zW7Yy1Wex8XfLfg&e=2094643134&scheme=https
 #EXTINF:-1 group-title="🏝 ▶ Другие  💫" tvg-logo="https://iptvx.one/picons/gubernia-33.png" tvg-id="f736135dfb80936a523d63c9a10f2613_Губерния-33 (Владимир)" $ExtFilter="GADEM 2",Губерния 33 HD
 https://rt-ct-vlad-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_VLAD_GUBERNIA33/variant.m3u8?version=2
 #EXTINF:-1 group-title="🏝 ▶ Другие  💫" tvg-logo="https://iptvx.one/picons/gubernia-33.png" tvg-id="f736135dfb80936a523d63c9a10f2613_Губерния-33 (Владимир)" $ExtFilter="GADEM 2",Губерния 33 HD
@@ -2221,7 +2197,7 @@ https://rt-vlg-kirov-htlive.cdn.ngenix.net/hls/CH_R02_9TV/variant.m3u8
 https://rt-vlg-kirov-htlive.cdn.ngenix.net/hls/CH_R02_9TV/variant.m3u8?version=2
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-logo="../Channel/Logo/Русский детектив.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Детективы каждый день
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/e05401be60a9cc719fa7075b6e77b86d/index.m3u8?s=Qhdj0LYp8T4p1pw8J7UAmw&e=2093765740&scheme=https
+https://bl.rutube.ru/livestream/e05401be60a9cc719fa7075b6e77b86d/index.m3u8?s=qsQabsAnujrUpM7bSROSAw&e=2094643121&scheme=https
 #EXTINF:-1 group-title="▶🛡️🍿🎞️ КиноMultStreamKinowalk-Production+ (VPN)" tvg-logo="https://sun1-18.userapi.com/impg/3wTKbWOkV40EusaPbjXEDyi6UeHh1BkBbcobyA/LcdG8FnorVw.jpg?size=320x180&quality=95&sign=581d7a81262031a49b0af97e9659b062&c_uniq_tag=G27jnOh4kGwgfio3IEIblHNg8CUJKNC7KhJcbWxAfqA&type=video_thumb" tvg-id="6c18d008bb0762fb9d4b7016e8f18b1f_Детский 0+" $ExtFilter="GADEM 2",Детский 0+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 YaBrowser/25.2.0.0 Safari/537.36
 rtmp://vkvsd182.okcdn.ru/playback/9942884887405?stkn=9VVfByDOizlWlr_rfoRi8TpelV04alIYQ_0Jk3cI_HojytXGIOqVjegIFH3lVi14ozMs9MWxBP0&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
@@ -2255,7 +2231,7 @@ http://127.0.0.1:6878/ace/getstream?id=4b91bbf01a5574583e7e4af5b258de3e454d83e4
 http://127.0.0.1:6878/ace/getstream?id=327cc1410c2e7af8fca0925f7a003ffdba6cdb2a
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Документалки и шоу
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/eddcc86d1dee0b5def546ea388eb38ea/index.m3u8?s=f1YW4j7uUWkE73W6qA93dA&e=2093765735&scheme=https
+https://bl.rutube.ru/livestream/eddcc86d1dee0b5def546ea388eb38ea/index.m3u8?s=4WjEFg2EaO3tAJ9_EeJg1A&e=2094643117&scheme=https
 #EXTINF:-1 group-title="▶🛡️🍿🎞️ КиноMultStreamKinowalk-Production+ (VPN)" tvg-logo="http://kinowalk.hopto.org/static-content/logo/401?unique=2026-10-07+10%3A48%3A04.214175&access_token=df78f625-0985-4e79-a41f-0e8178e165c0" tvg-id="5158cb5e8ea7835ec458e2da35216ede_ДОМ Z" $ExtFilter="GADEM 2",ДОМ Z
 http://kinowalk.hopto.org/raznoekino_live
 #EXTINF:-1 group-title="🏝 ▶ Развлекательные 🧙" tvg-logo="https://iptvx.one/picons/domashny.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_domashny" $ExtFilter="GADEM 2",Домашний
@@ -2293,7 +2269,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_7/variant.m3u8
 https://rt-sth-rd-htlive.cdn.ngenix.net/hls/CH_R02_OTT_STH_RD_DON24/variant.m3u8
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-logo="../Channel/Logo/Дон 24.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",ДОН 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/72ced5d533f940251e5e4bd5d61f6bc9/index.m3u8?s=krXpuPXV4BYatjXyNK_rog&e=2093765753&scheme=https
+https://bl.rutube.ru/livestream/72ced5d533f940251e5e4bd5d61f6bc9/index.m3u8?s=GYoJKNqhAoscks0iw5RrVA&e=2094643133&scheme=https
 #EXTINF:-1 group-title="🏝 ▶ Региoнальные  ⚜️" tvg-logo="http://i115.fastpic.org/big/2021/0926/b0/88591fbaa914901704c03514d929c9b0.png" tvg-id="f736135dfb80936a523d63c9a10f2613_Дон 24" $ExtFilter="GADEM 2",Дон 24 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://rt-sth-rd-htlive.cdn.ngenix.net/hls/CH_R02_DON24/variant.m3u8
@@ -2303,8 +2279,14 @@ https://rt-sth-rd-htlive.cdn.ngenix.net/hls/CH_R02_OTT_STH_RD_DON24/variant.m3u8
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/9a087b26-8be4-11eb-a7de-bacfe1f83627/0/master.m3u8?country=DE&optout=0&uid=749544ec3d9a45d48c600d03cac91dfd&vendor=philips
 #EXTINF:-1 group-title="↕️ ♻️🎬  Кинозалы 📼 (TTV) ↕️" tvg-logo="../Channel/Logo/Дорама.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_dorama" $ExtFilter="GADEM 2",Дорама HD
 http://127.0.0.1:6878/ace/getstream?id=67cf1b59347125a57a5ea62844a6b77075a3d9dd
+#EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-logo="../Channel/Logo/Дорама.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Дорамы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/5e3edd063411550ed6b67a8c0d7c96ea/index.m3u8?s=yjq-u3zIg4gTxAr0DBTsmA&e=2094643119&scheme=https
 #EXTINF:-1 group-title="↕️ ♻️🎡 Развлекательно |🔎 Познавательные 🦎 (TTV) ↕️" tvg-logo="../Channel/Logo/Драйв.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_drive" $ExtFilter="GADEM 2",Драйв
 http://127.0.0.1:6878/ace/getstream?id=2893ea38cf923c7efcfaf3eead798dd73b2cf2d0
+#EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Драматические фильмы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/680dfe110840cf882437082b948578d6/index.m3u8?s=NpdvuwaksZDjaRHIfCSz6Q&e=2094643121&scheme=https
 #EXTINF:-1 group-title="▶🛡️🍿🎞️ КиноMultStreamKinowalk-Production+ (VPN)" tvg-logo="https://images.live.vkvideo.ru/user/18907130/avatar?change_time=1734455298&croped=1&mh=140&mw=140" tvg-id="e10432067b0942800a78cadacc6c7675_ttv31559" $ExtFilter="GADEM 2",Друзья
 http://kinowalk.hopto.org/lampotv_live
 #EXTINF:-1 group-title="🏝 ▶ Другие  💫" tvg-logo="https://iptvx.one/picons/ewpatorya24.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_ewpatorya24" $ExtFilter="GADEM 2",Евпатория 24
@@ -2314,7 +2296,7 @@ https://s91412.cdn.ngenix.net/mdrm/CH_EVPATORIATVHD/variant.m3u8
 https://rt-vlg-orb-htlive.cdn.ngenix.net/hls/CH_R02_EVRAZIY/variant.m3u8
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-logo="../Channel/Logo/Еврокино.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Евразия
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/ce34005d3db841e15eecb7e31749adf6/index.m3u8?s=ck5OXqZHDSd1v7SfsTisDA&e=2093765758&scheme=https
+https://bl.rutube.ru/livestream/ce34005d3db841e15eecb7e31749adf6/index.m3u8?s=kp9IjwJRuPS-S2A0Ex6-4g&e=2094643137&scheme=https
 #EXTINF:-1 group-title="🏝 ▶ Другие  💫" tvg-logo="http://epg.one/img/6670.png" tvg-id="f736135dfb80936a523d63c9a10f2613_Евразия (Орск)" $ExtFilter="GADEM 2",Евразия (Орск)
 https://rt-vlg-orb-htlive.cdn.ngenix.net/hls/CH_R02_EVRAZIY/variant.m3u8?version=2
 #EXTINF:-1 group-title="🏝 ▶ Региoнальные  ⚜️" tvg-logo="https://iptvx.one/picons/evrasia.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_evrasia" $ExtFilter="GADEM 2",Евразия Орск
@@ -2330,7 +2312,7 @@ http://hubtv.ru/index.php?stream=aHR0cHM6Ly9mcy51cGxpbmsua3ovZXVyb3BhX3BsdXMvbW9
 http://kinowalk.hopto.org/yegor_yegorych_live
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Енисей +4 (Орион)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/5835cd10c04311e400f2ed19b1b2fe8b/index.m3u8?s=17i5yp-3vkJZBXoHtCmj4Q&e=2093765759&scheme=https
+https://bl.rutube.ru/livestream/5835cd10c04311e400f2ed19b1b2fe8b/index.m3u8?s=50X-LHtokUXTFTRhaeS2mg&e=2094643138&scheme=https
 #EXTINF:-1 group-title="🏝 ▶ Другие  💫" tvg-logo="http://i115.fastpic.org/big/2021/0926/45/4ba632e18290557639647fc12b204245.png" tvg-id="f736135dfb80936a523d63c9a10f2613_Енисей (Красноярск)" $ExtFilter="GADEM 2",Енисей HD
 https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_KRSK_ENISEY/variant.m3u8
 #EXTINF:-1 group-title="🏝 ▶ Другие  💫" tvg-logo="http://i115.fastpic.org/big/2021/0926/45/4ba632e18290557639647fc12b204245.png" tvg-id="f736135dfb80936a523d63c9a10f2613_Енисей (Красноярск)" $ExtFilter="GADEM 2",Енисей HD
@@ -2347,12 +2329,12 @@ http://hubtv.ru/index.php?stream=aHR0cHM6Ly9mcy51cGxpbmsua3ovemhhcmEvbW9uby5tM3U
 http://rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_CHITA_ZABTV/variant.m3u8
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-logo="../Channel/Logo/Загородный.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Загородный International
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/406973c72e9d0449feef05ef7811ad01/index.m3u8?s=-y7UR8N6hZD--t4Rbm99vg&e=2093765738&scheme=https
+https://bl.rutube.ru/livestream/406973c72e9d0449feef05ef7811ad01/index.m3u8?s=-l6M9FFWxT9ja0Xp__JPeA&e=2094643118&scheme=https
 #EXTINF:-1 group-title="🏝 ▶📡🌐 Общественные | Эфирные✔️" tvg-logo="https://iptvx.one/picons/zvezda.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_zvezda" $ExtFilter="GADEM 2",Звезда
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-logo="../Channel/Logo/Звезда.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Звезда
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/5ab908fccfac5bb43ef2b1e4182256b0/index.m3u8?s=LR2yBaT5LJvzDl5V5vLvtQ&e=2093765749&scheme=https
+https://bl.rutube.ru/livestream/5ab908fccfac5bb43ef2b1e4182256b0/index.m3u8?s=SVw2T6ez1f_YzKuopRR0zA&e=2094643131&scheme=https
 #EXTINF:-1 group-title="🏝 ▶+ Плюсовые ✨" tvg-logo="https://iptvx.one/picons/zvezda-pl2.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_zvezda-pl2" $ExtFilter="GADEM 2",Звезда (+2)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_2/variant.m3u8
 #EXTINF:-1 group-title="🏝 ▶📡🌐 Общественные | Эфирные✔️" tvg-logo="https://iptvx.one/picons/zvezda-pl2.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_zvezda-pl2" $ExtFilter="GADEM 2",Звезда (+2)
@@ -2376,7 +2358,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_7/variant.m3u8
 http://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R03_ZVEZDA/variant.m3u8
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-logo="../Channel/Logo/Звезда.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Звездные войны
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/dcd36c7833f9431e6e6c902515c6c3ac/index.m3u8?s=BBdO0PGkkckScTTT_Nwqlw&e=2093765741&scheme=https
+https://bl.rutube.ru/livestream/dcd36c7833f9431e6e6c902515c6c3ac/index.m3u8?s=ljzgMV6HlHH-B19Fh-SURA&e=2094643123&scheme=https
 #EXTINF:-1 group-title="↕️ ♻️🎡 Развлекательно |🔎 Познавательные 🦎 (TTV) ↕️" tvg-logo="../Channel/Logo/Здоровое ТВ.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_zdorovoe-tv" $ExtFilter="GADEM 2",Здоровое ТВ
 http://127.0.0.1:6878/ace/getstream?id=33d0a8be4195259a9d2e341bcd62123cd7a903fd
 #EXTINF:-1 group-title="🎧 Музло+ 🔊🎶🎵🎧🎸🎷" tvg-logo="https://headicon.trovo.live/user/2l7xgbqaaaaaby365l2bw4g2cy.jpeg" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",ЗОНА М1
@@ -2436,7 +2418,7 @@ https://rt-ct-tula-htlive.cdn.ngenix.net/hls/CH_R01_TULA24/variant.m3u8
 https://rt-ct-tula-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_TULA_TULA24/variant.m3u8
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-logo="../Channel/Logo/Миллет.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Илли ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/eda2da42eea89951e4135141a30915f7/index.m3u8?s=ddTemG5DDOLKfrTT1SNpOA&e=2093765750&scheme=https
+https://bl.rutube.ru/livestream/eda2da42eea89951e4135141a30915f7/index.m3u8?s=l4Lcr__GUzKzpYDehGR9Cg&e=2094643131&scheme=https
 #EXTINF:-1 group-title="↕️ ♻️🎬  Кинозалы 📼 (TTV) ↕️" tvg-logo="../Channel/Logo/Иллюзион+.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_illuzion-plus" $ExtFilter="GADEM 2",Иллюзион+ HD
 http://127.0.0.1:6878/ace/getstream?id=cc4b12985ef1c75d786cc5fafa5d0deb960312fd&.mp4
 #EXTINF:-1 group-title="↕️ ♻️🎬  Кинозалы 📼 (TTV) ↕️" tvg-logo="../Channel/Logo/Иллюзион+.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_illuzion-plus" $ExtFilter="GADEM 2",Иллюзион+ HD
@@ -2450,7 +2432,10 @@ http://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R02_IMPULS_NBK/variant.m3u8
 https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R02_IMPULS_NBK/variant.m3u8?version=2
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Импульс Севера
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/342a3e4f3c9bb0d7830a52af0d956c44/index.m3u8?s=8_3Bt22cC-RkDvDj8FkzTg&e=2093765757&scheme=https
+https://bl.rutube.ru/livestream/342a3e4f3c9bb0d7830a52af0d956c44/index.m3u8?s=wdwFm-TCAJ7yi4JiyztNTQ&e=2094643137&scheme=https
+#EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-logo="../Channel/Logo/Индийское кино.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Индийские фильмы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/8b077d20877c0cd70b5bc4a090b9f37e/index.m3u8?s=Pv2DZD5TI0JKxtZdUOAL7w&e=2094643120&scheme=https
 #EXTINF:-1 group-title="🏝 ▶ Региoнальные  ⚜️" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Инком ТВ (Талица)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R01_OTT_INKOMTV/variant.m3u8
@@ -2471,7 +2456,7 @@ https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_OTT_PERVIYSOVETSKIY/variant
 http://rt-ct-orl-htlive.cdn.ngenix.net/hls/CH_R01_ISTOKI/variant.m3u8
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-logo="../Channel/Logo/История.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Истоки Орёл
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/503a8ac5ca6d738f05a147764f70215b/index.m3u8?s=d1jtupd1pVJgng2EzZ-BTQ&e=2093765763&scheme=https
+https://bl.rutube.ru/livestream/503a8ac5ca6d738f05a147764f70215b/index.m3u8?s=oM490XEj1vEmb5aAczk-Gg&e=2094643141&scheme=https
 #EXTINF:-1 group-title="▶🛡️🍿🎞️ КиноMultStreamKinowalk-Production+ (VPN)" tvg-logo="http://kinowalk.hopto.org/static-content/logo/396?unique=2026-09-24+19%3A57%3A51.509738&access_token=d3adaef7-f195-40f4-9f8f-90946394df57" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Йохан грохан
 http://kinowalk.hopto.org/johan_grohan_live
 #EXTINF:-1 group-title="🏝 ▶ Региoнальные  ⚜️" tvg-logo="https://iptvx.one/picons/kabardino-balkaria.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_kabardino-balkaria" $ExtFilter="GADEM 2",Кабардино-Балкария
@@ -2495,10 +2480,10 @@ https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_KAMCHATKA/variant.m3u8
 https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_KAMCHATKA/variant.m3u8?version=2
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-logo="../Channel/Logo/Канал Disney.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Канал 12
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/7d6d8c8fc5c6e02d9c0b78eb451f3bd0/index.m3u8?s=W6ri2V5JFiUK5uMS_cYY0Q&e=2093765764&scheme=https
+https://bl.rutube.ru/livestream/7d6d8c8fc5c6e02d9c0b78eb451f3bd0/index.m3u8?s=PX0Ia_3dHKIg5jnzdEIraw&e=2094643143&scheme=https
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-logo="../Channel/Logo/Канал Disney.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Канал 78
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/bbf23277dbd0dd0e6a623526d4c3f8c9/index.m3u8?s=6Qz-6jmD1W2c7ZwcfoF6SQ&e=2093765751&scheme=https
+https://bl.rutube.ru/livestream/bbf23277dbd0dd0e6a623526d4c3f8c9/index.m3u8?s=nSbg-Mi7YhBtct10m1V7pg&e=2094643132&scheme=https
 #EXTINF:-1 group-title="↕️ ♻️🎡 Развлекательно |🔎 Познавательные 🦎 (TTV) ↕️" tvg-logo="../Channel/Logo/Капитан Фантастика.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_ginger-hd" $ExtFilter="GADEM 2",Капитан Фантастика HD
 http://127.0.0.1:6878/ace/getstream?id=5bfc90fb33d6046da53943364b3d68d0e19e4464&.mp4
 #EXTINF:-1 group-title="🏝 ▶ Развлекательные 🧙" tvg-logo="https://iptvx.one/picons/karusel.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_karusel" $ExtFilter="GADEM 2",Карусель
@@ -2555,19 +2540,19 @@ rtmp://vkvsd80.okcdn.ru/playback/11445095639945?stkn=isz4WXJ0c-P9MNBOKakZS1dQYkS
 rtmp://vkvsd163.okcdn.ru/playback/12955145284352?stkn=6ch0LLXwWD0t6QW_q7NmQy3fxPoTdQt7CB_dXr_LEFueWUH8_kDzjDtZ9KMbMuhVr1UElvIN76k&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-logo="../Channel/Logo/Кино ТВ HD.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Кино и Жизнь
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/09e51eefa939595a4ac67182c6fb3e4e/index.m3u8?s=aLz11SHhx_sRQcrx3d1doA&e=2093765739&scheme=https
+https://bl.rutube.ru/livestream/09e51eefa939595a4ac67182c6fb3e4e/index.m3u8?s=lJhxIAiD1GG1KCY5ge-INg&e=2094643119&scheme=https
 #EXTINF:-1 group-title="↕️ ♻️🎬  Кинозалы 📼 (TTV) ↕️" tvg-logo="../Channel/Logo/Классика кино.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_kinojam1" $ExtFilter="GADEM 2",Киноджем 1 HD
 http://127.0.0.1:6878/ace/getstream?id=6f59144864d644ee3f53fddef7db2c2f69255c2e&.mp4
 #EXTINF:-1 group-title="↕️ ♻️🎬  Кинозалы 📼 (TTV) ↕️" tvg-logo="../Channel/Logo/Классика кино.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_kinojam1" $ExtFilter="GADEM 2",Киноджем 1 HD
 http://127.0.0.1:6878/ace/getstream?id=6f59144864d644ee3f53fddef7db2c2f69255c2e
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-logo="../Channel/Logo/Кино ТВ HD.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Киножелезо
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/4965b7b928c4a143d708ab424be01d37/index.m3u8?s=Et07QFmcHPuBJU_P7zOO1Q&e=2093765739&scheme=https
+https://bl.rutube.ru/livestream/4965b7b928c4a143d708ab424be01d37/index.m3u8?s=AqaeadFeUGDtlsaZ6KGy7Q&e=2094643119&scheme=https
 #EXTINF:-1 group-title="↕️ ♻️🎬  Кинозалы 📼 (TTV) ↕️" tvg-logo="../Channel/Logo/Кинокомедия.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_kinokomedia" $ExtFilter="GADEM 2",Кинокомедия HD
 http://127.0.0.1:6878/ace/getstream?id=dfb83e3ff3c570ba7346641c827d89bd472a18a2
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-logo="../Channel/Logo/Кино ТВ HD.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Кинолаффка
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/3b7d1499da9396462bfd17282d758d30/index.m3u8?s=xw-FUhMrcf_iC6Ua_SBdSA&e=2093765739&scheme=https
+https://bl.rutube.ru/livestream/3b7d1499da9396462bfd17282d758d30/index.m3u8?s=ei0iojEegygjn8AFb8Fy7A&e=2094643119&scheme=https
 #EXTINF:-1 group-title="↕️ ♻️🎬  Кинозалы 📼 (TTV) ↕️" tvg-logo="../Channel/Logo/Киномикс.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_kinomiks" $ExtFilter="GADEM 2",Киномикс HD
 http://127.0.0.1:6878/ace/getstream?id=3dba401ca5f2508ddfa955333e233d40d7f3572e&.mp4
 #EXTINF:-1 group-title="↕️ ♻️🎬  Кинозалы 📼 (TTV) ↕️" tvg-logo="../Channel/Logo/Кинопремьера.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_kinopremiera-hd" $ExtFilter="GADEM 2",Кинопремьера HD
@@ -2600,7 +2585,7 @@ rtmp://vkvsd203.okcdn.ru/playback/6562863655932?stkn=_PHMphaYiKOazbWZLYeTbj_eMDf
 http://kinowalk.hopto.org/skladfilm_live
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-logo="../Channel/Logo/Приключения.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Ключайка
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/ed497bdb28846536f3928849f8f7e469/index.m3u8?s=PuTbvxmf1YdQ5MAztpAVWw&e=2093765768&scheme=https
+https://bl.rutube.ru/livestream/ed497bdb28846536f3928849f8f7e469/index.m3u8?s=bCU1k3b3Qwh-KJWUA97m8g&e=2094643145&scheme=https
 #EXTINF:-1 group-title="🏝 ▶ Другие  💫" tvg-logo="../Channel/Logo/Терра Инкогнита.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",КОГАЛЫМ
 https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_NGOR_URAL_SUR/variant.m3u8?version=2
 #EXTINF:-1 group-title="🏝 ▶ Региoнальные  ⚜️" tvg-logo="https://iptvx.one/picons/kolyma-plus.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_kolyma-plus" $ExtFilter="GADEM 2",Колыма-Плюс HD
@@ -2630,7 +2615,7 @@ https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_KRDAR_KRASNODAR/va
 https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_KRDAR_KRASNODAR/variant.m3u8?version=2
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-logo="../Channel/Logo/Крик ТВ (Екатеринбург).png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",КРИК-ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/f372aa2aff09518d050ecdf70956012c/index.m3u8?s=y2BaEtyfHXKVo_flZZCPFg&e=2093765756&scheme=https
+https://bl.rutube.ru/livestream/f372aa2aff09518d050ecdf70956012c/index.m3u8?s=tOqfvD6aaVxspVQzzRwTKg&e=2094643135&scheme=https
 #EXTINF:-1 group-title="🏝 ▶ Другие  💫" tvg-logo="../Channel/Logo/Крым 24.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Крым 1
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://zabava-htlive.cdn.ngenix.net/hls/CH_KRYM1/variant.m3u8
@@ -2639,7 +2624,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_KRYM1/variant.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_KRYM24HD/variant.m3u8
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-logo="../Channel/Logo/Крым 24.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Крым 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/cf71a03fba2c98f47a539e0e39b9d333/index.m3u8?s=kQUIuyaxHzN6JQZ5gVy2Lw&e=2093765746&scheme=https
+https://bl.rutube.ru/livestream/cf71a03fba2c98f47a539e0e39b9d333/index.m3u8?s=lyYIeFJa4abBWduzELFD0A&e=2094643127&scheme=https
 #EXTINF:-1 group-title="🏝 ▶ Другие  💫" tvg-logo="https://iptvx.one/picons/krym24.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_krym24" $ExtFilter="GADEM 2",Крым 24 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://s91412.cdn.ngenix.net/mdrm/CH_KRYM24HD/variant.m3u8
@@ -2682,6 +2667,9 @@ http://127.0.0.1:6878/ace/getstream?id=a90a4172c6e146c87a92e32b5a8ed6af12ba0237&
 http://127.0.0.1:6878/ace/getstream?id=a90a4172c6e146c87a92e32b5a8ed6af12ba0237
 #EXTINF:-1 group-title="↕️ ♻️🎡 Развлекательно |🔎 Познавательные 🦎 (TTV) ↕️" tvg-logo="../Channel/Logo/КХЛ HD.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_kxl" $ExtFilter="GADEM 2",КХЛ ТВ
 http://127.0.0.1:6878/ace/getstream?id=aa6c193b9de1e6b6277e3075299fdeea925e2dc0
+#EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Латиноамериканские фильмы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/4d06d4d152d087f3792a5b15dc729562/index.m3u8?s=-iclHoQ9U239xyDgeTUeWA&e=2094643120&scheme=https
 #EXTINF:-1 group-title="🏝 ▶ Региoнальные  ⚜️" tvg-logo="https://iptvx.one/picons/lot-47.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_lot-47" $ExtFilter="GADEM 2",Лен ТВ 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_LENTVSD/variant.m3u8
@@ -2692,15 +2680,15 @@ https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_LENTVSD/variant.m3u8?version=
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_LENTVSD/variant.m3u8
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Лен ТВ 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/dd022de9cc6c8af89409513fa0a6117a/index.m3u8?s=47_IuXmbKQrLzDZ24BrKwA&e=2093765746&scheme=https
+https://bl.rutube.ru/livestream/dd022de9cc6c8af89409513fa0a6117a/index.m3u8?s=b3YwnxC6TQBykgj9qEIgIQ&e=2094643127&scheme=https
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-logo="../Channel/Logo/Липецкое Время.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Липецк 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/b04fc212802bbf7ec94768c029e54aa9/index.m3u8?s=tD19W5EkZyGl8fQHvXKb4A&e=2093765752&scheme=https
+https://bl.rutube.ru/livestream/b04fc212802bbf7ec94768c029e54aa9/index.m3u8?s=ByE2TYTae-YCFg0uYFX-VA&e=2094643133&scheme=https
 #EXTINF:-1 group-title="🏝 ▶ Другие  💫" tvg-logo="https://iptvx.one/picons/lipeckoe-vremia.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_lipeckoe-vremia" $ExtFilter="GADEM 2",Липецкое время
 https://rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_LIPETSK_LVREM/variant.m3u8
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-logo="../Channel/Logo/Липецкое Время.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Липецкое время
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/23afd7debed1cfc7a8efa0827c24d836/index.m3u8?s=iTz9G2tIxue88SA9i7VTdQ&e=2093765746&scheme=https
+https://bl.rutube.ru/livestream/23afd7debed1cfc7a8efa0827c24d836/index.m3u8?s=xDQY8Fd-YV7yGzSDNRhPTQ&e=2094643127&scheme=https
 #EXTINF:-1 group-title="🏝 ▶ Региoнальные  ⚜️" tvg-logo="http://epg.one/img/5810.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_lipeckoe-vremia" $ExtFilter="GADEM 2",Липецкое время HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_LIPETSK_LVREM/variant.m3u8
@@ -2715,7 +2703,7 @@ http://185.57.68.33/232/mpegts
 rtmp://vkvsd70.okcdn.ru/playback/6374540258174?stkn=xq3Mb7tqvmgs58xveKmbdKCzSSEC_rQ3uMikuKbmMkmMnk3xsTTKPz8RETCmOZnBCis_rqufnCM&uid=0&sp=uid,sp&sig=vlibqm4nyu
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",ЛТВ (Люберцы)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/067561b5754d0b7844762fa92939716b/index.m3u8?s=gte0bF1qJwpArRFrPzxsqQ&e=2093765750&scheme=https
+https://bl.rutube.ru/livestream/067561b5754d0b7844762fa92939716b/index.m3u8?s=hVFVe1PwLTPoEpQOl_YG2A&e=2094643131&scheme=https
 #EXTINF:-1 group-title="↕️ ♻️🎬  Кинозалы 📼 (TTV) ↕️" tvg-logo="../Channel/Logo/Наше любимое кино.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_nashe-lubimoe-hd" $ExtFilter="GADEM 2",Любимое HD
 http://127.0.0.1:6878/ace/getstream?id=c19410106243ea2a8f8a6fa7a2d69d9ed735d3c1&.mp4
 #EXTINF:-1 group-title="↕️ ♻️🎬  Кинозалы 📼 (TTV) ↕️" tvg-logo="../Channel/Logo/Наше любимое кино.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_lubimoe-kino" $ExtFilter="GADEM 2",Любимое кино
@@ -2724,7 +2712,7 @@ http://127.0.0.1:6878/ace/getstream?id=ed833df0a763fa26f180acac44634eb4c3918d86
 http://hubtv.ru/index.php?stream=aHR0cDovL3N0cmVhbS5tY3F1YWNrLm5ldC8yMTgvdHJhY2tzLXYxYTEvbW9uby50cy5tM3U4
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Магас
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/15bb032337c7425983757d211713eb7d/index.m3u8?s=XFTt2B6DCGcft2nxhHLqiA&e=2093765762&scheme=https
+https://bl.rutube.ru/livestream/15bb032337c7425983757d211713eb7d/index.m3u8?s=7UrqJuO-Cimp3mM_cveEEQ&e=2094643141&scheme=https
 #EXTINF:-1 group-title="🏝 ▶ Другие  💫" tvg-logo="https://iptvx.one/picons/maydan.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_maydan" $ExtFilter="GADEM 2",Майдан
 #EXTVLCOPT:http-user-agent=SmartTV
 http://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R05_MAIDAN/variant.m3u8
@@ -2762,7 +2750,7 @@ https://s45177.cdn.ngenix.net/hls/CH_R02_MATURTV/variant.m3u8?version=2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-logo="../Channel/Logo/Матч ТВ HD.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Матч ТВ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/11bbbec75a2ceb8cf446ad16813c6eec/index.m3u8?s=soQ1tH0gyt72rErE6wMFzg&e=2093765782&scheme=https
+https://bl.rutube.ru/livestream/11bbbec75a2ceb8cf446ad16813c6eec/index.m3u8?s=XfzKC86TNyJCpgzwKqn4Zg&e=2094643153&scheme=https
 #EXTINF:-1 group-title="↕️ ♻️🎡 Развлекательно |🔎 Познавательные 🦎 (TTV) ↕️" tvg-logo="../Channel/Logo/Матч! Планета.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_match-planeta" $ExtFilter="GADEM 2",МАТЧ! Планета
 http://127.0.0.1:6878/ace/getstream?id=106c8656fca0ca91a696110467788d202d7111af
 #EXTINF:-1 group-title="🏝 ▶ Развлекательные 🧙" tvg-logo="https://iptvx.one/picons/match-tv.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_match-tv" $ExtFilter="GADEM 2",Матч! ТВ
@@ -2817,7 +2805,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8?version=2
 http://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_BUL_MIR/variant.m3u8
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-logo="../Channel/Logo/Мир.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Мир
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/afef67d151b5a607dee1ef0aa299a52c/index.m3u8?s=545OKLpMiLgM39e9RDxz-w&e=2093765753&scheme=https
+https://bl.rutube.ru/livestream/afef67d151b5a607dee1ef0aa299a52c/index.m3u8?s=cNxJZExJjq914n_HkwwO8A&e=2094643134&scheme=https
 #EXTINF:-1 group-title="🏝 ▶ Другие  💫" tvg-logo="https://iptvx.one/picons/mir-pl2.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_mir-pl2" $ExtFilter="GADEM 2",Мир (+2)
 #EXTVLCOPT:http-user-agent=SmartTV
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_2/variant.m3u8
@@ -2851,7 +2839,7 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv2_2500/playlist.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv7_2500/playlist.m3u8
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-logo="../Channel/Logo/Мир 24.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Мир 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/43269ba8fb179e298b1e497f557e8d2d/index.m3u8?s=dVV1ldjW6BrMw244CR0SoA&e=2093765753&scheme=https
+https://bl.rutube.ru/livestream/43269ba8fb179e298b1e497f557e8d2d/index.m3u8?s=XyyiLy0lDBIIPY0Vhr0sdQ&e=2094643134&scheme=https
 #EXTINF:-1 group-title="🏝 ▶ Другие  💫" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Мир 24 - 1 КБР (Кабардино-Балкария)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://rt-sth-nalch-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_NALCH_KBR/variant.m3u8
@@ -2867,7 +2855,7 @@ http://rt-ct-belg-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_BELG_MIR_BLG/variant.m
 https://rt-ct-belg-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_BELG_MIR_BLG/variant.m3u8
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-logo="../Channel/Logo/Мир Белогорья.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Мир Белогорья
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/31bd9a668e5dfe5feddb988c96c0998c/index.m3u8?s=8nRix8OzMDBmvFGNjH3SJQ&e=2093765761&scheme=https
+https://bl.rutube.ru/livestream/31bd9a668e5dfe5feddb988c96c0998c/index.m3u8?s=i2Jt_CXLbB_0cHPuA0rl6w&e=2094643140&scheme=https
 #EXTINF:-1 group-title="🏝 ▶ Другие  💫" tvg-logo="http://i115.fastpic.org/big/2021/0927/7c/2f5f977eb82af7c821ee845ffbab537c.png" tvg-id="f736135dfb80936a523d63c9a10f2613_Мир Белогорья (Белгород)" $ExtFilter="GADEM 2",Мир Белогорья (Белгород)
 https://rt-ct-belg-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_BELG_MIR_BLG/variant.m3u8?version=2
 #EXTINF:-1 group-title="↕️ ♻️🎡 Развлекательно |🔎 Познавательные 🦎 (TTV) ↕️" tvg-logo="../Channel/Logo/Конный мир HD.png" tvg-id="f736135dfb80936a523d63c9a10f2613_Мир вокруг" $ExtFilter="GADEM 2",Мир Вокруг HD
@@ -2878,10 +2866,10 @@ http://kinowalk.hopto.org/mirdobro_live
 http://kinowalk.hopto.org/ncd_live
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",ММТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/965a025e4ebbaf0957415f80c6de8534/index.m3u8?s=p37eJsr9WgL1igLeaKfYag&e=2093765777&scheme=https
+https://bl.rutube.ru/livestream/965a025e4ebbaf0957415f80c6de8534/index.m3u8?s=mH71kOF26352h9Wj9xuj0Q&e=2094643148&scheme=https
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Мой мир
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/0064bd09060c8b8469fef19f269e8a8a/index.m3u8?s=7rla5rQfTMexjvzulC5yWg&e=2093765754&scheme=https
+https://bl.rutube.ru/livestream/0064bd09060c8b8469fef19f269e8a8a/index.m3u8?s=d0Koe5LQ-FEfW0EmhWDVqQ&e=2094643135&scheme=https
 #EXTINF:-1 group-title="🏝 ▶ Региoнальные  ⚜️" tvg-logo="https://iptvx.one/picons/mordovia-24.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_mordovia-24" $ExtFilter="GADEM 2",Мордовия 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://rt-vlg-srnk-htlive.cdn.ngenix.net/hls/CH_R02_MORDOVIY24/variant.m3u8
@@ -2894,7 +2882,7 @@ http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_MOSKOV24/variant.m3u8
 https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_MOSKOV24/variant.m3u8
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-logo="../Channel/Logo/Москва 24.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Москва-24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/ca70d39eba2e8771358bbcb4bfbad860/index.m3u8?s=i9wP2P0wMDLEkw8DQfMHsw&e=2093765730&scheme=https
+https://bl.rutube.ru/livestream/ca70d39eba2e8771358bbcb4bfbad860/index.m3u8?s=tK1osKIyMZlzO8Oq98hoJg&e=2094643113&scheme=https
 #EXTINF:-1 group-title="🏝 ▶ Развлекательные 🧙" tvg-logo="https://iptvx.one/picons/doverie.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_doverie" $ExtFilter="GADEM 2",Москва. Доверие
 http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
 #EXTINF:-1 group-title="🏝 ▶ Развлекательные 🧙" tvg-logo="https://iptvx.one/picons/doverie.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_doverie" $ExtFilter="GADEM 2",Москва. Доверие
@@ -2904,7 +2892,7 @@ https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
 http://127.0.0.1:6878/ace/getstream?id=50c13be1307994322057222dbbeefd22622e333d
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",МТВ Волгоград
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/1839496ed8242ed47f5c540e25d4ba3f/index.m3u8?s=9kkaecmxOKbYJIz4ow1xIQ&e=2093765759&scheme=https
+https://bl.rutube.ru/livestream/1839496ed8242ed47f5c540e25d4ba3f/index.m3u8?s=vgeq6XQeKdYCULviHqqV1A&e=2094643138&scheme=https
 #EXTINF:-1 group-title="↕️ ♻️🎬  Кинозалы 📼 (TTV) ↕️" tvg-logo="../Channel/Logo/Мужское кино.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_muzhskoe-kino" $ExtFilter="GADEM 2",Мужское кино HD
 http://127.0.0.1:6878/ace/getstream?id=26491abeef0cc9d0646bb8de880fe73d5ca285af&.mp4
 #EXTINF:-1 group-title="↕️ ♻️🎡 Развлекательно |🔎 Познавательные 🦎 (TTV) ↕️" tvg-logo="../Channel/Logo/Мужской.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_muzhskoy" $ExtFilter="GADEM 2",Мужской
@@ -2969,16 +2957,16 @@ https://s03.watcher.uz/53/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.
 http://hubtv.ru/index.php?stream=aHR0cDovL3N0cmVhbS5tY3F1YWNrLm5ldC80NjcvdHJhY2tzLXYxYTEvbW9uby50cy5tM3U4
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-logo="../Channel/Logo/Муз ТВ.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",МузСоюз
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/d1dff14680d4c84e27908983375f7e89/index.m3u8?s=e71vJQfzPIbj6qhHeeWZMg&e=2093765778&scheme=https
+https://bl.rutube.ru/livestream/d1dff14680d4c84e27908983375f7e89/index.m3u8?s=tAzJtf7fKaLLM4NeSsSvvA&e=2094643148&scheme=https
 #EXTINF:-1 group-title="↕️ ♻️🎡 Развлекательно |🔎 Познавательные 🦎 (TTV) ↕️" tvg-logo="../Channel/Logo/Муз ТВ.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_muztv" $ExtFilter="GADEM 2",МузТВ
 http://127.0.0.1:6878/ace/getstream?id=38cf205218182050f0df6c7d8321e5e651286e91
-#EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-logo="../Channel/Logo/Муз ТВ.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",МузТВ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/df6fe73494a26f74da51573fd97b9baa/index.m3u8?s=tZpsppfoZM1bcnq_c4-8xA&e=2093765777&scheme=https
 #EXTINF:-1 group-title="🎧 Музло+ 🔊🎶🎵🎧🎸🎷" tvg-logo="../Channel/Logo/Муз ТВ.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",МузТВ
 http://hubtv.ru/index.php?stream=aHR0cDovL3N0cmVhbS5tY3F1YWNrLm5ldC84Ni90cmFja3MtdjFhMS9tb25vLnRzLm0zdTg=
 #EXTINF:-1 group-title="🎧 Музло+ 🔊🎶🎵🎧🎸🎷" tvg-logo="../Channel/Logo/Муз ТВ.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",МузТВ
 http://hubtv.ru/index.php?stream=aHR0cHM6Ly9mcy51cGxpbmsua3ovbXV6X3R2L21vbm8ubTN1OD90b2tlbj1vbmxpbmV0djI=
+#EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-logo="../Channel/Logo/Муз ТВ.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",МузТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/df6fe73494a26f74da51573fd97b9baa/index.m3u8?s=2iBFgn1ebdu3sobxBU-u9g&e=2094643147&scheme=https
 #EXTINF:-1 group-title="🎧 Музло+ 🔊🎶🎵🎧🎸🎷" tvg-logo="https://i.ibb.co/b5dTxLsK/image-83.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",МУЗЫКА 1 International
 http://kino-1.catcast.tv/content/37745/index.m3u8
 #EXTINF:-1 group-title="🎧 Музло+ 🔊🎶🎵🎧🎸🎷" tvg-logo="https://headicon.trovo.live/user/2l7xgbqaaaaaby365l2bw4g2cy.jpeg" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Музыка 1 International
@@ -3003,6 +2991,9 @@ http://127.0.0.1:6878/ace/getstream?id=4f2d81ed73736cf3adc44c8a6a24cda47fc1eef0
 https://s03.watcher.uz/54/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTg1MTUwLCJsb2dpbiI6InR2LTE4NTE1MCIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzgwNjk3NTc4fQ.bXNxmt2iOlX4qQ8TitFHFzmB2Kxh7DkhMjEQXb-aEgc%3A8
 #EXTINF:-1 group-title="🎧 Музло+ 🔊🎶🎵🎧🎸🎷" tvg-logo="../Channel/Logo/Музыка первого.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Музыка первого
 https://s03.watcher.uz/54/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+#EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-logo="../Channel/Logo/Первый музыкальный HD.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Музыкальные клипы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/e7e04192431a24a750fd8704fa221461/index.m3u8?s=diMFAHuywPguZLVFbbQOfg&e=2094643146&scheme=https
 #EXTINF:-1 group-title="▶🛡️🍿🎞️ КиноMultStreamKinowalk-Production+ (VPN)" tvg-logo="https://sun1-19.userapi.com/impg/t0bwliJ7nRQJP-j6bTQKm-KK1FT50dfhjDIS9A/5CDu9oDP4NI.jpg?size=320x180&quality=95&sign=57e4523e95e2cb84862f2f68e0ab6302&c_uniq_tag=hs6dVs-m1Om6oqEPgIKtIT552BtLOoKnbVqgLHaY7og&type=video_thumb" tvg-id="6c18d008bb0762fb9d4b7016e8f18b1f_Мульт Развивайка" $ExtFilter="GADEM 2",Мульт Развивайка
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 YaBrowser/25.2.0.0 Safari/537.36
 rtmp://vkvsd69.okcdn.ru/playback/9617415285537?stkn=c3xFITyET9hWVhzOauNBmXkqvc4EmpLHuIPymPixanZ_ZCSdPyOzAThYxRBPDfoYbrZMsNN5P7M&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
@@ -3011,19 +3002,19 @@ rtmp://vkvsd69.okcdn.ru/playback/9617415285537?stkn=c3xFITyET9hWVhzOauNBmXkqvc4E
 rtmp://vkvsd163.okcdn.ru/playback/9617415285537?stkn=7rG8jAJ_-nsgBzwhMK0YMXnxU1lCKkv9ovPNX2TNniYZq7NsMZGTGN8xMQH1FHtYphA4-vhgtOs&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-logo="../Channel/Logo/Мультиландия.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Мультаташечки
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/25a96d214a176541fba1d342ac760ee9/index.m3u8?s=fcyWE35G23Qh3bBHW0mcCw&e=2093765767&scheme=https
+https://bl.rutube.ru/livestream/25a96d214a176541fba1d342ac760ee9/index.m3u8?s=KMoyHNiRvysQ72oiiuyDTA&e=2094643145&scheme=https
+#EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-logo="../Channel/Logo/Мульт HD.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Мультач
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/76de13007ff82a001f786f148e9fd39a/index.m3u8?s=yWROsfmVyw4o52HoRu-UXg&e=2094643144&scheme=https
 #EXTINF:-1 group-title="▶🛡️🍿🎞️ КиноMultStreamKinowalk-Production+ (VPN)" tvg-logo="https://suzustv.clan.su/Logo/photo_2026-09-22_13-46-02.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Мультимейшн
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/bc2933d28daf33f5a68257ebc72787cd/index.m3u8?s=ppl7J1v-AiOOda1HUA55Uw&e=2091531129&scheme=https
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-logo="../Channel/Logo/Мультимания.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Мультимейшн
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/bc2933d28daf33f5a68257ebc72787cd/index.m3u8?s=bQcNuTvpl0xPxx9AB_TVaQ&e=2093765766&scheme=https
+https://bl.rutube.ru/livestream/bc2933d28daf33f5a68257ebc72787cd/index.m3u8?s=MgC2r2iH27Xb9D3JsZ2u2w&e=2094643144&scheme=https
 #EXTINF:-1 group-title="▶🛡️🍿🎞️ КиноMultStreamKinowalk-Production+ (VPN)" tvg-logo="https://suzustv.clan.su/Logo/photo_2026-09-22_13-46-02.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Мультфильмы 24/7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/76de13007ff82a001f786f148e9fd39a/index.m3u8?s=RKLE4u-8PchYgQZI1uPmCw&e=2091531130&scheme=https
-#EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-logo="../Channel/Logo/Советские мультфильмы.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Мультфильмы 24/7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/76de13007ff82a001f786f148e9fd39a/index.m3u8?s=A9Xfz0TXePAXuQH8m-dWDQ&e=2093765766&scheme=https
 #EXTINF:-1 group-title="▶🛡️🍿🎞️ КиноMultStreamKinowalk-Production+ (VPN)" tvg-logo="https://suzustv.clan.su/Logo/VHSVHS.png.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Мультфильмы VHS
 http://kinowalk.hopto.org/myvhs_live
 #EXTINF:-1 group-title="🏝 ▶ Региoнальные  ⚜️" tvg-logo="https://iptvx.one/picons/muravlenko24.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Муравленко 24
@@ -3035,7 +3026,7 @@ https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_MURAVLENKO_24/variant.m
 https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_MURAVLENKO_24/variant.m3u8?version=2
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-logo="../Channel/Logo/Тамыр.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Мы
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/ee431650738a594119c3516ceda72775/index.m3u8?s=clnVCOmGkSkJ_rZpONvnKg&e=2093765748&scheme=https
+https://bl.rutube.ru/livestream/ee431650738a594119c3516ceda72775/index.m3u8?s=g4KikTu17ps-uNzMUtCTQA&e=2094643129&scheme=https
 #EXTINF:-1 group-title="🏝 ▶ Региoнальные  ⚜️" tvg-logo="https://iptvx.one/picons/my-i-gorod.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_my-i-gorod" $ExtFilter="GADEM 2",Мы и город
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_OTT_MIGOR_URAL_KRASN/variant.m3u8
@@ -3060,7 +3051,7 @@ http://127.0.0.1:6878/ace/getstream?infohash=a604243282974cc912690555f96b1c80d14
 http://127.0.0.1:6878/ace/getstream?id=f57378901dec9cb1d110f3893f355becb6cae39d
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-logo="../Channel/Logo/Нано.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Нано ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/cf958b6c9ae4504be5fc2c1de358a017/index.m3u8?s=Cgv6e_HWRbRrZPdOnhg07w&e=2093765735&scheme=https
+https://bl.rutube.ru/livestream/cf958b6c9ae4504be5fc2c1de358a017/index.m3u8?s=E3q5-LAA9KR43IQKqzYf8Q&e=2094643117&scheme=https
 #EXTINF:-1 group-title="🏝 ▶ Другие  💫" tvg-logo="https://iptvx.one/picons/ntm.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_ntm" $ExtFilter="GADEM 2",Народное телевидение Мордовии
 https://rt-vlg-srnk-htlive.cdn.ngenix.net/hls/CH_R01_NTM/variant.m3u8
 #EXTINF:-1 group-title="🏝 ▶ Другие  💫" tvg-logo="https://iptvx.one/picons/ntm.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_ntm" $ExtFilter="GADEM 2",Народное телевидение Мордовии
@@ -3081,7 +3072,7 @@ http://127.0.0.1:6878/ace/getstream?id=4b7237f2e654d6c1e03ece1d2fffc249e0324ae6&
 https://bl.rutube.ru/livestream/ec5267347fa50d03edba227906eba679/index.m3u8?s=NhZAS142ECc3knufpLmEuw&e=2091531128&scheme=https
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-logo="../Channel/Logo/Наше Радио.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Наше Аниме
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/ec5267347fa50d03edba227906eba679/index.m3u8?s=WnsCBtR6fNH26CffrFzuHQ&e=2093765765&scheme=https
+https://bl.rutube.ru/livestream/ec5267347fa50d03edba227906eba679/index.m3u8?s=KYjI-fjMOwL1uXl5NG11PQ&e=2094643143&scheme=https
 #EXTINF:-1 group-title="↕️ ♻️🎬  Кинозалы 📼 (TTV) ↕️" tvg-logo="../Channel/Logo/Наше Крутое.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_nashehd" $ExtFilter="GADEM 2",Наше крутое HD
 http://127.0.0.1:6878/ace/getstream?id=4f40b12ad32618adf3262143db8cc80ae686a5f0&.mp4
 #EXTINF:-1 group-title="↕️ ♻️🎬  Кинозалы 📼 (TTV) ↕️" tvg-logo="../Channel/Logo/Наше любимое кино.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_nashe-lubimoe-hd" $ExtFilter="GADEM 2",Наше любимое HD
@@ -3116,7 +3107,7 @@ https://rt-sib-abakan-htlive.cdn.ngenix.net/hls/CH_R01_TV7/variant.m3u8
 http://rt-ct-kaluga-htlive.cdn.ngenix.net/hls/CH_R01_NIKA/variant.m3u8
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-logo="../Channel/Logo/Ника TV.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Ника ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/37d722b7752cd193a3f94d71cc9d60f5/index.m3u8?s=_AbnVX2ahn1YFdsvtwmp1g&e=2093765748&scheme=https
+https://bl.rutube.ru/livestream/37d722b7752cd193a3f94d71cc9d60f5/index.m3u8?s=ZzOAF8amrFp1LhvMOSndzQ&e=2094643130&scheme=https
 #EXTINF:-1 group-title="🏝 ▶ Другие  💫" tvg-logo="http://i115.fastpic.org/big/2021/0927/ae/03450d548ecbbbf6b1a5889b6f229bae.png" tvg-id="f736135dfb80936a523d63c9a10f2613_Ника ТВ (Калуга)" $ExtFilter="GADEM 2",Ника-ТВ
 https://rt-ct-kaluga-htlive.cdn.ngenix.net/hls/CH_R01_NIKA/variant.m3u8
 #EXTINF:-1 group-title="🏝 ▶ Другие  💫" tvg-logo="http://i115.fastpic.org/big/2021/0927/ae/03450d548ecbbbf6b1a5889b6f229bae.png" tvg-id="f736135dfb80936a523d63c9a10f2613_Ника ТВ (Калуга)" $ExtFilter="GADEM 2",Ника-ТВ
@@ -3134,7 +3125,7 @@ https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R02_NNTV/variant.m3u8
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R02_NNTV/variant.m3u8?version=2
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-logo="../Channel/Logo/ННТВ (Нижний Новгород).png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",ННТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/333f94ef9af118c0ac51006243053e07/index.m3u8?s=0DUNSwEcO0fyTqNzkXJyLQ&e=2093765758&scheme=https
+https://bl.rutube.ru/livestream/333f94ef9af118c0ac51006243053e07/index.m3u8?s=csomWyY0f2TBRBhBnRngUQ&e=2094643138&scheme=https
 #EXTINF:-1 group-title="🏝 ▶ Региoнальные  ⚜️" tvg-logo="https://iptvx.one/picons/novgorodskoe-obl-tv.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_novgorodskoe-obl-tv" $ExtFilter="GADEM 2",Новгородское областное телевидение
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://rt-nw-novg-htlive.cdn.ngenix.net/hls/CH_R02_NOVGORODTV/variant.m3u8
@@ -3222,7 +3213,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8?&offset=-32400
 http://rt-nw-murm-htlive.cdn.ngenix.net/hls/CH_R03_OTT_NW_MURM_NTV/variant.m3u8
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-logo="../Channel/Logo/НТВ HD.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",НТВ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?s=9Eo5KH-CA09s3yKZ9I54EA&e=2093765728&scheme=https
+https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?s=l_A7fQnN9ogbpqeuG3FGIQ&e=2094643112&scheme=https
 #EXTINF:-1 group-title="↕️ ♻️🎬  Кинозалы 📼 (TTV) ↕️" tvg-logo="../Channel/Logo/НТВ Сериал.png" tvg-id="f736135dfb80936a523d63c9a10f2613_НТВ Сериал" $ExtFilter="GADEM 2",НТВ Сериал HD
 http://127.0.0.1:6878/ace/getstream?id=4419e27b1f86679b2741e2f0d096922b05c00993&.mp4
 #EXTINF:-1 group-title="↕️ ♻️🎡 Развлекательно |🔎 Познавательные 🦎 (TTV) ↕️" tvg-logo="../Channel/Logo/НТВ Стиль.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_ntv-style" $ExtFilter="GADEM 2",НТВ Стиль
@@ -3248,7 +3239,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_NTSHD/variant.m3u8
 https://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_IRK_RENTVIRK/variant.m3u8?version=2
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-logo="../Channel/Logo/НТС ТВ Севастополь.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",НТС (Иркутск)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/b4c501ea4129408a3c195f9ae4359c0e/index.m3u8?s=_ilm6DWIPRB15GL9TGsE-w&e=2093765757&scheme=https
+https://bl.rutube.ru/livestream/b4c501ea4129408a3c195f9ae4359c0e/index.m3u8?s=wnf4Ydpsj34qVMY9B_dStA&e=2094643137&scheme=https
 #EXTINF:-1 group-title="🏝 ▶ Региoнальные  ⚜️" tvg-logo="http://i115.fastpic.org/big/2021/0927/c1/ed5bf680a4daf6a2cd0e16cf639d83c1.png" tvg-id="f736135dfb80936a523d63c9a10f2613_НТС (Иркутск)" $ExtFilter="GADEM 2",НТС Иркутск
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_IRK_RENTVIRK/variant.m3u8
@@ -3278,7 +3269,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8?version=2
 https://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R04_OTT_OBJECTIVE59/variant.m3u8
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-logo="../Channel/Logo/12 Канал (Омск).png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Омск ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/9927a61345cbec5aac6558f6c5454d61/index.m3u8?s=WFcHS8jBfCJOX2S0x6kEOQ&e=2093765760&scheme=https
+https://bl.rutube.ru/livestream/9927a61345cbec5aac6558f6c5454d61/index.m3u8?s=9oUvrX93kAcJ82WAVt8Nzw&e=2094643140&scheme=https
 #EXTINF:-1 group-title="🏝 ▶ Региoнальные  ⚜️" tvg-logo="../Channel/Logo/12 Канал (Омск).png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Омск-ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_OMSKTV/variant.m3u8
@@ -3338,7 +3329,7 @@ http://rt-nw-vol-htlive.cdn.ngenix.net/hls/CH_R01_OTR_VLGD/variant.m3u8
 https://flussonic.mkpnet.ru/tv-22ed9087cd194d2b/video.m3u8
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-logo="../Channel/Logo/ОТР.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",ОТР
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/faa934385b83f9e8a92f5484defae5fa/index.m3u8?s=F1GTDF-OvRMit-v5o65aIg&e=2093765763&scheme=https
+https://bl.rutube.ru/livestream/faa934385b83f9e8a92f5484defae5fa/index.m3u8?s=as0Z0UkOkcAwxfytFtz4nw&e=2094643141&scheme=https
 #EXTINF:-1 group-title="🏝 ▶ Другие  💫" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",ОТР (+2) Оренбург
 https://rt-vlg-orb-htlive.cdn.ngenix.net/hls/CH_R01_OTR/variant.m3u8?version=2
 #EXTINF:-1 group-title="🏝 ▶ Другие  💫" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",ОТР (+4) Новосибирск
@@ -3376,10 +3367,10 @@ http://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_OTS/variant.m3u8
 https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_OTS/variant.m3u8
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-logo="../Channel/Logo/ОТС.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",ОТС HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/39c5bfe012402990e6402eded8bdc761/index.m3u8?s=TTE1ZF7Bquse7XhG0ZKOiQ&e=2093765743&scheme=https
+https://bl.rutube.ru/livestream/39c5bfe012402990e6402eded8bdc761/index.m3u8?s=uHdtFXtOcbNH2SiQNcA3bA&e=2094643125&scheme=https
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-logo="../Channel/Logo/Охотник и рыболов HD.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Охотник и рыболов
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/1da5d92af8c55b16241f1eb12a27f00c/index.m3u8?s=ijM0qXp6bfXau9OgtYex-A&e=2093765735&scheme=https
+https://bl.rutube.ru/livestream/1da5d92af8c55b16241f1eb12a27f00c/index.m3u8?s=ohAmKbIo-AkdTm-hDAWmkg&e=2094643117&scheme=https
 #EXTINF:-1 group-title="↕️ ♻️🎡 Развлекательно |🔎 Познавательные 🦎 (TTV) ↕️" tvg-logo="../Channel/Logo/Охотник и рыболов HD.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_oxotnik-i-rybolov-hd" $ExtFilter="GADEM 2",Охотник и Рыболов HD
 http://127.0.0.1:6878/ace/getstream?id=0fbcd8f0b3a32f74fff28374947e2d0d4bb857ef
 #EXTINF:-1 group-title="🏝 ▶ Региoнальные  ⚜️" tvg-logo="http://epg.one/img/6742.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Панорама ТВ HD (Тверь)
@@ -3389,7 +3380,7 @@ http://rt-ct-tver-htlive.cdn.ngenix.net/hls/CH_R01_PANORAMATV/variant.m3u8
 http://kinowalk.hopto.org/paranormal404_live
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-logo="../Channel/Logo/Музыка первого.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Первоуральск ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/59e0373a9aa587e06aeaf9009f86ded1/index.m3u8?s=yk4zZaKjMv7lMupU-2RBcg&e=2093765746&scheme=https
+https://bl.rutube.ru/livestream/59e0373a9aa587e06aeaf9009f86ded1/index.m3u8?s=N1ySb5hBY2QcPvGyD4UugQ&e=2094643127&scheme=https
 #EXTINF:-1 group-title="🏝 ▶ Другие  💫" tvg-logo="http://epg.one/img/2122.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",ПЕРВЫЙ ГОРОДСКОЙ
 http://rt-vlg-kirov-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_KIROV_PERVYGORODSKOY/variant.m3u8?version=2
 #EXTINF:-1 group-title="🏝 ▶ Региoнальные  ⚜️" tvg-logo="https://iptvx.one/picons/pervy-gorodskoy-kirov.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_pervy-gorodskoy-kirov" $ExtFilter="GADEM 2",Первый городской (Киров)
@@ -3508,7 +3499,7 @@ http://s14553.cdn.ngenix.net/hls/CH_R03_OTT_DV_SLIN_1TV_SLIN/variant.m3u8?versio
 https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8?version=2&offset=-61200
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-logo="../Channel/Logo/Первый канал HD.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Первый канал HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/c58f502c7bb34a8fcdd976b221fca292/index.m3u8?s=3A8yCViGpQvJ5hf8b0NArA&e=2093765728&scheme=https
+https://bl.rutube.ru/livestream/c58f502c7bb34a8fcdd976b221fca292/index.m3u8?s=g429OcjBq74H5AvYRQk4Ew&e=2094643112&scheme=https
 #EXTINF:-1 group-title="↕️ ♻️🎡 Развлекательно |🔎 Познавательные 🦎 (TTV) ↕️" tvg-logo="../Channel/Logo/Первый канал HD2.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_eureka-hd" $ExtFilter="GADEM 2",Первый космический HD
 http://127.0.0.1:6878/ace/getstream?id=65707378011c08c27dca1f0162d545f369756c5f&.mp4
 #EXTINF:-1 group-title="↕️ ♻️🎡 Развлекательно |🔎 Познавательные 🦎 (TTV) ↕️" tvg-logo="../Channel/Logo/Первый канал HD2.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_eureka-hd" $ExtFilter="GADEM 2",Первый космический HD
@@ -3548,7 +3539,7 @@ https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_YARL_NTM/variant.m3u8
 https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_YARL_NTM/variant.m3u8
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-logo="../Channel/Logo/Первый канал HD2.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Первый Ярославский
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/b7d879feefadde4e04e516dde89012cd/index.m3u8?s=dzZz0Z9xGzIBcyzGBwDLeg&e=2093765762&scheme=https
+https://bl.rutube.ru/livestream/b7d879feefadde4e04e516dde89012cd/index.m3u8?s=pyAJ4hikFPnqbh6FzMpj4A&e=2094643141&scheme=https
 #EXTINF:-1 group-title="🏝 ▶ Региoнальные  ⚜️" tvg-logo="http://i115.fastpic.org/big/2021/0927/46/9f30870c2a1b6b5fd09a29eabc35fe46.png" tvg-id="f736135dfb80936a523d63c9a10f2613_ЯПервый" $ExtFilter="GADEM 2",Первый Ярославский HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_YARL_NTM/variant.m3u8
@@ -3558,7 +3549,7 @@ https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_YARL_NTM/variant.m3u8
 http://kinowalk.hopto.org/meteor_live
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-logo="../Channel/Logo/Европа Плюс ТВ.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Плюс минус 16
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/99d4597cea881a27cf7dd6e65a74dade/index.m3u8?s=awzlMCOrm9Rdurkbr3Tx2g&e=2093765744&scheme=https
+https://bl.rutube.ru/livestream/99d4597cea881a27cf7dd6e65a74dade/index.m3u8?s=tCccGg_4vL7MayomFnVa8Q&e=2094643125&scheme=https
 #EXTINF:-1 group-title="↕️ ▶🔺PLAYLIST INFORMATION🔺INFO👉©️ SuzuS TV™️ ®️🔴🔺↕️" tvg-logo="https://suzustv.clan.su/IMAGES/photo_2026-08-07_10-20-35.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Поддержать проект: Юмани 410012490049169
 http://iptv.prosto.tv:7000/ch315/video.m3u8
 #EXTINF:-1 group-title="↕️ ▶🔺PLAYLIST INFORMATION🔺INFO👉©️ SuzuS TV™️ ®️🔴🔺↕️" tvg-logo="https://suzustv.clan.su/IMAGES/photo_2026-08-07_10-20-35.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Поддержать проект: Юмани 410012490049169
@@ -3610,7 +3601,7 @@ https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R11_OTT_SIB_KRSK_STS/variant.m3
 https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R11_OTT_SIB_KRSK_STS/variant.m3u8?version=2
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-logo="../Channel/Logo/Прибой.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Прима
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/3fd26103b82508289ef7b7f60c77d9c8/index.m3u8?s=BpopWUWDgYcdlE93UnVYlA&e=2093765763&scheme=https
+https://bl.rutube.ru/livestream/3fd26103b82508289ef7b7f60c77d9c8/index.m3u8?s=ca72l8r9zfOZnQ752CpFBQ&e=2094643142&scheme=https
 #EXTINF:-1 group-title="🏝 ▶ Региoнальные  ⚜️" tvg-logo="https://iptvx.one/picons/pro-zhizn.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_pro-zhizn" $ExtFilter="GADEM 2",Про жизнь HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://rt-sib-nvkz-htlive.cdn.ngenix.net/hls/CH_R01_PROJIZN/variant.m3u8
@@ -3618,7 +3609,7 @@ http://rt-sib-nvkz-htlive.cdn.ngenix.net/hls/CH_R01_PROJIZN/variant.m3u8
 http://127.0.0.1:6878/ace/getstream?id=300552f346d9fe2dfd405f48fbafe084a95da563
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-logo="../Channel/Logo/Продвижение.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Продвижение
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/ff5c11c9a51750f5d33427762abc315c/index.m3u8?s=Z4gX3maytuzOqQWFye1cYw&e=2093765756&scheme=https
+https://bl.rutube.ru/livestream/ff5c11c9a51750f5d33427762abc315c/index.m3u8?s=mDgVrGnygNmKi4u74X2Bbg&e=2094643136&scheme=https
 #EXTINF:-1 group-title="🏝 ▶ Региoнальные  ⚜️" tvg-logo="../Channel/Logo/Продвижение.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Продвижение (Астрахань)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://rt-sth-astrh-htlive.cdn.ngenix.net/hls/CH_R03_PRO_ASTRAKHAN/variant.m3u8
@@ -3662,7 +3653,7 @@ https://a3569456000-zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_7/variant.m3u8
 http://127.0.0.1:6878/ace/getstream?id=10d62d03d9fd2a9e84f639ed40a42e6a13940fce
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-logo="../Channel/Logo/Пятница HD.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Пятница HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/9f87a9a0cecbe773be6fddcbd93585ac/index.m3u8?s=YHohytGpBl4bBmiI_9syNQ&e=2093765730&scheme=https
+https://bl.rutube.ru/livestream/9f87a9a0cecbe773be6fddcbd93585ac/index.m3u8?s=Og1LXw9ViMwYkq0YKZ3_lw&e=2094643114&scheme=https
 #EXTINF:-1 group-title="🏝 ▶ Развлекательные 🧙" tvg-logo="https://iptvx.one/picons/piatnica.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_piatnica" $ExtFilter="GADEM 2",Пятница!
 https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8?version=2
 #EXTINF:-1 group-title="🏝 ▶+ Плюсовые ✨" tvg-logo="https://iptvx.one/picons/piatnica-pl2.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_piatnica-pl2" $ExtFilter="GADEM 2",Пятница! (+2)
@@ -3710,13 +3701,13 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_4/variant.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_7/variant.m3u8
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-logo="../Channel/Logo/Радость Моя.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Радость моя
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/9ad2099eed71b4a0e577292c3bfd0708/index.m3u8?s=1IAL1mUvJCQTk2AnCyUQ5w&e=2093765767&scheme=https
+https://bl.rutube.ru/livestream/9ad2099eed71b4a0e577292c3bfd0708/index.m3u8?s=IprnBjbaOK59w7R2F8Zk3g&e=2094643144&scheme=https
 #EXTINF:-1 group-title="🏝 ▶ Другие  💫" tvg-logo="https://iptvx.one/picons/rbk.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_rbk" $ExtFilter="GADEM 2",РБК
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://s91030.cdn.ngenix.net/hls/CH_R25_RBKTVHD_VLDK/variant.m3u8
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-logo="../Channel/Logo/РБК.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",РБК
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/75957f55ed1e9b4e0ec00f8dd9594fcc/index.m3u8?s=WqePMpTquhK2Ntj42C4_-Q&e=2093765747&scheme=https
+https://bl.rutube.ru/livestream/75957f55ed1e9b4e0ec00f8dd9594fcc/index.m3u8?s=Knj3xdoYvCc5Rq95K0m7ZA&e=2094643128&scheme=https
 #EXTINF:-1 group-title="🏝 ▶ Другие  💫" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",РБК - Кубань
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R06_OTT_STH_KRDAR_RBC-KRD/variant.m3u8
@@ -3741,7 +3732,7 @@ https://rt-sth-mahachk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_MAHACHK_DAGESTAN
 https://rt-sth-mahachk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_MAHACHK_DAGESTAN/variant.m3u8?version=2
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",РГВК Дагестан
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/fcafa0d358df671e4f7c61ca54c79bea/index.m3u8?s=9ZQDx34c7V28olsRONNjPg&e=2093765747&scheme=https
+https://bl.rutube.ru/livestream/fcafa0d358df671e4f7c61ca54c79bea/index.m3u8?s=v8feX6zxV_l5sineB8GcnQ&e=2094643128&scheme=https
 #EXTINF:-1 group-title="🏝 ▶ Региoнальные  ⚜️" tvg-logo="https://iptvx.one/picons/region29.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_region29" $ExtFilter="GADEM 2",Регион 29
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://rt-nw-arkh-htlive.cdn.ngenix.net/hls/CH_R02_PRAVDASEVERA/variant.m3u8
@@ -3821,7 +3812,7 @@ https://rt-vlg-ul-htlive.cdn.ngenix.net/hls/CH_R03_REP73/variant.m3u8?version=2
 rtmp://vkvsd228.okcdn.ru/playback/10137229994917?stkn=uF-qcmEstFzJRTk2k_pZQ1gq2MmP1WidLMkrmdavGcLp34x9bzBxhFHTQgs1Xg12RcMkQlS8LY4&uid=0&sp=uid,sp&sig=vlibqm4nyu
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-logo="../Channel/Logo/Эврика HD.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Рика и Морти
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/478a825bfd784e1e9de08ceceb3d2121/index.m3u8?s=kizfDarEBunOszwnxCVR9g&e=2093765766&scheme=https
+https://bl.rutube.ru/livestream/478a825bfd784e1e9de08ceceb3d2121/index.m3u8?s=hzNEvh-k_QHOpVmdPEpZ5Q&e=2094643143&scheme=https
 #EXTINF:-1 group-title="🏝 ▶ Региoнальные  ⚜️" tvg-logo="https://iptvx.one/picons/rimtv.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_rimtv" $ExtFilter="GADEM 2",РИМ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_OTT_RIM_URAL_KURAL/variant.m3u8
@@ -3831,7 +3822,7 @@ https://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R02_OTT_RENTV_REFEY_PERM/varia
 https://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R02_OTT_RENTV_REFEY_PERM/variant.m3u8?version=2
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Рифей-ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/57486bf8e1c01d16a5a939c463867fab/index.m3u8?s=h8kIP_wBqkRG6ZfpdEJjsQ&e=2093765754&scheme=https
+https://bl.rutube.ru/livestream/57486bf8e1c01d16a5a939c463867fab/index.m3u8?s=rNRkxs9K7uDPN9V2C6Y_dg&e=2094643135&scheme=https
 #EXTINF:-1 group-title="🏝 ▶ Региoнальные  ⚜️" tvg-logo="https://iptvx.one/picons/rifey-tv.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_rifey-tv" $ExtFilter="GADEM 2",Рифей-ТВ Пермь
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R02_OTT_RENTV_REFEY_PERM/variant.m3u8
@@ -4018,7 +4009,7 @@ https://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R02_SAMARAGIS/variant.m3u8?ve
 http://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_SAMOTLOR/variant.m3u8
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-logo="../Channel/Logo/Самотлор HD.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Самотлор (Нижневартовск)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/695f0fdefc96b6f7f2b4a311b71f596b/index.m3u8?s=8-Mf2hxS_C2itCYtziuX0A&e=2093765757&scheme=https
+https://bl.rutube.ru/livestream/695f0fdefc96b6f7f2b4a311b71f596b/index.m3u8?s=pOhoZJkBFIGAS9HQe3VwWw&e=2094643137&scheme=https
 #EXTINF:-1 group-title="🏝 ▶ Региoнальные  ⚜️" tvg-logo="https://iptvx.one/picons/sampo-tv.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_sampo-tv" $ExtFilter="GADEM 2",Сампо ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://rt-nw-pzav-htlive.cdn.ngenix.net/hls/CH_R01_SAMPOTV/variant.m3u8
@@ -4028,7 +4019,7 @@ https://rt-nw-pzav-htlive.cdn.ngenix.net/hls/CH_R01_SAMPOTV/variant.m3u8
 https://rt-nw-pzav-htlive.cdn.ngenix.net/hls/CH_R01_SAMPOTV/variant.m3u8?version=2
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-logo="../Channel/Logo/Санкт-Петербург.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Сангат
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/dce1080977de5e89dcbd1dd24d014b4e/index.m3u8?s=J4YureJw_Tfs5WSR0QA9TQ&e=2093765749&scheme=https
+https://bl.rutube.ru/livestream/dce1080977de5e89dcbd1dd24d014b4e/index.m3u8?s=ZpYnbVQa7Y8LYohDJwksGw&e=2094643131&scheme=https
 #EXTINF:-1 group-title="🏝 ▶ Другие  💫" tvg-logo="https://iptvx.one/picons/sankt-peterburg.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_sankt-peterburg" $ExtFilter="GADEM 2",Санкт-Петербург
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_SPBREGIONALHD/variant.m3u8
 #EXTINF:-1 group-title="🏝 ▶ Региoнальные  ⚜️" tvg-logo="http://i115.fastpic.org/big/2021/0927/8f/732278f8505a5b62ebb900a9645f898f.png" tvg-id="f736135dfb80936a523d63c9a10f2613_Санкт-Петербург" $ExtFilter="GADEM 2",Санкт-Петербург HD
@@ -4039,7 +4030,7 @@ http://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_SPBREGIONALHD/variant.m3u8
 http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R01_SARATOV24/variant.m3u8
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-logo="../Channel/Logo/Сарафан.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Саратов 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/e07fffc5eb21f98a5ade09e825d7095a/index.m3u8?s=57ZQg6e57MUqqMghMhxuWA&e=2093765752&scheme=https
+https://bl.rutube.ru/livestream/e07fffc5eb21f98a5ade09e825d7095a/index.m3u8?s=rhl92nMs2QhKwFUci8yiPw&e=2094643133&scheme=https
 #EXTINF:-1 group-title="🏝 ▶ Другие  💫" tvg-logo="http://i124.fastpic.org/big/2025/0104/e5/34580ba3d0b1dc323679ce3c3cc3a8e5.png" tvg-id="f736135dfb80936a523d63c9a10f2613_Саратов 24" $ExtFilter="GADEM 2",Саратов-24
 https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R01_SARATOV24/variant.m3u8
 #EXTINF:-1 group-title="🏝 ▶ Другие  💫" tvg-logo="http://i124.fastpic.org/big/2025/0104/e5/34580ba3d0b1dc323679ce3c3cc3a8e5.png" tvg-id="f736135dfb80936a523d63c9a10f2613_Саратов 24" $ExtFilter="GADEM 2",Саратов-24
@@ -4055,7 +4046,7 @@ https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R03_OTT_STH_STAVR_STV-PLUS/var
 https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R03_OTT_STH_STAVR_STV-PLUS/variant.m3u8?version=2
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-logo="../Channel/Logo/Своё ТВ (Ставрополь).png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Своё ТВ Ставрополь
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/1932f750f00f3a742a1d90c62d0076ad/index.m3u8?s=Wxk_A7buY_VvbJecdoBJWw&e=2093765756&scheme=https
+https://bl.rutube.ru/livestream/1932f750f00f3a742a1d90c62d0076ad/index.m3u8?s=hjFJCbwJmI31wFPe-T5roQ&e=2094643136&scheme=https
 #EXTINF:-1 group-title="🏝 ▶ Региoнальные  ⚜️" tvg-logo="https://iptvx.one/picons/svoyo-tv-stavropol.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_svoyo-tv-stavropol" $ExtFilter="GADEM 2",Своё ТВ Ставрополь HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R03_STV-PLUS/variant.m3u8
@@ -4087,10 +4078,10 @@ https://lifecam.sigma-ktv.ru/ctv/tracks-v1a1/mono.ts.m3u8
 rtmp://vkvsd231.okcdn.ru/playback/15574312627039?stkn=JPqebHVX4MvWRfcCTv42BAjLtn_zkAUi-3I-vB_ySOUe8iZvmHr4qdQ9bozbTdY65S7I5Tu-J8jp&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-logo="../Channel/Logo/Смайлик.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Смайлик ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/2f052691c75d72b3ed7f3c33ea956a41/index.m3u8?s=NjEcBtq8GpfDo0Yu9J6aJA&e=2093765767&scheme=https
+https://bl.rutube.ru/livestream/2f052691c75d72b3ed7f3c33ea956a41/index.m3u8?s=-Q-zAdtlr791NJ3S4u1IUA&e=2094643145&scheme=https
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Смотри Радио
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/18eda61a347b781dd765b410133ef33a/index.m3u8?s=5W8HVke38y4Zu0nENCIb_w&e=2093765769&scheme=https
+https://bl.rutube.ru/livestream/18eda61a347b781dd765b410133ef33a/index.m3u8?s=tSC0YbjqZxGiMPlE_c1i0Q&e=2094643146&scheme=https
 #EXTINF:-1 group-title="↕️ ♻️🎬  Кинозалы 📼 (TTV) ↕️" tvg-logo="http://i122.fastpic.org/big/2023/0603/9b/c9b9f8b6914f6c1456c356ccff97589b.png" tvg-id="f736135dfb80936a523d63c9a10f2613_Смотрим HD" $ExtFilter="GADEM 2",Смотрим HD
 http://127.0.0.1:6878/ace/getstream?id=6953c236886492a45e0cb1071ce40da3b31b4c6c
 #EXTINF:-1 group-title="▶🛡️🍿🎞️ КиноMultStreamKinowalk-Production+ (VPN)" tvg-logo="https://static.vecteezy.com/system/resources/previews/055/491/549/non_2x/sickle-and-hammer-in-hands-vector.jpg" tvg-id="5158cb5e8ea7835ec458e2da35216ede_Сов.Ком" $ExtFilter="GADEM 2",Сов.Ком
@@ -4103,7 +4094,7 @@ http://127.0.0.1:6878/ace/getstream?id=a257179a41c0f69411ed7fe86260fe7cc5c823f3
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Солнце
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/2dba20a8405e57935827cb5721c2b759/index.m3u8?s=BLTmnuICcrIXiN7pUkghhQ&e=2093765768&scheme=https
+https://bl.rutube.ru/livestream/2dba20a8405e57935827cb5721c2b759/index.m3u8?s=sBNCT0uCc-w2xlkmdmkG9Q&e=2094643145&scheme=https
 #EXTINF:-1 group-title="🏝 ▶+ Плюсовые ✨" tvg-logo="https://iptvx.one/picons/solnce-pl2.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_solnce-pl2" $ExtFilter="GADEM 2",Солнце (+2)
 #EXTVLCOPT:http-user-agent=SmartTV
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_2/variant.m3u8
@@ -4130,7 +4121,7 @@ https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_MAKS241/variant.m3u8?versi
 https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_MAKS241/variant.m3u8
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-logo="../Channel/Logo/Союз.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Союзный
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/46c03b7f1a7255326900f4a60a9b44e0/index.m3u8?s=D-9v_uYZ3uT1gLlvFPoxWA&e=2093765744&scheme=https
+https://bl.rutube.ru/livestream/46c03b7f1a7255326900f4a60a9b44e0/index.m3u8?s=MeEmguFbO6qV3OqXpXJ7fQ&e=2094643125&scheme=https
 #EXTINF:-1 group-title="🏝 ▶ Другие  💫" tvg-logo="https://iptvx.one/picons/spas.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_spas" $ExtFilter="GADEM 2",Спас
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8
 #EXTINF:-1 group-title="🏝 ▶ Другие  💫" tvg-logo="https://iptvx.one/picons/spas.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_spas" $ExtFilter="GADEM 2",Спас
@@ -4139,14 +4130,14 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8?version=2
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-logo="../Channel/Logo/Спас.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Спас
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/2bbfa9ebf9d79ade480d7281fcef1008/index.m3u8?s=I-9yQzkOUOWBUHa1oRCEVw&e=2093765765&scheme=https
+https://bl.rutube.ru/livestream/2bbfa9ebf9d79ade480d7281fcef1008/index.m3u8?s=_oKIh3haoE-S4ajSupvNxg&e=2094643143&scheme=https
 #EXTINF:-1 group-title="🏝 ▶ Другие  💫" tvg-logo="https://iptvx.one/picons/spas-pl2.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_spas-pl2" $ExtFilter="GADEM 2",Спас (+2)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS_2/variant.m3u8
 #EXTINF:-1 group-title="↕️ ♻️🎡 Развлекательно |🔎 Познавательные 🦎 (TTV) ↕️" tvg-logo="../Channel/Logo/Моторспорт ТВ.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_sportivny" $ExtFilter="GADEM 2",Спортивный
 http://127.0.0.1:6878/ace/getstream?id=8410d89a5767b250cd752381672aeb5fbe2240d3
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Среда
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/5fa486bf465c8735fff9f41b372610cc/index.m3u8?s=oChcGy8ecPQ6gPkj57xiGg&e=2093765749&scheme=https
+https://bl.rutube.ru/livestream/5fa486bf465c8735fff9f41b372610cc/index.m3u8?s=LR-0u_D0Y3jq5ckZM2njrA&e=2094643130&scheme=https
 #EXTINF:-1 group-title="↕️ ♻️🎡 Развлекательно |🔎 Познавательные 🦎 (TTV) ↕️" tvg-logo="../Channel/Logo/Старт.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_start" $ExtFilter="GADEM 2",Старт
 http://127.0.0.1:6878/ace/getstream?id=4b129146077c1e357e4ab341448b9fb629f939dc
 #EXTINF:-1 group-title="↕️ ♻️🎡 Развлекательно |🔎 Познавательные 🦎 (TTV) ↕️" tvg-logo="../Channel/Logo/Старт.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_start" $ExtFilter="GADEM 2",Старт HD
@@ -4255,7 +4246,7 @@ http://127.0.0.1:6878/ace/getstream?id=14002498165f0a7aaaea284ebb9965f078eb0f69
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-logo="../Channel/Logo/Суббота!.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Суббота!
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?s=54SV4Z2A8qLbnqL_N1-Rsg&e=2093765733&scheme=https
+https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?s=N_IP32SxMEU9nu4B0RX-qg&e=2094643116&scheme=https
 #EXTINF:-1 group-title="🏝 ▶ Развлекательные 🧙" tvg-logo="https://iptvx.one/picons/subbota-pl2.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_super-pl2" $ExtFilter="GADEM 2",Супер (+2)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_2/variant.m3u8
 #EXTINF:-1 group-title="🏝 ▶+ Плюсовые ✨" tvg-logo="https://iptvx.one/picons/subbota-pl2.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_super-pl2" $ExtFilter="GADEM 2",Супер (+2)
@@ -4281,7 +4272,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_7/variant.m3u8?version=2
 http://127.0.0.1:6878/ace/getstream?id=42f4491e03e5730330457e7c49c55362bf2cbc7e
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-logo="../Channel/Logo/С1 (Сургут).png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Сургут 1 FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/7a35d5186515db85144d86900ebe1daf/index.m3u8?s=m-lYRxedA2gvjJrW-QzxWw&e=2093765745&scheme=https
+https://bl.rutube.ru/livestream/7a35d5186515db85144d86900ebe1daf/index.m3u8?s=joDHqEcm60WHXdVhgHVAjA&e=2094643126&scheme=https
 #EXTINF:-1 group-title="🏝 ▶ Региoнальные  ⚜️" tvg-logo="https://iptvx.one/picons/surgut-24.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_surgut-24" $ExtFilter="GADEM 2",Сургут 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SURGUT24/variant.m3u8
@@ -4291,16 +4282,16 @@ https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SURGUT24/variant.m3u8
 https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SURGUT24/variant.m3u8?version=2
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-logo="../Channel/Logo/С1 (Сургут).png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Сургут 86 FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/813dc0c5a944559e7e52b840d09a84f6/index.m3u8?s=OHgQOZK0rWDstkuguhx11A&e=2093765744&scheme=https
+https://bl.rutube.ru/livestream/813dc0c5a944559e7e52b840d09a84f6/index.m3u8?s=K_CyhMyOPruk30PKedKWuA&e=2094643125&scheme=https
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-logo="../Channel/Logo/Своё ТВ (Ставрополь).png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Таврия
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/a969ca8279415378bc8abd345fcfded9/index.m3u8?s=31m59g_2I3EL6rrONHDTKg&e=2093765747&scheme=https
+https://bl.rutube.ru/livestream/a969ca8279415378bc8abd345fcfded9/index.m3u8?s=wMCbvqCffJZN8FZSqlKeiQ&e=2094643128&scheme=https
 #EXTINF:-1 group-title="🏝 ▶ Региoнальные  ⚜️" tvg-logo="https://iptvx.one/picons/tagil-tv-24.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_tagil-tv-24" $ExtFilter="GADEM 2",Тагил-ТВ 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_OTT_TAGILTV_URAL_TAG/variant.m3u8
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-logo="../Channel/Logo/Тайна.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Тайна
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/a11c890a0ec0730ad33bdaaf2d244e1a/index.m3u8?s=FUBtthbjXrbvTvXFd4WIAg&e=2093765738&scheme=https
+https://bl.rutube.ru/livestream/a11c890a0ec0730ad33bdaaf2d244e1a/index.m3u8?s=0IuCIXv2iMTB7SWKEh9LZg&e=2094643118&scheme=https
 #EXTINF:-1 group-title="🏝 ▶ Региoнальные  ⚜️" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Такт (Курск)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://rt-ct-kursk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_KURSK_TAKT/variant.m3u8
@@ -4316,7 +4307,7 @@ http://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R02_EFIR24/variant.m3u8
 https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R02_EFIR24/variant.m3u8?version=2
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",ТБВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/68b2533a29f7de163842baf1b9dfc17e/index.m3u8?s=z1MK3ZolFzZXmQfP5Alz3Q&e=2093765761&scheme=https
+https://bl.rutube.ru/livestream/68b2533a29f7de163842baf1b9dfc17e/index.m3u8?s=7DcuTrmZxzBXjcwoU7rJSQ&e=2094643140&scheme=https
 #EXTINF:-1 group-title="🏝 ▶📡🌐 Общественные | Эфирные✔️" tvg-logo="http://i122.fastpic.org/big/2023/0901/4d/934af08eff0727d877939f70bf0dde4d.png" tvg-id="f736135dfb80936a523d63c9a10f2613_ТВ 3" $ExtFilter="GADEM 2",ТВ 3
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
 #EXTINF:-1 group-title="🏝 ▶+ Плюсовые ✨" tvg-logo="http://i122.fastpic.org/big/2023/0901/b6/af3eff8e40056704b9e4dd80751d4eb6.png" tvg-id="f736135dfb80936a523d63c9a10f2613_ТВ 3 (+2)" $ExtFilter="GADEM 2",ТВ 3 (+2)
@@ -4443,7 +4434,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_7/variant.m3u8
 http://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R01_TV3/variant.m3u8
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",ТВ3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/7bf12d9c050f9a7ef3728db5730432ae/index.m3u8?s=6Lw21NEwT60OYbcqZ-O4qQ&e=2093765731&scheme=https
+https://bl.rutube.ru/livestream/7bf12d9c050f9a7ef3728db5730432ae/index.m3u8?s=wXBwwcfRBaVHrrUrzBEitA&e=2094643115&scheme=https
 #EXTINF:-1 group-title="🏝 ▶ Региoнальные  ⚜️" tvg-logo="https://iptvx.one/picons/tverskoy-prospekt.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_tverskoy-prospekt" $ExtFilter="GADEM 2",Тверской проспект
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://rt-ct-tver-htlive.cdn.ngenix.net/hls/CH_R01_TVERPROSP/variant.m3u8
@@ -4453,6 +4444,9 @@ http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_KRSK_TVK24/variant.m
 #EXTINF:-1 group-title="▶🛡️🍿🎞️ КиноMultStreamKinowalk-Production+ (VPN)" tvg-logo="https://suzustv.clan.su/Logo/photo_2026-09-22_13-46-02.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Твой кинотеатр
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/e08e513c4e33f52fce3a975b5cb6932c/index.m3u8?s=rA4dNFwPynJFZIXnsPqZFQ&e=2091531093&scheme=https
+#EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-logo="../Channel/Logo/Твой дом HD.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Твой кинотеатр
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/e08e513c4e33f52fce3a975b5cb6932c/index.m3u8?s=DKSW_2cJQ9mEUpITzEXgbA&e=2094643124&scheme=https
 #EXTINF:-1 group-title="▶🛡️🍿🎞️TOP-Кино-Stream-Kinowalk-Production+ (VPN)" tvg-logo="https://iptvx.one/picons/tvoetv-humor.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Твоё ТВ - Юмор
 http://tvoetv.space:8080/tvoetv_humor/index.m3u8
 #EXTINF:-1 group-title="▶🛡️🍿🎞️TOP-Кино-Stream-Kinowalk-Production+ (VPN)" tvg-logo="https://iptvx.one/picons/tvoyo-tv-hd.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",ТВОЁ ТВ HD
@@ -4501,7 +4495,7 @@ https://rt-ct-ryaz-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_RYAZ_TKP/variant.m3u8
 https://rt-ct-ryaz-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_RYAZ_TKP/variant.m3u8?version=2
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",ТМК
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/740503607d216b5d467694a1e8fb39a8/index.m3u8?s=jmOblvk5HlYUg33N_bHSsw&e=2093765754&scheme=https
+https://bl.rutube.ru/livestream/740503607d216b5d467694a1e8fb39a8/index.m3u8?s=hLlo2UPAnBMVq6WjYPBD6g&e=2094643135&scheme=https
 #EXTINF:-1 group-title="🏝 ▶ Другие  💫" tvg-logo="https://iptvx.one/picons/tnv-tat.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_tnv" $ExtFilter="GADEM 2",ТНВ
 http://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R01_OTT_VLG_KZN_TNVT/variant.m3u8
 #EXTINF:-1 group-title="🏝 ▶ Региoнальные  ⚜️" tvg-logo="https://iptvx.one/picons/tnv.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_tnv-planeta" $ExtFilter="GADEM 2",ТНВ-Планета
@@ -4551,12 +4545,12 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8?version=2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-logo="../Channel/Logo/ТНТ HD.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",ТНТ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=CM7uGwMCsR8we5-9OfQGIg&e=2093765729&scheme=https
+https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=Wlo47EGsA4XqyBQziPgcbQ&e=2094643112&scheme=https
 #EXTINF:-1 group-title="↕️ ♻️🎡 Развлекательно |🔎 Познавательные 🦎 (TTV) ↕️" tvg-logo="../Channel/Logo/ТНТ Music.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_tnt-music" $ExtFilter="GADEM 2",ТНТ Music
 http://127.0.0.1:6878/ace/getstream?id=347126177d806d4578b249807200e71db6470b63
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-logo="../Channel/Logo/ТНТ Music.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",ТНТ Music
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/5a294ae1ed12c44c7053301fb5fa9ba0/index.m3u8?s=jSqarrADdzfq_TlL_s9zVw&e=2093765777&scheme=https
+https://bl.rutube.ru/livestream/5a294ae1ed12c44c7053301fb5fa9ba0/index.m3u8?s=4x3HNps9bC8PwmA6jasQkQ&e=2094643147&scheme=https
 #EXTINF:-1 group-title="🏝 ▶ Развлекательные 🧙" tvg-logo="https://iptvx.one/picons/tnt4.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_tnt4" $ExtFilter="GADEM 2",ТНТ4
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
 #EXTINF:-1 group-title="🏝 ▶ Развлекательные 🧙" tvg-logo="https://iptvx.one/picons/tnt4-pl2.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_tnt4-pl2" $ExtFilter="GADEM 2",ТНТ4 (+2)
@@ -4588,7 +4582,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_7/variant.m3u8
 http://127.0.0.1:6878/ace/getstream?id=da27959a3e9ee97647df5aadd056021099e2d845
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-logo="../Channel/Logo/ТНТ4.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",ТНТ4 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=QDq3tX_t-qq-cbv2FV-ehg&e=2093765729&scheme=https
+https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=Uz6Mbsk2hPPjXFAw0H6gWA&e=2094643113&scheme=https
 #EXTINF:-1 group-title="🏝 ▶ Региoнальные  ⚜️" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Тобольское время
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://rt-ural-tum-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TOBOLSKOEVREMYA/variant.m3u8
@@ -4598,7 +4592,7 @@ https://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_BUL_TOLK/variant.m3u
 https://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_BUL_TOLK/variant.m3u8?version=2
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",ТОЛК
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/0115cdc35fb5234242a89de98137dca9/index.m3u8?s=mVY6EPxearNuO1yPvUkISQ&e=2093765758&scheme=https
+https://bl.rutube.ru/livestream/0115cdc35fb5234242a89de98137dca9/index.m3u8?s=Ebie10ON9nUMj6RFgbmaxw&e=2094643137&scheme=https
 #EXTINF:-1 group-title="🏝 ▶ Региoнальные  ⚜️" tvg-logo="http://i115.fastpic.org/big/2021/0927/18/18e9ad5809e070e2fff7b67073901d18.png" tvg-id="f736135dfb80936a523d63c9a10f2613_Толк (Барнаул)" $ExtFilter="GADEM 2",ТОЛК (Барнаул)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_BUL_TOLK/variant.m3u8
@@ -4648,6 +4642,9 @@ http://s93498.cdn.ngenix.net/hls/CH_R01_TUVA24/variant.m3u8
 #EXTINF:-1 group-title="🏝 ▶ Региoнальные  ⚜️" tvg-logo="https://iptvx.one/picons/tugan-tel.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_tugan-tel" $ExtFilter="GADEM 2",Туган Тел
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://s45177.cdn.ngenix.net/hls/CH_R01_TUGANTEL/variant.m3u8
+#EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Турецкие фильмы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/2814e12b4ef6c528967736441c2e2803/index.m3u8?s=gfHChg-A1f4q0TrIIonbVg&e=2094643120&scheme=https
 #EXTINF:-1 group-title="🏝 ▶ Региoнальные  ⚜️" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Туринская телекомпания Вектор
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R01_OTT_VEKTOR/variant.m3u8
@@ -4679,13 +4676,16 @@ https://rt-vlg-ul-htlive.cdn.ngenix.net/hls/CH_R01_ULPRAVDA/variant.m3u8?version
 http://rt-vlg-ul-htlive.cdn.ngenix.net/hls/CH_R01_ULPRAVDA/variant.m3u8
 #EXTINF:-1 group-title="↕️ ♻️🎡 Развлекательно |🔎 Познавательные 🦎 (TTV) ↕️" tvg-logo="../Channel/Logo/Уникум.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_detsky" $ExtFilter="GADEM 2",Уникум HD
 http://127.0.0.1:6878/ace/getstream?id=dc5cf63b879b13f10c439d90b82bd91a5ba957ee
+#EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-logo="../Channel/Logo/Капитан Фантастика.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Фантастические фильмы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/54de765aeea96a73d23a24b4e2cab07d/index.m3u8?s=eGVeTs9PsYWiBVfMbLlpZw&e=2094643121&scheme=https
 #EXTINF:-1 group-title="↕️ ♻️🎬  Кинозалы 📼 (TTV) ↕️" tvg-logo="../Channel/Logo/Феникс плюс кино.png" tvg-id="f736135dfb80936a523d63c9a10f2613_Феникс+ Кино" $ExtFilter="GADEM 2",Феникс Плюс Кино
 http://127.0.0.1:6878/ace/getstream?id=505d4c6259acfea0ee5d9b1f26f7badd447f69f6
 #EXTINF:-1 group-title="↕️ ♻️🎬  Кинозалы 📼 (TTV) ↕️" tvg-logo="../Channel/Logo/Феникс плюс кино.png" tvg-id="f736135dfb80936a523d63c9a10f2613_Феникс+ Кино" $ExtFilter="GADEM 2",Феникс Плюс Кино HD
 http://127.0.0.1:6878/ace/getstream?id=505d4c6259acfea0ee5d9b1f26f7badd447f69f6&.mp4
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-logo="../Channel/Logo/Советские мультфильмы.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Фильмач
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/300560a65014ec501a25b1f79df9ad90/index.m3u8?s=t0_-U2UYxHQg4RpMwDCyQw&e=2093765740&scheme=https
+https://bl.rutube.ru/livestream/300560a65014ec501a25b1f79df9ad90/index.m3u8?s=Hr2m5YtKOn8YupKTgdySrg&e=2094643120&scheme=https
 #EXTINF:-1 group-title="▶🛡️🍿🎞️ КиноMultStreamKinowalk-Production+ (VPN)" tvg-logo="https://tgdir.org/media/channelimg/documentaryshorts.jpg" tvg-id="6c18d008bb0762fb9d4b7016e8f18b1f_Фильмоскоп" $ExtFilter="GADEM 2",Фильмоскоп
 http://kinowalk.hopto.org/filmscope_live
 #EXTINF:-1 group-title="▶🛡️🍿🎞️ КиноMultStreamKinowalk-Production+ (VPN)" tvg-logo="https://images.live.vkvideo.ru/user/19940394/avatar?change_time=1734982742&croped=1&mh=140&mw=140" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Фильмы сериалы
@@ -4721,7 +4721,7 @@ http://127.0.0.1:6878/ace/getstream?id=99f0646986e9266836dd79047dedecb04e243857
 rtmp://vkvsd161.okcdn.ru/playback/15351150160784?stkn=mC5ByExAKVvC96-OuxLXDxyKmKG7Kt9--YIZVoYeCJ9dODsi0i9c6fzuto0Y8nwVTqKa221OJK-o&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Царьград
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/91815da4edb167b5bd617bae490e57da/index.m3u8?s=cCdeevWEC2tsEEVGPfEQWg&e=2093765760&scheme=https
+https://bl.rutube.ru/livestream/91815da4edb167b5bd617bae490e57da/index.m3u8?s=-PWHvrfD3LT-v8zOvLcm9A&e=2094643139&scheme=https
 #EXTINF:-1 group-title="🏝 ▶ Региoнальные  ⚜️" tvg-logo="https://iptvx.one/picons/chavash-en.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_chavash-en" $ExtFilter="GADEM 2",Чаваш ЕН
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://rt-vlg-chr-htlive.cdn.ngenix.net/hls/CH_R01_NATIONALTV/variant.m3u8
@@ -4787,6 +4787,9 @@ https://rt-vlg-penza-htlive.cdn.ngenix.net/hls/CH_R01_EXPRESS/variant.m3u8
 http://rt-vlg-penza-htlive.cdn.ngenix.net/hls/CH_R01_EXPRESS/variant.m3u8
 #EXTINF:-1 group-title="🏝 ▶ Другие  💫" tvg-logo="https://iptvx.one/picons/express.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_express" $ExtFilter="GADEM 2",Экспресс HD
 https://rt-vlg-penza-htlive.cdn.ngenix.net/hls/CH_R01_EXPRESS/variant.m3u8?version=2
+#EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Экшн фильмы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/1786622e52a6864eb3fd66b83733fef5/index.m3u8?s=58pOMm7iWiw5g6DOjYxD1Q&e=2094643121&scheme=https
 #EXTINF:-1 group-title="▶🛡️🍿🎞️ КиноMultStreamKinowalk-Production+ (VPN)" tvg-logo="https://kinowalk.hopto.org/web/image/202/128x128?unique=2026-02-21%2020:44:21.583209&access_token=1895e10c-b884-45cf-b1e3-6e4d66617d8c" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Эра VHS
 http://kinowalk.hopto.org/vhs90s_live
 #EXTINF:-1 group-title="🏝 ▶ Другие  💫" tvg-logo="https://iptvx.one/picons/efir24-relax.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_efir24-relax" $ExtFilter="GADEM 2",Эфир
@@ -4807,7 +4810,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-logo="../Channel/Logo/Ю.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Ю
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?s=-SuxES150E-CHxtowoCC7Q&e=2093765734&scheme=https
+https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?s=jwjwIoDmXIUisvQbS5epIw&e=2094643116&scheme=https
 #EXTINF:-1 group-title="🏝 ▶+ Плюсовые ✨" tvg-logo="https://iptvx.one/picons/yu.png" tvg-id="f736135dfb80936a523d63c9a10f2613_Ю (+1)" $ExtFilter="GADEM 2",Ю (+1)
 https://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SAMARA_U/variant.m3u8?version=2
 #EXTINF:-1 group-title="🏝 ▶ Развлекательные 🧙" tvg-logo="https://iptvx.one/picons/yu-pl2.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_yu-pl2" $ExtFilter="GADEM 2",Ю (+2)
@@ -4843,7 +4846,7 @@ https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_UGRA_URAL_SUR/variant.m
 https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_UGRA_URAL_SUR/variant.m3u8?version=2
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Югра
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/360eabf2bf139f0a97b971c4b92d09b6/index.m3u8?s=wjB-9tbXGdgzW3JK2Ox7Ew&e=2093765746&scheme=https
+https://bl.rutube.ru/livestream/360eabf2bf139f0a97b971c4b92d09b6/index.m3u8?s=ccComRYQVpu_dep1-R81YA&e=2094643126&scheme=https
 #EXTINF:-1 group-title="▶🛡️🍿🎞️ КиноMultStreamKinowalk-Production+ (VPN)" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",ЮЖНЫЙ ПАРК
 rtmp://vkvsd75.okcdn.ru/playback/8993430186980?stkn=hN4rGahMjAaq7g4ZVpd3E3465oyw-t1CYTdQPWM5khxh-VjqXjoDCUvA4pz3fgRSez8n77rydN0&uid=0&sp=uid,sp&sig=vlibqm4nyu
 #EXTINF:-1 group-title="🏝 ▶ Региoнальные  ⚜️" tvg-logo="https://iptvx.one/picons/yurgan.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_yurgan" $ExtFilter="GADEM 2",Юрган
@@ -4855,7 +4858,7 @@ https://rt-nw-komi-htlive.cdn.ngenix.net/hls/CH_R01_YURGAN/variant.m3u8
 https://rt-nw-komi-htlive.cdn.ngenix.net/hls/CH_R01_YURGAN/variant.m3u8?version=2
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-logo="../Channel/Logo/Юрган (Сыктывкар).png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Юрган
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/601ca3d760de90391c18772e43d5190e/index.m3u8?s=e_T14EleCR0Gq77j_UTfQg&e=2093765760&scheme=https
+https://bl.rutube.ru/livestream/601ca3d760de90391c18772e43d5190e/index.m3u8?s=XNdHA2byjsT18cRnJMQI0Q&e=2094643139&scheme=https
 #EXTINF:-1 group-title="🏝 ▶ Региoнальные  ⚜️" tvg-logo="https://iptvx.one/picons/utv-cheboxary.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_utv-cheboxary" $ExtFilter="GADEM 2",ЮТВ Чебоксары
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://rt-vlg-chr-htlive.cdn.ngenix.net/hls/CH_R01_UTV/variant.m3u8
@@ -4865,7 +4868,7 @@ https://rt-vlg-chr-htlive.cdn.ngenix.net/hls/CH_R01_UTV/variant.m3u8
 https://rt-vlg-chr-htlive.cdn.ngenix.net/hls/CH_R01_UTV/variant.m3u8?version=2
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",ЮУРГУ-ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/f6160b4e48cb32b4d5438c66c83b69dc/index.m3u8?s=yTMuwQveXgtUW5_BMJ8nsA&e=2093765745&scheme=https
+https://bl.rutube.ru/livestream/f6160b4e48cb32b4d5438c66c83b69dc/index.m3u8?s=sOgzrAaImz5WQHpdt9zhDw&e=2094643126&scheme=https
 #EXTINF:-1 group-title="🏝 ▶ Региoнальные  ⚜️" tvg-logo="https://iptvx.one/picons/yakutia24.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_yakutia24" $ExtFilter="GADEM 2",Якутия 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://s34351.cdn.ngenix.net/hls/CH_R14_OTT_DV_YKT_YKT/variant.m3u8
@@ -4886,6 +4889,6 @@ http://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_YAMREG_URAL_YNF/variant.
 https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_YAMREG_URAL_YNF/variant.m3u8
 #EXTINF:-1 group-title="▶🛡️👁‍🗨 ☞ | 🎯 SuzTVRutNet + ᴴᴰ ᴳᴼᴸᴰ (VPN)" tvg-logo="../Channel/Logo/Ямал-регион.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Ямал-Регион
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/c0de1d61969a7fbdf6c68ca0b8a67769/index.m3u8?s=-kudZJQRr3HxW8awG4uI8w&e=2093765761&scheme=https
+https://bl.rutube.ru/livestream/c0de1d61969a7fbdf6c68ca0b8a67769/index.m3u8?s=hy-lbnOopnNUjAWeJbURTA&e=2094643140&scheme=https
 #EXTINF:-1 group-title="↕️ ▶🔺PLAYLIST INFORMATION🔺INFO👉©️ SuzuS TV™️ ®️🔴🔺↕️" tvg-logo="https://suzustv.clan.su/IMAGES/photo_2026-08-07_10-20-35.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",🔺 ИНФОРМАЦИЯ 🔺
 http://cdn.balelbrus.com/balancer/bigteisti9/EUROPAPLUS/V3d3d3d3dzJ8fGQzZDNkM2QzZHpJPQ==/index.m3u8
